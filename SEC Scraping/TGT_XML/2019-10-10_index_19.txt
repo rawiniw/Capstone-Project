@@ -1,6 +1,6 @@
-<SEC-DOCUMENT>0001225208-19-013320.txt : 20191010
-<SEC-HEADER>0001225208-19-013320.hdr.sgml : 20191010
-<ACCEPTANCE-DATETIME>20191010185712
+0001225208-19-013320.txt : 20191010
+0001225208-19-013320.hdr.sgml : 20191010
+20191010185712
 ACCESSION NUMBER:		0001225208-19-013320
 CONFORMED SUBMISSION TYPE:	4
 PUBLIC DOCUMENT COUNT:		1
@@ -56,97 +56,88 @@ ISSUER:
 	FORMER COMPANY:	
 		FORMER CONFORMED NAME:	DAYTON CORP
 		DATE OF NAME CHANGE:	19690728
-</SEC-HEADER>
-<DOCUMENT>
-<TYPE>4
-<SEQUENCE>1
-<FILENAME>doc4.xml
-<TEXT>
-<XML>
-<?xml version="1.0"?>
-<ownershipDocument>
 
-    <schemaVersion>X0306</schemaVersion>
 
-    <documentType>4</documentType>
+4
+1
+doc4.xml
 
-    <periodOfReport>2019-10-08</periodOfReport>
 
-    <issuer>
-        <issuerCik>0000027419</issuerCik>
-        <issuerName>TARGET CORP</issuerName>
-        <issuerTradingSymbol>TGT</issuerTradingSymbol>
-    </issuer>
 
-    <reportingOwner>
-        <reportingOwnerId>
-            <rptOwnerCik>0001192870</rptOwnerCik>
-            <rptOwnerName>LIU DON H</rptOwnerName>
-        </reportingOwnerId>
-        <reportingOwnerAddress>
-            <rptOwnerStreet1>1000 NICOLLET MALL</rptOwnerStreet1>
-            <rptOwnerStreet2></rptOwnerStreet2>
-            <rptOwnerCity>MINNEAPOLIS</rptOwnerCity>
-            <rptOwnerState>MN</rptOwnerState>
-            <rptOwnerZipCode>55403</rptOwnerZipCode>
-            <rptOwnerStateDescription></rptOwnerStateDescription>
-        </reportingOwnerAddress>
-        <reportingOwnerRelationship>
-            <isOfficer>1</isOfficer>
-            <officerTitle>Executive Officer</officerTitle>
-        </reportingOwnerRelationship>
-    </reportingOwner>
 
-    <nonDerivativeTable>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2019-10-08</value>
-            </transactionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>2000.0000</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>110.0000</value>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>39890.0000</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-    </nonDerivativeTable>
+X0306
+4
+2019-10-08
 
-    <derivativeTable></derivativeTable>
+0000027419
+TARGET CORP
+TGT
 
-    <footnotes>
-        <footnote id="F1">The reported transaction was effected pursuant to a Rule 10b5-1 trading plan previously entered into by the reporting person on August 30, 2019.</footnote>
-    </footnotes>
 
-    <ownerSignature>
-        <signatureName>Andrew J. Neuharth, Attorney-In-Fact</signatureName>
-        <signatureDate>2019-10-10</signatureDate>
-    </ownerSignature>
-</ownershipDocument>
-</XML>
-</TEXT>
-</DOCUMENT>
-</SEC-DOCUMENT>
+
+0001192870
+LIU DON H
+
+
+1000 NICOLLET MALL
+
+MINNEAPOLIS
+MN
+55403
+
+
+
+1
+Executive Officer
+
+
+
+
+
+Common Stock
+
+
+2019-10-08
+
+
+4
+S
+0
+
+
+
+
+2000.0000
+
+
+110.0000
+
+
+D
+
+
+
+
+39890.0000
+
+
+
+
+D
+
+
+
+
+
+
+The reported transaction was effected pursuant to a Rule 10b5-1 trading plan previously entered into by the reporting person on August 30, 2019.
+
+
+Andrew J. Neuharth, Attorney-In-Fact
+2019-10-10
+
+
+
+
+
+

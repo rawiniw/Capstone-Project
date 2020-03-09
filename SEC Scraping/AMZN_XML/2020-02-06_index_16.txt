@@ -1,6 +1,6 @@
-<SEC-DOCUMENT>0000899243-20-003503.txt : 20200206
-<SEC-HEADER>0000899243-20-003503.hdr.sgml : 20200206
-<ACCEPTANCE-DATETIME>20200206170110
+0000899243-20-003503.txt : 20200206
+0000899243-20-003503.hdr.sgml : 20200206
+20200206170110
 ACCESSION NUMBER:		0000899243-20-003503
 CONFORMED SUBMISSION TYPE:	4
 PUBLIC DOCUMENT COUNT:		1
@@ -49,1300 +49,1290 @@ ISSUER:
 		CITY:			SEATTLE
 		STATE:			WA
 		ZIP:			98109
-</SEC-HEADER>
-<DOCUMENT>
-<TYPE>4
-<SEQUENCE>1
-<FILENAME>doc4.xml
-<DESCRIPTION>FORM 4 SUBMISSION
-<TEXT>
-<XML>
-<?xml version="1.0"?>
-<ownershipDocument>
 
-    <schemaVersion>X0306</schemaVersion>
 
-    <documentType>4</documentType>
+4
+1
+doc4.xml
+FORM 4 SUBMISSION
 
-    <periodOfReport>2020-02-04</periodOfReport>
 
-    <notSubjectToSection16>0</notSubjectToSection16>
 
-    <issuer>
-        <issuerCik>0001018724</issuerCik>
-        <issuerName>AMAZON COM INC</issuerName>
-        <issuerTradingSymbol>AMZN</issuerTradingSymbol>
-    </issuer>
 
-    <reportingOwner>
-        <reportingOwnerId>
-            <rptOwnerCik>0001043298</rptOwnerCik>
-            <rptOwnerName>BEZOS JEFFREY P</rptOwnerName>
-        </reportingOwnerId>
-        <reportingOwnerAddress>
-            <rptOwnerStreet1>P.O. BOX 81226</rptOwnerStreet1>
-            <rptOwnerStreet2></rptOwnerStreet2>
-            <rptOwnerCity>SEATTLE</rptOwnerCity>
-            <rptOwnerState>WA</rptOwnerState>
-            <rptOwnerZipCode>98108-1226</rptOwnerZipCode>
-            <rptOwnerStateDescription></rptOwnerStateDescription>
-        </reportingOwnerAddress>
-        <reportingOwnerRelationship>
-            <isDirector>1</isDirector>
-            <isOfficer>1</isOfficer>
-            <isTenPercentOwner>1</isTenPercentOwner>
-            <isOther>0</isOther>
-            <officerTitle>Chairman, CEO and President</officerTitle>
-        </reportingOwnerRelationship>
-    </reportingOwner>
+X0306
+4
+2020-02-04
+0
 
-    <nonDerivativeTable>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock, par value $.01 per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-04</value>
-            </transactionDate>
-            <deemedExecutionDate></deemedExecutionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>3509</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>2016.9373</value>
-                    <footnoteId id="F2"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>56642251</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock, par value $.01 per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-04</value>
-            </transactionDate>
-            <deemedExecutionDate></deemedExecutionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>6400</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>2018.0995</value>
-                    <footnoteId id="F3"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>56635851</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock, par value $.01 per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-04</value>
-            </transactionDate>
-            <deemedExecutionDate></deemedExecutionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>3700</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>2019.3468</value>
-                    <footnoteId id="F4"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>56632151</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock, par value $.01 per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-04</value>
-            </transactionDate>
-            <deemedExecutionDate></deemedExecutionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>4956</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>2020.5632</value>
-                    <footnoteId id="F5"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>56627195</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock, par value $.01 per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-04</value>
-            </transactionDate>
-            <deemedExecutionDate></deemedExecutionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>15730</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>2021.8923</value>
-                    <footnoteId id="F6"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>56611465</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock, par value $.01 per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-04</value>
-            </transactionDate>
-            <deemedExecutionDate></deemedExecutionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>4614</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>2022.6379</value>
-                    <footnoteId id="F7"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>56606851</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock, par value $.01 per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-04</value>
-            </transactionDate>
-            <deemedExecutionDate></deemedExecutionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>2510</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>2023.4757</value>
-                    <footnoteId id="F8"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>56604341</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock, par value $.01 per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-04</value>
-            </transactionDate>
-            <deemedExecutionDate></deemedExecutionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>9204</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>2024.9047</value>
-                    <footnoteId id="F9"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>56595137</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock, par value $.01 per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-04</value>
-            </transactionDate>
-            <deemedExecutionDate></deemedExecutionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>4771</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>2025.9065</value>
-                    <footnoteId id="F10"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>56590366</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock, par value $.01 per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-04</value>
-            </transactionDate>
-            <deemedExecutionDate></deemedExecutionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>8259</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>2027.3762</value>
-                    <footnoteId id="F11"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>56582107</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock, par value $.01 per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-04</value>
-            </transactionDate>
-            <deemedExecutionDate></deemedExecutionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>27572</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>2028.194</value>
-                    <footnoteId id="F12"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>56554535</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock, par value $.01 per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-04</value>
-            </transactionDate>
-            <deemedExecutionDate></deemedExecutionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>36870</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>2029.2231</value>
-                    <footnoteId id="F13"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>56517665</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock, par value $.01 per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-04</value>
-            </transactionDate>
-            <deemedExecutionDate></deemedExecutionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>56361</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>2030.2874</value>
-                    <footnoteId id="F14"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>56461304</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock, par value $.01 per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-04</value>
-            </transactionDate>
-            <deemedExecutionDate></deemedExecutionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>53404</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>2031.2751</value>
-                    <footnoteId id="F15"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>56407900</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock, par value $.01 per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-04</value>
-            </transactionDate>
-            <deemedExecutionDate></deemedExecutionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>50599</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>2032.2311</value>
-                    <footnoteId id="F16"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>56357301</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock, par value $.01 per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-04</value>
-            </transactionDate>
-            <deemedExecutionDate></deemedExecutionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>33716</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>2033.2144</value>
-                    <footnoteId id="F17"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>56323585</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock, par value $.01 per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-04</value>
-            </transactionDate>
-            <deemedExecutionDate></deemedExecutionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>24513</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>2034.2861</value>
-                    <footnoteId id="F18"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>56299072</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock, par value $.01 per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-04</value>
-            </transactionDate>
-            <deemedExecutionDate></deemedExecutionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>15628</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>2035.154</value>
-                    <footnoteId id="F19"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>56283444</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock, par value $.01 per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-04</value>
-            </transactionDate>
-            <deemedExecutionDate></deemedExecutionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>20704</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>2036.2271</value>
-                    <footnoteId id="F20"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>56262740</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock, par value $.01 per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-04</value>
-            </transactionDate>
-            <deemedExecutionDate></deemedExecutionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>13192</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>2037.1724</value>
-                    <footnoteId id="F21"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>56249548</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock, par value $.01 per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-04</value>
-            </transactionDate>
-            <deemedExecutionDate></deemedExecutionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>8809</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>2038.4194</value>
-                    <footnoteId id="F22"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>56240739</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock, par value $.01 per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-04</value>
-            </transactionDate>
-            <deemedExecutionDate></deemedExecutionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>435</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>2039.0364</value>
-                    <footnoteId id="F23"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>56240304</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock, par value $.01 per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-05</value>
-            </transactionDate>
-            <deemedExecutionDate></deemedExecutionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>4744</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>2034.1491</value>
-                    <footnoteId id="F24"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>56235560</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock, par value $.01 per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-05</value>
-            </transactionDate>
-            <deemedExecutionDate></deemedExecutionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>11500</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>2035.0288</value>
-                    <footnoteId id="F25"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>56224060</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock, par value $.01 per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-05</value>
-            </transactionDate>
-            <deemedExecutionDate></deemedExecutionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>8466</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>2036.0358</value>
-                    <footnoteId id="F26"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>56215594</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock, par value $.01 per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-05</value>
-            </transactionDate>
-            <deemedExecutionDate></deemedExecutionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>6738</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>2037.3896</value>
-                    <footnoteId id="F27"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>56208856</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock, par value $.01 per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-05</value>
-            </transactionDate>
-            <deemedExecutionDate></deemedExecutionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>9279</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>2038.294</value>
-                    <footnoteId id="F28"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>56199577</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock, par value $.01 per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-05</value>
-            </transactionDate>
-            <deemedExecutionDate></deemedExecutionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>15408</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>2039.4052</value>
-                    <footnoteId id="F29"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>56184169</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock, par value $.01 per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-05</value>
-            </transactionDate>
-            <deemedExecutionDate></deemedExecutionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>11361</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>2040.3579</value>
-                    <footnoteId id="F30"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>56172808</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock, par value $.01 per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-05</value>
-            </transactionDate>
-            <deemedExecutionDate></deemedExecutionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>13274</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>2041.5399</value>
-                    <footnoteId id="F31"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>56159534</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-    </nonDerivativeTable>
+0001018724
+AMAZON COM INC
+AMZN
 
-    <footnotes>
-        <footnote id="F1">This transaction was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person.</footnote>
-        <footnote id="F2">Represents the weighted average sale price. The highest price at which shares were sold was $2,017.22 and the lowest price at which shares were sold was $2,016.46.</footnote>
-        <footnote id="F3">Represents the weighted average sale price. The highest price at which shares were sold was $2,018.28 and the lowest price at which shares were sold was $2,017.71.</footnote>
-        <footnote id="F4">Represents the weighted average sale price. The highest price at which shares were sold was $2,019.77 and the lowest price at which shares were sold was $2,018.97.</footnote>
-        <footnote id="F5">Represents the weighted average sale price. The highest price at which shares were sold was $2,020.95 and the lowest price at which shares were sold was $2,019.99.</footnote>
-        <footnote id="F6">Represents the weighted average sale price. The highest price at which shares were sold was $2,022.21 and the lowest price at which shares were sold was $2,021.29.</footnote>
-        <footnote id="F7">Represents the weighted average sale price. The highest price at which shares were sold was $2,023.13 and the lowest price at which shares were sold was $2,022.36.</footnote>
-        <footnote id="F8">Represents the weighted average sale price. The highest price at which shares were sold was $2,023.83 and the lowest price at which shares were sold was $2,023.43.</footnote>
-        <footnote id="F9">Represents the weighted average sale price. The highest price at which shares were sold was $2,025.44 and the lowest price at which shares were sold was $2,024.46.</footnote>
-        <footnote id="F10">Represents the weighted average sale price. The highest price at which shares were sold was $2,026.07 and the lowest price at which shares were sold was $2,025.58.</footnote>
-        <footnote id="F11">Represents the weighted average sale price. The highest price at which shares were sold was $2,027.64 and the lowest price at which shares were sold was $2,026.70.</footnote>
-        <footnote id="F12">Represents the weighted average sale price. The highest price at which shares were sold was $2,028.68 and the lowest price at which shares were sold was $2,027.70.</footnote>
-        <footnote id="F13">Represents the weighted average sale price. The highest price at which shares were sold was $2,029.69 and the lowest price at which shares were sold was $2,028.72.</footnote>
-        <footnote id="F14">Represents the weighted average sale price. The highest price at which shares were sold was $2,030.70 and the lowest price at which shares were sold was $2,029.73.</footnote>
-        <footnote id="F15">Represents the weighted average sale price. The highest price at which shares were sold was $2,031.76 and the lowest price at which shares were sold was $2,030.77.</footnote>
-        <footnote id="F16">Represents the weighted average sale price. The highest price at which shares were sold was $2,032.76 and the lowest price at which shares were sold was $2,031.77.</footnote>
-        <footnote id="F17">Represents the weighted average sale price. The highest price at which shares were sold was $2,033.76 and the lowest price at which shares were sold was $2,032.77.</footnote>
-        <footnote id="F18">Represents the weighted average sale price. The highest price at which shares were sold was $2,034.76 and the lowest price at which shares were sold was $2,033.77.</footnote>
-        <footnote id="F19">Represents the weighted average sale price. The highest price at which shares were sold was $2,035.75 and the lowest price at which shares were sold was $2,034.77.</footnote>
-        <footnote id="F20">Represents the weighted average sale price. The highest price at which shares were sold was $2,036.70 and the lowest price at which shares were sold was $2,035.77.</footnote>
-        <footnote id="F21">Represents the weighted average sale price. The highest price at which shares were sold was $2,037.60 and the lowest price at which shares were sold was $2,036.82.</footnote>
-        <footnote id="F22">Represents the weighted average sale price. The highest price at which shares were sold was $2,038.88 and the lowest price at which shares were sold was $2,038.00.</footnote>
-        <footnote id="F23">Represents the weighted average sale price. The highest price at which shares were sold was $2,039.11 and the lowest price at which shares were sold was $2,039.03.</footnote>
-        <footnote id="F24">Represents the weighted average sale price. The highest price at which shares were sold was $2,034.42 and the lowest price at which shares were sold was $2,033.51.</footnote>
-        <footnote id="F25">Represents the weighted average sale price. The highest price at which shares were sold was $2,035.50 and the lowest price at which shares were sold was $2,034.57.</footnote>
-        <footnote id="F26">Represents the weighted average sale price. The highest price at which shares were sold was $2,036.60 and the lowest price at which shares were sold was $2,035.62.</footnote>
-        <footnote id="F27">Represents the weighted average sale price. The highest price at which shares were sold was $2,037.86 and the lowest price at which shares were sold was $2,036.87.</footnote>
-        <footnote id="F28">Represents the weighted average sale price. The highest price at which shares were sold was $2,038.87 and the lowest price at which shares were sold was $2,037.88.</footnote>
-        <footnote id="F29">Represents the weighted average sale price. The highest price at which shares were sold was $2,039.88 and the lowest price at which shares were sold was $2,038.89.</footnote>
-        <footnote id="F30">Represents the weighted average sale price. The highest price at which shares were sold was $2,040.90 and the lowest price at which shares were sold was $2,039.91.</footnote>
-        <footnote id="F31">Represents the weighted average sale price. The highest price at which shares were sold was $2,041.89 and the lowest price at which shares were sold was $2,040.91.</footnote>
-    </footnotes>
 
-    <remarks>This is one of two Forms 4 filed to report transactions on February 4 and 5, 2020.
 
-The reporting person undertakes to provide, upon request by the staff of the SEC, the issuer, or a security holder of the issuer, full information regarding the number of shares transacted at each price, with respect to all transactions reported on this Form 4.</remarks>
+0001043298
+BEZOS JEFFREY P
 
-    <ownerSignature>
-        <signatureName>/s/ PAUL DAUBER, attorney-in-fact for Jeffrey P. Bezos, Chairman of the Board, Chief Executive Officer and President</signatureName>
-        <signatureDate>2020-02-06</signatureDate>
-    </ownerSignature>
-</ownershipDocument>
-</XML>
-</TEXT>
-</DOCUMENT>
-</SEC-DOCUMENT>
+
+P.O. BOX 81226
+
+SEATTLE
+WA
+98108-1226
+
+
+
+1
+1
+1
+0
+Chairman, CEO and President
+
+
+
+
+
+Common Stock, par value $.01 per share
+
+
+2020-02-04
+
+
+
+4
+S
+0
+
+
+
+
+
+
+
+3509
+
+
+2016.9373
+
+
+
+D
+
+
+
+
+56642251
+
+
+
+
+D
+
+
+
+
+
+Common Stock, par value $.01 per share
+
+
+2020-02-04
+
+
+
+4
+S
+0
+
+
+
+
+
+
+
+6400
+
+
+2018.0995
+
+
+
+D
+
+
+
+
+56635851
+
+
+
+
+D
+
+
+
+
+
+Common Stock, par value $.01 per share
+
+
+2020-02-04
+
+
+
+4
+S
+0
+
+
+
+
+
+
+
+3700
+
+
+2019.3468
+
+
+
+D
+
+
+
+
+56632151
+
+
+
+
+D
+
+
+
+
+
+Common Stock, par value $.01 per share
+
+
+2020-02-04
+
+
+
+4
+S
+0
+
+
+
+
+
+
+
+4956
+
+
+2020.5632
+
+
+
+D
+
+
+
+
+56627195
+
+
+
+
+D
+
+
+
+
+
+Common Stock, par value $.01 per share
+
+
+2020-02-04
+
+
+
+4
+S
+0
+
+
+
+
+
+
+
+15730
+
+
+2021.8923
+
+
+
+D
+
+
+
+
+56611465
+
+
+
+
+D
+
+
+
+
+
+Common Stock, par value $.01 per share
+
+
+2020-02-04
+
+
+
+4
+S
+0
+
+
+
+
+
+
+
+4614
+
+
+2022.6379
+
+
+
+D
+
+
+
+
+56606851
+
+
+
+
+D
+
+
+
+
+
+Common Stock, par value $.01 per share
+
+
+2020-02-04
+
+
+
+4
+S
+0
+
+
+
+
+
+
+
+2510
+
+
+2023.4757
+
+
+
+D
+
+
+
+
+56604341
+
+
+
+
+D
+
+
+
+
+
+Common Stock, par value $.01 per share
+
+
+2020-02-04
+
+
+
+4
+S
+0
+
+
+
+
+
+
+
+9204
+
+
+2024.9047
+
+
+
+D
+
+
+
+
+56595137
+
+
+
+
+D
+
+
+
+
+
+Common Stock, par value $.01 per share
+
+
+2020-02-04
+
+
+
+4
+S
+0
+
+
+
+
+
+
+
+4771
+
+
+2025.9065
+
+
+
+D
+
+
+
+
+56590366
+
+
+
+
+D
+
+
+
+
+
+Common Stock, par value $.01 per share
+
+
+2020-02-04
+
+
+
+4
+S
+0
+
+
+
+
+
+
+
+8259
+
+
+2027.3762
+
+
+
+D
+
+
+
+
+56582107
+
+
+
+
+D
+
+
+
+
+
+Common Stock, par value $.01 per share
+
+
+2020-02-04
+
+
+
+4
+S
+0
+
+
+
+
+
+
+
+27572
+
+
+2028.194
+
+
+
+D
+
+
+
+
+56554535
+
+
+
+
+D
+
+
+
+
+
+Common Stock, par value $.01 per share
+
+
+2020-02-04
+
+
+
+4
+S
+0
+
+
+
+
+
+
+
+36870
+
+
+2029.2231
+
+
+
+D
+
+
+
+
+56517665
+
+
+
+
+D
+
+
+
+
+
+Common Stock, par value $.01 per share
+
+
+2020-02-04
+
+
+
+4
+S
+0
+
+
+
+
+
+
+
+56361
+
+
+2030.2874
+
+
+
+D
+
+
+
+
+56461304
+
+
+
+
+D
+
+
+
+
+
+Common Stock, par value $.01 per share
+
+
+2020-02-04
+
+
+
+4
+S
+0
+
+
+
+
+
+
+
+53404
+
+
+2031.2751
+
+
+
+D
+
+
+
+
+56407900
+
+
+
+
+D
+
+
+
+
+
+Common Stock, par value $.01 per share
+
+
+2020-02-04
+
+
+
+4
+S
+0
+
+
+
+
+
+
+
+50599
+
+
+2032.2311
+
+
+
+D
+
+
+
+
+56357301
+
+
+
+
+D
+
+
+
+
+
+Common Stock, par value $.01 per share
+
+
+2020-02-04
+
+
+
+4
+S
+0
+
+
+
+
+
+
+
+33716
+
+
+2033.2144
+
+
+
+D
+
+
+
+
+56323585
+
+
+
+
+D
+
+
+
+
+
+Common Stock, par value $.01 per share
+
+
+2020-02-04
+
+
+
+4
+S
+0
+
+
+
+
+
+
+
+24513
+
+
+2034.2861
+
+
+
+D
+
+
+
+
+56299072
+
+
+
+
+D
+
+
+
+
+
+Common Stock, par value $.01 per share
+
+
+2020-02-04
+
+
+
+4
+S
+0
+
+
+
+
+
+
+
+15628
+
+
+2035.154
+
+
+
+D
+
+
+
+
+56283444
+
+
+
+
+D
+
+
+
+
+
+Common Stock, par value $.01 per share
+
+
+2020-02-04
+
+
+
+4
+S
+0
+
+
+
+
+
+
+
+20704
+
+
+2036.2271
+
+
+
+D
+
+
+
+
+56262740
+
+
+
+
+D
+
+
+
+
+
+Common Stock, par value $.01 per share
+
+
+2020-02-04
+
+
+
+4
+S
+0
+
+
+
+
+
+
+
+13192
+
+
+2037.1724
+
+
+
+D
+
+
+
+
+56249548
+
+
+
+
+D
+
+
+
+
+
+Common Stock, par value $.01 per share
+
+
+2020-02-04
+
+
+
+4
+S
+0
+
+
+
+
+
+
+
+8809
+
+
+2038.4194
+
+
+
+D
+
+
+
+
+56240739
+
+
+
+
+D
+
+
+
+
+
+Common Stock, par value $.01 per share
+
+
+2020-02-04
+
+
+
+4
+S
+0
+
+
+
+
+
+
+
+435
+
+
+2039.0364
+
+
+
+D
+
+
+
+
+56240304
+
+
+
+
+D
+
+
+
+
+
+Common Stock, par value $.01 per share
+
+
+2020-02-05
+
+
+
+4
+S
+0
+
+
+
+
+
+
+
+4744
+
+
+2034.1491
+
+
+
+D
+
+
+
+
+56235560
+
+
+
+
+D
+
+
+
+
+
+Common Stock, par value $.01 per share
+
+
+2020-02-05
+
+
+
+4
+S
+0
+
+
+
+
+
+
+
+11500
+
+
+2035.0288
+
+
+
+D
+
+
+
+
+56224060
+
+
+
+
+D
+
+
+
+
+
+Common Stock, par value $.01 per share
+
+
+2020-02-05
+
+
+
+4
+S
+0
+
+
+
+
+
+
+
+8466
+
+
+2036.0358
+
+
+
+D
+
+
+
+
+56215594
+
+
+
+
+D
+
+
+
+
+
+Common Stock, par value $.01 per share
+
+
+2020-02-05
+
+
+
+4
+S
+0
+
+
+
+
+
+
+
+6738
+
+
+2037.3896
+
+
+
+D
+
+
+
+
+56208856
+
+
+
+
+D
+
+
+
+
+
+Common Stock, par value $.01 per share
+
+
+2020-02-05
+
+
+
+4
+S
+0
+
+
+
+
+
+
+
+9279
+
+
+2038.294
+
+
+
+D
+
+
+
+
+56199577
+
+
+
+
+D
+
+
+
+
+
+Common Stock, par value $.01 per share
+
+
+2020-02-05
+
+
+
+4
+S
+0
+
+
+
+
+
+
+
+15408
+
+
+2039.4052
+
+
+
+D
+
+
+
+
+56184169
+
+
+
+
+D
+
+
+
+
+
+Common Stock, par value $.01 per share
+
+
+2020-02-05
+
+
+
+4
+S
+0
+
+
+
+
+
+
+
+11361
+
+
+2040.3579
+
+
+
+D
+
+
+
+
+56172808
+
+
+
+
+D
+
+
+
+
+
+Common Stock, par value $.01 per share
+
+
+2020-02-05
+
+
+
+4
+S
+0
+
+
+
+
+
+
+
+13274
+
+
+2041.5399
+
+
+
+D
+
+
+
+
+56159534
+
+
+
+
+D
+
+
+
+
+
+This transaction was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person.
+Represents the weighted average sale price. The highest price at which shares were sold was $2,017.22 and the lowest price at which shares were sold was $2,016.46.
+Represents the weighted average sale price. The highest price at which shares were sold was $2,018.28 and the lowest price at which shares were sold was $2,017.71.
+Represents the weighted average sale price. The highest price at which shares were sold was $2,019.77 and the lowest price at which shares were sold was $2,018.97.
+Represents the weighted average sale price. The highest price at which shares were sold was $2,020.95 and the lowest price at which shares were sold was $2,019.99.
+Represents the weighted average sale price. The highest price at which shares were sold was $2,022.21 and the lowest price at which shares were sold was $2,021.29.
+Represents the weighted average sale price. The highest price at which shares were sold was $2,023.13 and the lowest price at which shares were sold was $2,022.36.
+Represents the weighted average sale price. The highest price at which shares were sold was $2,023.83 and the lowest price at which shares were sold was $2,023.43.
+Represents the weighted average sale price. The highest price at which shares were sold was $2,025.44 and the lowest price at which shares were sold was $2,024.46.
+Represents the weighted average sale price. The highest price at which shares were sold was $2,026.07 and the lowest price at which shares were sold was $2,025.58.
+Represents the weighted average sale price. The highest price at which shares were sold was $2,027.64 and the lowest price at which shares were sold was $2,026.70.
+Represents the weighted average sale price. The highest price at which shares were sold was $2,028.68 and the lowest price at which shares were sold was $2,027.70.
+Represents the weighted average sale price. The highest price at which shares were sold was $2,029.69 and the lowest price at which shares were sold was $2,028.72.
+Represents the weighted average sale price. The highest price at which shares were sold was $2,030.70 and the lowest price at which shares were sold was $2,029.73.
+Represents the weighted average sale price. The highest price at which shares were sold was $2,031.76 and the lowest price at which shares were sold was $2,030.77.
+Represents the weighted average sale price. The highest price at which shares were sold was $2,032.76 and the lowest price at which shares were sold was $2,031.77.
+Represents the weighted average sale price. The highest price at which shares were sold was $2,033.76 and the lowest price at which shares were sold was $2,032.77.
+Represents the weighted average sale price. The highest price at which shares were sold was $2,034.76 and the lowest price at which shares were sold was $2,033.77.
+Represents the weighted average sale price. The highest price at which shares were sold was $2,035.75 and the lowest price at which shares were sold was $2,034.77.
+Represents the weighted average sale price. The highest price at which shares were sold was $2,036.70 and the lowest price at which shares were sold was $2,035.77.
+Represents the weighted average sale price. The highest price at which shares were sold was $2,037.60 and the lowest price at which shares were sold was $2,036.82.
+Represents the weighted average sale price. The highest price at which shares were sold was $2,038.88 and the lowest price at which shares were sold was $2,038.00.
+Represents the weighted average sale price. The highest price at which shares were sold was $2,039.11 and the lowest price at which shares were sold was $2,039.03.
+Represents the weighted average sale price. The highest price at which shares were sold was $2,034.42 and the lowest price at which shares were sold was $2,033.51.
+Represents the weighted average sale price. The highest price at which shares were sold was $2,035.50 and the lowest price at which shares were sold was $2,034.57.
+Represents the weighted average sale price. The highest price at which shares were sold was $2,036.60 and the lowest price at which shares were sold was $2,035.62.
+Represents the weighted average sale price. The highest price at which shares were sold was $2,037.86 and the lowest price at which shares were sold was $2,036.87.
+Represents the weighted average sale price. The highest price at which shares were sold was $2,038.87 and the lowest price at which shares were sold was $2,037.88.
+Represents the weighted average sale price. The highest price at which shares were sold was $2,039.88 and the lowest price at which shares were sold was $2,038.89.
+Represents the weighted average sale price. The highest price at which shares were sold was $2,040.90 and the lowest price at which shares were sold was $2,039.91.
+Represents the weighted average sale price. The highest price at which shares were sold was $2,041.89 and the lowest price at which shares were sold was $2,040.91.
+
+This is one of two Forms 4 filed to report transactions on February 4 and 5, 2020.
+
+The reporting person undertakes to provide, upon request by the staff of the SEC, the issuer, or a security holder of the issuer, full information regarding the number of shares transacted at each price, with respect to all transactions reported on this Form 4.
+
+/s/ PAUL DAUBER, attorney-in-fact for Jeffrey P. Bezos, Chairman of the Board, Chief Executive Officer and President
+2020-02-06
+
+
+
+
+
+

@@ -1,6 +1,6 @@
-<SEC-DOCUMENT>0001127602-20-008015.txt : 20200226
-<SEC-HEADER>0001127602-20-008015.hdr.sgml : 20200226
-<ACCEPTANCE-DATETIME>20200226183337
+0001127602-20-008015.txt : 20200226
+0001127602-20-008015.hdr.sgml : 20200226
+20200226183337
 ACCESSION NUMBER:		0001127602-20-008015
 CONFORMED SUBMISSION TYPE:	4
 PUBLIC DOCUMENT COUNT:		1
@@ -52,117 +52,109 @@ ISSUER:
 	FORMER COMPANY:	
 		FORMER CONFORMED NAME:	WAL MART STORES INC
 		DATE OF NAME CHANGE:	19920703
-</SEC-HEADER>
-<DOCUMENT>
-<TYPE>4
-<SEQUENCE>1
-<FILENAME>form4.xml
-<DESCRIPTION>PRIMARY DOCUMENT
-<TEXT>
-<XML>
-<?xml version="1.0"?>
-<ownershipDocument>
 
-    <schemaVersion>X0306</schemaVersion>
 
-    <documentType>4</documentType>
+4
+1
+form4.xml
+PRIMARY DOCUMENT
 
-    <periodOfReport>2020-02-24</periodOfReport>
 
-    <issuer>
-        <issuerCik>0000104169</issuerCik>
-        <issuerName>Walmart Inc.</issuerName>
-        <issuerTradingSymbol>WMT</issuerTradingSymbol>
-    </issuer>
 
-    <reportingOwner>
-        <reportingOwnerId>
-            <rptOwnerCik>0001696737</rptOwnerCik>
-            <rptOwnerName>Furner John R.</rptOwnerName>
-        </reportingOwnerId>
-        <reportingOwnerAddress>
-            <rptOwnerStreet1>702 S.W. 8TH STREET</rptOwnerStreet1>
-            <rptOwnerStreet2></rptOwnerStreet2>
-            <rptOwnerCity>BENTONVILLE</rptOwnerCity>
-            <rptOwnerState>AR</rptOwnerState>
-            <rptOwnerZipCode>72716-0215</rptOwnerZipCode>
-            <rptOwnerStateDescription></rptOwnerStateDescription>
-        </reportingOwnerAddress>
-        <reportingOwnerRelationship>
-            <isOfficer>1</isOfficer>
-            <officerTitle>Executive Vice President</officerTitle>
-        </reportingOwnerRelationship>
-    </reportingOwner>
 
-    <nonDerivativeTable>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-24</value>
-            </transactionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-            </transactionCoding>
-            <transactionTimeliness></transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>50000</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>116.5041</value>
-                    <footnoteId id="F1"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>159547.923</value>
-                    <footnoteId id="F2"/>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeHolding>
-            <securityTitle>
-                <value>Common</value>
-            </securityTitle>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>1732.4773</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>I</value>
-                </directOrIndirectOwnership>
-                <natureOfOwnership>
-                    <value>By 401(k) plan</value>
-                </natureOfOwnership>
-            </ownershipNature>
-        </nonDerivativeHolding>
-    </nonDerivativeTable>
+X0306
+4
+2020-02-24
 
-    <footnotes>
-        <footnote id="F1">This sale was executed in multiple trades ranging from $116.34 to $116.88, inclusive. The price reported reflects the weighted average sales price. The reporting person undertakes to provide to the issuer, any security holder of the issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares and prices at which the transaction was effected.</footnote>
-        <footnote id="F2">Balance adjusted to reflect shares acquired through the Walmart Inc. Associate Stock Purchase Plan.</footnote>
-    </footnotes>
+0000104169
+Walmart Inc.
+WMT
 
-    <ownerSignature>
-        <signatureName>/s/ Jennifer F. Rudolph, by power of attorney</signatureName>
-        <signatureDate>2020-02-26</signatureDate>
-    </ownerSignature>
-</ownershipDocument>
-</XML>
-</TEXT>
-</DOCUMENT>
-</SEC-DOCUMENT>
+
+
+0001696737
+Furner John R.
+
+
+702 S.W. 8TH STREET
+
+BENTONVILLE
+AR
+72716-0215
+
+
+
+1
+Executive Vice President
+
+
+
+
+
+Common
+
+
+2020-02-24
+
+
+4
+S
+0
+
+
+
+
+50000
+
+
+116.5041
+
+
+
+D
+
+
+
+
+159547.923
+
+
+
+
+
+D
+
+
+
+
+
+Common
+
+
+
+1732.4773
+
+
+
+
+I
+
+
+By 401(k) plan
+
+
+
+
+
+This sale was executed in multiple trades ranging from $116.34 to $116.88, inclusive. The price reported reflects the weighted average sales price. The reporting person undertakes to provide to the issuer, any security holder of the issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares and prices at which the transaction was effected.
+Balance adjusted to reflect shares acquired through the Walmart Inc. Associate Stock Purchase Plan.
+
+
+/s/ Jennifer F. Rudolph, by power of attorney
+2020-02-26
+
+
+
+
+
+

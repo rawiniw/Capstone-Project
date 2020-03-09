@@ -1,6 +1,6 @@
-<SEC-DOCUMENT>0001127602-20-006565.txt : 20200219
-<SEC-HEADER>0001127602-20-006565.hdr.sgml : 20200219
-<ACCEPTANCE-DATETIME>20200219185424
+0001127602-20-006565.txt : 20200219
+0001127602-20-006565.hdr.sgml : 20200219
+20200219185424
 ACCESSION NUMBER:		0001127602-20-006565
 CONFORMED SUBMISSION TYPE:	4
 PUBLIC DOCUMENT COUNT:		1
@@ -49,155 +49,146 @@ ISSUER:
 		CITY:			SEATTLE
 		STATE:			WA
 		ZIP:			98109
-</SEC-HEADER>
-<DOCUMENT>
-<TYPE>4
-<SEQUENCE>1
-<FILENAME>form4.xml
-<DESCRIPTION>PRIMARY DOCUMENT
-<TEXT>
-<XML>
-<?xml version="1.0"?>
-<ownershipDocument>
 
-    <schemaVersion>X0306</schemaVersion>
 
-    <documentType>4</documentType>
+4
+1
+form4.xml
+PRIMARY DOCUMENT
 
-    <periodOfReport>2020-02-15</periodOfReport>
 
-    <issuer>
-        <issuerCik>0001018724</issuerCik>
-        <issuerName>AMAZON COM INC</issuerName>
-        <issuerTradingSymbol>AMZN</issuerTradingSymbol>
-    </issuer>
 
-    <reportingOwner>
-        <reportingOwnerId>
-            <rptOwnerCik>0001357855</rptOwnerCik>
-            <rptOwnerName>BREWER ROSALIND G</rptOwnerName>
-        </reportingOwnerId>
-        <reportingOwnerAddress>
-            <rptOwnerStreet1>P.O. BOX 81226</rptOwnerStreet1>
-            <rptOwnerStreet2></rptOwnerStreet2>
-            <rptOwnerCity>SEATTLE</rptOwnerCity>
-            <rptOwnerState>WA</rptOwnerState>
-            <rptOwnerZipCode>98108-1226</rptOwnerZipCode>
-            <rptOwnerStateDescription></rptOwnerStateDescription>
-        </reportingOwnerAddress>
-        <reportingOwnerRelationship>
-            <isDirector>1</isDirector>
-        </reportingOwnerRelationship>
-    </reportingOwner>
 
-    <nonDerivativeTable>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock,
+X0306
+4
+2020-02-15
+
+0001018724
+AMAZON COM INC
+AMZN
+
+
+
+0001357855
+BREWER ROSALIND G
+
+
+P.O. BOX 81226
+
+SEATTLE
+WA
+98108-1226
+
+
+
+1
+
+
+
+
+
+Common Stock,
 par value $.01
-per share</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-02-15</value>
-            </transactionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>M</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-            </transactionCoding>
-            <transactionTimeliness></transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>190</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>0</value>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>A</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>190</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-    </nonDerivativeTable>
+per share
 
-    <derivativeTable>
-        <derivativeTransaction>
-            <securityTitle>
-                <value>Restricted Stock Unit Award</value>
-            </securityTitle>
-            <conversionOrExercisePrice>
-                <value>0</value>
-                <footnoteId id="F1"/>
-            </conversionOrExercisePrice>
-            <transactionDate>
-                <value>2020-02-15</value>
-            </transactionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>M</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-            </transactionCoding>
-            <transactionTimeliness></transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>190</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>0</value>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <exerciseDate>
-                <value>2020-02-15</value>
-                <footnoteId id="F2"/>
-            </exerciseDate>
-            <expirationDate>
-                <value>2022-02-15</value>
-            </expirationDate>
-            <underlyingSecurity>
-                <underlyingSecurityTitle>
-                    <value>Common Stock, par value $.01 per share</value>
-                </underlyingSecurityTitle>
-                <underlyingSecurityShares>
-                    <value>190</value>
-                </underlyingSecurityShares>
-            </underlyingSecurity>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>380</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </derivativeTransaction>
-    </derivativeTable>
 
-    <footnotes>
-        <footnote id="F1">Converts into Common Stock on a one-for-one basis.</footnote>
-        <footnote id="F2">Subject to the reporting person's continued service as a director of the issuer, this award will vest and convert into shares of Common Stock of the issuer at a rate of 190 shares on each of February 15, 2020, February 15, 2021, and February 15, 2022.</footnote>
-    </footnotes>
+2020-02-15
 
-    <ownerSignature>
-        <signatureName>/s/ by Mark F. Hoffman as attorney-in-fact for Rosalind G. Brewer</signatureName>
-        <signatureDate>2020-02-19</signatureDate>
-    </ownerSignature>
-</ownershipDocument>
-</XML>
-</TEXT>
-</DOCUMENT>
-</SEC-DOCUMENT>
+
+4
+M
+0
+
+
+
+
+190
+
+
+0
+
+
+A
+
+
+
+
+190
+
+
+
+
+D
+
+
+
+
+
+
+
+Restricted Stock Unit Award
+
+
+0
+
+
+
+2020-02-15
+
+
+4
+M
+0
+
+
+
+
+190
+
+
+0
+
+
+D
+
+
+
+2020-02-15
+
+
+
+2022-02-15
+
+
+
+Common Stock, par value $.01 per share
+
+
+190
+
+
+
+
+380
+
+
+
+
+D
+
+
+
+
+
+Converts into Common Stock on a one-for-one basis.
+Subject to the reporting person's continued service as a director of the issuer, this award will vest and convert into shares of Common Stock of the issuer at a rate of 190 shares on each of February 15, 2020, February 15, 2021, and February 15, 2022.
+
+
+/s/ by Mark F. Hoffman as attorney-in-fact for Rosalind G. Brewer
+2020-02-19
+
+
+
+
+
+

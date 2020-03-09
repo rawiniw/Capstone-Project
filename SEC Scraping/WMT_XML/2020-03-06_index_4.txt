@@ -1,6 +1,6 @@
-<SEC-DOCUMENT>0001127602-20-009852.txt : 20200306
-<SEC-HEADER>0001127602-20-009852.hdr.sgml : 20200306
-<ACCEPTANCE-DATETIME>20200306180022
+0001127602-20-009852.txt : 20200306
+0001127602-20-009852.hdr.sgml : 20200306
+20200306180022
 ACCESSION NUMBER:		0001127602-20-009852
 CONFORMED SUBMISSION TYPE:	4
 PUBLIC DOCUMENT COUNT:		1
@@ -59,101 +59,93 @@ ISSUER:
 	FORMER COMPANY:	
 		FORMER CONFORMED NAME:	WAL MART STORES INC
 		DATE OF NAME CHANGE:	19920703
-</SEC-HEADER>
-<DOCUMENT>
-<TYPE>4
-<SEQUENCE>1
-<FILENAME>form4.xml
-<DESCRIPTION>PRIMARY DOCUMENT
-<TEXT>
-<XML>
-<?xml version="1.0"?>
-<ownershipDocument>
 
-    <schemaVersion>X0306</schemaVersion>
 
-    <documentType>4</documentType>
+4
+1
+form4.xml
+PRIMARY DOCUMENT
 
-    <periodOfReport>2020-03-05</periodOfReport>
 
-    <issuer>
-        <issuerCik>0000104169</issuerCik>
-        <issuerName>Walmart Inc.</issuerName>
-        <issuerTradingSymbol>WMT</issuerTradingSymbol>
-    </issuer>
 
-    <reportingOwner>
-        <reportingOwnerId>
-            <rptOwnerCik>0001535243</rptOwnerCik>
-            <rptOwnerName>Walton Enterprises, LLC</rptOwnerName>
-        </reportingOwnerId>
-        <reportingOwnerAddress>
-            <rptOwnerStreet1>P.O. BOX 1860</rptOwnerStreet1>
-            <rptOwnerStreet2></rptOwnerStreet2>
-            <rptOwnerCity>BENTONVILLE</rptOwnerCity>
-            <rptOwnerState>AR</rptOwnerState>
-            <rptOwnerZipCode>72712</rptOwnerZipCode>
-            <rptOwnerStateDescription></rptOwnerStateDescription>
-        </reportingOwnerAddress>
-        <reportingOwnerRelationship>
-            <isTenPercentOwner>1</isTenPercentOwner>
-        </reportingOwnerRelationship>
-    </reportingOwner>
 
-    <nonDerivativeTable>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2020-03-05</value>
-            </transactionDate>
-            <transactionCoding>
-                <transactionFormType>5</transactionFormType>
-                <transactionCode>J</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-                <footnoteId id="F1"/>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value>E</value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>415000000</value>
-                    <footnoteId id="F1"/>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>0</value>
-                    <footnoteId id="F1"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>1000891131</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                    <footnoteId id="F1"/>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-    </nonDerivativeTable>
+X0306
+4
+2020-03-05
 
-    <footnotes>
-        <footnote id="F1">The securities were contributed by Walton Enterprises, LLC (&quot;Walton Enterprises&quot;) to the Walton Family Holdings Trust, a trust established for the benefit of the holders of the membership interests of Walton Enterprises, on 03/05/2020.</footnote>
-    </footnotes>
+0000104169
+Walmart Inc.
+WMT
 
-    <ownerSignature>
-        <signatureName>/s/ Jennifer F. Rudolph, by Power of Attorney</signatureName>
-        <signatureDate>2020-03-06</signatureDate>
-    </ownerSignature>
-</ownershipDocument>
-</XML>
-</TEXT>
-</DOCUMENT>
-</SEC-DOCUMENT>
+
+
+0001535243
+Walton Enterprises, LLC
+
+
+P.O. BOX 1860
+
+BENTONVILLE
+AR
+72712
+
+
+
+1
+
+
+
+
+
+Common Stock
+
+
+2020-03-05
+
+
+5
+J
+0
+
+
+
+E
+
+
+
+415000000
+
+
+
+0
+
+
+
+D
+
+
+
+
+1000891131
+
+
+
+
+D
+
+
+
+
+
+
+The securities were contributed by Walton Enterprises, LLC ("Walton Enterprises") to the Walton Family Holdings Trust, a trust established for the benefit of the holders of the membership interests of Walton Enterprises, on 03/05/2020.
+
+
+/s/ Jennifer F. Rudolph, by Power of Attorney
+2020-03-06
+
+
+
+
+
+

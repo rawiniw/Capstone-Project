@@ -1,6 +1,6 @@
-<SEC-DOCUMENT>0001225208-20-001050.txt : 20200123
-<SEC-HEADER>0001225208-20-001050.hdr.sgml : 20200123
-<ACCEPTANCE-DATETIME>20200123155836
+0001225208-20-001050.txt : 20200123
+0001225208-20-001050.hdr.sgml : 20200123
+20200123155836
 ACCESSION NUMBER:		0001225208-20-001050
 CONFORMED SUBMISSION TYPE:	3
 PUBLIC DOCUMENT COUNT:		2
@@ -56,168 +56,157 @@ ISSUER:
 	FORMER COMPANY:	
 		FORMER CONFORMED NAME:	DAYTON CORP
 		DATE OF NAME CHANGE:	19690728
-</SEC-HEADER>
-<DOCUMENT>
-<TYPE>3
-<SEQUENCE>1
-<FILENAME>doc3.xml
-<TEXT>
-<XML>
-<?xml version="1.0"?>
-<ownershipDocument>
 
-    <schemaVersion>X0206</schemaVersion>
 
-    <documentType>3</documentType>
+3
+1
+doc3.xml
 
-    <periodOfReport>2020-01-15</periodOfReport>
 
-    <noSecuritiesOwned>0</noSecuritiesOwned>
 
-    <issuer>
-        <issuerCik>0000027419</issuerCik>
-        <issuerName>TARGET CORP</issuerName>
-        <issuerTradingSymbol>TGT</issuerTradingSymbol>
-    </issuer>
 
-    <reportingOwner>
-        <reportingOwnerId>
-            <rptOwnerCik>0001800751</rptOwnerCik>
-            <rptOwnerName>HENNINGTON CHRISTINA</rptOwnerName>
-        </reportingOwnerId>
-        <reportingOwnerAddress>
-            <rptOwnerStreet1>1000 NICOLLET MALL</rptOwnerStreet1>
-            <rptOwnerStreet2></rptOwnerStreet2>
-            <rptOwnerCity>MINNEAPOLIS</rptOwnerCity>
-            <rptOwnerState>MN</rptOwnerState>
-            <rptOwnerZipCode>55403</rptOwnerZipCode>
-            <rptOwnerStateDescription></rptOwnerStateDescription>
-        </reportingOwnerAddress>
-        <reportingOwnerRelationship>
-            <isOfficer>1</isOfficer>
-            <officerTitle>Executive Officer</officerTitle>
-        </reportingOwnerRelationship>
-    </reportingOwner>
+X0206
+3
+2020-01-15
+0
 
-    <nonDerivativeTable>
-        <nonDerivativeHolding>
-            <securityTitle>
-                <value>Common Stock</value>
-            </securityTitle>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>15680.0000</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeHolding>
-        <nonDerivativeHolding>
-            <securityTitle>
-                <value>Common Stock</value>
-            </securityTitle>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>404.6711</value>
-                    <footnoteId id="F1"/>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>I</value>
-                </directOrIndirectOwnership>
-                <natureOfOwnership>
-                    <value>By 401(k) Plan</value>
-                </natureOfOwnership>
-            </ownershipNature>
-        </nonDerivativeHolding>
-    </nonDerivativeTable>
+0000027419
+TARGET CORP
+TGT
 
-    <derivativeTable>
-        <derivativeHolding>
-            <securityTitle>
-                <value>Deferred Compensation Units</value>
-                <footnoteId id="F2"/>
-            </securityTitle>
-            <conversionOrExercisePrice>
-                <footnoteId id="F2"/>
-            </conversionOrExercisePrice>
-            <exerciseDate>
-                <footnoteId id="F2"/>
-            </exerciseDate>
-            <expirationDate>
-                <footnoteId id="F2"/>
-            </expirationDate>
-            <underlyingSecurity>
-                <underlyingSecurityTitle>
-                    <value>Common Stock</value>
-                </underlyingSecurityTitle>
-                <underlyingSecurityShares>
-                    <value>84.0883</value>
-                </underlyingSecurityShares>
-            </underlyingSecurity>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </derivativeHolding>
-        <derivativeHolding>
-            <securityTitle>
-                <value>Stock Option</value>
-                <footnoteId id="F3"/>
-            </securityTitle>
-            <conversionOrExercisePrice>
-                <value>55.6000</value>
-            </conversionOrExercisePrice>
-            <exerciseDate>
-                <value>2020-04-17</value>
-                <footnoteId id="F4"/>
-            </exerciseDate>
-            <expirationDate>
-                <value>2024-04-17</value>
-            </expirationDate>
-            <underlyingSecurity>
-                <underlyingSecurityTitle>
-                    <value>Common Stock</value>
-                </underlyingSecurityTitle>
-                <underlyingSecurityShares>
-                    <value>36819.0000</value>
-                </underlyingSecurityShares>
-            </underlyingSecurity>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </derivativeHolding>
-    </derivativeTable>
 
-    <footnotes>
-        <footnote id="F1">Shares held in the Target Corporation 401(k) Plan based on the plan statement as of January 15, 2020.</footnote>
-        <footnote id="F2">Deferred compensation units are held under the Target Corporation Executive Deferred Compensation Plan (the &quot;Plan&quot;). Under the terms of the Plan, participants' deferred compensation balances are indexed to various crediting rate alternatives, as chosen by them. The units reported relate to the Target common stock crediting rate alternative, and each unit is the economic equivalent of one share of Target common stock. The value of such units increases or decreases daily in accordance with an equivalent investment in the Target Stock Fund in the corporation's 401(k) plan. Participants are generally free to transfer plan balances into other crediting rate alternatives at any time. The Plan balances represent unsecured general obligations of Target Corporation, and are payable solely in cash.</footnote>
-        <footnote id="F3">An award of price-vested stock options under the Amended and Restated Target Corporation 2011 Long-Term Incentive Plan.</footnote>
-        <footnote id="F4">In addition, the price-vested stock options will become exercisable only if the closing price of Target's stock exceeds a hurdle of $75 for 20 consecutive trading days within the seven-year term.</footnote>
-    </footnotes>
 
-    <remarks>henningtonpoa.txt</remarks>
+0001800751
+HENNINGTON CHRISTINA
 
-    <ownerSignature>
-        <signatureName>David L. Donlin, Attorney-In-Fact</signatureName>
-        <signatureDate>2020-01-23</signatureDate>
-    </ownerSignature>
-</ownershipDocument>
-</XML>
-</TEXT>
-</DOCUMENT>
-<DOCUMENT>
-<TYPE>EX-24
-<SEQUENCE>2
-<FILENAME>henningtonpoa.txt
-<TEXT>
+
+1000 NICOLLET MALL
+
+MINNEAPOLIS
+MN
+55403
+
+
+
+1
+Executive Officer
+
+
+
+
+
+Common Stock
+
+
+
+15680.0000
+
+
+
+
+D
+
+
+
+
+
+Common Stock
+
+
+
+404.6711
+
+
+
+
+
+I
+
+
+By 401(k) Plan
+
+
+
+
+
+
+
+Deferred Compensation Units
+
+
+
+
+
+
+
+
+
+
+
+
+
+Common Stock
+
+
+84.0883
+
+
+
+
+D
+
+
+
+
+
+Stock Option
+
+
+
+55.6000
+
+
+2020-04-17
+
+
+
+2024-04-17
+
+
+
+Common Stock
+
+
+36819.0000
+
+
+
+
+D
+
+
+
+
+
+Shares held in the Target Corporation 401(k) Plan based on the plan statement as of January 15, 2020.
+Deferred compensation units are held under the Target Corporation Executive Deferred Compensation Plan (the "Plan"). Under the terms of the Plan, participants' deferred compensation balances are indexed to various crediting rate alternatives, as chosen by them. The units reported relate to the Target common stock crediting rate alternative, and each unit is the economic equivalent of one share of Target common stock. The value of such units increases or decreases daily in accordance with an equivalent investment in the Target Stock Fund in the corporation's 401(k) plan. Participants are generally free to transfer plan balances into other crediting rate alternatives at any time. The Plan balances represent unsecured general obligations of Target Corporation, and are payable solely in cash.
+An award of price-vested stock options under the Amended and Restated Target Corporation 2011 Long-Term Incentive Plan.
+In addition, the price-vested stock options will become exercisable only if the closing price of Target's stock exceeds a hurdle of $75 for 20 consecutive trading days within the seven-year term.
+
+henningtonpoa.txt
+
+David L. Donlin, Attorney-In-Fact
+2020-01-23
+
+
+
+
+
+
+EX-24
+2
+henningtonpoa.txt
+
 TARGET CORPORATION
 
 Power of Attorney
@@ -264,6 +253,6 @@ day of January, 2020.
 
 /s/ Christina Hennington
 Christina Hennington
-</TEXT>
-</DOCUMENT>
-</SEC-DOCUMENT>
+
+
+

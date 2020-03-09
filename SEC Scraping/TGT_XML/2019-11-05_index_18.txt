@@ -1,6 +1,6 @@
-<SEC-DOCUMENT>0001225208-19-014164.txt : 20191105
-<SEC-HEADER>0001225208-19-014164.hdr.sgml : 20191105
-<ACCEPTANCE-DATETIME>20191105181755
+0001225208-19-014164.txt : 20191105
+0001225208-19-014164.hdr.sgml : 20191105
+20191105181755
 ACCESSION NUMBER:		0001225208-19-014164
 CONFORMED SUBMISSION TYPE:	3
 PUBLIC DOCUMENT COUNT:		2
@@ -56,119 +56,108 @@ ISSUER:
 	FORMER COMPANY:	
 		FORMER CONFORMED NAME:	DAYTON CORP
 		DATE OF NAME CHANGE:	19690728
-</SEC-HEADER>
-<DOCUMENT>
-<TYPE>3
-<SEQUENCE>1
-<FILENAME>doc3.xml
-<TEXT>
-<XML>
-<?xml version="1.0"?>
-<ownershipDocument>
 
-    <schemaVersion>X0206</schemaVersion>
 
-    <documentType>3</documentType>
+3
+1
+doc3.xml
 
-    <periodOfReport>2019-11-01</periodOfReport>
 
-    <noSecuritiesOwned>0</noSecuritiesOwned>
 
-    <issuer>
-        <issuerCik>0000027419</issuerCik>
-        <issuerName>TARGET CORP</issuerName>
-        <issuerTradingSymbol>TGT</issuerTradingSymbol>
-    </issuer>
 
-    <reportingOwner>
-        <reportingOwnerId>
-            <rptOwnerCik>0001792920</rptOwnerCik>
-            <rptOwnerName>FIDDELKE MICHAEL J</rptOwnerName>
-        </reportingOwnerId>
-        <reportingOwnerAddress>
-            <rptOwnerStreet1>1000 NICOLLET MALL</rptOwnerStreet1>
-            <rptOwnerStreet2></rptOwnerStreet2>
-            <rptOwnerCity>MINNEAPOLIS</rptOwnerCity>
-            <rptOwnerState>MN</rptOwnerState>
-            <rptOwnerZipCode>55403</rptOwnerZipCode>
-            <rptOwnerStateDescription></rptOwnerStateDescription>
-        </reportingOwnerAddress>
-        <reportingOwnerRelationship>
-            <isOfficer>1</isOfficer>
-            <officerTitle>Executive Officer</officerTitle>
-        </reportingOwnerRelationship>
-    </reportingOwner>
+X0206
+3
+2019-11-01
+0
 
-    <nonDerivativeTable>
-        <nonDerivativeHolding>
-            <securityTitle>
-                <value>Common Stock</value>
-            </securityTitle>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>11831.0000</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeHolding>
-    </nonDerivativeTable>
+0000027419
+TARGET CORP
+TGT
 
-    <derivativeTable>
-        <derivativeHolding>
-            <securityTitle>
-                <value>Stock Option</value>
-                <footnoteId id="F1"/>
-            </securityTitle>
-            <conversionOrExercisePrice>
-                <value>55.6000</value>
-            </conversionOrExercisePrice>
-            <exerciseDate>
-                <value>2020-04-17</value>
-                <footnoteId id="F2"/>
-            </exerciseDate>
-            <expirationDate>
-                <value>2024-04-17</value>
-            </expirationDate>
-            <underlyingSecurity>
-                <underlyingSecurityTitle>
-                    <value>Common Stock</value>
-                </underlyingSecurityTitle>
-                <underlyingSecurityShares>
-                    <value>36819.0000</value>
-                </underlyingSecurityShares>
-            </underlyingSecurity>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </derivativeHolding>
-    </derivativeTable>
 
-    <footnotes>
-        <footnote id="F1">An award of price-vested stock options under the Amended and Restated Target Corporation 2011 Long-Term Incentive Plan.</footnote>
-        <footnote id="F2">In addition, the price-vested stock options will become exercisable only if the closing price of Target's stock exceeds a hurdle of $75 for 20 consecutive trading days within the seven-year term.</footnote>
-    </footnotes>
 
-    <remarks>fiddelkepoa.txt</remarks>
+0001792920
+FIDDELKE MICHAEL J
 
-    <ownerSignature>
-        <signatureName>Andrew J. Neuharth, Attorney-In-Fact</signatureName>
-        <signatureDate>2019-11-05</signatureDate>
-    </ownerSignature>
-</ownershipDocument>
-</XML>
-</TEXT>
-</DOCUMENT>
-<DOCUMENT>
-<TYPE>EX-24
-<SEQUENCE>2
-<FILENAME>fiddelkepoa.txt
-<TEXT>
+
+1000 NICOLLET MALL
+
+MINNEAPOLIS
+MN
+55403
+
+
+
+1
+Executive Officer
+
+
+
+
+
+Common Stock
+
+
+
+11831.0000
+
+
+
+
+D
+
+
+
+
+
+
+
+Stock Option
+
+
+
+55.6000
+
+
+2020-04-17
+
+
+
+2024-04-17
+
+
+
+Common Stock
+
+
+36819.0000
+
+
+
+
+D
+
+
+
+
+
+An award of price-vested stock options under the Amended and Restated Target Corporation 2011 Long-Term Incentive Plan.
+In addition, the price-vested stock options will become exercisable only if the closing price of Target's stock exceeds a hurdle of $75 for 20 consecutive trading days within the seven-year term.
+
+fiddelkepoa.txt
+
+Andrew J. Neuharth, Attorney-In-Fact
+2019-11-05
+
+
+
+
+
+
+EX-24
+2
+fiddelkepoa.txt
+
 TARGET CORPORATION
 
 Power of Attorney
@@ -216,6 +205,6 @@ The undersigned has executed this Power of Attorney as of this
 
 /s/ Michael J. Fiddelke
 Michael J. Fiddelke
-</TEXT>
-</DOCUMENT>
-</SEC-DOCUMENT>
+
+
+

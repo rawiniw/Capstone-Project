@@ -1,6 +1,6 @@
-<SEC-DOCUMENT>0001225208-20-001052.txt : 20200123
-<SEC-HEADER>0001225208-20-001052.hdr.sgml : 20200123
-<ACCEPTANCE-DATETIME>20200123155843
+0001225208-20-001052.txt : 20200123
+0001225208-20-001052.hdr.sgml : 20200123
+20200123155843
 ACCESSION NUMBER:		0001225208-20-001052
 CONFORMED SUBMISSION TYPE:	3
 PUBLIC DOCUMENT COUNT:		2
@@ -56,117 +56,106 @@ ISSUER:
 	FORMER COMPANY:	
 		FORMER CONFORMED NAME:	DAYTON CORP
 		DATE OF NAME CHANGE:	19690728
-</SEC-HEADER>
-<DOCUMENT>
-<TYPE>3
-<SEQUENCE>1
-<FILENAME>doc3.xml
-<TEXT>
-<XML>
-<?xml version="1.0"?>
-<ownershipDocument>
 
-    <schemaVersion>X0206</schemaVersion>
 
-    <documentType>3</documentType>
+3
+1
+doc3.xml
 
-    <periodOfReport>2020-01-15</periodOfReport>
 
-    <noSecuritiesOwned>0</noSecuritiesOwned>
 
-    <issuer>
-        <issuerCik>0000027419</issuerCik>
-        <issuerName>TARGET CORP</issuerName>
-        <issuerTradingSymbol>TGT</issuerTradingSymbol>
-    </issuer>
 
-    <reportingOwner>
-        <reportingOwnerId>
-            <rptOwnerCik>0001800725</rptOwnerCik>
-            <rptOwnerName>SCHINDELE MARK</rptOwnerName>
-        </reportingOwnerId>
-        <reportingOwnerAddress>
-            <rptOwnerStreet1>1000 NICOLLET MALL</rptOwnerStreet1>
-            <rptOwnerStreet2></rptOwnerStreet2>
-            <rptOwnerCity>MINNEAPOLIS</rptOwnerCity>
-            <rptOwnerState>MN</rptOwnerState>
-            <rptOwnerZipCode>55403</rptOwnerZipCode>
-            <rptOwnerStateDescription></rptOwnerStateDescription>
-        </reportingOwnerAddress>
-        <reportingOwnerRelationship>
-            <isOfficer>1</isOfficer>
-            <officerTitle>Executive Officer</officerTitle>
-        </reportingOwnerRelationship>
-    </reportingOwner>
+X0206
+3
+2020-01-15
+0
 
-    <nonDerivativeTable>
-        <nonDerivativeHolding>
-            <securityTitle>
-                <value>Common Stock</value>
-            </securityTitle>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>10357.0000</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeHolding>
-    </nonDerivativeTable>
+0000027419
+TARGET CORP
+TGT
 
-    <derivativeTable>
-        <derivativeHolding>
-            <securityTitle>
-                <value>Deferred Compensation Units</value>
-                <footnoteId id="F1"/>
-            </securityTitle>
-            <conversionOrExercisePrice>
-                <footnoteId id="F1"/>
-            </conversionOrExercisePrice>
-            <exerciseDate>
-                <footnoteId id="F1"/>
-            </exerciseDate>
-            <expirationDate>
-                <footnoteId id="F1"/>
-            </expirationDate>
-            <underlyingSecurity>
-                <underlyingSecurityTitle>
-                    <value>Common Stock</value>
-                </underlyingSecurityTitle>
-                <underlyingSecurityShares>
-                    <value>8003.0417</value>
-                </underlyingSecurityShares>
-            </underlyingSecurity>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </derivativeHolding>
-    </derivativeTable>
 
-    <footnotes>
-        <footnote id="F1">Deferred compensation units are held under the Target Corporation Executive Deferred Compensation Plan (the &quot;Plan&quot;). Under the terms of the Plan, participants' deferred compensation balances are indexed to various crediting rate alternatives, as chosen by them. The units reported relate to the Target common stock crediting rate alternative, and each unit is the economic equivalent of one share of Target common stock. The value of such units increases or decreases daily in accordance with an equivalent investment in the Target Stock Fund in the corporation's 401(k) plan. Participants are generally free to transfer plan balances into other crediting rate alternatives at any time. The Plan balances represent unsecured general obligations of Target Corporation, and are payable solely in cash.</footnote>
-    </footnotes>
 
-    <remarks>schindelepoa.txt</remarks>
+0001800725
+SCHINDELE MARK
 
-    <ownerSignature>
-        <signatureName>David L. Donlin, Attorney-In-Fact</signatureName>
-        <signatureDate>2020-01-23</signatureDate>
-    </ownerSignature>
-</ownershipDocument>
-</XML>
-</TEXT>
-</DOCUMENT>
-<DOCUMENT>
-<TYPE>EX-24
-<SEQUENCE>2
-<FILENAME>schindelepoa.txt
-<TEXT>
+
+1000 NICOLLET MALL
+
+MINNEAPOLIS
+MN
+55403
+
+
+
+1
+Executive Officer
+
+
+
+
+
+Common Stock
+
+
+
+10357.0000
+
+
+
+
+D
+
+
+
+
+
+
+
+Deferred Compensation Units
+
+
+
+
+
+
+
+
+
+
+
+
+
+Common Stock
+
+
+8003.0417
+
+
+
+
+D
+
+
+
+
+
+Deferred compensation units are held under the Target Corporation Executive Deferred Compensation Plan (the "Plan"). Under the terms of the Plan, participants' deferred compensation balances are indexed to various crediting rate alternatives, as chosen by them. The units reported relate to the Target common stock crediting rate alternative, and each unit is the economic equivalent of one share of Target common stock. The value of such units increases or decreases daily in accordance with an equivalent investment in the Target Stock Fund in the corporation's 401(k) plan. Participants are generally free to transfer plan balances into other crediting rate alternatives at any time. The Plan balances represent unsecured general obligations of Target Corporation, and are payable solely in cash.
+
+schindelepoa.txt
+
+David L. Donlin, Attorney-In-Fact
+2020-01-23
+
+
+
+
+
+
+EX-24
+2
+schindelepoa.txt
+
 TARGET CORPORATION
 
 Power of Attorney
@@ -213,6 +202,6 @@ day of January, 2020.
 
 /s/ Mark Schindele
 Mark Schindele
-</TEXT>
-</DOCUMENT>
-</SEC-DOCUMENT>
+
+
+

@@ -1,6 +1,6 @@
-<SEC-DOCUMENT>0001225208-19-014991.txt : 20191127
-<SEC-HEADER>0001225208-19-014991.hdr.sgml : 20191127
-<ACCEPTANCE-DATETIME>20191127123115
+0001225208-19-014991.txt : 20191127
+0001225208-19-014991.hdr.sgml : 20191127
+20191127123115
 ACCESSION NUMBER:		0001225208-19-014991
 CONFORMED SUBMISSION TYPE:	4
 PUBLIC DOCUMENT COUNT:		1
@@ -56,117 +56,108 @@ ISSUER:
 	FORMER COMPANY:	
 		FORMER CONFORMED NAME:	DAYTON CORP
 		DATE OF NAME CHANGE:	19690728
-</SEC-HEADER>
-<DOCUMENT>
-<TYPE>4
-<SEQUENCE>1
-<FILENAME>doc4.xml
-<TEXT>
-<XML>
-<?xml version="1.0"?>
-<ownershipDocument>
 
-    <schemaVersion>X0306</schemaVersion>
 
-    <documentType>4</documentType>
+4
+1
+doc4.xml
 
-    <periodOfReport>2019-11-25</periodOfReport>
 
-    <issuer>
-        <issuerCik>0000027419</issuerCik>
-        <issuerName>TARGET CORP</issuerName>
-        <issuerTradingSymbol>TGT</issuerTradingSymbol>
-    </issuer>
 
-    <reportingOwner>
-        <reportingOwnerId>
-            <rptOwnerCik>0001667158</rptOwnerCik>
-            <rptOwnerName>Lundquist Stephanie A</rptOwnerName>
-        </reportingOwnerId>
-        <reportingOwnerAddress>
-            <rptOwnerStreet1>1000 NICOLLET MALL</rptOwnerStreet1>
-            <rptOwnerStreet2></rptOwnerStreet2>
-            <rptOwnerCity>MINNEAPOLIS</rptOwnerCity>
-            <rptOwnerState>MN</rptOwnerState>
-            <rptOwnerZipCode>55403</rptOwnerZipCode>
-            <rptOwnerStateDescription></rptOwnerStateDescription>
-        </reportingOwnerAddress>
-        <reportingOwnerRelationship>
-            <isOfficer>1</isOfficer>
-            <officerTitle>Executive Officer</officerTitle>
-        </reportingOwnerRelationship>
-    </reportingOwner>
 
-    <nonDerivativeTable>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Common Stock</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2019-11-25</value>
-            </transactionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-            </transactionCoding>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>6630.0000</value>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>127.0000</value>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
-                    <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>27394.0000</value>
-                    <footnoteId id="F1"/>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>D</value>
-                </directOrIndirectOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeHolding>
-            <securityTitle>
-                <value>Common Stock</value>
-            </securityTitle>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>366.2204</value>
-                    <footnoteId id="F2"/>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>I</value>
-                </directOrIndirectOwnership>
-                <natureOfOwnership>
-                    <value>By 401(k) Plan</value>
-                </natureOfOwnership>
-            </ownershipNature>
-        </nonDerivativeHolding>
-    </nonDerivativeTable>
+X0306
+4
+2019-11-25
 
-    <derivativeTable></derivativeTable>
+0000027419
+TARGET CORP
+TGT
 
-    <footnotes>
-        <footnote id="F1">Includes dividend equivalents paid on performance-based restricted stock units since the date of the reporting person's last filing through the date of the reported transaction that have been reinvested in additional performance-based restricted stock units.</footnote>
-        <footnote id="F2">Shares held in the Target Corporation 401(k) Plan based on the plan statement as of September 30, 2019.</footnote>
-    </footnotes>
 
-    <ownerSignature>
-        <signatureName>Andrew J. Neuharth, Attorney-In-Fact</signatureName>
-        <signatureDate>2019-11-27</signatureDate>
-    </ownerSignature>
-</ownershipDocument>
-</XML>
-</TEXT>
-</DOCUMENT>
-</SEC-DOCUMENT>
+
+0001667158
+Lundquist Stephanie A
+
+
+1000 NICOLLET MALL
+
+MINNEAPOLIS
+MN
+55403
+
+
+
+1
+Executive Officer
+
+
+
+
+
+Common Stock
+
+
+2019-11-25
+
+
+4
+S
+0
+
+
+
+6630.0000
+
+
+127.0000
+
+
+D
+
+
+
+
+27394.0000
+
+
+
+
+
+D
+
+
+
+
+
+Common Stock
+
+
+
+366.2204
+
+
+
+
+
+I
+
+
+By 401(k) Plan
+
+
+
+
+
+
+Includes dividend equivalents paid on performance-based restricted stock units since the date of the reporting person's last filing through the date of the reported transaction that have been reinvested in additional performance-based restricted stock units.
+Shares held in the Target Corporation 401(k) Plan based on the plan statement as of September 30, 2019.
+
+
+Andrew J. Neuharth, Attorney-In-Fact
+2019-11-27
+
+
+
+
+
+
