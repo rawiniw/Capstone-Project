@@ -1,0 +1,236 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ SutQP3sFRguf988ezXqzeoCNuPqGdwvVd0/kNy4Op/pzH4maUZKz9UNq4U331EY1
+ DfVGyEmH6bgl+xV4JJcqWg==
+
+<SEC-DOCUMENT>0001225208-10-026856.txt : 20101213
+<SEC-HEADER>0001225208-10-026856.hdr.sgml : 20101213
+<ACCEPTANCE-DATETIME>20101213131252
+ACCESSION NUMBER:		0001225208-10-026856
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20101210
+FILED AS OF DATE:		20101213
+DATE AS OF CHANGE:		20101213
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			AUSTIN ROXANNE S
+		CENTRAL INDEX KEY:			0001061632
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06049
+		FILM NUMBER:		101247341
+
+	MAIL ADDRESS:	
+		STREET 1:		200 N SEPULVEDA BLVD
+		STREET 2:		PO BOX 956 MS ES/001/A102
+		CITY:			EL SEGUNDO
+		STATE:			CA
+		ZIP:			90245
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TARGET CORP
+		CENTRAL INDEX KEY:			0000027419
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				410215170
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			0131
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1000 NICOLLET MALL
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55403
+		BUSINESS PHONE:		6123046073
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 NICOLLET MALL
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55403
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DAYTON HUDSON CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DAYTON CORP
+		DATE OF NAME CHANGE:	19690728
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0303</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2010-12-10</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000027419</issuerCik>
+        <issuerName>TARGET CORP</issuerName>
+        <issuerTradingSymbol>TGT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001061632</rptOwnerCik>
+            <rptOwnerName>AUSTIN ROXANNE S</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1000 NICOLLET MALL</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MINNEAPOLIS</rptOwnerCity>
+            <rptOwnerState>MN</rptOwnerState>
+            <rptOwnerZipCode>55403</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2010-12-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2388.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>58.9500</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7996.0000</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes dividend equivalents paid on restricted stock units since the date of the reporting person's last filing that have been reinvested in additional restricted stock units.</footnote>
+    </footnotes>
+
+    <remarks>austinpoa.txt</remarks>
+
+    <ownerSignature>
+        <signatureName>Mary B. Stanley, Attorney-In-Fact</signatureName>
+        <signatureDate>2010-12-13</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>austinpoa.txt
+<TEXT>
+
+TARGET CORPORATION
+
+Power of Attorney
+of Director and/or Officer
+
+KNOW ALL MEN BY THESE PRESENTS, that the
+undersigned director and/or officer of
+TARGET CORPORATION, a Minnesota corporation
+(the Corporation), does hereby make,
+constitute and appoint GREGG W. STEINHAFEL,
+DOUGLAS A. SCOVANNER,TIMOTHY R. BAER,DAVID L.
+DONLIN and Mary B. Stanley, and each or any
+one of them, the undersigneds true and lawful
+attorneys-in-fact, with power of
+substitution, for the undersigned and in the
+undersigneds name, place and stead, to sign
+and affix the undersigneds name as director
+and/or officer of the Corporation to (1) a
+Form 10-K, Annual Report, or other applicable
+form, pursuant to the Securities Exchange
+Act of 1934, as amended (the 1934 Act),
+including any and all exhibits, schedules,
+supplements, certifications and supporting
+documents thereto, including, but not limited
+to, the Form 11-K Annual Reports of the
+Corporations 401(k) Plan and similar plans
+pursuant to the 1934 Act, and all amendments,
+supplementations and corrections thereto, to
+be filed by the Corporation with the Securities
+and Exchange Commission (the SEC), as required
+in connection with its registration under
+the 1934 Act, as amended; (2) one or more
+Forms 3, 4 or 5 pursuant to the 1934 Act
+and all related documents, amendments,
+supplementations and corrections thereto,
+to be filed with the SEC as required under
+the 1934 Act; and (3) one or more Registration
+Statements, on Form S-3, Form S-8, Form 144
+or other applicable forms, and all amendments,
+including post-effective amendments, thereto,
+to be filed by the Corporation with the SEC
+in connection with the registration under the
+Securities Act of 1933, as amended, of
+debt, equity and other securities of the
+Corporation, and to file the same, with
+all exhibits thereto and other supporting
+documents, with the SEC.
+
+The undersigned also grants to said
+attorneys-in-fact, and each of them, full
+power and authority to do and perform any
+and all acts necessary or incidental to
+the performance and execution of the powers
+herein expressly granted.  This Power of
+Attorney shall remain in effect until revoked
+in writing by the undersigned.
+
+IN WITNESS WHEREOF, the undersigned has signed
+below as of this 2nd day of February, 2010.
+
+
+/s/ Roxanne S. Austin
+Roxanne S. Austin
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

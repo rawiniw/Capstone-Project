@@ -1,0 +1,146 @@
+<SEC-DOCUMENT>0001127602-11-018819.txt : 20110607
+<SEC-HEADER>0001127602-11-018819.hdr.sgml : 20110607
+<ACCEPTANCE-DATETIME>20110607183355
+ACCESSION NUMBER:		0001127602-11-018819
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20110603
+FILED AS OF DATE:		20110607
+DATE AS OF CHANGE:		20110607
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			CASH JAMES I
+		CENTRAL INDEX KEY:			0001017391
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06991
+		FILM NUMBER:		11899621
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O WINSTAR COMMUNICATIONS INC
+		STREET 2:		685 THIRD AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WAL MART STORES INC
+		CENTRAL INDEX KEY:			0000104169
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				710415188
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	BUSINESS ADDRESS:	
+		STREET 1:		702 SOUTHWEST 8TH ST
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+		BUSINESS PHONE:		5012734000
+
+	MAIL ADDRESS:	
+		STREET 1:		702 SOUTHWEST 8TH STREET
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0303</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2011-06-03</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000104169</issuerCik>
+        <issuerName>WAL MART STORES INC</issuerName>
+        <issuerTradingSymbol>WMT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001017391</rptOwnerCik>
+            <rptOwnerName>CASH JAMES I</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>702 SW 8TH STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BENTONVILLE</rptOwnerCity>
+            <rptOwnerState>AR</rptOwnerState>
+            <rptOwnerZipCode>72716</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2011-06-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3261</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>19913.8046</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents annual equity grant as part of the Reporting Person's non-management director compensation.  The receipt of these shares was deferred to a future date under an election made in a prior year.</footnote>
+        <footnote id="F2">Balance adjusted to reflect shares acquired through dividend reinvestment.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jennifer F. Rudolph, by Power of Attorney</signatureName>
+        <signatureDate>2011-06-07</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

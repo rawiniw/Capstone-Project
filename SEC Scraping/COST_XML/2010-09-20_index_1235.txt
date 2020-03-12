@@ -1,0 +1,265 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ CFMdrjcvHM8vsxUjfLleCZJIepDGkWu8NXe+d/YqhygsfKWRGOnDblgkusv2ZF4J
+ l45YoJCMmzRHXH0q9JauPg==
+
+<SEC-DOCUMENT>0001209191-10-046916.txt : 20100920
+<SEC-HEADER>0001209191-10-046916.hdr.sgml : 20100920
+<ACCEPTANCE-DATETIME>20100920145003
+ACCESSION NUMBER:		0001209191-10-046916
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20100917
+FILED AS OF DATE:		20100920
+DATE AS OF CHANGE:		20100920
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SINEGAL JAMES D
+		CENTRAL INDEX KEY:			0001184948
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-20355
+		FILM NUMBER:		101080298
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O COSTCO WHOLESALE CORP.
+		STREET 2:		999 LAKE DRIVE
+		CITY:			ISAQUAH
+		STATE:			WA
+		ZIP:			98027
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COSTCO WHOLESALE CORP /NEW
+		CENTRAL INDEX KEY:			0000909832
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				911223280
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			0830
+
+	BUSINESS ADDRESS:	
+		STREET 1:		999 LAKE DRIVE
+		CITY:			ISSAQUAH
+		STATE:			WA
+		ZIP:			98027-
+		BUSINESS PHONE:		4253138100
+
+	MAIL ADDRESS:	
+		STREET 1:		999 LAKE DRIVE
+		CITY:			ISSAQUAH
+		STATE:			WA
+		ZIP:			98027
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COSTCO COMPANIES INC
+		DATE OF NAME CHANGE:	19970401
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PRICE/COSTCO INC
+		DATE OF NAME CHANGE:	19930728
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0303</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2010-09-17</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000909832</issuerCik>
+        <issuerName>COSTCO WHOLESALE CORP /NEW</issuerName>
+        <issuerTradingSymbol>COST</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001184948</rptOwnerCik>
+            <rptOwnerName>SINEGAL JAMES D</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>999 LAKE DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ISSAQUAH</rptOwnerCity>
+            <rptOwnerState>WA</rptOwnerState>
+            <rptOwnerZipCode>98027</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2010-09-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>8000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>716825</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1280649</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By LLC</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>39491</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By GRAT</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>39491</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Spouse's GRAT</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This sale was effected pursuant to a 10b5-1 trading plan.</footnote>
+        <footnote id="F2">Shares sold as follows:
+
+100 @ 60.99
+200 @ 61.06
+200 @ 61.07
+100 @ 61.09
+200 @ 61.10
+300 @ 61.11
+300 @ 61.12
+300 @ 61.13
+200 @ 61.14
+100 @ 61.15
+200 @ 61.16
+200 @ 61.17
+200 @ 61.18
+100 @ 61.19
+200 @ 61.20
+300 @ 61.21
+400 @ 61.22
+400 @ 61.23
+300 @ 61.24
+700 @ 61.25
+400 @ 61.26
+400 @ 61.27
+300 @ 61.28
+100 @ 61.29
+200 @ 61.30
+400 @ 61.31
+100 @ 61.32
+100 @ 61.34
+100 @ 61.35
+300 @ 61.36
+200 @ 61.37
+100 @ 61.38
+100 @ 61.42
+100 @ 61.43
+100 @ 61.44</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Deanna K. Nakashima, attorney-in-fact</signatureName>
+        <signatureDate>2010-09-20</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,532 @@
+<SEC-DOCUMENT>0000080255-12-000425.txt : 20120213
+<SEC-HEADER>0000080255-12-000425.hdr.sgml : 20120213
+<ACCEPTANCE-DATETIME>20120213115054
+ACCESSION NUMBER:		0000080255-12-000425
+CONFORMED SUBMISSION TYPE:	SC 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20120213
+DATE AS OF CHANGE:		20120213
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMAZON COM INC
+		CENTRAL INDEX KEY:			0001018724
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-CATALOG & MAIL-ORDER HOUSES [5961]
+		IRS NUMBER:				911646860
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-53341
+		FILM NUMBER:		12596586
+
+	BUSINESS ADDRESS:	
+		STREET 1:		410 TERRY AVENUE NORTH
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98109
+		BUSINESS PHONE:		2062661000
+
+	MAIL ADDRESS:	
+		STREET 1:		410 TERRY AVENUE NORTH
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98109
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PRICE T ROWE ASSOCIATES INC /MD/
+		CENTRAL INDEX KEY:			0000080255
+		STANDARD INDUSTRIAL CLASSIFICATION:	SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES [6200]
+		IRS NUMBER:				520556948
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 EAST PRATT ST
+		CITY:			BALTIMORE
+		STATE:			MD
+		ZIP:			21202
+		BUSINESS PHONE:		(410)345-6603
+
+	MAIL ADDRESS:	
+		STREET 1:		P.O. BOX 89000
+		CITY:			BALTIMORE
+		STATE:			MD
+		ZIP:			21289
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G/A
+<SEQUENCE>1
+<FILENAME>amzn13gadec11.htm
+<DESCRIPTION>AMZN AS OF 12/31/11
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 11pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&#9;&#9;&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-align: center">UNITED STATES</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-align: center">SECURITIES AND EXCHANGE COMMISSION</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-align: center">Washington, D.C. 20549</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 9pt 0 0; text-align: center">SCHEDULE 13G</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-align: center">Under the Securities Exchange Act of 1934</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-align: center; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-align: center">(Amendment No. 1)*</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-align: center">AMAZON COM INC</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-align: center; text-indent: 0.5in">(Name of Issuer)</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 9pt 0 0; text-align: center">COMMON STOCK</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-align: center; text-indent: 0.5in">(Title of Class of Securities)</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 9pt 0 0; text-align: center">023135106</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 9pt 0 0; text-align: center">(CUSIP Number)</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 9pt 0 0; text-align: center">December 31, 2011</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-align: center">(Date of Event which Requires Filing of Statement)</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 9pt 0 0">Check the appropriate box to designate the Rule pursuant
+to which this Schedule is filed:</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 9pt 0 0">[x] Rule 13d - 1(b)</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 9pt 0 0; text-indent: 0.5in">Rule 13d - 1(c)</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 9pt 0 0; text-indent: 0.5in">Rule 13d - 1(d)</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">*The remainder of this cover page shall be filled out for a reporting
+person's initial filing on this form with respect to the subject class of securities, and for any subsequent amendment containing
+information which would alter disclosures provided in a prior cover page.</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 9pt 0 0">The information required on the remainder of this page shall
+not be deemed to be &quot;filed&quot; for the purpose of Section 18 of the Securities Exchange Act of 1934 (&quot;Act&quot;) or
+otherwise subject to the liabilities of that section of the Act but shall be subject to all other provisions of the Act (however,
+see the Notes.)</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 9pt 0 0; text-align: center">(Continued on following page(s)</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&#9;Page 1 of 5 Pages</P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-bottom: 6pt">&nbsp;</DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt">&nbsp;</DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 9pt 0 0">CUSIP NO.&#9;023135106&#9; &#9;&#9;13G&#9; Page 2 of 5 Pages</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">1&#9;Name of Reporting Person</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-indent: 0.35in">S.S. or I.R.S. Identification No. of Above
+Person</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-indent: 0.35in">T. ROWE PRICE ASSOCIATES, INC.</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-indent: 0.35in">52-0556948</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">2&#9;Check the Appropriate Box if a Member of a Group*</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-indent: 5.55in">(a) ____</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-indent: 0.35in">NOT APPLICABLE&#9;(b) ____</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0 0 0 0.35in; text-indent: -0.35in">3&#9;SEC Use Only</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-indent: 0.35in">______________________________</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0 0 0 0.35in; text-indent: -0.35in">4&#9;Citizenship or Place of
+Organization</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-indent: 0.35in">MARYLAND</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">Number of&#9;5&#9;Sole Voting Power</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-indent: 1.55in">**</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">Shares&#9; 5,777,093</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">Beneficially&#9;6&#9;Shared Voting Power</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-indent: 1.55in">**</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">Owned By Each&#9; -0-</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">Reporting&#9;7&#9;Sole Dispositive Power</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-indent: 1.55in">**</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">Person&#9; 17,968,727</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">With&#9;8&#9;Shared Dispositive Power</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-indent: 1.55in">-0-</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0 0 0 0.35in; text-indent: -0.35in">9&#9;Aggregate Amount Beneficially
+Owned by Each Reporting Person</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-indent: 0.35in">17,968,727</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0 0 0 0.35in; text-indent: -0.35in">10&#9;Check Box if the Aggregate
+Amount in Row (9) Excludes Certain Shares*</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-indent: 0.35in">NOT APPLICABLE</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">11&#9;Percent of Class Represented by Amount in Row 9</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-indent: 0.35in">3.9%</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">12&#9;Type of Reporting Person*</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-indent: 0.35in">IA</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&#9;*SEE INSTRUCTION BEFORE FILLING OUT!</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&#9;**Any shares reported in Items 5 and 6 are also</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&#9;reported in Item 7.</P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-bottom: 6pt">&nbsp;</DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt">&nbsp;</DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">SCHEDULE 13G</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">PAGE 3 OF 5</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">Item 1(a)&#9;Name of Issuer:</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-indent: 1.05in">Reference is made to page 1 of this Schedule
+13G</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">Item 1(b)&#9;Address of Issuer's Principal Executive Offices:</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0"><FONT STYLE="line-height: 85%">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Courier New, Courier, Monospace; margin: 0 0 0 1in"><FONT STYLE="font-size: 12pt">1200 12TH AVE S, STE 1200,
+SEATTLE, </FONT><FONT STYLE="font-size: 10pt">WA</FONT><FONT STYLE="font-size: 12pt"> 98144</FONT></P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0 0 0 1in">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">Item 2(a)&#9;Name of Person(s) Filing:</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0 0 0 1.55in; text-indent: -0.5in">(1)&#9;T. Rowe Price Associates,
+Inc. (&quot;Price Associates&quot;)</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-indent: 1.05in">(2) _______________________________________</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0 0 0 1.05in; text-indent: -1.05in">_____&#9;Attached as Exhibit
+A is a copy of an agreement between the Persons Filing (as specified hereinabove) that this Schedule 13G is being filed on behalf
+of each of them.</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">Item 2(b)&#9;Address of Principal Business Office:</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-indent: 1.05in">100 E. Pratt Street, Baltimore, Maryland
+21202</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">Item 2(c)&#9;Citizenship or Place of Organization:</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-indent: 1.05in">(1)&#9;Maryland</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-indent: 1.05in">(2) ________</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">Item 2(d)&#9;Title of Class of Securities:</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-indent: 1.05in">Reference is made to page 1 of this Schedule
+13G</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">Item 2(e)&#9;CUSIP Number: 023135106</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0"><FONT STYLE="line-height: 85%">&nbsp;</FONT></P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">Item 3&#9;The person filing this Schedule 13G is an:</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0 0 0 1.05in; text-indent: -1.05in">X &#9;Investment Adviser registered
+under Section 203 of the Investment Advisers Act of 1940</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0 0 0 1.05in; text-indent: -1.05in">_____&#9;Investment Company registered
+under Section 8 of the Investment Company Act of 1940</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0 0 0 1.05in; text-indent: -1.05in">Item 4&#9;Reference is made to
+Items 5-11 on page 2 of this Schedule 13G.</P>
+
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-bottom: 6pt">&nbsp;</DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt">&nbsp;</DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">SCHEDULE 13G</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">PAGE 4 OF 5</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">Item 5&#9;Ownership of Five Percent or Less of a Class.</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-indent: 0.75in">Not Applicable.</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0 0 0 0.75in; text-indent: -0.75in">X&#9;This statement is being
+filed to report the fact that, as of the date of this report, the reporting person(s) has (have) ceased to be the beneficial owner
+of more than five percent of the class of securities.</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0 0 0 0.75in; text-indent: -0.75in">Item 6&#9;Ownership of More than
+Five Percent on Behalf of Another Person</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0 0 0 1.15in; text-indent: -0.4in">(1)&#9;Price Associates does not
+serve as custodian of the assets of any of its clients; accordingly, in each instance only the client or the client's custodian
+or trustee bank has the right to receive dividends paid with respect to, and proceeds from the sale of, such securities.</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0 0 0 1.15in">The ultimate power to direct the receipt of dividends
+paid with respect to, and the proceeds from the sale of, such securities, is vested in the individual and institutional clients
+which Price Associates serves as investment adviser. Any and all discretionary authority which has been delegated to Price Associates
+may be revoked in whole or in part at any time.</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0 0 0 1.15in">Except as may be indicated if this is a joint filing
+with one of the registered investment companies sponsored by Price Associates which it also serves as investment adviser (&quot;T.
+Rowe Price Funds&quot;), not more than 5% of the class of such securities is owned by any one client subject to the investment
+advice of Price Associates.</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0 0 0 1.15in; text-indent: -0.4in">(2)&#9;With respect to securities
+owned by any one of the T. Rowe Price Funds, only State Street Bank and Trust Company, as custodian for each of such Funds, has
+the right to receive dividends paid with respect to, and proceeds from the sale of, such securities. No other person is known to
+have such right, except that the shareholders of each such Fund participate proportionately in any dividends and distributions
+so paid.</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0 0 0 0.75in; text-indent: -0.75in">Item 7&#9;Identification and
+Classification of the Subsidiary Which Acquired the Security Being Reported on By the Parent Holding Company.</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-indent: 0.75in">Not Applicable.</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0 0 0 0.75in; text-indent: -0.75in">Item 8&#9;Identification and
+Classification of Members of the Group.</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-indent: 0.75in">Not Applicable.</P>
+
+<!-- Field: Page; Sequence: 4 -->
+    <DIV STYLE="margin-bottom: 6pt">&nbsp;</DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt">&nbsp;</DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">SCHEDULE 13G</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">PAGE 5 OF 5</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">Item 9&#9;Notice of Dissolution of Group.</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-indent: 0.95in">Not Applicable.</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0 0 0 0.95in; text-indent: -0.95in">Item 10&#9;Certification.</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0 0 0 0.95in">By signing below I (we) certify that, to the best of
+my (our) knowledge and belief, the securities referred to above were acquired in the ordinary course of business and were not acquired
+for the purpose of and do not have the effect of changing or influencing the control of the issuer of such securities and were
+not acquired in connection with or as a participant in any transaction having such purpose or effect. T. Rowe Price Associates,
+Inc. hereby declares and affirms that the filing of Schedule 13G shall not be construed as an admission that Price Associates is
+the beneficial owner of the securities referred to, which beneficial ownership is expressly denied.</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&#9;Signature.</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0 0 0 0.95in">After reasonable inquiry and to the best of my (our)
+knowledge and belief, I (we) certify that the information set forth in this statement is true, complete and correct.</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-indent: 0.75in">Dated: February 14, 2012</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-indent: 0.75in">T. ROWE PRICE ASSOCIATES, INC.</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-indent: 0.45in">By: /s/ David Oestreicher</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-indent: 0.45in">David Oestreicher, Vice President</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0; text-indent: 0.45in">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0 0 0 0.95in; text-indent: -0.95in">Note:&#9;This Schedule 13G, including
+all exhibits, must be filed with the Securities and Exchange Commission, and a copy hereof must be sent to the issuer by registered
+or certified mail not later than February 14th following the calendar year covered by the statement or within the time specified
+in Rule 13d-1(b)(2), if applicable.</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">12/31/2011</P>
+
+<P STYLE="font: 12pt Courier New, Courier, Monospace; margin: 0">&nbsp;</P>
+
+
+<P STYLE="margin: 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

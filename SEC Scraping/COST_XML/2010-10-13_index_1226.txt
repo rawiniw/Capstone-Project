@@ -1,0 +1,170 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ CdxrTFqJbfLs1gAR4jWW8yw/EXRc8I2AueMMQWGxt160kl1MmLyguGB3DPdbmeD6
+ 4dQaZ+wKnlIRmUaT6lXEtw==
+
+<SEC-DOCUMENT>0001209191-10-050252.txt : 20101013
+<SEC-HEADER>0001209191-10-050252.hdr.sgml : 20101013
+<ACCEPTANCE-DATETIME>20101013155842
+ACCESSION NUMBER:		0001209191-10-050252
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20100829
+FILED AS OF DATE:		20101013
+DATE AS OF CHANGE:		20101013
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			GALANTI RICHARD A
+		CENTRAL INDEX KEY:			0001184493
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-20355
+		FILM NUMBER:		101121814
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COSTCO WHOLESALE CORP /NEW
+		CENTRAL INDEX KEY:			0000909832
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				911223280
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			0830
+
+	BUSINESS ADDRESS:	
+		STREET 1:		999 LAKE DRIVE
+		CITY:			ISSAQUAH
+		STATE:			WA
+		ZIP:			98027-
+		BUSINESS PHONE:		4253138100
+
+	MAIL ADDRESS:	
+		STREET 1:		999 LAKE DRIVE
+		CITY:			ISSAQUAH
+		STATE:			WA
+		ZIP:			98027
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COSTCO COMPANIES INC
+		DATE OF NAME CHANGE:	19970401
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PRICE/COSTCO INC
+		DATE OF NAME CHANGE:	19930728
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>doc5.xml
+<DESCRIPTION>FORM 5 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0303</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2010-08-29</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0000909832</issuerCik>
+        <issuerName>COSTCO WHOLESALE CORP /NEW</issuerName>
+        <issuerTradingSymbol>COST</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001184493</rptOwnerCik>
+            <rptOwnerName>GALANTI RICHARD A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>999 LAKE DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ISSAQUAH</rptOwnerCity>
+            <rptOwnerState>WA</rptOwnerState>
+            <rptOwnerZipCode>98027</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Executive VP and CFO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2009-09-08</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>43681</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Personal gift.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Deanna K. Nakashima, attorney-in-fact</signatureName>
+        <signatureDate>2010-10-13</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

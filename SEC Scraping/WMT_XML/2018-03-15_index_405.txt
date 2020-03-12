@@ -1,0 +1,258 @@
+<SEC-DOCUMENT>0001127602-18-011729.txt : 20180315
+<SEC-HEADER>0001127602-18-011729.hdr.sgml : 20180315
+<ACCEPTANCE-DATETIME>20180315182451
+ACCESSION NUMBER:		0001127602-18-011729
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20180313
+FILED AS OF DATE:		20180315
+DATE AS OF CHANGE:		20180315
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Furner John R.
+		CENTRAL INDEX KEY:			0001696737
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06991
+		FILM NUMBER:		18693676
+
+	MAIL ADDRESS:	
+		STREET 1:		702 SW 8TH STREET
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Walmart Inc.
+		CENTRAL INDEX KEY:			0000104169
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				710415188
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	BUSINESS ADDRESS:	
+		STREET 1:		702 SOUTHWEST 8TH ST
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+		BUSINESS PHONE:		5012734000
+
+	MAIL ADDRESS:	
+		STREET 1:		702 SOUTHWEST 8TH STREET
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WAL MART STORES INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2018-03-13</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000104169</issuerCik>
+        <issuerName>Walmart Inc.</issuerName>
+        <issuerTradingSymbol>WMT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001696737</rptOwnerCik>
+            <rptOwnerName>Furner John R.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>702 S.W. 8TH STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BENTONVILLE</rptOwnerCity>
+            <rptOwnerState>AR</rptOwnerState>
+            <rptOwnerZipCode>72716-0215</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Executive Vice President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2018-03-13</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1858</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>88.07</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>190499.866</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2018-03-13</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>78</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>88.07</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>190421.866</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1660.0224</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By 401(k) plan</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2018-03-13</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1858</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1858</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents previously reported cash-settled restricted stock units that vested on March 13, 2018, but which were deferred in the form of stock units until a later date.</footnote>
+        <footnote id="F2">Represents stock units withheld to satisfy tax withholding obligations upon the vesting of previously reported cash-settled restricted stock units. While the remaining units are to be settled in the form of cash, the settlement has been deferred to a future date, at which time the units will settle for an amount of cash equal to the then fair market value of an equal number of shares of common stock.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jennifer F. Rudolph, by power of attorney</signatureName>
+        <signatureDate>2018-03-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

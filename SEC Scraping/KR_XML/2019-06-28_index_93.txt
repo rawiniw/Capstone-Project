@@ -1,0 +1,386 @@
+<SEC-DOCUMENT>0001209191-19-039415.txt : 20190628
+<SEC-HEADER>0001209191-19-039415.hdr.sgml : 20190628
+<ACCEPTANCE-DATETIME>20190628093036
+ACCESSION NUMBER:		0001209191-19-039415
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20190627
+FILED AS OF DATE:		20190628
+DATE AS OF CHANGE:		20190628
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			GRIESHABER JOSEPH A JR
+		CENTRAL INDEX KEY:			0001258401
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00303
+		FILM NUMBER:		19927532
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KROGER CO
+		CENTRAL INDEX KEY:			0000056873
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-GROCERY STORES [5411]
+		IRS NUMBER:				310345740
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0201
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1014 VINE ST
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45201
+		BUSINESS PHONE:		5137624000
+
+	MAIL ADDRESS:	
+		STREET 1:		1014 VINE ST
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<DESCRIPTION>FORM 3 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2019-06-27</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000056873</issuerCik>
+        <issuerName>KROGER CO</issuerName>
+        <issuerTradingSymbol>KR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001258401</rptOwnerCik>
+            <rptOwnerName>GRIESHABER JOSEPH A JR</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>THE KROGER CO.</rptOwnerStreet1>
+            <rptOwnerStreet2>1014 VINE STREET</rptOwnerStreet2>
+            <rptOwnerCity>CINCINNATI</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>45202</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Senior Vice President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>129369.6006</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Non-Qualified Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>24.75</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2029-03-14</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>26120</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Non-Qualified Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>28.05</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-07-13</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>21121</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Non-Qualified Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>22.92</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2027-07-13</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>47390</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Non-Qualified Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>37.48</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2026-07-13</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>27202</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Non-Qualified Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>38.33</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2025-07-15</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>22181</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Non-Qualified Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>24.665</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2024-07-15</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>42000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Non-Qualified Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>18.88</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2023-07-15</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>21000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Non-Qualified Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>10.98</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2022-07-12</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>12600</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The total amount of securities directly owned by the reporting person includes shares in the Company's employee benefit plans that are deemed to be 'tax-conditioned plans' pursuant to Rule 16b-3, to the extent disclosed on reports received from plan trustees.</footnote>
+        <footnote id="F2">These options were granted under a long-term incentive plan of The Kroger Co. and vest in equal annual installments over a four-year period, at the rate of 25% per year commencing one year from the date of the grant.</footnote>
+        <footnote id="F3">These options were granted under a long-term incentive plan of The Kroger Co. and vest in equal annual installments over a five-year period, at the rate of 20% per year commencing one year from the date of the grant.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Joseph A. Grieshaber, Jr.</signatureName>
+        <signatureDate>2019-06-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.3_862427
+<SEQUENCE>2
+<FILENAME>poa.txt
+<DESCRIPTION>POA DOCUMENT
+<TEXT>
+POWER OF ATTORNEY
+
+KNOW ALL PERSONS BY THESE PRESENTS:
+
+	The undersigned does hereby make, constitute and appoint Christine S. Wheatley,
+Stacey M. Heiser, and Dorothy D. Roberts, and each of them (with full power to
+each of them to act alone), his true and lawful attorney-in-fact to sign and
+execute for and on his behalf, and in his name, place and stead, to sign,
+execute, affix his seal, and file with the Securities and Exchange Commission,
+any and all documents required to be filed by him under Section 16 of the
+Securities Exchange Act of 1934, as amended, or any successor or comparable
+requirement, with respect to his holdings or changes in holdings of securities
+issued by The Kroger Co., in such form as the attorney-in-fact may approve.  The
+attorney-in-fact may do any and all other acts that said attorney-in-fact may
+deem necessary or appropriate in order to effectuate the foregoing as fully to
+all intents and purposes as the undersigned might or could do if personally
+present, hereby ratifying and confirming all that said attorney-in-fact may
+lawfully do or cause to be done by virtue hereof.  The power granted hereby will
+remain in effect until revoked in writing by the undersigned.
+
+	IN WITNESS WHEREOF, the undersigned has hereunto set his hand and seal, this
+29th day of May, 2019.
+
+
+
+						/s/ Joseph A. Grieshaber, Jr.
+						Joseph A. Grieshaber, Jr.
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

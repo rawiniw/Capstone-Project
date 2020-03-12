@@ -1,0 +1,119 @@
+<SEC-DOCUMENT>0001181431-11-025197.txt : 20110425
+<SEC-HEADER>0001181431-11-025197.hdr.sgml : 20110425
+<ACCEPTANCE-DATETIME>20110425163905
+ACCESSION NUMBER:		0001181431-11-025197
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20110425
+FILED AS OF DATE:		20110425
+DATE AS OF CHANGE:		20110425
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GREEN DOT CORP
+		CENTRAL INDEX KEY:			0001386278
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+
+	BUSINESS ADDRESS:	
+		STREET 1:		605 E HUNTINGTON DRIVE
+		STREET 2:		SUITE 205
+		CITY:			MONROVIA
+		STATE:			CA
+		ZIP:			91016
+		BUSINESS PHONE:		6267753400
+
+	MAIL ADDRESS:	
+		STREET 1:		605 E HUNTINGTON DRIVE
+		STREET 2:		SUITE 205
+		CITY:			MONROVIA
+		STATE:			CA
+		ZIP:			91016
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			WAL MART STORES INC
+		CENTRAL INDEX KEY:			0000104169
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34819
+		FILM NUMBER:		11777764
+
+	BUSINESS ADDRESS:	
+		STREET 1:		702 SOUTHWEST 8TH ST
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+		BUSINESS PHONE:		5012734000
+
+	MAIL ADDRESS:	
+		STREET 1:		702 SOUTHWEST 8TH STREET
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rrd308867.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0303</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2011-04-25</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001386278</issuerCik>
+        <issuerName>GREEN DOT CORP</issuerName>
+        <issuerTradingSymbol>GDOT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000104169</rptOwnerCik>
+            <rptOwnerName>WAL MART STORES INC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>702 S.W. EIGHTH STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BENTONVILLE</rptOwnerCity>
+            <rptOwnerState>AR</rptOwnerState>
+            <rptOwnerZipCode>72716</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <otherText>Former 10% Owner</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <remarks>The reporting person is no longer a 10% owner due to the issuance of additional shares of Class A Common Stock by the issuer.  This is an exit filing.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/Jane Thompson, Senior Vice President</signatureName>
+        <signatureDate>2011-04-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

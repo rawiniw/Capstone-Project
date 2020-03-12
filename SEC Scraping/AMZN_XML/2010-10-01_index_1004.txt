@@ -1,0 +1,344 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ C/qQLSY+7VP6RZQelVm+ld6D1sTKUCqXyZes5xcRWruzz+UR66d5ALyffCYHV+vI
+ Bl9EsvgKMBntRGwHoZXqqg==
+
+<SEC-DOCUMENT>0001359804-10-000071.txt : 20101001
+<SEC-HEADER>0001359804-10-000071.hdr.sgml : 20101001
+<ACCEPTANCE-DATETIME>20101001213853
+ACCESSION NUMBER:		0001359804-10-000071
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20100930
+FILED AS OF DATE:		20101001
+DATE AS OF CHANGE:		20101001
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			WILKE JEFFREY A
+		CENTRAL INDEX KEY:			0001184758
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-22513
+		FILM NUMBER:		101103896
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 81226
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98108-1226
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMAZON COM INC
+		CENTRAL INDEX KEY:			0001018724
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-CATALOG & MAIL-ORDER HOUSES [5961]
+		IRS NUMBER:				911646860
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		410 TERRY AVENUE NORTH
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98109
+		BUSINESS PHONE:		2062661000
+
+	MAIL ADDRESS:	
+		STREET 1:		410 TERRY AVENUE NORTH
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98109
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgar.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0303</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2010-09-30</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001018724</issuerCik>
+        <issuerName>AMAZON COM INC</issuerName>
+        <issuerTradingSymbol>AMZN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001184758</rptOwnerCik>
+            <rptOwnerName>WILKE JEFFREY A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>P.O. BOX 81226</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SEATTLE</rptOwnerCity>
+            <rptOwnerState>WA</rptOwnerState>
+            <rptOwnerZipCode>98108-1226</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Senior Vice President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2010-09-30</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1700</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>160.31</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>58918</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2010-09-30</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3100</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>159.2121</value>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>55818</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2010-09-30</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>158.4327</value>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>54318</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2010-09-30</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2110</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>157.0124</value>
+                    <footnoteId id="F5"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>52208</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2010-09-30</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>676</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>156.3098</value>
+                    <footnoteId id="F6"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>51532</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, par value $.01 per share</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>457.012</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Held by the reporting person's Amazon.com 401(k) plan account</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This transaction was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person.</footnote>
+        <footnote id="F2">Represents the weighted average sale price. The highest price at which shares were sold was $160.78 and the lowest price at which shares were sold was $159.79.</footnote>
+        <footnote id="F3">Represents the weighted average sale price. The highest price at which shares were sold was $159.57 and the lowest price at which shares were sold was $158.83.</footnote>
+        <footnote id="F4">Represents the weighted average sale price. The highest price at which shares were sold was $158.79 and the lowest price at which shares were sold was $157.95.</footnote>
+        <footnote id="F5">Represents the weighted average sale price. The highest price at which shares were sold was $157.67 and the lowest price at which shares were sold was $156.68.</footnote>
+        <footnote id="F6">Represents the weighted average sale price. The highest price at which shares were sold was $156.65 and the lowest price at which shares were sold was $155.80.</footnote>
+    </footnotes>
+
+    <remarks>REMARKS:
+
+The reporting person undertakes to provide, upon request by the staff of the SEC, the issuer, or a security holder of the issuer, full information regarding the number of shares transacted at each price, with respect to all transactions reported on this Form 4.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Jeffrey A. Wilke, Senior Vice President</signatureName>
+        <signatureDate>2010-10-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

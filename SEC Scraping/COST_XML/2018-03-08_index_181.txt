@@ -1,0 +1,136 @@
+<SEC-DOCUMENT>0001209191-18-017943.txt : 20180308
+<SEC-HEADER>0001209191-18-017943.hdr.sgml : 20180308
+<ACCEPTANCE-DATETIME>20180308135159
+ACCESSION NUMBER:		0001209191-18-017943
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20180302
+FILED AS OF DATE:		20180308
+DATE AS OF CHANGE:		20180308
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Miller Russell D
+		CENTRAL INDEX KEY:			0001729741
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-20355
+		FILM NUMBER:		18675959
+
+	MAIL ADDRESS:	
+		STREET 1:		999 LAKE DRIVE
+		CITY:			ISSAQUAH
+		STATE:			WA
+		ZIP:			98027
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COSTCO WHOLESALE CORP /NEW
+		CENTRAL INDEX KEY:			0000909832
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				911223280
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			0902
+
+	BUSINESS ADDRESS:	
+		STREET 1:		999 LAKE DRIVE
+		CITY:			ISSAQUAH
+		STATE:			WA
+		ZIP:			98027-
+		BUSINESS PHONE:		4253138100
+
+	MAIL ADDRESS:	
+		STREET 1:		999 LAKE DRIVE
+		CITY:			ISSAQUAH
+		STATE:			WA
+		ZIP:			98027
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COSTCO COMPANIES INC
+		DATE OF NAME CHANGE:	19970401
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PRICE/COSTCO INC
+		DATE OF NAME CHANGE:	19930728
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<DESCRIPTION>FORM 3 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2018-03-02</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000909832</issuerCik>
+        <issuerName>COSTCO WHOLESALE CORP /NEW</issuerName>
+        <issuerTradingSymbol>COST</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001729741</rptOwnerCik>
+            <rptOwnerName>Miller Russell D</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>999 LAKE DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ISSAQUAH</rptOwnerCity>
+            <rptOwnerState>WA</rptOwnerState>
+            <rptOwnerZipCode>98027</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Executive Vice President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>12393.7</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes></footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Deanna K. Nakashima, attorney-in-fact</signatureName>
+        <signatureDate>2018-03-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

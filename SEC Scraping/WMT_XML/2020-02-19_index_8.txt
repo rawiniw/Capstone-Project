@@ -1,6 +1,6 @@
-0001127602-20-006537.txt : 20200219
-0001127602-20-006537.hdr.sgml : 20200219
-20200219175005
+<SEC-DOCUMENT>0001127602-20-006537.txt : 20200219
+<SEC-HEADER>0001127602-20-006537.hdr.sgml : 20200219
+<ACCEPTANCE-DATETIME>20200219175005
 ACCESSION NUMBER:		0001127602-20-006537
 CONFORMED SUBMISSION TYPE:	3
 PUBLIC DOCUMENT COUNT:		2
@@ -52,75 +52,84 @@ ISSUER:
 	FORMER COMPANY:	
 		FORMER CONFORMED NAME:	WAL MART STORES INC
 		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>form3.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
 
+    <schemaVersion>X0206</schemaVersion>
 
-3
-1
-form3.xml
-PRIMARY DOCUMENT
+    <documentType>3</documentType>
 
+    <periodOfReport>2020-02-17</periodOfReport>
 
+    <noSecuritiesOwned>0</noSecuritiesOwned>
 
+    <issuer>
+        <issuerCik>0000104169</issuerCik>
+        <issuerName>Walmart Inc.</issuerName>
+        <issuerTradingSymbol>WMT</issuerTradingSymbol>
+    </issuer>
 
-X0206
-3
-2020-02-17
-0
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001598108</rptOwnerCik>
+            <rptOwnerName>Morris Donna</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>702 S.W. 8TH STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BENTONVILLE</rptOwnerCity>
+            <rptOwnerState>AR</rptOwnerState>
+            <rptOwnerZipCode>72716</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Executive Vice President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
 
-0000104169
-Walmart Inc.
-WMT
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
 
+    <footnotes></footnotes>
 
-
-0001598108
-Morris Donna
-
-
-702 S.W. 8TH STREET
-
-BENTONVILLE
-AR
-72716
-
-
-
-1
-Executive Vice President
-
-
-
-
-
-Common
-
-
-
-0
-
-
-
-
-D
-
-
-
-
-
-
-/s/ Jennifer F. Rudolph, by power of attorney
-2020-02-19
-
-
-
-
-
-
-EX-24
-2
-doc1.txt
-POWER OF ATTORNEY (PUBLIC): POWER OF ATTORNEY
-
+    <ownerSignature>
+        <signatureName>/s/ Jennifer F. Rudolph, by power of attorney</signatureName>
+        <signatureDate>2020-02-19</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>doc1.txt
+<DESCRIPTION>POWER OF ATTORNEY (PUBLIC): POWER OF ATTORNEY
+<TEXT>
 
 POWER OF ATTORNEY
 
@@ -164,6 +173,6 @@ Date: February 17, 2020				/s/ Donna Morris
 						    Donna Morris
 
 
-
-
-
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

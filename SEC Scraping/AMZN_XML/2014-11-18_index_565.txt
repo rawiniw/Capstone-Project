@@ -1,0 +1,643 @@
+<SEC-DOCUMENT>0001018724-14-000081.txt : 20141118
+<SEC-HEADER>0001018724-14-000081.hdr.sgml : 20141118
+<ACCEPTANCE-DATETIME>20141118202819
+ACCESSION NUMBER:		0001018724-14-000081
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20141115
+FILED AS OF DATE:		20141118
+DATE AS OF CHANGE:		20141118
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMAZON COM INC
+		CENTRAL INDEX KEY:			0001018724
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-CATALOG & MAIL-ORDER HOUSES [5961]
+		IRS NUMBER:				911646860
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		410 TERRY AVENUE NORTH
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98109
+		BUSINESS PHONE:		2062661000
+
+	MAIL ADDRESS:	
+		STREET 1:		410 TERRY AVENUE NORTH
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98109
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Jassy Andrew R
+		CENTRAL INDEX KEY:			0001374545
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-22513
+		FILM NUMBER:		141233362
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 81226
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98108-1226
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_141636048836463.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2014-11-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001018724</issuerCik>
+        <issuerName>AMAZON COM INC</issuerName>
+        <issuerTradingSymbol>AMZN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001374545</rptOwnerCik>
+            <rptOwnerName>Jassy Andrew R</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>P.O. BOX 81226</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SEATTLE</rptOwnerCity>
+            <rptOwnerState>WA</rptOwnerState>
+            <rptOwnerZipCode>98108-1226</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Senior Vice President</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2014-11-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2334</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>52421</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2014-11-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5750</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>58171</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2014-11-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>318.662</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>57671</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2014-11-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>445</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>319.8182</value>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>57226</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2014-11-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>300</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>320.5733</value>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>56926</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2014-11-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>600</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>321.9983</value>
+                    <footnoteId id="F5"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>56326</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2014-11-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>400</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>323.2975</value>
+                    <footnoteId id="F6"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>55926</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2014-11-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>250</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>324.038</value>
+                    <footnoteId id="F7"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>55676</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2014-11-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>600</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>326.7133</value>
+                    <footnoteId id="F8"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>55076</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2014-11-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>200</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>324.96</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>54876</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2014-11-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>100</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>327.85</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>54776</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, par value $.01 per share</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>475.474</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Held by the reporting person's Amazon.com 401(k) plan account.</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Unit Award</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.0</value>
+                <footnoteId id="F9"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2014-11-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2334</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2013-05-15</value>
+                <footnoteId id="F10"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2018-02-15</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, par value $.01 per share</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2334.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>46330</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Unit Award</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.0</value>
+                <footnoteId id="F9"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2014-11-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5750</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2014-05-15</value>
+                <footnoteId id="F11"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2016-02-15</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, par value $.01 per share</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>5750.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>28750</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This transaction was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person.</footnote>
+        <footnote id="F2">Represents the weighted average sale price. The highest price at which shares were sold was $319.19 and the lowest price at which shares were sold was $318.31.</footnote>
+        <footnote id="F3">Represents the weighted average sale price. The highest price at which shares were sold was $320.23 and the lowest price at which shares were sold was $319.38.</footnote>
+        <footnote id="F4">Represents the weighted average sale price. The highest price at which shares were sold was $320.89 and the lowest price at which shares were sold was $320.41.</footnote>
+        <footnote id="F5">Represents the weighted average sale price. The highest price at which shares were sold was $322.30 and the lowest price at which shares were sold was $321.49.</footnote>
+        <footnote id="F6">Represents the weighted average sale price. The highest price at which shares were sold was $323.76 and the lowest price at which shares were sold was $322.78.</footnote>
+        <footnote id="F7">Represents the weighted average sale price. The highest price at which shares were sold was $324.36 and the lowest price at which shares were sold was $323.79.</footnote>
+        <footnote id="F8">Represents the weighted average sale price. The highest price at which shares were sold was $327.08 and the lowest price at which shares were sold was $326.43.</footnote>
+        <footnote id="F9">Converts into Common Stock on a one-for-one basis.</footnote>
+        <footnote id="F10">This award vests based upon the following vesting schedule and the satisfaction of certain business criteria intended to qualify the award as tax-deductible compensation under Section 162(m) of the Internal Revenue Code: 1,547 shares on each of May 15, 2013, August 15, 2013, and November 15, 2013; 1,546 shares on February 15, 2014; 2,334 shares on each of May 15, 2014, August 15, 2014, November 15, 2014, and February 15, 2015; 1,280 shares on each of May 15, 2015 and August 15, 2015; 1,279 shares on each of November 15, 2015 and February 15, 2016; 5,489 shares on each of May 15, 2016, August 15, 2016, November 15, 2016, and February 15, 2017; 4,231 shares on each of May 15, 2017 and August 15, 2017; and 4,230 shares on each of November 15, 2017 and February 15, 2018.</footnote>
+        <footnote id="F11">This award vests based upon the following vesting schedule and the satisfaction of certain business criteria intended to qualify the award as tax-deductible compensation under Section 162(m) of the Internal Revenue Code: 5,750 shares on each of May 15, 2014, August 15, 2014, November 15, 2014, February 15, 2015, May 15, 2015, August 15, 2015, November 15, 2015, and February 15, 2016.</footnote>
+    </footnotes>
+
+    <remarks>The reporting person undertakes to provide, upon request by the staff of the SEC, the issuer, or a security holder of the issuer, full information regarding the number of shares transacted at each price, with respect to all transactions reported on this Form 4.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Andrew R. Jassy, Senior Vice President</signatureName>
+        <signatureDate>2014-11-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

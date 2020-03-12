@@ -1,0 +1,245 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ P7YMH/6A+lQc4BJRGT1MWRXRmB6Yd82rDdSUNMYsQUGAf3BWL5UjAje7YjmBLqAM
+ D2te6frQgR9AaVHKYZHzKg==
+
+<SEC-DOCUMENT>0001209191-10-062059.txt : 20101221
+<SEC-HEADER>0001209191-10-062059.hdr.sgml : 20101221
+<ACCEPTANCE-DATETIME>20101221183147
+ACCESSION NUMBER:		0001209191-10-062059
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20101221
+FILED AS OF DATE:		20101221
+DATE AS OF CHANGE:		20101221
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BROTMAN JEFFREY H
+		CENTRAL INDEX KEY:			0001184491
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-20355
+		FILM NUMBER:		101266795
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COSTCO WHOLESALE CORP /NEW
+		CENTRAL INDEX KEY:			0000909832
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				911223280
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			0828
+
+	BUSINESS ADDRESS:	
+		STREET 1:		999 LAKE DRIVE
+		CITY:			ISSAQUAH
+		STATE:			WA
+		ZIP:			98027-
+		BUSINESS PHONE:		4253138100
+
+	MAIL ADDRESS:	
+		STREET 1:		999 LAKE DRIVE
+		CITY:			ISSAQUAH
+		STATE:			WA
+		ZIP:			98027
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COSTCO COMPANIES INC
+		DATE OF NAME CHANGE:	19970401
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PRICE/COSTCO INC
+		DATE OF NAME CHANGE:	19930728
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0303</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2010-12-21</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000909832</issuerCik>
+        <issuerName>COSTCO WHOLESALE CORP /NEW</issuerName>
+        <issuerTradingSymbol>COST</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001184491</rptOwnerCik>
+            <rptOwnerName>BROTMAN JEFFREY H</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>999 LAKE DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ISSAQUAH</rptOwnerCity>
+            <rptOwnerState>WA</rptOwnerState>
+            <rptOwnerZipCode>98027</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chairman of the Board</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2010-12-21</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>82993</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>81660</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>736703.04</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>1984 Brotman Family Trust</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>20</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Justin Brotman</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares sold as follows:
+
+100  @ 72.265
+1100 @ 72.270
+216  @ 72.275
+682  @ 72.280
+200  @ 72.290
+900  @ 72.300
+204  @ 72.310
+1900 @ 72.320
+200  @ 72.325
+2889 @ 72.330
+176  @ 72.335
+311  @ 72.340
+124  @ 72.345
+4800 @ 72.350
+605  @ 72.355
+4751 @ 72.360
+461  @ 72.365
+1243 @ 72.370
+900  @ 72.375
+7641 @ 72.380
+400  @ 72.385
+2020 @ 72.390
+600  @ 72.395
+5469 @ 72.400
+1344 @ 72.405
+6501 @ 72.410
+900  @ 72.415
+5730 @ 72.420
+700  @ 72.425
+6220 @ 72.430
+1200 @ 72.435
+100  @ 72.438
+9850 @ 72.440
+600  @ 72.445
+3606 @ 72.450
+3550 @ 72.460
+100  @ 72.465
+4000 @ 72.470
+600  @ 72.480
+100  @ 72.510</footnote>
+        <footnote id="F2">Mr. Brotman disclaims beneficial ownership of shares owned by the trust.  Mr. Brotman is not a trustee of this trust nor does he have investment control over the trust's assets.  Mr. Brotman is one of a number of beneficiaries of the trust.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Deanna K. Nakashima, attorney-in-fact</signatureName>
+        <signatureDate>2010-12-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

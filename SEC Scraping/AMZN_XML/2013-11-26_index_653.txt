@@ -1,0 +1,255 @@
+<SEC-DOCUMENT>0001359804-13-000074.txt : 20131126
+<SEC-HEADER>0001359804-13-000074.hdr.sgml : 20131126
+<ACCEPTANCE-DATETIME>20131126182455
+ACCESSION NUMBER:		0001359804-13-000074
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20131125
+FILED AS OF DATE:		20131126
+DATE AS OF CHANGE:		20131126
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMAZON COM INC
+		CENTRAL INDEX KEY:			0001018724
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-CATALOG & MAIL-ORDER HOUSES [5961]
+		IRS NUMBER:				911646860
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		410 TERRY AVENUE NORTH
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98109
+		BUSINESS PHONE:		2062661000
+
+	MAIL ADDRESS:	
+		STREET 1:		410 TERRY AVENUE NORTH
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98109
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			WILKE JEFFREY A
+		CENTRAL INDEX KEY:			0001184758
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-22513
+		FILM NUMBER:		131245327
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 81226
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98108-1226
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgar.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2013-11-25</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001018724</issuerCik>
+        <issuerName>AMAZON COM INC</issuerName>
+        <issuerTradingSymbol>AMZN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001184758</rptOwnerCik>
+            <rptOwnerName>WILKE JEFFREY A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>P.O. BOX 81226</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SEATTLE</rptOwnerCity>
+            <rptOwnerState>WA</rptOwnerState>
+            <rptOwnerZipCode>98108-1226</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Senior Vice President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2013-11-25</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>35933</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, par value $.01 per share</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>15000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>In trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, par value $.01 per share</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11675</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>In trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, par value $.01 per share</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>504.047</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Held by the reporting person's Amazon.com 401(k) plan account</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Contribution to non-profit organization.</footnote>
+    </footnotes>
+
+    <remarks>Exhibit 24
+Power of Attorney</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ by Michael D. Deal as attorney-in-fact for JEFFREY A. WILKE, Senior Vice President</signatureName>
+        <signatureDate>2013-11-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>attach_1.htm
+<DESCRIPTION>WILKE POA
+<TEXT>
+<HTML><BODY><PRE>POWER OF ATTORNEY
+
+
+
+      The undersigned hereby constitutes and appoints each of Michael D. Deal, Thomas J. Szkutak and David A. Zapolsky as the undersigned's true and lawful attorney-in-fact to:
+
+(1) execute for and on behalf of the undersigned, in the undersigned's capacity as an officer and/or director of Amazon.com, Inc. (the "Company"), Forms 3, 4 and 5 in accordance with Section 16(a) of the Securities Exchange Act of 1934, as amended, and the rules and regulations thereunder;
+
+(2) do and perform any and all acts for and on behalf of the undersigned that may be necessary or desirable to complete and execute any such Forms 3, 4 and 5, to complete and execute any amendment or amendments thereto, and to file or cause to be filed such forms and amendments with the United States Securities and Exchange Commission and, to the extent required, with any stock exchange or similar authority; and
+
+(3) take any other action of any type whatsoever in connection with the foregoing which, in the opinion of such attorney-in-fact, may be of benefit to, in the best interest of, or legally required by, the undersigned, it being understood that the documents executed by such attorney-in-fact on behalf of the undersigned pursuant to this power of attorney shall be in such form and shall contain such terms and conditions as such attorney-in-fact may approve in such attorney-in-fact's discretion.
+
+
+
+      The undersigned hereby grants to such attorney-in-fact full power and authority to do and perform each and every act and thing whatsoever requisite, necessary or proper to be done in the exercise of any of the rights and powers herein granted, as fully to all intents and purposes as the undersigned might or could do if personally present, with full power of substitution and revocation, hereby ratifying and confirming all that such attorney-in-fact, or such attorney-in-fact's substitute or substitutes, shall lawfully do or cause to be done by virtue of this power of attorney and the rights and powers herein granted.  The undersigned acknowledges that the foregoing attorney-in-fact, in serving in such capacity at the request of the undersigned, is not assuming, nor is the Company assuming, any of the undersigned's responsibilities to comply with Section 16 of the Securities Exchange Act of 1934, as amended.
+
+      The undersigned agrees that such attorney-in-fact may rely entirely on information furnished orally or in writing by the undersigned to such attorney-in-fact.  The undersigned also agrees to indemnify and hold harmless the Company and such attorney-in-fact against any losses, claims, damages or liabilities (or actions in these respects) that arise out of or are based on any untrue statement or omission of necessary facts in the information provided by the undersigned to such attorney-in-fact for purposes of executing, acknowledging, delivering and filing Forms 3, 4 or 5 (including amendments thereto) and agrees to reimburse the Company and such attorney-in-fact for any legal or other expenses reasonably incurred in connection with investigating or defending against any such loss, claim, damage, liability or action.
+
+
+
+      This Power of Attorney shall remain in full force and effect until the undersigned is no longer required to file Forms 3, 4 and 5 with respect to the undersigned's holdings of and transactions in securities issued by the Company, unless earlier revoked by the undersigned in a signed writing delivered to the foregoing attorney-in-fact.  The execution of this Power of Attorney shall not of itself rescind or revoke any Power of Attorney granted by the undersigned to any other person.
+
+
+
+      IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be executed as of this 8th day of January, 2013.
+
+
+
+
+
+_______/s/ Jeffrey A. Wilke____________
+
+Jeffrey A. Wilke
+
+
+
+1097630 Amazon.com, Inc. Confidential
+
+
+
+</PRE></BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

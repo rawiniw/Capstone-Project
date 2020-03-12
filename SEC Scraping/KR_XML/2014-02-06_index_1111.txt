@@ -1,0 +1,130 @@
+<SEC-DOCUMENT>0001209191-14-007950.txt : 20140206
+<SEC-HEADER>0001209191-14-007950.hdr.sgml : 20140206
+<ACCEPTANCE-DATETIME>20140206150441
+ACCESSION NUMBER:		0001209191-14-007950
+CONFORMED SUBMISSION TYPE:	3/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20140117
+FILED AS OF DATE:		20140206
+DATE AS OF CHANGE:		20140206
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KROGER CO
+		CENTRAL INDEX KEY:			0000056873
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-GROCERY STORES [5411]
+		IRS NUMBER:				310345740
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0203
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1014 VINE ST
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45201
+		BUSINESS PHONE:		5137624000
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Tuffin Mark C
+		CENTRAL INDEX KEY:			0001595371
+
+	FILING VALUES:
+		FORM TYPE:		3/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00303
+		FILM NUMBER:		14579685
+
+	MAIL ADDRESS:	
+		STREET 1:		THE KROGER CO.
+		STREET 2:		1014 VINE STREET
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45202
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3/A
+<SEQUENCE>1
+<FILENAME>doc3a.xml
+<DESCRIPTION>FORM 3/A SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3/A</documentType>
+
+    <periodOfReport>2014-01-17</periodOfReport>
+
+    <dateOfOriginalSubmission>2014-01-17</dateOfOriginalSubmission>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000056873</issuerCik>
+        <issuerName>KROGER CO</issuerName>
+        <issuerTradingSymbol>KR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001595371</rptOwnerCik>
+            <rptOwnerName>Tuffin Mark C</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>THE KROGER CO.</rptOwnerStreet1>
+            <rptOwnerStreet2>1014 VINE STREET</rptOwnerStreet2>
+            <rptOwnerCity>CINCINNATI</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>45202</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Senior Vice President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>40263.3797</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Due to an administrative error, the amount of securities beneficially owned by the reporting person was inadvertently overstated in his original Form 3 and subsequent filings in the amount of 39,303.5021 shares.</footnote>
+        <footnote id="F2">The total amount of securities directly owned by the reporting person includes shares in the Company's employee benefit plans that are deemed to be 'tax-conditioned plans' pursuant to Rule 16b-3, to the extent disclosed on reports received from plan trustees.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Mark C. Tuffin, by Bruce M. Gack, Attorney-in-Fact</signatureName>
+        <signatureDate>2014-02-06</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

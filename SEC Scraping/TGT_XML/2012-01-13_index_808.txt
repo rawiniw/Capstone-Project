@@ -1,0 +1,321 @@
+<SEC-DOCUMENT>0001225208-12-001386.txt : 20120113
+<SEC-HEADER>0001225208-12-001386.hdr.sgml : 20120113
+<ACCEPTANCE-DATETIME>20120113205620
+ACCESSION NUMBER:		0001225208-12-001386
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20120111
+FILED AS OF DATE:		20120113
+DATE AS OF CHANGE:		20120113
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TARGET CORP
+		CENTRAL INDEX KEY:			0000027419
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				410215170
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			0131
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1000 NICOLLET MALL
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55403
+		BUSINESS PHONE:		6123046073
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 NICOLLET MALL
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55403
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DAYTON HUDSON CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DAYTON CORP
+		DATE OF NAME CHANGE:	19690728
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SCOVANNER DOUGLAS A
+		CENTRAL INDEX KEY:			0001205002
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06049
+		FILM NUMBER:		12527918
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 NICOLLET MALL, TPS-3255
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55403
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0304</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2012-01-11</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000027419</issuerCik>
+        <issuerName>TARGET CORP</issuerName>
+        <issuerTradingSymbol>TGT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001205002</rptOwnerCik>
+            <rptOwnerName>SCOVANNER DOUGLAS A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1000 NICOLLET MALL</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MINNEAPOLIS</rptOwnerCity>
+            <rptOwnerState>MN</rptOwnerState>
+            <rptOwnerZipCode>55403</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2011-12-08</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3729.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.0000</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>102730.0000</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2011-12-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4576.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.0000</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>98707.0000</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2011-12-08</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3729.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.0000</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>27054.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By GRAT</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8891.0670</value>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By 401(k) Plan</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2250.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option</value>
+                <footnoteId id="F5"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>48.8800</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2012-01-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>79555.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.0000</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F6"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2022-01-11</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>79555.0000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>79555.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On December 8, 2011, the form of ownership of these shares changed when they were distributed from the reporting person's GRAT to the reporting person.</footnote>
+        <footnote id="F2">Includes dividend equivalents paid on restricted stock units since the date of the reporting person's last filing through the date of the reported transaction that have been reinvested in additional restricted stock units.</footnote>
+        <footnote id="F3">Includes dividend equivalents paid on restricted stock units since the date of the transaction through January 11, 2012.</footnote>
+        <footnote id="F4">Shares held in the Target Corporation 401(k) Plan based on the plan statement as of December 30, 2011.</footnote>
+        <footnote id="F5">Option granted under the Target Corporation 2011 Long-Term Incentive Plan.</footnote>
+        <footnote id="F6">Option granted on January 11, 2012.  Option becomes exercisable in 25% increments on each anniversary of the grant date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>David L. Donlin, Attorney-In-Fact</signatureName>
+        <signatureDate>2012-01-13</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

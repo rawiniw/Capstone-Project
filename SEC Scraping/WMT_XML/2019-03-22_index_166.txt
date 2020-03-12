@@ -1,0 +1,349 @@
+<SEC-DOCUMENT>0001127602-19-013041.txt : 20190322
+<SEC-HEADER>0001127602-19-013041.hdr.sgml : 20190322
+<ACCEPTANCE-DATETIME>20190322182138
+ACCESSION NUMBER:		0001127602-19-013041
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20190320
+FILED AS OF DATE:		20190322
+DATE AS OF CHANGE:		20190322
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			WALTON S ROBSON
+		CENTRAL INDEX KEY:			0001219112
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06991
+		FILM NUMBER:		19700962
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O WALTON ENTERPRISES, INC.
+		STREET 2:		P.O. BOX 1860
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716-0105
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Walmart Inc.
+		CENTRAL INDEX KEY:			0000104169
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				710415188
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	BUSINESS ADDRESS:	
+		STREET 1:		702 SOUTHWEST 8TH ST
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+		BUSINESS PHONE:		5012734000
+
+	MAIL ADDRESS:	
+		STREET 1:		702 SOUTHWEST 8TH STREET
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WAL MART STORES INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2019-03-20</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000104169</issuerCik>
+        <issuerName>Walmart Inc.</issuerName>
+        <issuerTradingSymbol>WMT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001219112</rptOwnerCik>
+            <rptOwnerName>WALTON S ROBSON</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>702 S.W. 8TH STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BENTONVILLE</rptOwnerCity>
+            <rptOwnerState>AR</rptOwnerState>
+            <rptOwnerZipCode>72716-0215</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isTenPercentOwner>1</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-03-20</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>743424</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>99.0148</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>25111210</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-03-20</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>400</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>99.54</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>25110810</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-03-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4726507</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>20384303</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-03-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>900589</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>98.7729</value>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>19483714</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-03-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4610</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>99.1098</value>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>19479104</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3347378.8956</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1415891131</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Limited Liability Company</value>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This sale from the Walton Family Holdings Trust (the &quot;Trust&quot;) was executed in multiple trades at prices ranging from $98.54 to $99.52, inclusive.  The price reported above reflects the weighted average sale price.  The reporting person undertakes to provide to the issuer, any security holder of the issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares and prices at which the transaction was effected.</footnote>
+        <footnote id="F2">The transaction is a distribution of 4,726,507 shares of Common Stock, for no consideration, by the Trust to certain beneficiaries of the Trust.</footnote>
+        <footnote id="F3">This sale from the Trust was executed in multiple trades at prices ranging from $98.10 to $99.09, inclusive.  The price reported above reflects the weighted average sale price.  The reporting person undertakes to provide to the issuer, any security holder of the issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares and prices at which the transaction was effected.</footnote>
+        <footnote id="F4">This sale from the Trust was executed in multiple trades at prices ranging from $99.10 to $99.13, inclusive.  The price reported above reflects the weighted average sale price.  The reporting person undertakes to provide to the issuer, any security holder of the issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares and prices at which the transaction was effected.</footnote>
+        <footnote id="F5">The reporting person is a trustee of the Trust, the entity that owns 19,479,104 shares of Common Stock.  The reporting person disclaims beneficial ownership of the reported securities held by such Trust except to the extent of his pecuniary interest therein.</footnote>
+        <footnote id="F6">The reporting person is a member of Walton Enterprises, LLC, the entity that owns 1,415,891,131 shares of Common Stock.  The reporting person disclaims beneficial ownership of the reported securities held by such LLC except to the extent of his pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jennifer F. Rudolph, by power of attorney</signatureName>
+        <signatureDate>2019-03-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

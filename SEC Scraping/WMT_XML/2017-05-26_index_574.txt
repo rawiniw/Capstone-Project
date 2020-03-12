@@ -1,0 +1,225 @@
+<SEC-DOCUMENT>0001127602-17-019577.txt : 20170526
+<SEC-HEADER>0001127602-17-019577.hdr.sgml : 20170526
+<ACCEPTANCE-DATETIME>20170526171835
+ACCESSION NUMBER:		0001127602-17-019577
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20170524
+FILED AS OF DATE:		20170526
+DATE AS OF CHANGE:		20170526
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WAL MART STORES INC
+		CENTRAL INDEX KEY:			0000104169
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				710415188
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	BUSINESS ADDRESS:	
+		STREET 1:		702 SOUTHWEST 8TH ST
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+		BUSINESS PHONE:		5012734000
+
+	MAIL ADDRESS:	
+		STREET 1:		702 SOUTHWEST 8TH STREET
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			WALTON S ROBSON
+		CENTRAL INDEX KEY:			0001219112
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06991
+		FILM NUMBER:		17874946
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O WALTON ENTERPRISES, INC.
+		STREET 2:		P.O. BOX 1860
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716-0105
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2017-05-24</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000104169</issuerCik>
+        <issuerName>WAL MART STORES INC</issuerName>
+        <issuerTradingSymbol>WMT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001219112</rptOwnerCik>
+            <rptOwnerName>WALTON S ROBSON</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>702 S.W. 8TH STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BENTONVILLE</rptOwnerCity>
+            <rptOwnerState>AR</rptOwnerState>
+            <rptOwnerZipCode>72716-0215</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isTenPercentOwner>1</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-05-24</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1281955</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>78.2717</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>127347699</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-05-25</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1194419</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>78.3784</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>126153280</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3342757.8956</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1415891131</value>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Limited Liability Company</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This sale from the Walton Family Holdings Trust was executed in multiple trades at prices ranging from $78.14 to $78.48, inclusive.  The price reported above reflects the weighted average sale price.  The reporting person undertakes to provide to the issuer, any security holder of the issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares and prices at which the transaction was effected.</footnote>
+        <footnote id="F2">This sale from the Walton Family Holdings Trust was executed in multiple trades at prices ranging from $78.15 to $78.845, inclusive.  The price reported above reflects the weighted average sale price.  The reporting person undertakes to provide to the issuer, any security holder of the issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares and prices at which the transaction was effected.</footnote>
+        <footnote id="F3">The reporting person is a trustee of the Trust, the entity that owns 126,153,280 shares of Common Stock.  The reporting person disclaims beneficial ownership of the reported securities held by the Trust except to the extent of his pecuniary interest therein.</footnote>
+        <footnote id="F4">The reporting person is a member of Walton Enterprises, LLC, the entity that owns 1,415,891,131 shares of Common Stock.  The reporting person disclaims beneficial ownership of the reported securities held by such LLC except to the extent of his pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Geoffrey W. Edwards, by power of attorney</signatureName>
+        <signatureDate>2017-05-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

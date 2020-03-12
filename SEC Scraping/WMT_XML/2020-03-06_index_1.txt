@@ -1,6 +1,6 @@
-0001127602-20-009856.txt : 20200306
-0001127602-20-009856.hdr.sgml : 20200306
-20200306180525
+<SEC-DOCUMENT>0001127602-20-009856.txt : 20200306
+<SEC-HEADER>0001127602-20-009856.hdr.sgml : 20200306
+<ACCEPTANCE-DATETIME>20200306180525
 ACCESSION NUMBER:		0001127602-20-009856
 CONFORMED SUBMISSION TYPE:	4
 PUBLIC DOCUMENT COUNT:		1
@@ -53,156 +53,164 @@ ISSUER:
 	FORMER COMPANY:	
 		FORMER CONFORMED NAME:	WAL MART STORES INC
 		DATE OF NAME CHANGE:	19920703
-
-
-4
-1
-form4.xml
-PRIMARY DOCUMENT
-
-
-
-
-X0306
-4
-2020-03-05
-
-0000104169
-Walmart Inc.
-WMT
-
-
-
-0001013440
-WALTON ALICE L
-
-
-P.O. BOX 1860
-
-BENTONVILLE
-AR
-72712
-
-
-
-1
-
-
-
-
-
-Common Stock
-
-
-2020-03-05
-
-
-5
-J
-0
-
-
-
-E
-
-
-
-415000000
-
-
-
-0
-
-
-
-D
-
-
-
-
-1000891131
-
-
-
-
-I
-
-
-
-By Limited Liability Company
-
-
-
-
-
-Common Stock
-
-
-2020-03-05
-
-
-5
-J
-0
-
-
-
-E
-
-
-
-415000000
-
-
-
-0
-
-
-
-A
-
-
-
-
-419155600
-
-
-
-
-I
-
-
-
-By Trust
-
-
-
-
-
-Common Stock
-
-
-
-6748580
-
-
-
-
-D
-
-
-
-
-
-The reporting person is a member of Walton Enterprises, LLC ("Walton Enterprises").  The securities were contributed by Walton Enterprises to the Walton Family Holdings Trust (the "Trust"), a trust established for the benefit of the holders of the membership interests of Walton Enterprises, on 03/05/2020 (the "Transaction").  Following the Transaction, Walton Enterprises owns 1,000,891,131 shares of Common Stock.  The reporting person disclaims beneficial ownership of the reported securities held by Walton Enterprises except to the extent of her pecuniary interest therein.
-The reporting person is a trustee of the Trust, the entity that holds 419,155,600 shares of Common Stock.  The reporting person disclaims beneficial ownership of the reported securities held by the Trust except to the extent of her pecuniary interest therein.
-
-
-/s/ Jennifer F. Rudolph, by Power of Attorney
-2020-03-06
-
-
-
-
-
-
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-03-05</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000104169</issuerCik>
+        <issuerName>Walmart Inc.</issuerName>
+        <issuerTradingSymbol>WMT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001013440</rptOwnerCik>
+            <rptOwnerName>WALTON ALICE L</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>P.O. BOX 1860</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BENTONVILLE</rptOwnerCity>
+            <rptOwnerState>AR</rptOwnerState>
+            <rptOwnerZipCode>72712</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>1</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-03-05</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value>E</value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>415000000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1000891131</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F1"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Limited Liability Company</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-03-05</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value>E</value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>415000000</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>419155600</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6748580</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The reporting person is a member of Walton Enterprises, LLC (&quot;Walton Enterprises&quot;).  The securities were contributed by Walton Enterprises to the Walton Family Holdings Trust (the &quot;Trust&quot;), a trust established for the benefit of the holders of the membership interests of Walton Enterprises, on 03/05/2020 (the &quot;Transaction&quot;).  Following the Transaction, Walton Enterprises owns 1,000,891,131 shares of Common Stock.  The reporting person disclaims beneficial ownership of the reported securities held by Walton Enterprises except to the extent of her pecuniary interest therein.</footnote>
+        <footnote id="F2">The reporting person is a trustee of the Trust, the entity that holds 419,155,600 shares of Common Stock.  The reporting person disclaims beneficial ownership of the reported securities held by the Trust except to the extent of her pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jennifer F. Rudolph, by Power of Attorney</signatureName>
+        <signatureDate>2020-03-06</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

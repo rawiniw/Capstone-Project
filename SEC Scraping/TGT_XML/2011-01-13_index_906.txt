@@ -1,0 +1,196 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ EdVQdN0D/Wkz2ouuXI6GAIJmvDqs0zjMYtoUTUWLbByAJybUtivzgSSAb7N4uRIX
+ zb2TygYiiJoSX7eS20k5vQ==
+
+<SEC-DOCUMENT>0001104659-11-001372.txt : 20110113
+<SEC-HEADER>0001104659-11-001372.hdr.sgml : 20110113
+<ACCEPTANCE-DATETIME>20110113124538
+ACCESSION NUMBER:		0001104659-11-001372
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20110107
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+FILED AS OF DATE:		20110113
+DATE AS OF CHANGE:		20110113
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TARGET CORP
+		CENTRAL INDEX KEY:			0000027419
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				410215170
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06049
+		FILM NUMBER:		11527052
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1000 NICOLLET MALL
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55403
+		BUSINESS PHONE:		6123046073
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 NICOLLET MALL
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55403
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DAYTON HUDSON CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DAYTON CORP
+		DATE OF NAME CHANGE:	19690728
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a11-3793_28k.htm
+<DESCRIPTION>8-K
+<TEXT>
+
+
+<html>
+<head>
+
+  </head>
+<body lang="EN-US">
+<div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="4" face="Times New Roman" style="font-size:14.0pt;font-weight:bold;">UNITED STATES</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="4" face="Times New Roman" style="font-size:14.0pt;font-weight:bold;">SECURITIES AND EXCHANGE COMMISSION</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Washington, D.C. 20549</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:3.0pt;">&nbsp;</font></p>
+<div align="center" style="margin:0in 0in .0001pt;text-align:center;"><hr size="1" width="20%" noshade color="black" align="center"></div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="4" face="Times New Roman" style="font-size:14.0pt;font-weight:bold;">FORM&nbsp;8-K</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="4" face="Times New Roman" style="font-size:14.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="4" face="Times New Roman" style="font-size:14.0pt;font-weight:bold;">CURRENT REPORT</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Pursuant to Section&nbsp;13 or 15(d)&nbsp;of the Securities Exchange Act of 1934</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date of Report (Date of earliest event reported) January&nbsp;7, 2011</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:16.0pt;font-weight:bold;">Target Corporation</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Exact name of registrant as specified in its charter)</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="39%" valign="top" style="padding:0in 0in 0in 0in;width:39.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Minnesota</font></b></p>  </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>  </td>
+<td width="25%" valign="top" style="padding:0in 0in 0in 0in;width:25.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">1-6049</font></b></p>  </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>  </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">41-0215170</font></b></p>  </td>  </tr>
+<tr>
+<td width="39%" valign="top" style="padding:0in 0in 0in 0in;width:39.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">(State or other jurisdiction of incorporation)</font></p>  </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>  </td>
+<td width="25%" valign="top" style="padding:0in 0in 0in 0in;width:25.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">(Commission File Number)</font></p>  </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>  </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">(I.R.S. Employer Identification No.)</font></p>  </td>  </tr>  </table>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">1000 Nicollet Mall, Minneapolis, Minnesota 55403</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">(Address of principal executive offices, including zip code)</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">(612) 304-6073</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">(Registrant&#146;s telephone number, including area code)</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Check the appropriate box below if the Form&nbsp;8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">[ ] Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">[ ] Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">[ ] Pre-commencement communications pursuant to Rule&nbsp;14d-2(b)&nbsp;under the Exchange Act (17 CFR 240.14d-2(b))</font></p>
+<p style="margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">[ ] Pre-commencement communications pursuant to Rule&nbsp;13e-4(c)&nbsp;under the Exchange Act (17 CFR 240.13e-4(c))</font></p>
+<p style="margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\105730\11-3793-2\task4427313\3793-2-ba.htm',USER='105730',CD='Jan 13 10:54 2011' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 5.02.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <u>Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.</u></font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">On January&nbsp;7, 2011, Troy H. Risch&#146;s role as Executive Vice President &#150; Stores terminated, and his employment with Target will terminate on January&nbsp;15, 2011. In connection with this event, Mr.&nbsp;Risch is entitled to Target&#146;s standard officer severance arrangement pursuant to the Target Corporation Officer Income Continuance Policy Statement (ICP).&#160; In addition to the terms of the ICP, Mr.&nbsp;Risch is entitled to receive up to an additional $1 million if he complies with certain post-termination agreements, including an agreement not to become employed by specified competitors of Target, which amount will be paid over a period of two years subject to continued compliance with the post-termination agreements.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">SIGNATURE</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.76%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>  </td>
+<td width="55%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:55.24%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">TARGET CORPORATION</font></b></p>  </td>  </tr>
+<tr>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.76%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>  </td>
+<td width="55%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:55.24%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>  </td>  </tr>
+<tr>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.76%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>  </td>
+<td width="55%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:55.24%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>  </td>  </tr>
+<tr>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.76%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date: January&nbsp;13, 2011</font></p>  </td>
+<td width="16%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:16.32%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">/s/ Timothy R. Baer</font></p>  </td>
+<td width="38%" valign="top" style="padding:0in 0in 0in 0in;width:38.92%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>  </td>  </tr>
+<tr>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.76%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>  </td>
+<td width="55%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:55.24%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Timothy R. Baer</font></p>  </td>  </tr>
+<tr>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.76%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>  </td>
+<td width="55%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:55.24%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Executive Vice President, General Counsel<br> and Corporate Secretary</font></p>  </td>  </tr>  </table>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\105730\11-3793-2\task4427313\3793-2-ba.htm',USER='105730',CD='Jan 13 10:54 2011' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

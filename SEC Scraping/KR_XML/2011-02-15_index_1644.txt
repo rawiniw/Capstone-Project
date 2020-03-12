@@ -1,0 +1,570 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ S1/yw8h0acmJp45/ssVUlV+hT0/1h72v+/95MBx4OpU3n+H6A6MNM+e22gjNB3kZ
+ 5Kgi7r5PfPqSLu0SipnJYg==
+
+<SEC-DOCUMENT>0001209191-11-009673.txt : 20110215
+<SEC-HEADER>0001209191-11-009673.hdr.sgml : 20110215
+<ACCEPTANCE-DATETIME>20110215143102
+ACCESSION NUMBER:		0001209191-11-009673
+CONFORMED SUBMISSION TYPE:	5
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20110129
+FILED AS OF DATE:		20110215
+DATE AS OF CHANGE:		20110215
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KROGER CO
+		CENTRAL INDEX KEY:			0000056873
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-GROCERY STORES [5411]
+		IRS NUMBER:				310345740
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0203
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1014 VINE ST
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45201
+		BUSINESS PHONE:		5137624000
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kaufman Calvin J
+		CENTRAL INDEX KEY:			0001433128
+
+	FILING VALUES:
+		FORM TYPE:		5
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00303
+		FILM NUMBER:		11613717
+
+	MAIL ADDRESS:	
+		STREET 1:		THE KROGER CO.
+		STREET 2:		1014 VINE STREET
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45202
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>5
+<SEQUENCE>1
+<FILENAME>doc5.xml
+<DESCRIPTION>FORM 5 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0303</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2011-01-29</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0000056873</issuerCik>
+        <issuerName>KROGER CO</issuerName>
+        <issuerTradingSymbol>KR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001433128</rptOwnerCik>
+            <rptOwnerName>Kaufman Calvin J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>THE KROGER CO.</rptOwnerStreet1>
+            <rptOwnerStreet2>1014 VINE STREET</rptOwnerStreet2>
+            <rptOwnerCity>CINCINNATI</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>45202</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Group Vice President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionCoding>
+                <transactionFormType></transactionFormType>
+            </transactionCoding>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>37438.1814</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Non-Qualified Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>24.43</value>
+            </conversionOrExercisePrice>
+            <transactionCoding>
+                <transactionFormType></transactionFormType>
+            </transactionCoding>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2011-05-10</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1700</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1700</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Non-Qualified Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>22.995</value>
+            </conversionOrExercisePrice>
+            <transactionCoding>
+                <transactionFormType></transactionFormType>
+            </transactionCoding>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2012-05-09</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1700</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1700</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Non-Qualified Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>15.26</value>
+            </conversionOrExercisePrice>
+            <transactionCoding>
+                <transactionFormType></transactionFormType>
+            </transactionCoding>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2012-09-19</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>3300</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3300</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Non-Qualified Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>14.925</value>
+            </conversionOrExercisePrice>
+            <transactionCoding>
+                <transactionFormType></transactionFormType>
+            </transactionCoding>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2012-12-12</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1700</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1700</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Non-Qualified Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>16.225</value>
+            </conversionOrExercisePrice>
+            <transactionCoding>
+                <transactionFormType></transactionFormType>
+            </transactionCoding>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2013-01-23</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2300</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2300</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Non-Qualified Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>17.31</value>
+            </conversionOrExercisePrice>
+            <transactionCoding>
+                <transactionFormType></transactionFormType>
+            </transactionCoding>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2014-05-06</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>4000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Non-Qualified Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>16.385</value>
+            </conversionOrExercisePrice>
+            <transactionCoding>
+                <transactionFormType></transactionFormType>
+            </transactionCoding>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2015-05-05</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>5000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Non-Qualified Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>19.94</value>
+            </conversionOrExercisePrice>
+            <transactionCoding>
+                <transactionFormType></transactionFormType>
+            </transactionCoding>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2016-05-04</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2500</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2500</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Non-Qualified Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>28.27</value>
+            </conversionOrExercisePrice>
+            <transactionCoding>
+                <transactionFormType></transactionFormType>
+            </transactionCoding>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2017-06-28</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>3500</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3500</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Non-Qualified Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>28.61</value>
+            </conversionOrExercisePrice>
+            <transactionCoding>
+                <transactionFormType></transactionFormType>
+            </transactionCoding>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2018-06-26</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>15000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>15000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Non-Qualified Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>22.34</value>
+            </conversionOrExercisePrice>
+            <transactionCoding>
+                <transactionFormType></transactionFormType>
+            </transactionCoding>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2019-06-25</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>15000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>15000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Non-Qualified Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>20.16</value>
+            </conversionOrExercisePrice>
+            <transactionCoding>
+                <transactionFormType></transactionFormType>
+            </transactionCoding>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2020-06-24</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>15000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>15000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Between January 30, 2010 and January 29, 2011, the reporting person acquired 18.9712 shares of Kroger common stock in the Company's employee benefit plans that are deemed to be 'tax-conditioned plans' pursuant to Rule 16b-3,to the extent disclosed on reports received by plan trustees.</footnote>
+        <footnote id="F2">The total amount of securities directly owned by the reporting person includes shares in the Company's employee benefit plans that are deemed to be 'tax-conditioned plans' pursuant to Rule 16b-3, to the extent disclosed on reports received from plan trustees.</footnote>
+        <footnote id="F3">These options were granted under a long-term incentive plan of The Kroger Co. and vest in equal annual installments in whole amounts over a five-year period, at the rate of 20% per year commencing one year from the date of the grant.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Calvin J. Kaufman</signatureName>
+        <signatureDate>2011-02-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

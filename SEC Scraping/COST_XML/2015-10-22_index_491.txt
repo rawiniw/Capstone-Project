@@ -1,0 +1,139 @@
+<SEC-DOCUMENT>0001209191-15-076428.txt : 20151022
+<SEC-HEADER>0001209191-15-076428.hdr.sgml : 20151022
+<ACCEPTANCE-DATETIME>20151022145718
+ACCESSION NUMBER:		0001209191-15-076428
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20151013
+FILED AS OF DATE:		20151022
+DATE AS OF CHANGE:		20151022
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COSTCO WHOLESALE CORP /NEW
+		CENTRAL INDEX KEY:			0000909832
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				911223280
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			0902
+
+	BUSINESS ADDRESS:	
+		STREET 1:		999 LAKE DRIVE
+		CITY:			ISSAQUAH
+		STATE:			WA
+		ZIP:			98027-
+		BUSINESS PHONE:		4253138100
+
+	MAIL ADDRESS:	
+		STREET 1:		999 LAKE DRIVE
+		CITY:			ISSAQUAH
+		STATE:			WA
+		ZIP:			98027
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COSTCO COMPANIES INC
+		DATE OF NAME CHANGE:	19970401
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PRICE/COSTCO INC
+		DATE OF NAME CHANGE:	19930728
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Wilderotter Mary Agnes
+		CENTRAL INDEX KEY:			0001180610
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-20355
+		FILM NUMBER:		151170036
+
+	MAIL ADDRESS:	
+		STREET 1:		115 ALPINE TERRACE
+		CITY:			OAKLAND
+		STATE:			CA
+		ZIP:			94618
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	WILDEROTTER MAGGIE
+		DATE OF NAME CHANGE:	20020815
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<DESCRIPTION>FORM 3 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2015-10-13</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000909832</issuerCik>
+        <issuerName>COSTCO WHOLESALE CORP /NEW</issuerName>
+        <issuerTradingSymbol>COST</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001180610</rptOwnerCik>
+            <rptOwnerName>Wilderotter Mary Agnes</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>999 LAKE DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ISSAQUAH</rptOwnerCity>
+            <rptOwnerState>WA</rptOwnerState>
+            <rptOwnerZipCode>98027</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>No securities are beneficially owned</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes></footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Kim Kropp, attorney-in-fact</signatureName>
+        <signatureDate>2015-10-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

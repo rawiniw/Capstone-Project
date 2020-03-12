@@ -1,0 +1,282 @@
+<SEC-DOCUMENT>0001209191-12-057658.txt : 20121214
+<SEC-HEADER>0001209191-12-057658.hdr.sgml : 20121214
+<ACCEPTANCE-DATETIME>20121214114455
+ACCESSION NUMBER:		0001209191-12-057658
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20121207
+FILED AS OF DATE:		20121214
+DATE AS OF CHANGE:		20121214
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Rose Timothy L.
+		CENTRAL INDEX KEY:			0001564691
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-20355
+		FILM NUMBER:		121264705
+
+	MAIL ADDRESS:	
+		STREET 1:		999 LAKE DRIVE
+		CITY:			ISSAQUAH
+		STATE:			WA
+		ZIP:			98027
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COSTCO WHOLESALE CORP /NEW
+		CENTRAL INDEX KEY:			0000909832
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				911223280
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			0902
+
+	BUSINESS ADDRESS:	
+		STREET 1:		999 LAKE DRIVE
+		CITY:			ISSAQUAH
+		STATE:			WA
+		ZIP:			98027-
+		BUSINESS PHONE:		4253138100
+
+	MAIL ADDRESS:	
+		STREET 1:		999 LAKE DRIVE
+		CITY:			ISSAQUAH
+		STATE:			WA
+		ZIP:			98027
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COSTCO COMPANIES INC
+		DATE OF NAME CHANGE:	19970401
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PRICE/COSTCO INC
+		DATE OF NAME CHANGE:	19930728
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<DESCRIPTION>FORM 3 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2012-12-07</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000909832</issuerCik>
+        <issuerName>COSTCO WHOLESALE CORP /NEW</issuerName>
+        <issuerTradingSymbol>COST</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001564691</rptOwnerCik>
+            <rptOwnerName>Rose Timothy L.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>999 LAKE DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ISSAQUAH</rptOwnerCity>
+            <rptOwnerState>WA</rptOwnerState>
+            <rptOwnerZipCode>98027</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Executive VP</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>57402</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>40.69</value>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2006-04-01</value>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2015-04-01</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>26907</value>
+                    <footnoteId id="F3"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">43,047 shares of common stock are unvested grants of Restricted Stock Units (&quot;RSUs&quot;).  The vesting schedule for the RSUs are as follows:  27,272 shares will vest on October 22, 2013; 7,715 shares will vest on October 22, 2014; 4,301 shares will vest on October 22, 2015; 2,866 shares will vest on October 22, 2016; and 1,433 shares will vest on October 22, 2017.   3,049 shares represent additional RSUs resulting from the upward adjustment of outstanding unvested RSUs by a factor of 1.0763 in connection with the $7.00 per share special cash dividend payable by the issuer to shareholders of record on December 10, 2012.  The adjustment was required under the plan documents governing the grants.  The RSUs reported are subject to the same vesting schedules as the original RSUs to which they relate.</footnote>
+        <footnote id="F2">This option is fully vested.</footnote>
+        <footnote id="F3">This option, originally covering 25000 shares at an exercise price of $43.79 per share, has been adjusted with a lower exercise price and an increased number of options, in connection with the dividend referenced in note 1.  The number of outstanding options was increased by a factor of 1.0763, and the option exercise price was reduced by dividing the price by that same factor.  The adjustment was required under the governing plan documents.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Deanna K. Nakashima, attorney-in-fact</signatureName>
+        <signatureDate>2012-12-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.3_448270
+<SEQUENCE>2
+<FILENAME>poa.txt
+<DESCRIPTION>POA DOCUMENT
+<TEXT>
+LIMITED POWER OF ATTORNEY FOR
+SECTION 16 REPORTING OBLIGATIONS
+
+
+	Know all by these presents, that the undersigned's hereby makes, constitutes
+and appoints ________ as the undersigned's true and lawful attorney-in-fact,
+with full power and authority as hereinafter described on behalf of and in the
+name, place and stead of the undersigned to:
+
+(1)	prepare, execute, acknowledge, deliver and file Forms 3, 4, and 5 (including
+any amendments thereto) with respect to the securities of __________________, a
+_________ corporation (the "Company"), with the United States Securities and
+Exchange Commission, any national securities exchanges and the Company, as
+considered necessary or advisable under Section 16(a) of the Securities Exchange
+Act of 1934 and the rules and regulations promulgated thereunder, as amended
+from time to time (the "Exchange Act");
+
+(2)	seek or obtain, as the undersigned's representative and on the undersigned's
+behalf, information on transactions in the Company's securities from any third
+party, including brokers, employee benefit plan administrators and trustees, and
+the undersigned hereby authorizes any such person to release any such
+information to the undersigned and approves and ratifies any such release of
+information; and
+
+(3)	perform any and all other acts which in the discretion of such
+attorney-in-fact are necessary or desirable for and on behalf of the undersigned
+in connection with the foregoing.
+
+The undersigned acknowledges that:
+
+(1)	this Power of Attorney authorizes, but does not require, such
+attorney-in-fact to act in their discretion on information provided to such
+attorney-in-fact without independent verification of such information;
+
+(2)	any documents prepared and/or executed by such attorney-in-fact on behalf of
+the undersigned pursuant to this Power of Attorney will be in such form and will
+contain such information and disclosure as such attorney-in-fact, in his or her
+discretion, deems necessary or desirable;
+
+(3)	neither the Company nor such attorney-in-fact assumes (i) any liability for
+the undersigned's responsibility to comply with the requirement of the Exchange
+Act, (ii) any liability of the undersigned for any failure to comply with such
+requirements, or (iii) any obligation or liability of the undersigned for profit
+disgorgement under Section 16(b) of the Exchange Act; and
+
+(4)	this Power of Attorney does not relieve the undersigned from responsibility
+for compliance with the undersigned's obligations under the Exchange Act,
+including without limitation the reporting requirements under Section 16 of the
+Exchange Act.
+
+	The undersigned hereby gives and grants the foregoing attorney-in-fact full
+power and authority to do and perform all and every act and thing whatsoever
+requisite, necessary or appropriate to be done in and about the foregoing
+matters as fully to all intents and purposes as the undersigned might or could
+do if present, hereby ratifying all that such attorney-in-fact of, for and on
+behalf of the undersigned, shall lawfully do or cause to be done by virtue of
+this Limited Power of Attorney.
+
+	This Power of Attorney shall remain in full force and effect until revoked by
+the undersigned in a signed writing delivered to such attorney-in-fact.
+
+	IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be
+executed as of this _______ day of ___________, ___________.
+
+
+
+
+
+                                         _________________________________
+                                         Signature
+
+
+
+                                         _________________________________
+                                         Print Name
+
+
+
+STATE OF
+
+COUNTY OF
+
+
+
+	On this ___________ day of ____________, ______________, ________________
+personally appeared before me, and acknowledged that s/he executed the foregoing
+instrument for the purposes therein contained.
+
+	IN WITNESS WHEREOF, I have hereunto set my hand and official seal.
+
+
+
+                                         _________________________________
+                                         Notary Public
+
+
+
+                                         _________________________________
+                                         My Commission Expires:
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

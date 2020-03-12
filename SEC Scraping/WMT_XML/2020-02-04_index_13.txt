@@ -1,6 +1,6 @@
-0001127602-20-003579.txt : 20200204
-0001127602-20-003579.hdr.sgml : 20200204
-20200204180618
+<SEC-DOCUMENT>0001127602-20-003579.txt : 20200204
+<SEC-HEADER>0001127602-20-003579.hdr.sgml : 20200204
+<ACCEPTANCE-DATETIME>20200204180618
 ACCESSION NUMBER:		0001127602-20-003579
 CONFORMED SUBMISSION TYPE:	4
 PUBLIC DOCUMENT COUNT:		1
@@ -52,182 +52,190 @@ ISSUER:
 	FORMER COMPANY:	
 		FORMER CONFORMED NAME:	WAL MART STORES INC
 		DATE OF NAME CHANGE:	19920703
-
-
-4
-1
-form4.xml
-PRIMARY DOCUMENT
-
-
-
-
-X0306
-4
-2020-01-31
-
-0000104169
-Walmart Inc.
-WMT
-
-
-
-0001335782
-McMillon C Douglas
-
-
-702 S.W. 8TH STREET
-
-BENTONVILLE
-AR
-72716-0215
-
-
-
-1
-1
-President and CEO
-
-
-
-
-
-Common Stock
-
-
-2020-01-31
-
-
-4
-F
-0
-
-
-
-
-105712
-
-
-
-116.58
-
-
-D
-
-
-
-
-1334025.69
-
-
-
-
-
-D
-
-
-
-
-
-Common Stock
-
-
-
-1773.7722
-
-
-
-
-I
-
-
-By 401(k)
-
-
-
-
-
-Common
-
-
-
-138401
-
-
-
-
-I
-
-
-By Trust for Children
-
-
-
-
-
-Common
-
-
-
-131990
-
-
-
-
-I
-
-
-By Wife's Trust for Children
-
-
-
-
-
-Common
-
-
-
-59563
-
-
-
-
-I
-
-
-By Trust for Wife
-
-
-
-
-
-Common
-
-
-
-2258
-
-
-
-
-I
-
-
-By Son
-
-
-
-
-
-Represents stock units withheld to satisfy tax withholding obligations upon the vesting of performance-based restricted stock units.
-Balance adjusted to reflect shares acquired through the Walmart Inc. Associate Stock Purchase Plan.
-
-
-/s/ Geoffrey W. Edwards, By Power of Attorney
-2020-02-04
-
-
-
-
-
-
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-01-31</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000104169</issuerCik>
+        <issuerName>Walmart Inc.</issuerName>
+        <issuerTradingSymbol>WMT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001335782</rptOwnerCik>
+            <rptOwnerName>McMillon C Douglas</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>702 S.W. 8TH STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BENTONVILLE</rptOwnerCity>
+            <rptOwnerState>AR</rptOwnerState>
+            <rptOwnerZipCode>72716-0215</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <officerTitle>President and CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-01-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>105712</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>116.58</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1334025.69</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1773.7722</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By 401(k)</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>138401</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust for Children</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>131990</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Wife's Trust for Children</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>59563</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust for Wife</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2258</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Son</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents stock units withheld to satisfy tax withholding obligations upon the vesting of performance-based restricted stock units.</footnote>
+        <footnote id="F2">Balance adjusted to reflect shares acquired through the Walmart Inc. Associate Stock Purchase Plan.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Geoffrey W. Edwards, By Power of Attorney</signatureName>
+        <signatureDate>2020-02-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

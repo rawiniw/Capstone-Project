@@ -1,0 +1,458 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ TwClvt1iqGhQeZCIwMuEv0hXPkBWMQKJUrHjOrThMfDmOsre1qyPH0LjV786M2nx
+ dNmjl4w73i+yH5weMDm+rw==
+
+<SEC-DOCUMENT>0001193125-10-231220.txt : 20101019
+<SEC-HEADER>0001193125-10-231220.hdr.sgml : 20101019
+<ACCEPTANCE-DATETIME>20101018215251
+ACCESSION NUMBER:		0001193125-10-231220
+CONFORMED SUBMISSION TYPE:	FWP
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20101019
+DATE AS OF CHANGE:		20101018
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WAL MART STORES INC
+		CENTRAL INDEX KEY:			0000104169
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				710415188
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		FWP
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-156724
+		FILM NUMBER:		101129051
+
+	BUSINESS ADDRESS:	
+		STREET 1:		702 SOUTHWEST 8TH ST
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+		BUSINESS PHONE:		5012734000
+
+	MAIL ADDRESS:	
+		STREET 1:		702 SOUTHWEST 8TH STREET
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WAL MART STORES INC
+		CENTRAL INDEX KEY:			0000104169
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				710415188
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		FWP
+
+	BUSINESS ADDRESS:	
+		STREET 1:		702 SOUTHWEST 8TH ST
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+		BUSINESS PHONE:		5012734000
+
+	MAIL ADDRESS:	
+		STREET 1:		702 SOUTHWEST 8TH STREET
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>FWP
+<SEQUENCE>1
+<FILENAME>dfwp.htm
+<DESCRIPTION>FREE WRITING PROSPECTUS
+<TEXT>
+<HTML><HEAD>
+<TITLE>Free Writing Prospectus</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Filed Pursuant to Rule&nbsp;433 </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>File No 333-156724 </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>FINAL TERM SHEET </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Dated October&nbsp;18, 2010 </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>WAL-MART STORES, INC. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>$750,000,000 0.750% Notes Due 2013 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>$1,250,000,000 1.500% Notes Due 2015
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>$1,750,000,000 3.250% Notes Due 2020 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>$1,250,000,000 5.000% Notes Due 2040 </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="14%"></TD>
+<TD WIDTH="75%"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">Name of Issuer:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Wal-Mart Stores, Inc. (&#147;Walmart&#148;)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">Title of Securities:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">0.750% Notes Due 2013 (&#147;2013 Notes&#148;)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">1.500% Notes Due 2015 (&#147;2015 Notes&#148;)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">3.250% Notes Due 2020 (&#147;2020 Notes&#148;)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">5.000% Notes Due 2040 (&#147;2040 Notes&#148;)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">Aggregate&nbsp;Principal&nbsp;Amount:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">$750,000,000 (2013 Notes)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">$1,250,000,000 (2015 Notes)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">$1,750,000,000 (2020 Notes)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">$1,250,000,000 (2040 Notes)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">Issue Price (Price to Public):</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">99.657% of principal amount (2013 Notes)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">99.459% of principal amount (2015 Notes)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">99.619% of principal amount (2020 Notes)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">98.336% of principal amount (2040 Notes)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">Maturity:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">October 25, 2013 (2013 Notes)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">October 25, 2015 (2015 Notes)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">October 25, 2020 (2020 Notes)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">October 25, 2040 (2040 Notes)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">Coupon (Interest Rate):</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">0.750% (2013 Notes)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">1.500% (2015 Notes)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">3.250% (2020 Notes)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">5.000% (2040 Notes)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">Benchmark Treasury:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">0.500% U.S. Treasury due October 2013 (2013 Notes)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">1.250% U.S. Treasury due September 2015 (2015 Notes)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">2.625% U.S. Treasury due August 2020 (2020 Notes)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">4.375% U.S. Treasury due May 2040 (2040 Notes)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">Spread&nbsp;to&nbsp;Benchmark&nbsp;Treasury:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">30 basis points (2013 Notes)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">48 basis points (2015 Notes)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">78 basis points (2020 Notes)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">115 basis points (2040 Notes)</FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="74%"></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">Benchmark Treasury</FONT><BR> <P STYLE="margin-bottom:1px; margin-top:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;Price and
+Yield:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">99 - 25<FONT SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&nbsp;3</SUP></FONT><FONT SIZE="2">/</FONT><FONT SIZE="1">4</FONT><FONT
+STYLE="font-family:Times New Roman" SIZE="2">; 0.566% (2013 Notes)</FONT></FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">100 - 18; 1.133% (2015 Notes)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">100 - 30+; 2.515% (2020 Notes)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">107 - 06+; 3.959% (2040 Notes)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">Yield to Maturity:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">0.866% (2013 Notes)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">1.613% (2015 Notes)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">3.295% (2020 Notes)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">5.109% (2040 Notes)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">Interest Payment Dates:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">April 25 and October 25 of each year, beginning on April 25, 2011</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">Interest&nbsp;Payment&nbsp;Record&nbsp;Dates:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">April 15 and October 15 of each year</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">Redemption Provisions:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">No redemption provisions</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">Sinking Fund Provisions:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">None</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">Payment&nbsp;of&nbsp;Additional&nbsp;Amounts:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Not applicable</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">Legal Format:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">SEC registered</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" ROWSPAN="4" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">Net Proceeds to Walmart (after</FONT><BR>
+<P STYLE="margin-bottom:0px; margin-top:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;underwriting discounts and</FONT></P> <P STYLE="margin-bottom:0px; margin-top:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;commissions and before</FONT></P> <P STYLE="margin-bottom:1px; margin-top:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;offering
+expenses):</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ROWSPAN="4"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">$745,552,500 (2013 Notes)</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">$1,238,862,500 (2015 Notes)</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">$1,735,457,500 (2020 Notes)</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="2">$1,218,262,500 (2040 Notes)</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">Settlement Date:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">T + 5; October 25, 2010</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">Joint Book-Running Managers:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Banc of America Securities LLC</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Barclays Capital Inc.</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Goldman, Sachs &amp; Co.</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Citigroup Global Markets Inc.</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Deutsche Bank Securities Inc.</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">J.P. Morgan Securities LLC</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">Selling Restrictions:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">European Economic Area, United Kingdom, Hong Kong,</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Japan, Singapore</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">CUSIP:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">931142 CW1 (2013 Notes)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">931142 CX9 (2015 Notes)</FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="69%"></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">931142 CZ4 (2020 Notes)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">931142 CY7 (2040 Notes)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">ISIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">US931142CW13 (2013 Notes)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">US931142CX95 (2015 Notes)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">US931142CZ44 (2020 Notes)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">US931142CY78 (2040 Notes)</FONT></TD></TR></TABLE> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Ratings: Ratings for
+Walmart&#146;s long-term debt securities: S&amp;P, AA; Moody&#146;s, Aa2; Fitch, AA; and DBRS, AA. Walmart will apply for specific ratings for the 2013 Notes, the 2015 Notes, the 2020 Notes and the 2040 Notes and expects that the ratings for the
+Notes will be the same as for Walmart&#146;s other long-term debt securities. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Note: A securities rating is not a recommendation to buy, sell
+or hold securities and may be subject to revision or withdrawal at any time. Each securities rating should be evaluated independent of each other securities rating. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The offer and sale of the Notes to which this final term sheet relates have been registered by Wal-Mart Stores, Inc. by means of a registration statement on Form S-3 (SEC File No.&nbsp;333-156724).
+</FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">The issuer has filed a registration statement (including a prospectus) with the SEC for the offering in the United States to which this communication
+relates. Before you invest, you should read the prospectus in that registration statement and other documents the issuer has filed with the SEC for more complete information about the issuer and this offering in the United States. You may get these
+documents for free by visiting EDGAR on the SEC Web site at www.sec.gov. Alternatively, the issuer, any underwriter or any dealer participating in this offering will arrange to send you the prospectus if you request it by calling Banc of America
+Securities LLC toll-free at 1-800-294-1322, Barclays Capital Inc. toll-free at 1-888-603-5847 or Goldman, Sachs&nbsp;&amp; Co. toll-free at 1-866-471-2526. </FONT></P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

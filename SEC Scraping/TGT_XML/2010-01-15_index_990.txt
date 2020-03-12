@@ -1,0 +1,241 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Jqd1efdonZ+JtgBWZsu0q9J7+S5FS23mWCpczLjZH0IqT4DS+6vkvg+VPy22V8Q8
+ +hV+LotKs6A6zTyC2prDDw==
+
+<SEC-DOCUMENT>0001225208-10-001622.txt : 20100115
+<SEC-HEADER>0001225208-10-001622.hdr.sgml : 20100115
+<ACCEPTANCE-DATETIME>20100115151951
+ACCESSION NUMBER:		0001225208-10-001622
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20100113
+FILED AS OF DATE:		20100115
+DATE AS OF CHANGE:		20100115
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Baer Timothy R
+		CENTRAL INDEX KEY:			0001290220
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06049
+		FILM NUMBER:		10530184
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 NICOLLET MALL
+		STREET 2:		TPS-3255
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55403
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TARGET CORP
+		CENTRAL INDEX KEY:			0000027419
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				410215170
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			0131
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1000 NICOLLET MALL
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55403
+		BUSINESS PHONE:		6123046073
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 NICOLLET MALL
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55403
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DAYTON HUDSON CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DAYTON CORP
+		DATE OF NAME CHANGE:	19690728
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0303</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2010-01-13</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000027419</issuerCik>
+        <issuerName>TARGET CORP</issuerName>
+        <issuerTradingSymbol>TGT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001290220</rptOwnerCik>
+            <rptOwnerName>Baer Timothy R</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1000 NICOLLET MALL</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MINNEAPOLIS</rptOwnerCity>
+            <rptOwnerState>MN</rptOwnerState>
+            <rptOwnerZipCode>55403</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2010-01-13</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>12650</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>49952</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>773.4125</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By 401(k) Plan</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option</value>
+                <footnoteId id="F3"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>49.41</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2010-01-13</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>65037</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2020-01-13</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>65037</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>65037</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Award of restricted stock units pursuant to the Target Corporation Long-Term Incentive Plan.</footnote>
+        <footnote id="F2">Shares held in the Target Corporation 401(k) Plan based on the plan statement as of December 31, 2009.</footnote>
+        <footnote id="F3">Option granted under the Target Corporation Long-Term Incentive Plan.</footnote>
+        <footnote id="F4">Option vests and becomes exercisable in 25% increments on each anniversary of the grant date.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Mary B. Stanley, Attorney-In-Fact</signatureName>
+        <signatureDate>2010-01-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

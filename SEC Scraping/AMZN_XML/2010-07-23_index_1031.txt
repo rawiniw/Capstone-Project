@@ -1,0 +1,702 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ UVjTmZhJfCRqVUXL28eWZ0h12MSKyxIePHHm3uP3zHtgK3a0Kspzgo8UiwQeb46z
+ lDq699I46VETDXWiqVgbsA==
+
+<SEC-DOCUMENT>0001193125-10-164087.txt : 20100723
+<SEC-HEADER>0001193125-10-164087.hdr.sgml : 20100723
+<ACCEPTANCE-DATETIME>20100722194950
+ACCESSION NUMBER:		0001193125-10-164087
+CONFORMED SUBMISSION TYPE:	SC 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20100723
+DATE AS OF CHANGE:		20100722
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DRUGSTORE COM INC
+		CENTRAL INDEX KEY:			0001086467
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-DRUG STORES AND PROPRIETARY STORES [5912]
+		IRS NUMBER:				043416255
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-57797
+		FILM NUMBER:		10965925
+
+	BUSINESS ADDRESS:	
+		STREET 1:		411 108TH AVE. NE
+		STREET 2:		SUITE 1400
+		CITY:			BELLEVUE
+		STATE:			WA
+		ZIP:			98004
+		BUSINESS PHONE:		4253723200
+
+	MAIL ADDRESS:	
+		STREET 1:		411 108TH AVE. NE
+		STREET 2:		SUITE 1400
+		CITY:			BELLEVUE
+		STATE:			WA
+		ZIP:			98004
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMAZON COM INC
+		CENTRAL INDEX KEY:			0001018724
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-CATALOG & MAIL-ORDER HOUSES [5961]
+		IRS NUMBER:				911646860
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1200 12TH AVENUE S SUITE 1200
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98144
+		BUSINESS PHONE:		2062661000
+
+	MAIL ADDRESS:	
+		STREET 1:		1200 12TH AVENUE S SUITE 1200
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98144
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D/A
+<SEQUENCE>1
+<FILENAME>dsc13da.htm
+<DESCRIPTION>SCHEDULE 13D AMENDMENT NO. 3
+<TEXT>
+<HTML><HEAD>
+<TITLE>Schedule 13D Amendment No. 3</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<P STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P STYLE="margin-top:4px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE
+COMMISSION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>Washington, D.C. 20549 </B></FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>SCHEDULE 13D </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>[Rule 13d-101] </B></FONT></P>
+<P STYLE="margin-top:18px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>INFORMATION TO BE INCLUDED IN STATEMENTS FILED PURSUANT </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>TO &#167; 240.13d-1(a) AND AMENDMENTS THERETOFILED PURSUANT TO &#167; 240.13d-2(a) </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>(Amendment No. 3)* </B></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center>
+<P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="6"><B>drugstore.com,
+inc. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(Name of Issuer) </B></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center>
+<P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Common Stock
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(Title of Class of Securities) </B></FONT></P>
+<P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>262241102 </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(Cusip Number) </B></FONT></P>
+<P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Amazon.com, Inc. </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Attention: General Counsel </B></FONT></P>
+<P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>410 Terry Avenue North </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Seattle, Washington 98109-5210 </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(206) 266-1000 </B></FONT></P>
+<P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B></B><I></I><B><I>Copy to:</I></B><I></I><B> </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Ronald O. Mueller </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Gibson, Dunn &amp; Crutcher LLP </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>1050 Connecticut Avenue, N.W. </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Washington, D.C. 20036 </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(Name, Address and Telephone Number of Person Authorized to Receive Notices and Communications) </B></FONT></P>
+<P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Not Applicable </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(Date of Event Which Requires Filing of this Statement) </B></FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:6px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">If the filing person has previously filed a statement on Schedule 13G to report the acquisition which is the subject of this Schedule 13D and is filing
+this schedule because of &#167;&#167; 240.13d-1(e), 240.13d-1(f) or 240.13d-1(g), check the following box.&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT> </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>Note.</I> Schedules filed in paper format shall include a signed original and five copies of the schedule, including all exhibits. <I>See</I> &#167;
+240.13d-7, for other parties to whom copies are to be sent. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="1%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">*</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">The remainder of this cover page shall be filled out for a reporting person&#146;s initial filing on this form with respect to the subject class of securities, and for
+any subsequent amendment containing information which would alter the disclosures provided in a prior cover page. </FONT></TD></TR></TABLE> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">The
+information required in the remainder of this cover page shall not be deemed to be &#147;filed&#148; for the purpose of Section 18 of the Securities Exchange Act of 1934 (&#147;Act&#148;) or otherwise subject to the liabilities of that section of
+the Act but shall be subject to all other provisions of the Act (however, <I>see</I> the <I>Notes</I>). </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">(Page 1 of 7 pages;
+continued on following pages) </FONT></P> <P STYLE="font-size:8px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<P STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="35%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="31%"></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; padding-left:8px"><FONT STYLE="font-family:Times New Roman" SIZE="2">CUSIP&nbsp;No. 262241102</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="BORDER-TOP:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>13D</B></FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-TOP:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-right:8px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Page 2 of 7 Pages</FONT></TD></TR></TABLE>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="5%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="5%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="85%"></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8px"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;<B>1</B>&nbsp;</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-TOP:1px solid #000000; BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8px">
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">NAMES OF REPORTING PERSONS</FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="3">Amazon.com, Inc. 91-1646860</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8px"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;<B>2</B></FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8px"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">CHECK THE APPROPRIATE BOX IF A
+MEMBER OF A GROUP (see instructions)</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">(a)&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;&nbsp;
+<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:1px">&nbsp;</P></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8px"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;<B>3</B></FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8px"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">SEC USE ONLY</FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:1px">&nbsp;</P></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8px"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;<B>4</B></FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8px"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">SOURCE OF FUNDS (see
+instructions)</FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="3">&nbsp;&nbsp;&nbsp;&nbsp;Not
+applicable.</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8px"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;<B>5</B></FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8px"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">CHECK BOX IF DISCLOSURE OF LEGAL
+PROCEEDINGS IS REQUIRED PURSUANT TO ITEM 2(d) or 2(e)</FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="3">&nbsp;&nbsp;&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8px"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;<B>6</B></FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8px"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">CITIZENSHIP OR PLACE OF
+ORGANIZATION</FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="3">&nbsp;&nbsp;&nbsp;&nbsp;Delaware</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="middle" COLSPAN="3" ROWSPAN="4" ALIGN="center" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8px">
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">NUMBER&nbsp;OF</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">SHARES</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">BENEFICIALLY</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">OWNED&nbsp;BY</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">EACH
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">REPORTING</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">PERSON</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">WITH</FONT></P></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;<B>7</B>&nbsp;</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8px"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">SOLE VOTING POWER</FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="3">&nbsp;&nbsp;&nbsp;&nbsp;12,963,339(1)</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;<B>8</B></FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8px"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">SHARED VOTING POWER</FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="3">&nbsp;&nbsp;&nbsp;&nbsp;-0-</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;<B>9</B></FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8px"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">SOLE DISPOSITIVE POWER</FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="3">&nbsp;&nbsp;&nbsp;&nbsp;12,963,339(1)</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>10</B></FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8px"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">SHARED DISPOSITIVE POWER</FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="3">&nbsp;&nbsp;&nbsp;&nbsp;-0-</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8px"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>11</B></FONT></P></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8px"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">AGGREGATE AMOUNT BENEFICIALLY
+OWNED BY EACH REPORTING PERSON</FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="3">&nbsp;&nbsp;&nbsp;&nbsp;12,963,339(1)</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8px"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>12</B></FONT></P></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8px"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">CHECK BOX IF THE AGGREGATE AMOUNT
+IN ROW (11) EXCLUDES CERTAIN SHARES</FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="3">&nbsp;&nbsp;&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8px"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>13</B></FONT></P></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8px"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">PERCENT OF CLASS REPRESENTED BY
+AMOUNT IN ROW (11)</FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="3">&nbsp;&nbsp;&nbsp;&nbsp;12.3% (2)</FONT></P></TD></TR>
+
+<TR>
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8px"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>14</B></FONT></P></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8px"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">TYPE OF REPORTING
+PERSON</FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="3">&nbsp;&nbsp;&nbsp;&nbsp;CO</FONT></P></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(1)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">These shares are held of record by Amazon.com NV Investment Holdings, Inc., a wholly owned subsidiary of Amazon.com, Inc. </FONT></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(2)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">This calculation is based on a total of 105,799,646 shares of the issuer&#146;s common stock outstanding as of May 7, 2010, as last reported by the issuer in its
+Quarterly Report on Form 10-Q filed with the SEC on May 14, 2010. </FONT></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>ITEM&nbsp;1.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>SECURITY AND ISSUER. </B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">This Amendment No. 3 to Schedule 13D is being filed to report that, due solely to an increase in the total number of shares outstanding of
+common stock, $0.0001 par value per share (the &#147;drugstore.com Common Stock&#148;), in drugstore.com, inc., a Delaware corporation (&#147;drugstore.com&#148; or the &#147;issuer&#148;), the percentage of drugstore.com Common Stock beneficially
+owned by Amazon.com, Inc. (&#147;Amazon.com&#148;) has decreased. Amazon.com has not disposed of any shares of drugstore.com Common Stock since the date of its Amendment No. 2 to this Schedule&nbsp;13D. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%;padding-bottom:0px;"><FONT STYLE="font-family:Times New Roman" SIZE="2">The principal executive and business office of drugstore.com is located at 411
+108</FONT><FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">th</SUP></FONT><FONT STYLE="font-family:Times New Roman" SIZE="2"> Avenue NE, Suite 1400, Bellevue, Washington 98004.
+</FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>ITEM&nbsp;2.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>IDENTITY AND BACKGROUND. </B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">This Amendment No. 3 to Schedule 13D is filed by Amazon.com, a Delaware corporation, whose principal business is online retail
+merchandising. The address of Amazon.com&#146;s principal business office is 410 Terry Avenue North, Seattle, Washington 98109-5210. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The information contained in Item 2 relating to the directors and executive officers of Amazon.com is hereby amended as set forth in
+Exhibit 99.1 to this Amendment No. 3 to Schedule 13D. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">During the last five years, neither Amazon.com nor, to the best
+knowledge of Amazon.com, any person named in Exhibit 99.1 has been convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors) or has been a party to a civil proceeding of a judicial or administrative body of competent
+jurisdiction as a result of which it, he or she is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect
+to such laws. Each person named in Exhibit 99.1 is a citizen of the United States of America, with the exception of Mr. Moni&eacute;, who is a citizen of France, and Mr. Piacentini, who is a citizen of Italy. </FONT></P>
+<P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>ITEM&nbsp;5.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>INTEREST IN SECURITIES OF THE ISSUER. </B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item&nbsp;5 is hereby amended and restated to read in its entirety as follows: </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(a) As of the date of this Amendment No. 3 to Schedule 13D, Amazon.com beneficially owns 12,963,339 shares of drugstore.com Common Stock.
+Based on 105,799,646 shares of drugstore.com Common Stock outstanding as of May 7, 2010, Amazon.com&#146;s beneficial ownership represents approximately 12.3% of the total outstanding shares of drugstore.com Common Stock. Amazon.com does not
+beneficially own any outstanding shares of drugstore.com Common Stock other than these 12,963,339 shares of drugstore.com Common Stock. The beneficial ownership of drugstore.com Common Stock by Amazon.com&#146;s directors and executive officers is
+set forth in Exhibit 99.1 to this Amendment No. 3 to Schedule 13D. Except with respect to the 12,963,339 shares of drugstore.com Common Stock, Amazon.com disclaims beneficial ownership of all shares of drugstore.com Common Stock beneficially owned
+by any of its executive officers and directors. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(b) Amazon.com has the sole power to vote and to direct the vote of, and the
+sole power to dispose of and to direct the disposition of, 12,963,339 shares of drugstore.com Common Stock. The voting and dispositive power over drugstore.com Common Stock held or shared by Amazon.com&#146;s directors and executive officers is set
+forth in Exhibit 99.1 to this Amendment No. 3 to Schedule 13D. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(c) Not applicable. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(d) No other person is known to Amazon.com to have the right to receive or the power to direct the receipt of dividends from, or the
+proceeds from the sale of, the shares of drugstore.com Common Stock beneficially owned by Amazon.com on the date of this Amendment No. 3 to Schedule 13D. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(e) Not applicable. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>ITEM&nbsp;7.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>MATERIAL TO BE FILED AS EXHIBITS. </B></FONT></TD></TR></TABLE> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="93%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1px solid #000000;width:28pt" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Exhibit<BR>Number</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1px solid #000000;width:39pt"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Description</B></FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Information Regarding Amazon.com&#146;s Directors and Executive Officers</FONT></TD></TR></TABLE>
+<P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>SIGNATURES </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">After reasonable inquiry and to the best of my knowledge and belief, I certify that the information set forth in this statement is true,
+complete and correct. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD WIDTH="45%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="44%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Dated: July 22, 2010</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="3"><FONT STYLE="font-family:Times New Roman" SIZE="2">AMAZON.COM, INC.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Shelley Reynolds</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Shelley Reynolds</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Title:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Vice President, Worldwide Controller</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="2">(Principal Accounting Officer)</FONT></P></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>EXHIBIT INDEX </B></FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="93%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1px solid #000000;width:28pt" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Exhibit<BR>Number</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1px solid #000000;width:39pt"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Description</B></FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Information Regarding Amazon.com&#146;s Directors and Executive Officers</FONT></TD></TR></TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>dex991.htm
+<DESCRIPTION>INFORMATION REGARDING AMAZON.COM'S DIRECTORS AND EXECUTIVE OFFICERS
+<TEXT>
+<HTML><HEAD>
+<TITLE>Information Regarding Amazon.com's Directors and Executive Officers</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>EXHIBIT 99.1 </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Amazon.com Directors: </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="15%"></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="33%"></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1px solid #000000;width:20pt"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Name</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Present Principal Occupation or</B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Employment</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Business Address</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Shares&nbsp;of&nbsp;drugstore.com</B></FONT><br><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Common
+Stock<BR>Beneficially Owned</B></FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="middle"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Jeffrey&nbsp;P.&nbsp;Bezos</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="middle" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">President, Chief Executive Officer and</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Chairman of the Board,</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Amazon.com, Inc.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="middle" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Amazon.com, Inc.</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">410 Terry Avenue North</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Seattle, WA 98109-5210</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="middle" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">12,963,339(1)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="middle"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Tom A. Alberg</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="middle" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Managing Director,</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Madrona Venture Group, LLC</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="middle" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Madrona Venture Group</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">1000 Second Avenue, Suite</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">3700 Seattle, WA 98104</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="middle" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">-0-</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="middle"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">John&nbsp;Seely&nbsp;Brown</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="middle" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Visiting Scholar and Advisor to the</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Provost, University of Southern California</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="middle" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">1110 Waverley Street</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Palo Alto, CA 94301</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="middle" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">-0-</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="middle"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">William&nbsp;B.&nbsp;Gordon</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="middle" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Partner,</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Kleiner Perkins Caufield&nbsp;&amp; Byers</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="middle" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Kleiner Perkins Caufield &amp; Byers</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">2750 Sand Hill Road</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Menlo Park, CA 94025</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="middle" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">-0-(2)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="middle"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Alain Moni&eacute;</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="middle" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">President and Chief Operating Officer,</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Ingram Micro Inc.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="middle" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Ingram Micro Inc.</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">1600 E. St. Andrew Place,</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Santa Ana, CA 92705</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="middle" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">-0-</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="middle"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Thomas&nbsp;O.&nbsp;Ryder</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="middle" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Retired, Former Chairman, Reader&#146;s</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Digest Association, Inc.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="middle" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">59 Grove Street, Suite 1G</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">New Canaan, CT 06840</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="middle" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">-0-</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="middle"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Patricia&nbsp;Q.&nbsp;Stonesifer</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="middle" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Chair, Board of Regents,</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Smithsonian Institution</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="middle" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">c/o Gates Foundation</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">PO Box 23350</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Seattle, WA 98102</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="middle" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">-0-</FONT></TD></TR></TABLE> <P STYLE="line-height:8px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000;width:10%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(1)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Reflects the 12,963,339 shares beneficially owned by Amazon.com. Mr. Bezos is President, Chief Executive Officer and Chairman of the Board of Amazon.com and
+beneficially owns approximately 20% of its outstanding common stock. Mr.&nbsp;Bezos disclaims beneficial ownership of and any pecuniary interest in these shares. </FONT></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(2)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Mr. Gordon is a partner at Kleiner Perkins Caufield &amp; Byers, LLC (&#147;KPCB&#148;). Mr<B>. </B>Gordon does not have or share voting power or the power to direct
+the disposition of shares of drugstore.com Common Stock held by funds managed by KPCB and disclaims beneficial ownership of shares of drugstore.com Common Stock held by such funds. </FONT></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Amazon.com Executive Officers: </B></FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="18%"></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="68%"></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="border-bottom:1px solid #000000"> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Name</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Present Principal Occupation and Business
+Address*</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Shares
+of</B></FONT><br><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>drugstore.com</B></FONT><br><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Common&nbsp;Stock<BR>Beneficially&nbsp;Owned</B></FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-left:1.00em; text-indent:-1.00em" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Jeffrey P. Bezos</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">President, Chief Executive Officer and Chairman of the Board</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">12,963,339(1)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-left:1.00em; text-indent:-1.00em" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Jeffrey M. Blackburn</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Senior Vice President, Business Development</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">-0-</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-left:1.00em; text-indent:-1.00em" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Sebastian&nbsp;J.&nbsp;Gunningham</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Senior Vice President, Seller Services</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">-0-</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-left:1.00em; text-indent:-1.00em" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Andrew R. Jassy</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Senior Vice President, Web Services</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">-0-</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-left:1.00em; text-indent:-1.00em" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Steven Kessel</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Senior Vice President, Worldwide Digital Media</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">-0-</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-left:1.00em; text-indent:-1.00em" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Marc A. Onetto</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Senior Vice President, Worldwide Operations</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">-0-</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-left:1.00em; text-indent:-1.00em" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Diego Piacentini</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Senior Vice President, International Retail</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">-0-</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-left:1.00em; text-indent:-1.00em" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Shelley L. Reynolds</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Vice President, Worldwide&nbsp;Controller, and Principal Accounting Officer</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">-0-</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-left:1.00em; text-indent:-1.00em" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Thomas J. Szkutak</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Senior Vice President and Chief Financial Officer</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">-0-</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-left:1.00em; text-indent:-1.00em" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">H. Brian Valentine</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Senior Vice President, Ecommerce Platform</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">-0-</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-left:1.00em; text-indent:-1.00em" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Jeffrey A. Wilke</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Senior Vice President, North America Retail</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">-0-</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-left:1.00em; text-indent:-1.00em" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">L. Michelle Wilson</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Senior Vice President, General Counsel, and Secretary</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">-0-</FONT></TD></TR></TABLE> <P STYLE="line-height:8px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000;width:10%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">*</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">The present principal occupation of all executive officers of Amazon.com is with Amazon.com. The business address of all executive officers is Amazon.com, Inc., 410
+Terry Avenue North, Seattle, Washington 98109-5210. </FONT></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(1)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Reflects the 12,963,339 shares beneficially owned by Amazon.com. Mr. Bezos is President, Chief Executive Officer and Chairman of the Board of Amazon.com and
+beneficially owns approximately 20% of its outstanding common stock. Mr.&nbsp;Bezos disclaims beneficial ownership of and any pecuniary interest in these shares. </FONT></TD></TR></TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

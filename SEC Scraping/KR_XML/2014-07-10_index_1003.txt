@@ -1,0 +1,386 @@
+<SEC-DOCUMENT>0001140361-14-028167.txt : 20140710
+<SEC-HEADER>0001140361-14-028167.hdr.sgml : 20140710
+<ACCEPTANCE-DATETIME>20140710164329
+ACCESSION NUMBER:		0001140361-14-028167
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20140701
+FILED AS OF DATE:		20140710
+DATE AS OF CHANGE:		20140710
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Vitacost.com, Inc.
+		CENTRAL INDEX KEY:			0001401688
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-CATALOG & MAIL-ORDER HOUSES [5961]
+		IRS NUMBER:				371333024
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5400 BROKEN SOUND BLVD NW
+		STREET 2:		SUITE 500
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33487-3521
+		BUSINESS PHONE:		(561) 982-4180
+
+	MAIL ADDRESS:	
+		STREET 1:		5400 BROKEN SOUND BLVD NW
+		STREET 2:		SUITE 500
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33487-3521
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Vigor Acquisition Corp
+		CENTRAL INDEX KEY:			0001613095
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34468
+		FILM NUMBER:		14970011
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1014 VINE STREET
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45202
+		BUSINESS PHONE:		513-762-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		1014 VINE STREET
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45202
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			KROGER CO
+		CENTRAL INDEX KEY:			0000056873
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-GROCERY STORES [5411]
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0203
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34468
+		FILM NUMBER:		14970012
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1014 VINE ST
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45201
+		BUSINESS PHONE:		5137624000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc1.xml
+<DESCRIPTION>FORM 3
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2014-07-01</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001401688</issuerCik>
+        <issuerName>Vitacost.com, Inc.</issuerName>
+        <issuerTradingSymbol>VITC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000056873</rptOwnerCik>
+            <rptOwnerName>KROGER CO</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1014 VINE STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CINCINNATI</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>45202-1100</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001613095</rptOwnerCik>
+            <rptOwnerName>Vigor Acquisition Corp</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1014 VINE STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CINCINNATI</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>45202</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, par value $0.00001 per share</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>N/A</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Kroger Co. (&quot;Kroger&quot;) and its direct wholly owned subsidiary, Vigor Acquisition Corp. (&quot;Acquisition Sub&quot;), entered into an Agreement and Plan of Merger, dated as of July 1, 2014 (the &quot;Merger Agreement&quot;), with Vitacost.com, Inc. (&quot;Vitacost&quot;), pursuant to which Acquisition Sub will commence a tender offer (the &quot;Offer&quot;) to purchase all of the issued and outstanding shares of Common Stock, par value $0.00001 per share, of Vitacost (the &quot;Shares&quot;), at a price per share of $8.00 in cash, without interest. Upon successful completion of the Offer, and subject to the terms and conditions of the Merger Agreement, Acquisition Sub will be merged with and into Vitacost (the &quot;Merger&quot;). (Continued in Footnote 2)</footnote>
+        <footnote id="F2">In connection with the Merger Agreement, Kroger and Acquisition Sub entered into tender and support agreements, dated as of July 1, 2014 (the &quot;Tender and Support Agreements&quot;), with Great Hill Equity Partners III, L.P., Great Hill Equity Partners IV, L.P., Great Hill Investors, LLC, Jeffrey Horowitz and JHH Capital, LLC, who agreed, subject to certain limited specified exceptions, to tender into the offer, and not withdraw, all Shares owned of record or beneficially owned or acquired by them after such date (the &quot;Subject Shares&quot;), to vote the Subject Shares in favor of the Merger and vote against alternative acquisition proposals to the Merger and to refrain from disposing of the Subject Shares. (Continued in Footnote 3)</footnote>
+        <footnote id="F3">As of the date hereof, the Subject Shares include (i) 2,022,500 Shares beneficially owned by Jeffrey Horowitz, (ii) 3,049,013 Shares beneficially owned by JHH Capital, LLC; (iii) 19,489 Shares beneficially owned by Great Hill Investors, LLC; (iv) 4,398,828 Shares beneficially owned by Great Hill Equity Partners III, L.P.; and (v) 2,306,497 Shares beneficially owned by Great Hill Equity Partners IV, L.P.</footnote>
+        <footnote id="F4">As Acquisition Sub is a direct wholly owned subsidiary of Kroger, and because Kroger and Acquisition Sub executed the Tender and Support Agreements, each of Kroger and Acquisition Sub (the &quot;Reporting Persons&quot;) may be deemed to have acquired beneficial ownership over the Subject Shares for the purpose of determining its status as a ten percent holder thereof. However, as none of the Reporting Persons have any pecuniary interest in the Subject Shares, beneficial ownership over the Subject Shares is expressly disclaimed for reporting purposes.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Christine S. Wheatley</signatureName>
+        <signatureDate>2014-07-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>misc1.htm
+<DESCRIPTION>MISCELLANEOUS EXHIBITS
+<TEXT>
+<html>
+<head>
+    <title>Unassociated Document</title>
+    <!--Licensed to: Thomson Reuters-->
+    <!--Document Created using EDGARizer 2020 5.4.6.0-->
+    <!--Copyright 1995 - 2014 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">
+<div>
+<hr style="COLOR: black" align="center" noshade size="4" width="100%">
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Exhibit 99.1 - Joint Filer Information</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman, serif; FONT-SIZE: 10pt">Designated Filer: The Kroger Co.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman, serif; FONT-SIZE: 10pt">Issuer &amp; Ticker Symbol: Vitacost.com, Inc. (VITC)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman, serif; FONT-SIZE: 10pt">Date of Event Requiring Statement: July 1, 2014</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman, serif; FONT-SIZE: 10pt">Joint Filers:</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman, serif; FONT-SIZE: 10pt">1. Name: The Kroger Co.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman, serif; FONT-SIZE: 10pt">Address: 1014 Vine Street</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman, serif; FONT-SIZE: 10pt">Cincinnati, Ohio 45202-1100</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman, serif; FONT-SIZE: 10pt">2. Name: Vigor Acquisition Corp.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman, serif; FONT-SIZE: 10pt">Address: 1014 Vine Street</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman, serif; FONT-SIZE: 10pt">Cincinnati, Ohio 45202-1100</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160;</font>
+
+<div>
+<hr style="COLOR: black" align="left" noshade size="2" width="100%">
+</div>
+</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<FILENAME>misc2.htm
+<DESCRIPTION>MISCELLANEOUS EXHIBITS
+<TEXT>
+<html>
+<head>
+    <title>Unassociated Document</title>
+    <!--Licensed to: TR-->
+    <!--Document Created using EDGARizer 2020 5.4.6.0-->
+    <!--Copyright 1995 - 2014 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">
+<hr style="COLOR: black" align="center" noshade size="4" width="100%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Exhibit 99.2 - Joint Filers&#8217; Signatures</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman, serif; FONT-SIZE: 10pt">Designated Filer: The Kroger Co.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman, serif; FONT-SIZE: 10pt">Issuer &amp; Ticker Symbol: Vitacost.com, Inc. (VITC)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman, serif; FONT-SIZE: 10pt">Date of Event Requiring Statement: July 1, 2014</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div align="center">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: 'times new roman', times, serif; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'times new roman', times, serif">
+<tr>
+<td width="12%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="32%" style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman, serif; FONT-SIZE: 10pt">THE KROGER CO.</font></div>
+</td>
+<td width="56%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr><tr>
+<td width="12%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="32%">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman, serif; FONT-SIZE: 10pt">By:</font></font></div>
+</td>
+<td width="56%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr><tr>
+<td width="12%" style="PADDING-BOTTOM: 2px"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="32%" style="BORDER-BOTTOM: black 2px solid"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">/s/ Christine S. Wheatley</font></td>
+<td width="56%" style="PADDING-BOTTOM: 2px"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr><tr>
+<td width="12%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="32%">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman, serif; FONT-SIZE: 10pt">Name: Christine S. Wheatley</font></font></div>
+</td>
+<td width="56%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr><tr>
+<td width="12%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td colspan="2" width="88%">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman, serif; FONT-SIZE: 10pt">Title: Group Vice President, Secretary and General Counsel</font></font></div>
+</td>
+</tr><tr>
+<td width="12%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="32%">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman, serif; FONT-SIZE: 10pt">Date: July 10, 2014</font></font></div>
+</td>
+<td width="56%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr><tr>
+<td width="12%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="32%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="56%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr><tr>
+<td width="12%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="32%">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman, serif; FONT-SIZE: 10pt">VIGOR ACQUISITION CORP.</font></font></div>
+</td>
+<td width="56%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr><tr>
+<td width="12%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="32%">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman, serif; FONT-SIZE: 10pt">By:</font></font></div>
+</td>
+<td width="56%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr><tr>
+<td width="12%" style="PADDING-BOTTOM: 2px"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="32%" style="BORDER-BOTTOM: black 2px solid"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">/s/ Christine S. Wheatley</font></td>
+<td width="56%" style="PADDING-BOTTOM: 2px"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr><tr>
+<td width="12%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="32%">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman, serif; FONT-SIZE: 10pt">Name: Christine S. Wheatley</font></font></div>
+</td>
+<td width="56%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr><tr>
+<td width="12%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="32%">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman, serif; FONT-SIZE: 10pt">Title: President</font></font></div>
+</td>
+<td width="56%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr><tr>
+<td width="12%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="32%">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman, serif; FONT-SIZE: 10pt"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman, serif; FONT-SIZE: 10pt">Date: July 10, 2014</font></font></font></font></div>
+</div>
+</td>
+<td width="56%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr></table>
+</div>
+
+<div>&#160;</div>
+
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160;</font>
+
+<div>
+<hr style="COLOR: black" align="center" noshade size="2" width="100%">
+</div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

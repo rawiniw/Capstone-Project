@@ -1,0 +1,132 @@
+<SEC-DOCUMENT>0001209191-12-000918.txt : 20120104
+<SEC-HEADER>0001209191-12-000918.hdr.sgml : 20120104
+<ACCEPTANCE-DATETIME>20120104135626
+ACCESSION NUMBER:		0001209191-12-000918
+CONFORMED SUBMISSION TYPE:	3/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20110701
+FILED AS OF DATE:		20120104
+DATE AS OF CHANGE:		20120104
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KROGER CO
+		CENTRAL INDEX KEY:			0000056873
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-GROCERY STORES [5411]
+		IRS NUMBER:				310345740
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0203
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1014 VINE ST
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45201
+		BUSINESS PHONE:		5137624000
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			DONNELLY MICHAEL JOSEPH
+		CENTRAL INDEX KEY:			0001186592
+
+	FILING VALUES:
+		FORM TYPE:		3/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00303
+		FILM NUMBER:		12505241
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3/A
+<SEQUENCE>1
+<FILENAME>doc3a.xml
+<DESCRIPTION>FORM 3/A SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0204</schemaVersion>
+
+    <documentType>3/A</documentType>
+
+    <periodOfReport>2011-07-01</periodOfReport>
+
+    <dateOfOriginalSubmission>2011-07-06</dateOfOriginalSubmission>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000056873</issuerCik>
+        <issuerName>KROGER CO</issuerName>
+        <issuerTradingSymbol>KR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001186592</rptOwnerCik>
+            <rptOwnerName>DONNELLY MICHAEL JOSEPH</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>THE KROGER CO.</rptOwnerStreet1>
+            <rptOwnerStreet2>1014 VINE STREET</rptOwnerStreet2>
+            <rptOwnerCity>CINCINNATI</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>45202</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Senior Vice President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Non-Qualified Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>14.925</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2012-12-12</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>51114</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These options were granted under a long-term incentive plan of The Kroger Co. and vest in equal annual installments in whole amounts over a five-year period, at the rate of 20% per year commencing one year from the date of the grant.</footnote>
+    </footnotes>
+
+    <remarks>This amendment is being filed to correct an error in a line-item holding reported on the original Form 3.  The original number of Non-Qualified Stock Options reported was 80,000; the correct number is 51,114.</remarks>
+
+    <ownerSignature>
+        <signatureName>Michael J. Donnelly, by Bruce M. Gack, Attorney-in-Fact</signatureName>
+        <signatureDate>2012-01-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

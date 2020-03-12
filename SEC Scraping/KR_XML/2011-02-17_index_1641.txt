@@ -1,0 +1,348 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NgNEkoGmCjm0Wvdv76kZcVFMBEBRKrIpzKzddJvwFjgRKA3adFlk/R7VDPfNfMmO
+ 6+xuDsPOmqtGgCJztmwDsg==
+
+<SEC-DOCUMENT>0001104659-11-007968.txt : 20110217
+<SEC-HEADER>0001104659-11-007968.hdr.sgml : 20110217
+<ACCEPTANCE-DATETIME>20110217104951
+ACCESSION NUMBER:		0001104659-11-007968
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20110216
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20110217
+DATE AS OF CHANGE:		20110217
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KROGER CO
+		CENTRAL INDEX KEY:			0000056873
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-GROCERY STORES [5411]
+		IRS NUMBER:				310345740
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0203
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00303
+		FILM NUMBER:		11619725
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1014 VINE ST
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45201
+		BUSINESS PHONE:		5137624000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a11-6214_18k.htm
+<DESCRIPTION>8-K
+<TEXT>
+
+
+<html>
+<head>
+
+  </head>
+<body lang="EN-US">
+<div style="font-family:Times New Roman;">
+<div style="border-bottom:solid windowtext 1.0pt;border-left:none;border-right:none;border-top:solid windowtext 3.0pt;padding:1.0pt 0in 1.0pt 0in;">
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">UNITED STATES</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">SECURITIES AND EXCHANGE COMMISSION</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Washington, DC&#160; 20549</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">FORM&nbsp;8-K</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">CURRENT REPORT</font></b></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">Pursuant to Section&nbsp;13 or 15(d)&nbsp;of the</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">Securities Exchange Act of 1934</font></b></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date of Report:&#160; <b>February&nbsp;16, 2011</b></font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Date of earliest event reported)</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">THE KROGER CO.</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;(Exact name of registrant as specified in its charter)</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">An Ohio Corporation</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">No.&nbsp;1-303</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">31-0345740</font></b></p>    </td>   </tr>
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(State or other jurisdiction <br>   of incorporation)</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Commission File Number)</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(IRS Employer<br>   Identification No.)</font></p>    </td>   </tr>  </table>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">1014 Vine Street</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Cincinnati, OH&#160; 45201</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Address of principal executive offices)</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Registrant&#146;s telephone number:&#160; <b>(513) 762-4000</b></font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Check the appropriate box below if the Form&nbsp;8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Pre-commencement communications pursuant to Rule&nbsp;14d-2(b)&nbsp;under the Exchange Act (17 CFR 240.14d-2(b))</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Pre-commencement communications pursuant to Rule&nbsp;13e-4(c)&nbsp;under the Exchange Act (17 CFR 240.13e-4(c))</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="border-bottom:solid windowtext 3.0pt;border-left:none;border-right:none;border-top:solid windowtext 1.0pt;padding:1.0pt 0in 1.0pt 0in;">
+<p style="border:none;margin:0in 0in .0001pt 1.5in;padding:0in;text-indent:-1.5in;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</div>
+<p style="margin:0in 0in .0001pt 1.5in;text-indent:-1.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\C900837\11-6214-1\task4488566\6214-1-ba.htm',USER='C900837',CD='Feb 17 05:04 2011' -->
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt 1.5in;text-indent:-1.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt 1.5in;text-indent:-1.5in;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Section&nbsp;5 &#151; Corporate Governance and Management</font></u></p>
+<p style="margin:0in 0in .0001pt 1.5in;text-indent:-1.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="9%" valign="top" style="padding:0in 0in 0in 0in;width:9.16%;">
+<p style="margin:0in 0in .0001pt;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item   5.02</font></u></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="88%" valign="top" style="padding:0in 0in 0in 0in;width:88.34%;">
+<p style="margin:0in 0in .0001pt;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Departure   of Directors or Certain Officers; Election of Directors; Appointment of   Certain Officers; Compensatory Arrangements of Certain Officers.</font></u></p>    </td>   </tr>  </table>
+<p style="margin:0in 0in .0001pt 1.0in;text-indent:-1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">On February&nbsp;16, 2011, Donald E. Becker, Executive Vice President of The Kroger Co. passed away unexpectedly in Cincinnati after suffering an aneurysm.&#160; Attached as Exhibit&nbsp;99.1 is the text of a press release issued by the Company.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt 1.0in;text-indent:-1.0in;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Section&nbsp;9 &#151; Financial Statements and Exhibits</font></u></p>
+<p style="margin:0in 0in .0001pt 1.0in;text-indent:-1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="10%" valign="top" style="padding:0in 0in 0in 0in;width:10.0%;">
+<p style="margin:0in 0in .0001pt;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item   9.01</font></u></p>    </td>
+<td width="1%" valign="bottom" style="padding:0in 0in 0in 0in;width:1.12%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="88%" valign="top" style="padding:0in 0in 0in 0in;width:88.88%;">
+<p style="margin:0in 0in .0001pt;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Financial   Statements and Exhibits.</font></u></p>    </td>   </tr>  </table>
+<p style="margin:0in 0in .0001pt 1.0in;text-indent:-1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt 92.4pt;text-indent:-20.4pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(d)</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><u><font size="2" style="font-size:10.0pt;">Exhibits</font></u><font size="2" style="font-size:10.0pt;">.</font></p>
+<p style="margin:0in 0in .0001pt 92.4pt;text-indent:-20.4pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt 2.0in;text-indent:-51.6pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">99.1</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Press release issued by the Company on February&nbsp;16, 2011.</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2<a name="PB_2_045445_7056"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='2',FILE='C:\JMS\C900837\11-6214-1\task4488566\6214-1-ba.htm',USER='C900837',CD='Feb 17 05:04 2011' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;SIGNATURES</font></u></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.92%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="51%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:51.08%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">THE   KROGER CO.</font></p>    </td>   </tr>
+<tr>
+<td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.92%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in 0in 0in 0in;width:4.42%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="46%" valign="top" style="padding:0in 0in 0in 0in;width:46.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.92%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in 0in 0in 0in;width:4.42%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="46%" valign="top" style="padding:0in 0in 0in 0in;width:46.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.92%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">February&nbsp;17,   2011</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in 0in 0in 0in;width:4.42%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">By:</font></p>    </td>
+<td width="46%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:46.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">/s/   Paul Heldman</font></p>    </td>   </tr>
+<tr>
+<td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.92%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in 0in 0in 0in;width:4.42%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="46%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:46.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Paul   Heldman</font></p>    </td>   </tr>
+<tr>
+<td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.92%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in 0in 0in 0in;width:4.42%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="46%" valign="top" style="padding:0in 0in 0in 0in;width:46.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Executive   Vice President,</font></p>    </td>   </tr>
+<tr>
+<td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.92%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in 0in 0in 0in;width:4.42%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="46%" valign="top" style="padding:0in 0in 0in 0in;width:46.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;&nbsp;Secretary   and General Counsel</font></p>    </td>   </tr>  </table>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3<a name="PB_3_045645_5796"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='3',FILE='C:\JMS\C900837\11-6214-1\task4488566\6214-1-ba.htm',USER='C900837',CD='Feb 17 05:04 2011' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">EXHIBIT&nbsp;INDEX</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="12%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:12.66%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Exhibit&nbsp;No.</font></b></p>    </td>
+<td width="4%" valign="bottom" style="padding:0in 0in 0in 0in;width:4.18%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="83%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:83.16%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Exhibit</font></b></p>    </td>   </tr>
+<tr>
+<td width="12%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:12.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="bottom" style="padding:0in 0in 0in 0in;width:4.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="83%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:83.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="12%" valign="top" style="padding:0in 0in 0in 0in;width:12.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">99.1</font></p>    </td>
+<td width="4%" valign="bottom" style="padding:0in 0in 0in 0in;width:4.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="83%" valign="top" style="padding:0in 0in 0in 0in;width:83.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Press   release issued by the Company on February&nbsp;16, 2011.</font></p>    </td>   </tr>  </table>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">4<a name="PB_4_045732_2897"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='4',FILE='C:\JMS\C900837\11-6214-1\task4488566\6214-1-ba.htm',USER='C900837',CD='Feb 17 05:04 2011' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>a11-6214_1ex99d1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+
+
+<html>
+<head>
+
+  </head>
+<body lang="EN-US">
+<div style="font-family:Times New Roman;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Exhibit&nbsp;99.1</font></b></p>
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Kroger Mourns the Death of Executive Vice President Don Becker</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">CINCINNATI, Ohio, February&nbsp;16, 2011 &#151; Donald E. Becker, Executive Vice President of The Kroger Co., passed away unexpectedly today in Cincinnati after suffering an aneurysm. He was 62 years old.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#147;We are deeply saddened to lose Don, our dear friend and extraordinary leader,&#148; said David B. Dillon, Kroger&#146;s Chairman and Chief Executive Officer. &#147;Don leaves a legacy of enthusiasm and passion for doing what&#146;s right for our customers and our associates. He touched the lives of countless people in our company as well as throughout our industry and community. He was a true &#145;people person&#146; who mentored many associates at every level of our business. Our thoughts and prayers go out to his wife, Lynn; daughter, Mackenzie; son-in-law, CJ; grandson, Becker; and all of his family and friends at this difficult time.&#148;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Throughout his career, Don helped Kroger strengthen relationships with customers and suppliers alike. &#147;He was an innovative leader who led our merchandising and procurement teams through great expansion and change,&#148; said Rodney McMullen, Kroger&#146;s President and Chief Operating Officer. &#147;Don&#146;s deep industry knowledge and strong leadership skills engaged and inspired those around him. He was a great teacher and friend who was also eager to learn from others. We will all miss him deeply.&#148;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Don joined Kroger in 1969 as a clerk in the Cincinnati/Dayton Division. During his career, he held a number of leadership positions, including Vice President of the Cincinnati/Dayton Division and President of the Central Division. He was promoted to Senior Vice President in 2000 and to Executive Vice President in 2004. In his role as Executive Vice President, Don led the company&#146;s merchandising and procurement for grocery, perishables, drug/GM and pharmacy. He also had responsibility for advertising, consumer research&nbsp;&amp; customer loyalty; manufacturing&nbsp;&amp; corporate brands; customer insights&nbsp;&amp; strategy; supply chain; and supplier diversity. The Cincinnati/Dayton Division and The Little Clinic also reported to Don. Don was passionate about inclusion and diversity and served as co-chair of Kroger&#146;s first General Office Cultural Council.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">In addition to his remarkable professional career, Don was an avid supporter of the Darwin T. Turner Scholars Program at the University of Cincinnati, the Greater Cincinnati Boy Scouts of America, Crayons to Computers, the Easter Seals Work Resource Center, and St. Michael&#146;s Center. Don earned an undergraduate degree from Central State University and graduated 1</font><font size="1" style="font-size:6.5pt;position:relative;top:-3.0pt;">st</font><font size="2" style="font-size:10.0pt;">&#160;in his Army ROTC Honors program. He retired from his military service with the rank of Captain.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Funeral arrangements are pending.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\C900805\11-6214-1\task4488582\6214-1-mm.htm',USER='C900805',CD='Feb 17 05:00 2011' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Kroger, the nation&#146;s largest traditional grocery retailer, employs more than 338,000 associates who serve customers in 2,461 supermarkets and multi-department stores in 31 states under two dozen local banner names including Kroger, City Market, Dillons, Jay C, Food 4 Less, Fred Meyer, Fry&#146;s, King Soopers, QFC, Ralphs and Smith&#146;s. The Company also operates 784 convenience stores, 375 fine jewelry stores, 954 supermarket fuel centers and 40 food processing plants in the U.S. Kroger, headquartered in Cincinnati, Ohio, focuses its charitable efforts on supporting hunger relief, health and wellness initiatives, and local organizations in the communities it serves. For more information about Kroger, please visit&nbsp;www.kroger.com.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;"># # #</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="50%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Kroger   Contacts:</font></b></p>    </td>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="50%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="10%" valign="top" style="padding:0in 0in 0in 0in;width:10.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Media:</font></p>    </td>
+<td width="40%" valign="top" style="padding:0in 0in 0in 0in;width:40.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Lynn   Marmer, (513) 762-1304</font></p>    </td>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="10%" valign="top" style="padding:0in 0in 0in 0in;width:10.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="40%" valign="top" style="padding:0in 0in 0in 0in;width:40.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="10%" valign="top" style="padding:0in 0in 0in 0in;width:10.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Investors:</font></p>    </td>
+<td width="40%" valign="top" style="padding:0in 0in 0in 0in;width:40.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Carin   Fike, (513) 762-4969</font></p>    </td>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>   </tr>  </table>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\C900805\11-6214-1\task4488582\6214-1-mm.htm',USER='C900805',CD='Feb 17 05:00 2011' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

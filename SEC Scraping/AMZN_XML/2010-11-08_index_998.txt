@@ -1,0 +1,333 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ AC9YxBiGfAo/bKqHizCTwa7GTLGWzZjX89r69Ao0jD6fKsjfF9lCIekPNBtX6JuA
+ RGwOSbuLK8wHGm8P3+PlRA==
+
+<SEC-DOCUMENT>0001193125-10-251261.txt : 20101108
+<SEC-HEADER>0001193125-10-251261.hdr.sgml : 20101108
+<ACCEPTANCE-DATETIME>20101108091702
+ACCESSION NUMBER:		0001193125-10-251261
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20101108
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20101108
+DATE AS OF CHANGE:		20101108
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMAZON COM INC
+		CENTRAL INDEX KEY:			0001018724
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-CATALOG & MAIL-ORDER HOUSES [5961]
+		IRS NUMBER:				911646860
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-22513
+		FILM NUMBER:		101170870
+
+	BUSINESS ADDRESS:	
+		STREET 1:		410 TERRY AVENUE NORTH
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98109
+		BUSINESS PHONE:		2062661000
+
+	MAIL ADDRESS:	
+		STREET 1:		410 TERRY AVENUE NORTH
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98109
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<P STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P STYLE="margin-top:4px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE
+COMMISSION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>WASHINGTON, D.C. 20549 </B></FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>FORM 8-K </B></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center>
+<P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="4"><B>CURRENT REPORT
+</B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>PURSUANT TO SECTION 13 OR 15(d) OF THE</B><I></I><B> </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>SECURITIES EXCHANGE ACT OF 1934 </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="3"><B>November&nbsp;8, 2010 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>DATE OF REPORT </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>(DATE OF EARLIEST EVENT REPORTED) </B></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center>
+<P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="6"><B>AMAZON.COM,
+INC. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(EXACT NAME OF REGISTRANT AS SPECIFIED IN CHARTER) </B></FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>DELAWARE</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>000-22513</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>91-1646860</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(STATE OR OTHER JURISDICTION<BR>OF INCORPORATION)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(COMMISSION</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="1"><B>FILE NO.)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(IRS EMPLOYER<BR>IDENTIFICATION NO.)</B></FONT></TD></TR></TABLE> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>410 TERRY AVENUE NORTH, SEATTLE, WASHINGTON 98109-5210 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(ADDRESS OF
+PRINCIPAL EXECUTIVE OFFICES, INCLUDING ZIP CODE) </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(206) 266-1000 </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(REGISTRANT&#146;S TELEPHONE NUMBER, INCLUDING AREA CODE) </B></FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions: </FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </FONT></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></TD></TR></TABLE>
+<P STYLE="font-size:8px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<P STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="font-size:1px;margin-top:12px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U><A NAME="toc"></A>TABLE OF CONTENTS </U></B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="98%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#tx115081_1"><B>ITEM&nbsp;7.01.&nbsp;REGULATION FD DISCLOSURE.</B></A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">3</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#tx115081_2"><B>ITEM&nbsp;9.01.&nbsp;FINANCIAL STATEMENTS AND EXHIBITS. </B></A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">3</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#tx115081_3">SIGNATURES</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">4</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#tx115081_4">EXHIBIT INDEX</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">5</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">EXHIBIT 99.1</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="font-size:1px;margin-top:18px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="tx115081_1"></A>ITEM&nbsp;7.01. REGULATION FD DISCLOSURE. </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">On November&nbsp;8, 2010, Amazon.com, Inc. announced that it had agreed to acquire Quidsi, Inc. A copy of the press release containing the announcement is included as Exhibit 99.l. </FONT></P>
+<P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="tx115081_2"></A>ITEM&nbsp;9.01. FINANCIAL&nbsp;STATEMENTS AND EXHIBITS. </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:2%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>(d) Exhibits. </I></B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="6%"></TD>
+<TD WIDTH="91%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1px solid #000000;width:28pt" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Exhibit<BR>Number</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1px solid #000000;width:39pt" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Description</B></FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Press Release dated November&nbsp;8, 2010 announcing Amazon.com, Inc.&#146;s agreement to acquire Quidsi, Inc.</FONT></TD></TR></TABLE>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">3 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="font-size:1px;margin-top:12px;margin-bottom:0px">&nbsp;
+</P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="tx115081_3"></A>SIGNATURES </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. </FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="6%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>AMAZON.COM, INC. (REGISTRANT)</B></FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Shelley Reynolds</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Shelley Reynolds</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Vice President and Worldwide Controller <BR>(Principal Accounting Officer)</B></FONT></TD></TR></TABLE></DIV> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Dated: November&nbsp;8, 2010 </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">4 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="font-size:1px;margin-top:12px;margin-bottom:0px">&nbsp;
+</P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="tx115081_4"></A>EXHIBIT INDEX </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="6%"></TD>
+<TD WIDTH="91%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1px solid #000000;width:28pt" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Exhibit<BR>Number</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1px solid #000000;width:39pt" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Description</B></FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Press Release dated November&nbsp;8, 2010 announcing Amazon.com, Inc.&#146;s agreement to acquire Quidsi, Inc.</FONT></TD></TR></TABLE>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">5 </FONT></P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>dex991.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<HTML><HEAD>
+<TITLE>Press Release</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Exhibit 99.1 </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>Amazon.com to Acquire Diapers.com and Soap.com </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">SEATTLE, November 8, 2010 &#150;
+Amazon.com, Inc. (NASDAQ: AMZN) today announced that it has reached an agreement to acquire Quidsi, Inc., which operates Diapers.com, an online baby care specialty site, and Soap.com, an online site for everyday essentials. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#147;I&#146;m not sure which is more unpleasant&#151;changing diapers, paying too much for them, or running out of them,&#148; said Jeff Bezos, Founder
+and CEO of Amazon.com. &#147;This acquisition brings together two companies who are committed to providing great prices and fast delivery to parents, making one of the chores of being a parent a little easier and less expensive.&#148; </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#147;Amazon shares our commitment to the customer,&#148; said Marc Lore, Co-Founder, Chief Executive Officer and Chairman of Quidsi. &#147;We are
+excited to be part of a company that will help us to serve an even larger audience, and we will continue delivering unexpectedly great service that makes life a little easier &#150; that is our mission.&#148; </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#147;Amazon is a pioneer,&#148; said Vinit Bharara, Co-Founder and Chief Operating Officer of Quidsi. &#147;Amazon is built on a culture of innovation
+and long-term vision. Quidsi is driven by these same core values, and we look forward to joining forces.&#148; </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Following the acquisition,
+Quidsi will continue to operate independently under its current leadership team. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">In addition to Diapers.com and Soap.com, Quidsi recently
+launched BeautyBar.com, a prestige beauty boutique. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Under the terms of the agreement, which has been approved by Quidsi&#146;s stockholders,
+Amazon will acquire all of the outstanding shares of Quidsi for approximately $500 million in cash, as adjusted for the assumption of options and warrants, and also assume approximately $45 million in debt and similar obligations. Subject to various
+closing conditions, the acquisition is expected to close in December 2010. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>About Amazon.com </U></B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Amazon.com, Inc. (NASDAQ: AMZN), a Fortune 500 company based in Seattle, opened on the World Wide Web in July 1995 and today offers Earth&#146;s Biggest
+Selection. Amazon.com, Inc. seeks to be Earth&#146;s most customer-centric company, where customers can find and discover anything they might want to buy online, and endeavors to offer its customers the lowest possible prices. Amazon.com and other
+sellers offer millions of unique new, refurbished and used items in categories such as Books; Movies, Music &amp; Games; Digital Downloads; Electronics &amp; Computers; Home &amp; Garden; Toys, Kids &amp; Baby; Grocery; Apparel, Shoes &amp; Jewelry;
+Health &amp; Beauty; Sports &amp; Outdoors; and Tools, Auto &amp; Industrial. Amazon Web Services provides Amazon&#146;s developer customers with access to in-the-cloud infrastructure services based on Amazon&#146;s own back-end technology platform,
+which developers can use to enable virtually any type of business. Kindle, Kindle 3G and Kindle DX are the revolutionary portable readers that wirelessly download books, magazines, newspapers, blogs and personal documents to a crisp, high-resolution
+electronic ink display that looks and reads like real paper. Kindle 3G and Kindle DX utilize the same 3G wireless technology as advanced cell phones, so users never need to hunt for a Wi-Fi hotspot. Kindle is the #1 bestselling product across the
+millions of items sold on Amazon. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="font-size:1px;margin-top:12px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Amazon and its affiliates operate
+websites, including www.amazon.com, www.amazon.co.uk, www.amazon.de, www.amazon.co.jp, www.amazon.fr, www.amazon.ca, and www.amazon.cn. As used herein, &#147;Amazon.com,&#148; &#147;we,&#148; &#147;our&#148; and similar terms include Amazon.com,
+Inc., and its subsidiaries, unless the context indicates otherwise. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>Forward-Looking Statements </U></B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">This announcement contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities
+Exchange Act of 1934. Actual results may differ significantly from management&#146;s expectations. These forward-looking statements involve risks and uncertainties that include, among others, risks related to competition, management of growth, new
+products, services and technologies, potential fluctuations in operating results, international expansion, outcomes of legal proceedings and claims, fulfillment center optimization, seasonality, commercial agreements, acquisitions and strategic
+transactions, foreign exchange rates, system interruption, inventory, government regulation and taxation, payments and fraud. More information about factors that potentially could affect Amazon.com&#146;s financial results is included in
+Amazon.com&#146;s filings with the Securities and Exchange Commission, including its most recent Annual Report on Form 10-K and subsequent filings. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B><U>About Quidsi </U></B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Quidsi operates Diapers.com (baby care), Soap.com (health, beauty, and
+household essentials), and BeautyBar.com (prestige beauty boutique). Quidsi&#146;s mission is to make life easier by creating a better e-commerce experience, delivering within two days, and providing extraordinary customer service. Quidsi is
+redefining e-commerce by combining the customer focus and attention of a specialty store with the scale, efficiency, choice, value and reliability of a national retailer. Investors in Quidsi include Accel Partners, Bessemer Venture Partners, BEV
+Capital, MentorTech Ventures and NEA.&nbsp;For more information, please visit <U>http://www.diapers.com/</U>. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>Media Contact
+</U></B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Amazon.com Public Relations Media Line 206-266-7180 </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><U>Amazon-pr@amazon.com </U></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>www.amazon.com/pr </U></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Tessa Greenwood or Lindsey Scott 212-564-3665 </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">LaunchSquad for Quidsi, Inc. </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>quidsi@launchsquad.com </U></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">#
+# # </FONT></P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

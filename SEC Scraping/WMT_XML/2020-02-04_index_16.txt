@@ -1,6 +1,6 @@
-0001127602-20-003566.txt : 20200204
-0001127602-20-003566.hdr.sgml : 20200204
-20200204175525
+<SEC-DOCUMENT>0001127602-20-003566.txt : 20200204
+<SEC-HEADER>0001127602-20-003566.hdr.sgml : 20200204
+<ACCEPTANCE-DATETIME>20200204175525
 ACCESSION NUMBER:		0001127602-20-003566
 CONFORMED SUBMISSION TYPE:	4
 PUBLIC DOCUMENT COUNT:		1
@@ -52,89 +52,97 @@ ISSUER:
 	FORMER COMPANY:	
 		FORMER CONFORMED NAME:	WAL MART STORES INC
 		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
 
+    <schemaVersion>X0306</schemaVersion>
 
-4
-1
-form4.xml
-PRIMARY DOCUMENT
+    <documentType>4</documentType>
 
+    <periodOfReport>2020-01-31</periodOfReport>
 
+    <issuer>
+        <issuerCik>0000104169</issuerCik>
+        <issuerName>Walmart Inc.</issuerName>
+        <issuerTradingSymbol>WMT</issuerTradingSymbol>
+    </issuer>
 
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001684616</rptOwnerCik>
+            <rptOwnerName>Lore Marc E.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>221 RIVER STREET, 8TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>HOBOKEN</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>07030</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Executive Vice President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
 
-X0306
-4
-2020-01-31
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-01-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>47906</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>116.58</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2602507</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
 
-0000104169
-Walmart Inc.
-WMT
+    <footnotes>
+        <footnote id="F1">Represents stock units withheld to satisfy tax withholding obligations upon the vesting of performance-based restricted stock units.</footnote>
+    </footnotes>
 
-
-
-0001684616
-Lore Marc E.
-
-
-221 RIVER STREET, 8TH FLOOR
-
-HOBOKEN
-NJ
-07030
-
-
-
-1
-Executive Vice President
-
-
-
-
-
-Common
-
-
-2020-01-31
-
-
-4
-F
-0
-
-
-
-
-47906
-
-
-
-116.58
-
-
-D
-
-
-
-
-2602507
-
-
-
-
-D
-
-
-
-
-
-Represents stock units withheld to satisfy tax withholding obligations upon the vesting of performance-based restricted stock units.
-
-
-/s/ Kristopher A. Isham, by power of attorney
-2020-02-04
-
-
-
-
-
-
+    <ownerSignature>
+        <signatureName>/s/ Kristopher A. Isham, by power of attorney</signatureName>
+        <signatureDate>2020-02-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,332 @@
+<SEC-DOCUMENT>0001209191-14-053035.txt : 20140818
+<SEC-HEADER>0001209191-14-053035.hdr.sgml : 20140818
+<ACCEPTANCE-DATETIME>20140818162303
+ACCESSION NUMBER:		0001209191-14-053035
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20140818
+FILED AS OF DATE:		20140818
+DATE AS OF CHANGE:		20140818
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Vitacost.com, Inc.
+		CENTRAL INDEX KEY:			0001401688
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-CATALOG & MAIL-ORDER HOUSES [5961]
+		IRS NUMBER:				371333024
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5400 BROKEN SOUND BLVD NW
+		STREET 2:		SUITE 500
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33487-3521
+		BUSINESS PHONE:		(561) 982-4180
+
+	MAIL ADDRESS:	
+		STREET 1:		5400 BROKEN SOUND BLVD NW
+		STREET 2:		SUITE 500
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33487-3521
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Vigor Acquisition Corp
+		CENTRAL INDEX KEY:			0001613095
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34468
+		FILM NUMBER:		141049249
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1014 VINE STREET
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45202
+		BUSINESS PHONE:		513-762-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		1014 VINE STREET
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45202
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			KROGER CO
+		CENTRAL INDEX KEY:			0000056873
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-GROCERY STORES [5411]
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0203
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34468
+		FILM NUMBER:		141049250
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1014 VINE ST
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45201
+		BUSINESS PHONE:		5137624000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2014-08-18</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001401688</issuerCik>
+        <issuerName>Vitacost.com, Inc.</issuerName>
+        <issuerTradingSymbol>VITC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000056873</rptOwnerCik>
+            <rptOwnerName>KROGER CO</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1014 VINE STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CINCINNATI</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>45202-1100</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001613095</rptOwnerCik>
+            <rptOwnerName>Vigor Acquisition Corp</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1014 VINE STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CINCINNATI</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>45202-1100</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.00001 per share</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2014-08-18</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>30678665</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>8.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>30678665</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.00001 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2014-08-18</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3749701</value>
+                    <footnoteId id="F4"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>8.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1000</value>
+                    <footnoteId id="F5"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This form is a joint filing by The Kroger Co. (&quot;Kroger&quot;) and Vigor Acquisition Corp., a direct wholly owned subsidiary of Kroger (&quot;Acquisition Corp.&quot;).</footnote>
+        <footnote id="F2">Shares of Common Stock, par value $0.00001 per share (the &quot;Shares&quot;), of Vitacost.com, Inc. (&quot;Vitacost&quot;) acquired pursuant to the tender offer effected pursuant to the Agreement and Plan of Merger, dated as of July 1, 2014 (the &quot;Merger Agreement&quot;), by and among Kroger, Acquisition Corp. and Vitacost (such tender offer, the &quot;Offer&quot;).</footnote>
+        <footnote id="F3">Shares were held by Acquisition Corp. As Acquisition Corp. is a direct wholly owned subsidiary of Kroger, Kroger may be deemed to have acquired indirect beneficial ownership of the Shares.</footnote>
+        <footnote id="F4">Reflects all of the outstanding shares of Vitacost not tendered in the Offer, which may be deemed to have been acquired by Kroger and Acquisition Corp. pursuant to the consummation of the Merger (as defined below).</footnote>
+        <footnote id="F5">Acquisition Corp. was merged with and into Vitacost, with Vitacost surviving the Merger as a direct wholly owned subsidiary of Kroger pursuant to a &quot;back-end  merger&quot; under Delaware law (the &quot;Merger&quot;). At the effective time of the Merger, all of Vitacost's previously outstanding stock held by the registrants was canceled. Prior to the Merger, Kroger directly held 1,000 shares of Acquisition Corp., which represented all of the issued and outstanding capital stock of Acquisition Corp. At the effective time of the Merger, each share of Acquisition Corp. was converted into a share of the surviving company's stock.</footnote>
+    </footnotes>
+
+    <remarks>Exhibit List: Exhibit 99.1 - Joint Filer Information; Exhibit 99.2 - Joint Filer Signatures</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Christine S. Wheatley</signatureName>
+        <signatureDate>2014-08-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>attachment1.htm
+<DESCRIPTION>EX-99.1 DOCUMENT
+<TEXT>
+<HTML>
+<HEAD>
+</HEAD>
+<BODY>
+<PRE>
+                     Exhibit 99.1 - Joint Filer Information
+
+Designated Filer: The Kroger Co.
+Issuer & Ticker Symbol: Vitacost.com, Inc. (VITC)
+Date of Event Requiring Statement: August 18, 2014
+
+Joint Filers:
+1. Name: The Kroger Co.
+Address: 1014 Vine Street
+Cincinnati, Ohio 45202-1100
+
+2. Name: Vigor Acquisition Corp.
+Address: 1014 Vine Street
+Cincinnati, Ohio 45202-1100
+
+
+
+
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<FILENAME>attachment2.htm
+<DESCRIPTION>EX-99.2 DOCUMENT
+<TEXT>
+<HTML>
+<HEAD>
+</HEAD>
+<BODY>
+<PRE>
+                    Exhibit 99.2 - Joint Filers' Signatures
+
+Designated Filer: The Kroger Co.
+Issuer & Ticker Symbol: Vitacost.com, Inc. (VITC)
+Date of Event Requiring Statement: August 18, 2014
+
+
+                  THE KROGER CO.
+                  By: /s/ Christine S. Wheatley
+                  --------------------------------------------
+                  Name: Christine S. Wheatley
+                  Title: Group Vice President, Secretary and General Counsel
+                  Date: August 18, 2014
+
+                  VIGOR ACQUISITION CORP.
+                  By: /s/ Christine S. Wheatley
+                  --------------------------------------------
+                  Name: Christine S. Wheatley
+                  Title: President
+                  Date: August 18, 2014
+
+
+
+
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

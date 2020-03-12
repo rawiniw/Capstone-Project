@@ -1,0 +1,283 @@
+<SEC-DOCUMENT>0001193125-12-155627.txt : 20120607
+<SEC-HEADER>0001193125-12-155627.hdr.sgml : 20120607
+<ACCEPTANCE-DATETIME>20120409202230
+<PRIVATE-TO-PUBLIC>
+ACCESSION NUMBER:		0001193125-12-155627
+CONFORMED SUBMISSION TYPE:	CORRESP
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20120409
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMAZON COM INC
+		CENTRAL INDEX KEY:			0001018724
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-CATALOG & MAIL-ORDER HOUSES [5961]
+		IRS NUMBER:				911646860
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		CORRESP
+
+	BUSINESS ADDRESS:	
+		STREET 1:		410 TERRY AVENUE NORTH
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98109
+		BUSINESS PHONE:		2062661000
+
+	MAIL ADDRESS:	
+		STREET 1:		410 TERRY AVENUE NORTH
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98109
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>CORRESP
+<SEQUENCE>1
+<FILENAME>filename1.htm
+<TEXT>
+<HTML><HEAD>
+<TITLE>Correspondence</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">April 9, 2012 </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">William H. Thompson </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Accounting Branch Chief </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">United States Securities and Exchange Commission </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Division of Corporation Finance </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">100 F Street
+N.E. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Washington, D.C. 20549-0405 </FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Re:</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Amazon.com, Inc.</B> </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Form
+10-K for Fiscal Year Ended December&nbsp;31, 2011</B> </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Filed February&nbsp;1, 2012</B> </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>File No. 0-22513</B> </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Dear
+Mr.&nbsp;Thompson: </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">On behalf of Amazon.com, Inc., this responds to your letter of March&nbsp;12, 2012, regarding our Annual
+Report on Form 10-K for the year ended December&nbsp;31, 2011 (the &#147;2011 10-K&#148;). Each of your comments is set forth below, followed by our response. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><U>Item&nbsp;1A. Risk Factors, page 5 </U></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>We Could Be Harmed by Data Loss or Other Security
+Breaches, page 10 </U></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">1. We note that Zappos.com announced on its website that a cyber attack occurred during which millions of user accounts
+were compromised. Please tell us what consideration you gave to including expanded disclosure consistent with the guidance provided by the Division of Corporation Finance&#146;s Disclosure Guidance Topic No.&nbsp;2. In particular, in light of the
+fact that your subsidiary has actually experienced this cyber attack (as opposed to warnings that you may experience such an attack), please address whether disclosure of the breaches would provide the proper context for this risk factor disclosure
+and whether the potential harm to your business resulting from these and similar breaches should be expanded to address reputational damage affecting customer or investor confidence. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><U>Response </U></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">In January 2012, Zappos.com experienced a cyber attack, which
+resulted in illegal access to data about Zappos&#146; approximately 24&nbsp;million Zappos customer accounts. Full credit card numbers were not accessed. The data accessed included customer names, e-mail addresses, billing and shipping addresses,
+phone numbers, credit card type, the last few digits of credit card numbers and expiration dates (i.e., the standard information found on receipts), and/or cryptographically scrambled passwords (but not actual passwords). </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">We evaluated this matter prior to filing the 2011 10-K, including the nature of the breach, and determined that, in light of our
+disclosures in the risk factor &#147;We Could Be Harmed by Data Loss or Other Security Breaches,&#148; information on the specific incident would not provide investors with additional material information relating to the cyber attack risks facing
+our business. We supplementally advise the Staff that this incident did not have a material impact on Amazon&#146;s business, as Zappos is not material to our consolidated revenues. In addition, we believed that, due to the nature of the cyber
+attack, any impact on Zappos&#146; business would be transitory, and in fact, within approximately one month after the cyber attack, revenue growth at Zappos had returned to the growth levels experienced immediately prior to the cyber attack.
+</FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">2. We note that you rely on third party technology and systems in certain aspects of your business,
+including for encryption and authentication technology to securely transmit confidential information. Please explain to us how these technologies and systems fit into your business operations and describe the associated risks. </FONT></P>
+<P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Response </U></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">We use third
+party encryption and authentication technology, including hardware and software solutions, to control access to and protect data within the Company. We also use third party encryption software and hardware to provide secure remote access to our
+internal corporate networks for our employees (as part of our Virtual Private Network (VPN)) and to allow secure access by our customers to some of our services, customer data, and limited customer account information. Encryption is used to secure
+sensitive information when it is in transit or being stored. We have implemented policies and internal controls to protect sensitive information, applying more stringent security measures as the sensitivity of the information increases. We have also
+implemented compensating controls to minimize the risk of loss or misuse of confidential information in the event of a security breach at a third party vendor. In future filings, we will revise our disclosure in the risk factor captioned &#147;We
+Could Be Harmed by Data Loss or Other Security Breaches&#148; to read as follows: </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#147;As a result of our services being
+web-based and the fact that we process, store and transmit large amounts of data, including personal information, for our customers, failure to prevent or mitigate data loss or other security breaches could expose us or our customers to a risk of
+loss or misuse of such information, adversely affect our operating results, result in litigation or potential liability for us and otherwise harm our business. In addition, we rely on third party technology and systems in certain aspects of our
+businesses, including for encryption and authentication technology to securely transmit confidential information. Although we have developed systems and processes that are designed to protect customer information and prevent data loss and other
+security breaches, <B><U>including systems and processes designed to minimize the impact of a security breach at a third party vendor,</U></B> such measures cannot provide absolute security.&#148; </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Item&nbsp;7. Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations, page 18 </U></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Results of Operations, page 24 </U></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">3. Please
+tell us your consideration of quantifying, to the extent practicable, the effect of the factors contributing to increases in fulfillment, marketing and technology and content costs. Please also tell us your consideration of discussing why
+fulfillment, marketing and technology and content costs increased as a percentage of net sales. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Response </U></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">We believe we meet the intent of Management&#146;s Discussion and Analysis by providing readers with the information necessary to
+understand our results of operations. We have used a tabular format to present relevant financial information, including three years of operating expense amounts, year over year growth rates, and operating expenses as a percent of sales. This
+tabular presentation is followed by a narrative discussion and analysis of each operating expense category. In drafting this narrative, we analyzed the drivers contributing to the changes in fulfillment, marketing and technology and content costs in
+2011, 2010, and 2009, compared to the comparable prior year periods, and listed the drivers in order of significance. The factors disclosed represent recurring components of these expense categories for the periods presented. Because the recurring
+drivers remain relatively consistent, we do not believe quantifying is necessary to enable investors and other users to assess the results of operations. We have quantified, and will continue to do so, material nonrecurring drivers of change
+affecting comparability, or when we believe the additional disclosure is necessary to an understanding of our results of operations. For example, on our Form 10-Q for the quarterly period ended September&nbsp;30, 2011, we quantified the components
+of equity-method activity, and on our Form 10-Q for the quarterly period ended March&nbsp;31, 2011, we quantified the estimated impact of the Japan earthquake and related events. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">4. Please tell us your consideration of discussing why the effective tax rate increased significantly from
+fiscal 2010 to 2011. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Response </U></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">We quantitatively disclosed the changes in our effective tax rate through the components of our side-by-side reconciliation of the statutory rate to our effective tax rate for 2011 and 2010 in Note 10,
+&#147;Income Taxes.&#148; We believe the rate reconciliation provides investors information necessary to understand the changes in our effective tax rate in 2011 and 2010. The rate reconciliation in Note 10 discloses the factors contributing to the
+year over year change, including the effects of the foreign tax differential, state taxes, tax credits, and nondeductible stock-based compensation. In our Management&#146;s Discussion and Analysis, we include discussion that emphasizes the impact of
+the foreign tax differential when we disclose: &#147;the favorable effective tax rate impact of earnings in lower tax rate jurisdictions is offset by other items, principally losses incurred in jurisdictions for which we may not be able to realize a
+related tax benefit.&#148; The year over year change in the effective tax rate is also impacted by the characteristics of our income base, which is described as follows: &#147;depending upon the jurisdictional mix and amount of our income in 2012,
+the losses for which we may not receive a tax benefit in 2012 could result in an effective tax rate that is higher than the 35% U.S. federal statutory rate.&#148; </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">We believe that these disclosures provided investors with the information necessary to understand why the effective tax rate increased from fiscal 2010 to 2011. </FONT></P>
+<P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Item&nbsp;8. Financial Statements and Supplementary Data, page 34 </U></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">5. Please provide us with your income significance test supporting your determination that the financial statements of LivingSocial are not required to be filed pursuant to Rule 3-09 of Regulation S-X.
+</FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Response </U></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The income significance test as required by Rule 3-09 and outlined in Rule 1-02(w) of Regulation S-X for the year ended December&nbsp;31,
+2011, for our equity-method investment in LivingSocial is set forth below. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The numerator for the income significance test was
+$177 million, which represents our proportionate share of LivingSocial&#146;s pre-tax income adjusted for basis differences. This amount excludes gains recorded as a result of equity ownership changes, consistent with the guidance in
+Section&nbsp;2410, &#147;Measuring Significance of Equity Method Investees under S-X 3-09&#148;, in the Division of Corporation Finance Financial Reporting Manual. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The denominator for the income significance test was $1,099 million, which represents our
+2011 income before income taxes, as adjusted to include equity-method investment activity. In accordance with computational note 1 to Rule 1-02(w), we excluded our equity in the losses of LivingSocial in determining our income. </FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="68%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="89%"></TD>
+<TD VALIGN="bottom" WIDTH="8%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">2011 <I>(in millions)</I></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="2" VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+
+
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Amazon income before income taxes</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2"> 934</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Equity-method investment activity</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2"></FONT><FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex"></SUP></FONT><FONT
+STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">(12</FONT><FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex"></SUP></FONT><FONT
+STYLE="font-family:Times New Roman" SIZE="2"></FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">) </FONT><FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">1</SUP></FONT><FONT
+STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Equity in losses of LivingSocial (numerator)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">177</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Adjusted income before income taxes (denominator)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">1,099</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Test result</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">16.1</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">%&nbsp;</FONT></TD></TR>
+</TABLE> <P STYLE="line-height:8px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000;width:10%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"></FONT><FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">1</SUP>&nbsp;</FONT><FONT
+STYLE="font-family:Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">Inclusive of our equity in LivingSocial&#146;s losses </FONT></P></TD></TR></TABLE> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Given the above significance test, we concluded that LivingSocial financial statements are not required to be filed pursuant to Rule 3-09 of Regulation S-X. </FONT></P>
+<P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Consolidated Statements of Operations, page 37 </U></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">6. Please tell us your consideration of stating separately cost of products and cost of services. Refer to Rule 5-03.2 of Regulation S-X. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><U>Response </U></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">We believe disclosure of our total cost structure by functional
+category (i.e., fulfillment, marketing, technology and content, and general and administrative) provides investors and other users of the financial statements a full picture of our cost structure and the ability to evaluate how that cost structure
+is being leveraged by our product and service sales. Furthermore, in Note 1, &#147;Description of Business and Accounting Policies,&#148; we provide a detailed description of the components of these costs, which are shared among product and service
+offerings. We jointly manage these offerings, by leveraging the shared infrastructure and therefore primarily focus on operating profits, not cost of product or cost of services. For example, our fulfillment network supports both sales where we are
+the seller of record and seller services where we earn a commission or service fee; therefore separate disclosure would not reflect the way we manage our business. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">7. We note your disclosure on page 30 that equity-method investment activity, net of tax, includes gains of $163 million as a result of reductions in your equity ownership and a recovery on the sale of an
+equity position. Please tell us your consideration of classifying these gains as non-operating income or separately stating gains/losses from the equity pickup. In your response, please include your consideration of predominant practice in
+classifying gains or losses on investments. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Response </U></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">In accordance with Regulation S-X, Rule 5-03(b), we report our equity in the earnings/ (losses) of equity-method investees (&#147;equity pickup&#148;), amortization of basis differences, dilution gains
+and losses caused by investees&#146; equity transactions, and other transaction gains and losses associated with our equity-method investees after the income tax provision on our Statement of Operations. We believe diversity in practice exists in
+the classification of other gains and losses related to these investments. In our Management&#146;s Discussion and Analysis we disclose the components of equity-method activity as follows: &#147;The increase in equity-method investment activity in
+2011 compared to 2010 is primarily due to $175 million of equity-method losses, partially offset by gains </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">
+of $163 million as a result of reductions in our equity ownership, through dilution, and a recovery on the sale of an equity position.&#148; We do not believe disaggregating the information would
+provide a better understanding of our equity-method investments, because of the complexity of earnings and losses related to these investments. We believe presenting the activity in a single line, supplemented with the disclosure as provided in our
+Management&#146;s Discussion and Analysis identifying material components of the item, provides a comprehensive view of our equity-method activity. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><U>Conclusion </U></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">We hereby acknowledge that: </FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Company is responsible for the adequacy and accuracy of the disclosure in the filing; </FONT></P></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">Staff comments or changes to disclosure in response to staff comments do not foreclose the Commission from taking any action with respect to the
+filing; and </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Company may not assert staff comments as a defense in any proceeding initiated by the Commission or any person under the federal securities laws of
+the United States. </FONT></P></TD></TR></TABLE> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">If you have any questions or further comments, please contact me by email at <U>shelleyr@amazon.com</U>,
+by phone at (206)&nbsp;266-5598 or by fax at (206)&nbsp;266-7010. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE">
+
+
+<TR>
+<TD WIDTH="7%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="92%"></TD></TR>
+
+
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT STYLE="font-family:Times New Roman" SIZE="2">Very truly yours,</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16" COLSPAN="3"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Shelley Reynolds</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT STYLE="font-family:Times New Roman" SIZE="2">Shelley Reynolds</FONT></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT STYLE="font-family:Times New Roman" SIZE="2">Vice President, Worldwide Controller</FONT></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT STYLE="font-family:Times New Roman" SIZE="2">and Principal Accounting Officer</FONT></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT STYLE="font-family:Times New Roman" SIZE="2">Amazon.com, Inc.</FONT></TD></TR>
+</TABLE></DIV> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">cc:</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Adam Phippen </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Division of
+Corporation Finance </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Audit Committee of the Amazon.com, Inc. Board of Directors </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Jeffrey P. Bezos </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">President and Chief Executive Officer </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Amazon.com, Inc. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Thomas J. Szkutak </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Senior Vice President and Chief Financial Officer </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Amazon.com, Inc. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">L. Michelle Wilson </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Senior Vice President, General Counsel and Secretary </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Amazon.com, Inc. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Kathy Smith </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Partner </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Ernst&nbsp;&amp; Young LLP </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Ronald O. Mueller </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Partner </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Gibson,
+Dunn&nbsp;&amp; Crutcher LLP </FONT></P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

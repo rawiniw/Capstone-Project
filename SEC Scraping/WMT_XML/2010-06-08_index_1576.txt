@@ -1,0 +1,186 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ GHackgutgZvcM2tp8qt6mzgPgPWTBvij80PROaYcL4vB95gLQjlt3987GECZCkFR
+ kpi2Z/c6F/rGe4eBDhdSCQ==
+
+<SEC-DOCUMENT>0001127602-10-016745.txt : 20100608
+<SEC-HEADER>0001127602-10-016745.hdr.sgml : 20100608
+<ACCEPTANCE-DATETIME>20100608182038
+ACCESSION NUMBER:		0001127602-10-016745
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20100604
+FILED AS OF DATE:		20100608
+DATE AS OF CHANGE:		20100608
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			REINEMUND STEVEN
+		CENTRAL INDEX KEY:			0001183822
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06991
+		FILM NUMBER:		10885481
+
+	MAIL ADDRESS:	
+		STREET 1:		700 ANDERSON HILL RD
+		CITY:			PURCHASE
+		STATE:			NY
+		ZIP:			10577
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WAL MART STORES INC
+		CENTRAL INDEX KEY:			0000104169
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				710415188
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	BUSINESS ADDRESS:	
+		STREET 1:		702 SOUTHWEST 8TH ST
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+		BUSINESS PHONE:		5012734000
+
+	MAIL ADDRESS:	
+		STREET 1:		702 SOUTHWEST 8TH STREET
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>form3.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0203</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2010-06-04</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000104169</issuerCik>
+        <issuerName>WAL MART STORES INC</issuerName>
+        <issuerTradingSymbol>WMT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001183822</rptOwnerCik>
+            <rptOwnerName>REINEMUND STEVEN</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>702 S.W. 8TH STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BENTONVILLE</rptOwnerCity>
+            <rptOwnerState>AR</rptOwnerState>
+            <rptOwnerZipCode>72716-0215</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes></footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Geoffrey W. Edwards, by power of attorney</signatureName>
+        <signatureDate>2010-06-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>doc1.txt
+<DESCRIPTION>STEVEN S REINEMUND POA
+<TEXT>
+POWER OF ATTORNEY
+
+The undersigned hereby designates Gordon Y. Allison, Geoffrey W.
+Edwards, Jennifer F. Rudolph, and Erron W. Smith or any one of them
+acting singly and with full power of substitution, as the undersigned?s
+true and lawful attorney in fact to:
+
+(1)  prepare, execute in the undersigned?s name and on the undersigned?s
+behalf, and submit to the U.S. Securities and Exchange Commission (the
+?SEC?) a Form ID, including amendments thereto, and any other documents
+necessary or appropriate to obtain codes, passwords, and passphrases
+enabling the undersigned to make filings with the SEC of reports required
+by Section 16(a) of the Securities Exchange Act of 1934, as amended, and
+Rule 144 of the Securities Act of 1933, as amended, or any rule or
+regulation of the SEC;
+
+(2)  to execute and file on the undersigned?s behalf all Forms 3, 4, 5,
+and 144 (including any amendments thereto) that the undersigned may be
+required to file with the SEC and other regulatory bodies as a result of
+the undersigned?s ownership of or transactions in securities of Wal-Mart
+Stores, Inc., including any filing required as a result of any indirect
+ownership of securities attributed to the undersigned under applicable law;
+and
+
+(3)  do and perform any and all acts for and on behalf of the undersigned
+which may be necessary or desirable to complete and execute any such Form 3,
+4, 5, or 144, complete and execute any amendment or amendments thereto, and
+timely file such form with the SEC and any securities exchange or similar
+authority.
+
+The authority of Gordon Y. Allison, Geoffrey W. Edwards, Jennifer F. Rudolph,
+or Erron W. Smith under this Power of Attorney shall continue until the
+undersigned is no longer required to file Forms 3, 4, 5, and 144 with regard
+to the undersigned?s ownership of or transactions in securities of Wal-Mart
+Stores, Inc., unless earlier revoked in writing.  The undersigned
+acknowledges that neither Wal-Mart Stores, Inc., Gordon Y. Allison, Geoffrey
+W. Edwards, Jennifer F. Rudolph nor Erron W. Smith are assuming any of the
+undersigned?s responsibilities to comply with Section 16 of the Securities
+Exchange Act of 1934, as amended, the Securities Act of 1933, as amended,
+or any rule or regulation of the SEC.
+
+Date:  12/28/09
+
+/s/ Steven S Reinemund
+Steven S Reinemund
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

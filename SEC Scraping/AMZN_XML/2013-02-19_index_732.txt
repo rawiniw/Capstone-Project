@@ -1,0 +1,286 @@
+<SEC-DOCUMENT>0001359804-13-000008.txt : 20130219
+<SEC-HEADER>0001359804-13-000008.hdr.sgml : 20130219
+<ACCEPTANCE-DATETIME>20130219172847
+ACCESSION NUMBER:		0001359804-13-000008
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20130215
+FILED AS OF DATE:		20130219
+DATE AS OF CHANGE:		20130219
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMAZON COM INC
+		CENTRAL INDEX KEY:			0001018724
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-CATALOG & MAIL-ORDER HOUSES [5961]
+		IRS NUMBER:				911646860
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		410 TERRY AVENUE NORTH
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98109
+		BUSINESS PHONE:		2062661000
+
+	MAIL ADDRESS:	
+		STREET 1:		410 TERRY AVENUE NORTH
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98109
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			RYDER THOMAS O
+		CENTRAL INDEX KEY:			0001137819
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-22513
+		FILM NUMBER:		13624477
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O READERS DIGEST ASSOCITATION INC
+		STREET 2:		READERS DIGEST RD.
+		CITY:			PLEASANTVILLE
+		STATE:			NY
+		ZIP:			10570
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgar.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2013-02-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001018724</issuerCik>
+        <issuerName>AMAZON COM INC</issuerName>
+        <issuerTradingSymbol>AMZN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001137819</rptOwnerCik>
+            <rptOwnerName>RYDER THOMAS O</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>59 GROVE STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 1G</rptOwnerStreet2>
+            <rptOwnerCity>NEW CANAAN</rptOwnerCity>
+            <rptOwnerState>CT</rptOwnerState>
+            <rptOwnerZipCode>06840</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2013-02-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>400</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>266.145</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>31846</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2013-02-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>264.93</value>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>31346</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2013-02-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>100</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>263.96</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>31246</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This transaction was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person.</footnote>
+        <footnote id="F2">Represents the weighted average sale price.  The highest price at where shares were sold was $266.44 and the lowest price at which shares were sold was $265.50.</footnote>
+        <footnote id="F3">Represents the weighted average sale price.  The highest price at where shares were sold was $265.17 and the lowest price at which shares were sold was $264.45.</footnote>
+    </footnotes>
+
+    <remarks>REMARKS:
+
+The reporting person undertakes to provide, upon request by the staff of the SEC, the issuer, or a security holder of the issuer, full information regarding the number of shares transacted at each price, with respect to all transactions reported on this Form 4.
+
+Exhibit 24
+
+Power of Attorney</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/Michael D. Deal, as attorney-in-fact for Tom Ryder</signatureName>
+        <signatureDate>2013-02-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>attach_1.htm
+<DESCRIPTION>2013 RYDER POA
+<TEXT>
+<HTML><BODY><PRE>POWER OF ATTORNEY
+
+
+
+      The undersigned hereby constitutes and appoints each of Michael D. Deal, Thomas J. Szkutak and David A. Zapolsky as the undersigned's true and lawful attorney-in-fact to:
+
+(1) execute for and on behalf of the undersigned, in the undersigned's capacity as an officer and/or director of Amazon.com, Inc. (the "Company"), Forms 3, 4 and 5 in accordance with Section 16(a) of the Securities Exchange Act of 1934, as amended, and the rules and regulations thereunder;
+
+(2) do and perform any and all acts for and on behalf of the undersigned that may be necessary or desirable to complete and execute any such Forms 3, 4 and 5, to complete and execute any amendment or amendments thereto, and to file or cause to be filed such forms and amendments with the United States Securities and Exchange Commission and, to the extent required, with any stock exchange or similar authority; and
+
+(3) take any other action of any type whatsoever in connection with the foregoing which, in the opinion of such attorney-in-fact, may be of benefit to, in the best interest of, or legally required by, the undersigned, it being understood that the documents executed by such attorney-in-fact on behalf of the undersigned pursuant to this power of attorney shall be in such form and shall contain such terms and conditions as such attorney-in-fact may approve in such attorney-in-fact's discretion.
+
+
+
+      The undersigned hereby grants to such attorney-in-fact full power and authority to do and perform each and every act and thing whatsoever requisite, necessary or proper to be done in the exercise of any of the rights and powers herein granted, as fully to all intents and purposes as the undersigned might or could do if personally present, with full power of substitution and revocation, hereby ratifying and confirming all that such attorney-in-fact, or such attorney-in-fact's substitute or substitutes, shall lawfully do or cause to be done by virtue of this power of attorney and the rights and powers herein granted.  The undersigned acknowledges that the foregoing attorney-in-fact, in serving in such capacity at the request of the undersigned, is not assuming, nor is the Company assuming, any of the undersigned's responsibilities to comply with Section 16 of the Securities Exchange Act of 1934, as amended.
+
+      The undersigned agrees that such attorney-in-fact may rely entirely on information furnished orally or in writing by the undersigned to such attorney-in-fact.  The undersigned also agrees to indemnify and hold harmless the Company and such attorney-in-fact against any losses, claims, damages or liabilities (or actions in these respects) that arise out of or are based on any untrue statement or omission of necessary facts in the information provided by the undersigned to such attorney-in-fact for purposes of executing, acknowledging, delivering and filing Forms 3, 4 or 5 (including amendments thereto) and agrees to reimburse the Company and such attorney-in-fact for any legal or other expenses reasonably incurred in connection with investigating or defending against any such loss, claim, damage, liability or action.
+
+
+
+      This Power of Attorney shall remain in full force and effect until the undersigned is no longer required to file Forms 3, 4 and 5 with respect to the undersigned's holdings of and transactions in securities issued by the Company, unless earlier revoked by the undersigned in a signed writing delivered to the foregoing attorney-in-fact.  The execution of this Power of Attorney shall not of itself rescind or revoke any Power of Attorney granted by the undersigned to any other person.
+
+
+
+      IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be executed as of this 6th day of January, 2013.
+
+
+
+
+
+______/s/ Thomas O. Ryder___________
+
+Thomas O. Ryder
+
+
+
+1097630 Amazon.com, Inc. Confidential
+
+
+
+</PRE></BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

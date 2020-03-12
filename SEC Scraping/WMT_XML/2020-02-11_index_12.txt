@@ -1,6 +1,6 @@
-0001127602-20-004957.txt : 20200211
-0001127602-20-004957.hdr.sgml : 20200211
-20200211181757
+<SEC-DOCUMENT>0001127602-20-004957.txt : 20200211
+<SEC-HEADER>0001127602-20-004957.hdr.sgml : 20200211
+<ACCEPTANCE-DATETIME>20200211181757
 ACCESSION NUMBER:		0001127602-20-004957
 CONFORMED SUBMISSION TYPE:	4
 PUBLIC DOCUMENT COUNT:		1
@@ -52,91 +52,99 @@ ISSUER:
 	FORMER COMPANY:	
 		FORMER CONFORMED NAME:	WAL MART STORES INC
 		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
 
+    <schemaVersion>X0306</schemaVersion>
 
-4
-1
-form4.xml
-PRIMARY DOCUMENT
+    <documentType>4</documentType>
 
+    <periodOfReport>2020-02-07</periodOfReport>
 
+    <issuer>
+        <issuerCik>0000104169</issuerCik>
+        <issuerName>Walmart Inc.</issuerName>
+        <issuerTradingSymbol>WMT</issuerTradingSymbol>
+    </issuer>
 
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001684616</rptOwnerCik>
+            <rptOwnerName>Lore Marc E.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>221 RIVER STREET, 8TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>HOBOKEN</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>07030</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Executive Vice President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
 
-X0306
-4
-2020-02-07
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-02-07</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>85000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>116.3836</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2517507</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
 
-0000104169
-Walmart Inc.
-WMT
+    <footnotes>
+        <footnote id="F1">This sale was executed pursuant to a Rule 10b5-1 plan that was entered into by the Reporting Person during an open trading window and was disclosed by the Issuer on Form 8-K on 11-22-2019.</footnote>
+        <footnote id="F2">This sale was executed in multiple trades ranging from $115.77 to $116.71, inclusive. The price reported reflects the weighted average sales price. The reporting person undertakes to provide to the issuer, any security holder of the issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares and prices at which the transaction was affected.</footnote>
+    </footnotes>
 
-
-
-0001684616
-Lore Marc E.
-
-
-221 RIVER STREET, 8TH FLOOR
-
-HOBOKEN
-NJ
-07030
-
-
-
-1
-Executive Vice President
-
-
-
-
-
-Common
-
-
-2020-02-07
-
-
-4
-S
-0
-
-
-
-
-85000
-
-
-
-116.3836
-
-
-
-D
-
-
-
-
-2517507
-
-
-
-
-D
-
-
-
-
-
-This sale was executed pursuant to a Rule 10b5-1 plan that was entered into by the Reporting Person during an open trading window and was disclosed by the Issuer on Form 8-K on 11-22-2019.
-This sale was executed in multiple trades ranging from $115.77 to $116.71, inclusive. The price reported reflects the weighted average sales price. The reporting person undertakes to provide to the issuer, any security holder of the issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares and prices at which the transaction was affected.
-
-
-/s/ Kristopher A. Isham, by power of attorney
-2020-02-11
-
-
-
-
-
-
+    <ownerSignature>
+        <signatureName>/s/ Kristopher A. Isham, by power of attorney</signatureName>
+        <signatureDate>2020-02-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

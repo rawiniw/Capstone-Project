@@ -1,0 +1,1123 @@
+<SEC-DOCUMENT>0001193125-11-076644.txt : 20110324
+<SEC-HEADER>0001193125-11-076644.hdr.sgml : 20110324
+<ACCEPTANCE-DATETIME>20110324172751
+ACCESSION NUMBER:		0001193125-11-076644
+CONFORMED SUBMISSION TYPE:	S-8
+PUBLIC DOCUMENT COUNT:		4
+FILED AS OF DATE:		20110324
+DATE AS OF CHANGE:		20110324
+EFFECTIVENESS DATE:		20110324
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMAZON COM INC
+		CENTRAL INDEX KEY:			0001018724
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-CATALOG & MAIL-ORDER HOUSES [5961]
+		IRS NUMBER:				911646860
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		S-8
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	333-173054
+		FILM NUMBER:		11710281
+
+	BUSINESS ADDRESS:	
+		STREET 1:		410 TERRY AVENUE NORTH
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98109
+		BUSINESS PHONE:		2062661000
+
+	MAIL ADDRESS:	
+		STREET 1:		410 TERRY AVENUE NORTH
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98109
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>S-8
+<SEQUENCE>1
+<FILENAME>ds8.htm
+<DESCRIPTION>FORM S-8
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form S-8</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>As filed with the Securities and Exchange Commission on<U></U> March 24, 2011
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Registration No.&nbsp;333-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></P>
+<P STYLE="font-size:4px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<P STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P STYLE="margin-top:4px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE
+COMMISSION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>Washington, D.C. 20549 </B></FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>FORM S-8 </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>REGISTRATION STATEMENT </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="3"><B><I>UNDER </I></B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B><I>THE SECURITIES ACT OF 1933 </I></B></FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="6"><B>AMAZON.COM, INC. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>(Exact Name of Registrant as Specified in Its Charter) </B></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center>
+<P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Delaware</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>410 TERRY AVENUE NORTH</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>SEATTLE, WASHINGTON<BR>98109-5210</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>91-1646860</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(State or Other Jurisdiction of</B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Incorporation or Organization)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(Address of Principal Executive Offices Including Zip Code)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(I.R.S. Employer</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="1"><B>Identification No.)</B></FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center>
+<P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>QUIDSI, INC. (fka 1800DIAPERS, INC.) 2006 STOCK OPTION/STOCK ISSUANCE PLAN </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(Full Title of the Plan) </B></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center>
+<P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>L. Michelle Wilson</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>Senior Vice President, General Counsel and Secretary</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Amazon.com,
+Inc.</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>410 Terry Avenue North</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>Seattle, Washington 98109-5210</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(206) 266-1000</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Copies to:</I></B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>Ronald O. Mueller, Esq.</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Gibson, Dunn &amp; Crutcher LLP</B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>1050 Connecticut Avenue, N.W.</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>Washington, D.C. 20036-5306</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(202)
+955-8500</B></FONT></P></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(Name and Address of Agent For Service) </B></FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(206) 266-1000 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="1"><B>(Telephone Number, Including Area Code, of Agent For Service) </B></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center>
+<P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Indicate by check mark whether
+the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of &#147;large accelerated filer,&#148; &#147;accelerated filer&#148; and &#147;smaller reporting
+company&#148; in Rule 12b2 of the Exchange Act. </FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="16%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="60%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="20%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="1%"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Large&nbsp;accelerated&nbsp;filer</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#254;</FONT></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Accelerated&nbsp;filer</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Non-accelerated filer</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;&nbsp;(Do not check if a smaller reporting company)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Smaller&nbsp;reporting&nbsp;company</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD></TR></TABLE> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>CALCULATION OF REGISTRATION FEE </B></FONT></P> <P STYLE="font-size:4px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="44%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="13%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="13%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="13%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="13%"></TD></TR>
+<TR STYLE="font-size:1px">
+<TD COLSPAN="9" VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD></TR>
+<TR>
+<TD VALIGN="bottom" ALIGN="center" STYLE="BORDER-TOP:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Title&nbsp;of&nbsp;Securities&nbsp;to&nbsp;be&nbsp;Registered</B></FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="BORDER-TOP:1px solid #000000"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Amount</B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>to be</B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Registered<SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">(1) </SUP></B></FONT></P></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="BORDER-TOP:1px solid #000000"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Proposed</B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Maximum</B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Offering Price</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="1"><B>Per Share<SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">(2)</SUP></B></FONT></P></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="BORDER-TOP:1px solid #000000"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Proposed</B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Maximum</B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Aggregate</B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Offering Price<SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">(2)</SUP></B></FONT></P></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="BORDER-TOP:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Amount of<BR>Registration
+Fee<SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">(2)</SUP></B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-TOP:1px solid #000000"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Common&nbsp;Stock,&nbsp;$0.01 par&nbsp;value per share</FONT></P></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="BORDER-TOP:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">N/A</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="BORDER-TOP:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">N/A</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="BORDER-TOP:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">$7,935,000.00</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="BORDER-TOP:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">$921.25</FONT></TD></TR></TABLE>
+<P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(1)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pursuant to Rule 416(a) under the Securities Act of 1933, as amended, there are also being registered such additional shares of Common Stock that become available under
+the foregoing plan in connection with changes in the number of shares of outstanding Common Stock because of events such as recapitalizations, stock dividends, stock splits and reverse stock splits effected without receipt of consideration.
+</FONT></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(2)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Calculated pursuant to Rule 457(h)(1) and Rule 457(o) under the Securities Act based upon the maximum aggregate offering price. The number of shares registered under
+this Registration Statement shall be determined pursuant to the formula set forth in Section 2.9 of the Agreement and Plan of Merger, dated November 1, 2010, among Amazon.com, Inc., Boardwalk Merger Sub, Inc., Quidsi, Inc. and Shareholder
+Representative Services LLC. </FONT></TD></TR></TABLE> <P STYLE="font-size:8px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<P STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>INTRODUCTION </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">This Registration Statement on Form S-8 is filed by Amazon.com, Inc., a Delaware corporation (the &#147;Registrant&#148; or the &#147;Company&#148;), relating to the shares of the Company&#146;s Common
+Stock, par value $0.01 per share (the &#147;Common Stock&#148;), to be offered pursuant to the Company&#146;s assumption of the Quidsi, Inc. (fka 1800DIAPERS, Inc.) 2006 Stock Option/Stock Issuance Plan (the &#147;Plan&#148;). </FONT></P>
+<P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>PART I </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>INFORMATION REQUIRED IN THE SECTION 10(a) PROSPECTUS </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The information required in Part I of this Registration Statement is included in one or more prospectuses for the Plan that are not filed as part of this Registration Statement in accordance with Rule 428
+of the Securities Act of 1933, as amended (the &#147;Securities Act&#148;), and the Note to Part I of Form S-8. </FONT></P> <P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>PART II
+</B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>INFORMATION REQUIRED IN THE REGISTRATION STATEMENT </B></FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;3.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Incorporation of Documents by Reference. </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:8%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The following documents previously filed with the Securities and Exchange Commission (&#147;Commission&#148;) are hereby incorporated by reference into this Registration Statement: </FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">1.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Company&#146;s latest Annual Report on Form 10-K filed pursuant to Sections&nbsp;13(a) or 15(d) of the Exchange Act or latest prospectus filed pursuant to
+Rule&nbsp;424(b) under the Securities Act that contains audited financial statements for the Company&#146;s latest fiscal year for which such statements have been filed; </FONT></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">2.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">All other reports filed by the Company pursuant to Section&nbsp;13(a) or 15(d) of the Exchange Act since the end of the fiscal year covered by the Company&#146;s latest
+Annual Report or prospectus referred to in (1)&nbsp;above; </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">3.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">The description of the Common Stock set forth under the caption &#147;Description of Registrant&#146;s Securities to be Registered&#148; in the Company&#146;s
+Registration Statement on Form 8-A dated May&nbsp;2, 1997, together with any amendment or report filed with the Commission for the purpose of updating such description. </FONT></TD></TR></TABLE>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">In addition, all documents filed by the Company pursuant to Sections 13(a), 13(c), 14 or 15(d) of the Exchange Act prior to the filing of
+a post-effective amendment to this Registration Statement which indicates that all securities offered hereby have been sold or which deregisters all such securities then remaining unsold, shall be deemed to be incorporated by reference in this
+Registration Statement and made part hereof from their respective dates of filing (such documents, and the documents listed above, being hereinafter referred to as &#147;Incorporated Documents&#148;); provided, however, that the documents listed
+above or subsequently filed by the Company pursuant to Sections 13(a), 13(c), 14 and 15(d) of the Exchange Act in each year during which the offering made by this Registration Statement is in effect prior to the filing with the Commission of the
+Company&#146;s Annual Report on Form 10-K covering such year shall cease to be Incorporated Documents or be incorporated by reference in this Registration Statement from and after the filing of such Annual Reports. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Any statement contained herein shall be deemed to be modified or superseded for purposes of this Registration Statement to the extent
+that a statement contained in any subsequently filed Incorporated Document modifies or supersedes such statement. Any statement contained in an Incorporated Document shall be deemed to be modified or superseded for purposes of this Registration
+Statement to the extent that a statement contained herein or in any other subsequently filed Incorporated Document modifies or supersedes such statement. Any such statement so modified or superseded shall not be deemed, except as so modified or
+superseded, to constitute a part of this Registration Statement. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Registrant&#146;s Exchange Act file number with the
+Commission is&nbsp;000-22513. </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;4.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Description of Securities. </B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Not applicable. </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;5.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Interests of Named Experts and Counsel. </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:8%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Not applicable. </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;6.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Indemnification of Directors and Officers. </B></FONT></TD></TR></TABLE>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">2 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Section&nbsp;145 of the Delaware General Corporation Law (the &#147;DGCL&#148;) provides
+that a corporation may indemnify its directors and officers, as well as other employees and individuals, against expenses (including attorneys&#146; fees), judgments, fines and amounts paid in settlement in connection with specified actions, suits
+or proceedings, whether civil, criminal, administrative or investigative (other than an action by or in the right of the corporation &#150; a &#147;derivative action&#148;), if they acted in good faith and in a manner they reasonably believed to be
+in or not opposed to the best interests of the corporation, and, with respect to any criminal action or proceeding, had no reasonable cause to believe their conduct was unlawful. A similar standard is applicable in the case of derivative actions,
+except that indemnification only extends to expenses (including attorneys&#146; fees) incurred in connection with the defense or settlement of such actions, and the statute requires court approval before there can be any indemnification in which the
+person seeking indemnification has been found liable to the corporation. The statute provides that it is not exclusive of other indemnification that may be granted by a corporation&#146;s bylaws, disinterested director vote, stockholder vote,
+agreement or otherwise. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Section&nbsp;10 of the Company&#146;s Bylaws requires indemnification to the full extent permitted
+under Delaware law as it now exists or may hereafter be amended. Subject to any restrictions imposed by Delaware law, the Bylaws provide an unconditional right to indemnification for all expense, liability and loss (including attorneys&#146; fees,
+judgments, fines, ERISA excise taxes or penalties and amounts paid in settlement) actually and reasonably incurred or suffered by any person in connection with any actual or threatened action, suit or proceeding, whether civil, criminal,
+administrative or investigative by reason of the fact that such person is or was serving as a director or officer of the Company or that, being or having been a director or officer of the Company, such person is or was serving at the request of the
+Company as a director, officer, employee or agent of another corporation, partnership, joint venture, trust or other enterprise, including service with respect to an employee benefit plan. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Bylaws also provide that the Company may, by action of its Board of Directors, provide indemnification to its employees and agents
+with the same scope and effect as the foregoing indemnification of directors and officers. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Section&nbsp;102(b)(7) of the DGCL
+permits a corporation to provide in its certificate of incorporation that a director of the corporation shall not be personally liable to the corporation or its stockholders for monetary damages for breach of fiduciary duty as a director, except for
+liability for (i)&nbsp;any breach of the director&#146;s duty of loyalty to the corporation or its stockholders, (ii)&nbsp;acts or omissions not in good faith or which involve intentional misconduct or a knowing violation of law, (iii)&nbsp;payments
+of unlawful dividends or unlawful stock repurchases or redemptions, or (iv)&nbsp;any transaction from which the director derived an improper personal benefit. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Article 10 of the Company&#146;s Restated Certificate of Incorporation provides that to the full extent that the DGCL, as it now exists or may hereafter be amended, permits the limitation or elimination
+of the liability of directors, a director of the Company shall not be liable to the Company or its stockholders for monetary damages for breach of fiduciary duty as a director. Any amendment to or repeal of such Article 10 shall not adversely affect
+any right or protection of a director of the Company for or with respect to any acts or omissions of such director occurring prior to such amendment or repeal. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The Company has entered into certain indemnification agreements with its officers and directors. The indemnification agreements provide the Company&#146;s officers and directors with further
+indemnification, to the maximum extent permitted by the DGCL. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The foregoing summaries are necessarily subject to the complete
+text of the statute, the Company&#146;s Restated Certificate of Incorporation and Bylaws, and the arrangements referred to above and are qualified in their entirety by reference thereto. </FONT></P>
+<P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;7.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Exemption from Registration Claimed. </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:8%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Not applicable. </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;8.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Exhibits. </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">See exhibits
+listed under the Exhibit Index below. </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;9.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Undertakings. </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">1. The
+undersigned Registrant hereby undertakes: </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(a) To file, during any period in which offers or sales are being
+made, a post-effective amendment to this Registration Statement: </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(i) To include any prospectus required by
+Section&nbsp;10(a)(3) of the Securities Act of 1933, as amended (the &#147;Securities Act&#148;); </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">3 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(ii) To reflect in the prospectus any facts or events arising after the effective date of
+this Registration Statement (or the most recent post-effective amendment thereof) which, individually or in the aggregate, represent a fundamental change in the information set forth in the registration statement. Notwithstanding the foregoing, any
+increase or decrease in volume of securities offered (if the total dollar value of securities offered would not exceed that which was registered) and any deviation from the low or high end of the estimated maximum offering range may be reflected in
+the form of prospectus filed with the Commission pursuant to Rule 424(b) if, in the aggregate, the changes in volume and price represent no more than a 20 percent change in the maximum aggregate offering price set forth in the &#147;Calculation of
+Registration Fee&#148; table in the effective registration statement; and </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(iii) To include any material information with
+respect to the plan of distribution not previously disclosed in this Registration Statement or any material change to such information in this Registration Statement; </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">provided, however, that paragraphs (1)(a)(i)&nbsp;and (1)(a)(ii)&nbsp;do not apply if the information required to be included in a post-effective amendment by those paragraphs is contained in periodic
+reports filed by the Registrant pursuant to Section&nbsp;13 or Section&nbsp;15(d) of the Exchange Act that are incorporated by reference in this Registration Statement; </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(b) That, for the purpose of determining any liability under the Securities Act, each such post-effective amendment shall
+be deemed to be a new registration statement relating to the securities offered therein, and the offering of such securities at that time shall be deemed to be the initial bona fide offering thereof; and </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(c) To remove from registration by means of a post-effective amendment any of the securities being registered which remain
+unsold at the termination of the offering. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(d) That, for the purpose of determining liability of the
+Registrant under the Securities Act to any purchaser in the initial distribution of the securities: The undersigned Registrant undertakes that in a primary offering of securities of the undersigned Registrant pursuant to this Registration Statement,
+regardless of the underwriting method used to sell the securities to the purchaser, if the securities are offered or sold to such purchaser by means of any of the following communications, the undersigned registrant will be a seller to the purchaser
+and will be considered to offer or sell such securities to such purchaser: (i)&nbsp;any preliminary prospectus or prospectus of the undersigned Registrant relating to the offering required to be filed pursuant to Rule 424; (ii)&nbsp;any free writing
+prospectus relating to the offering prepared by or on behalf of the undersigned Registrant or used or referred to by the undersigned Registrant; (iii)&nbsp;the portion of any other free writing prospectus relating to the offering containing material
+information about the undersigned Registrant or its securities provided by or on behalf of the undersigned Registrant; and (iv)&nbsp;any other communication that is an offer in the offering made by the undersigned Registrant to the purchaser.
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">2. The undersigned Registrant hereby undertakes that, for purposes of determining any liability under the Securities Act,
+each filing of the Registrant&#146;s annual report pursuant to Section&nbsp;13(a) or Section&nbsp;15(d) of the Exchange Act that is incorporated by reference in the Registration Statement shall be deemed to be a new registration statement relating
+to the securities offered therein, and the offering of such securities at that time shall be deemed to be the initial bona fide offering thereof. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">3. Insofar as indemnification for liabilities arising under the Securities Act may be permitted to directors, officers and controlling persons of the Company pursuant to the foregoing provisions, or
+otherwise, the Company has been advised that in the opinion of the Commission such indemnification is against public policy as expressed in the Securities Act and is, therefore, unenforceable. In the event that a claim for indemnification against
+such liabilities (other than the payment by the Company of expenses incurred or paid by a director, officer or controlling person of the Company in the successful defense of any action, suit or proceeding) is asserted by such director, officer or
+controlling person in connection with the securities being registered, the Company will, unless in the opinion of its counsel the matter has been settled by controlling precedent, submit to a court of appropriate jurisdiction the question whether
+such indemnification by it is against public policy as expressed in the Securities Act and will be governed by the final adjudication of such issue. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>[SIGNATURES ON THE NEXT PAGE] </B></FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">4 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>SIGNATURES </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Act, the Registrant certifies that it has reasonable grounds to believe that it meets all of the requirements for filing on Form S-8 and has duly caused this
+Registration Statement to be signed on its behalf by the undersigned, thereunto duly authorized, in the City of Seattle, State of Washington, on this 24th day of March, 2011. </FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="12%"></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="85%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" COLSPAN="3" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>AMAZON.COM,&nbsp;INC.</B></FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">By:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Shelley L. Reynolds</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Name:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Shelley L. Reynolds</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Title:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Vice President, Worldwide Controller</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">(Principal Accounting Officer)</FONT></P></TD></TR></TABLE></DIV> <P STYLE="font-size:4px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>POWER OF ATTORNEY </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Act of 1933, this Registration Statement has been signed by the following persons in the capacities indicated below. Each of the directors and/or officers of
+the Registrant whose signature appears below hereby appoints Jeffrey P. Bezos, Thomas J. Szkutak and L.&nbsp;Michelle Wilson and each of them severally as his or her attorney-in-fact to date and file with the Securities and Exchange Commission this
+Registration Statement on Form&nbsp;S-8, and to sign, date and file any and all amendments and post-effective amendments to this Registration Statement, in each case on his or her behalf, in any and all capacities stated below, as appropriate, in
+such forms as they or any one of them may approve, granting unto said attorneys-in-fact and agents, and each of them, full power and authority to do and perform each and every act and thing requisite and necessary to be done to the end that such
+Registration Statement or Registration Statements shall comply with the Securities Act of 1933, as amended, and the applicable Rules and Regulations adopted or issued pursuant thereto, as fully and to all intents and purposes as he or she might or
+could do in person, and generally to do all such things on their behalf in their capacities as officers and directors to enable the Registrant to comply with the provisions of the Securities Act of 1933, and all requirements of the Securities and
+Exchange Commission. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD WIDTH="37%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="44%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="15%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1px solid #000000;width:70pt" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Name and Signature</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1px solid #000000;width:15pt" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Title</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1px solid #000000;width:16pt" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Date</B></FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px;border-bottom:1px solid #000000" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">/<SMALL>S</SMALL>/ Jeffrey P. Bezos</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Jeffrey P. Bezos</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Chairman of the Board,</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">President and Chief Executive</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Officer (Principal Executive Officer)</FONT></P></TD>
+
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U></U>March 24, 2011</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px;border-bottom:1px solid #000000" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Thomas J. Szkutak</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Thomas J. Szkutak</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Senior Vice President and Chief</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Financial Officer (Principal</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Financial Officer)</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">March 24, 2011</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px;border-bottom:1px solid #000000" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">/<SMALL>S</SMALL>/ Shelley L. Reynolds</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Shelley L. Reynolds</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Vice President, Worldwide Controller <BR>(Principal Accounting Officer)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U></U>March 24<U></U> ,2011</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px;border-bottom:1px solid #000000" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Tom A. Alberg</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="1"><B>Tom A. Alberg</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-left:1.00em; text-indent:-1.00em" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U></U><U></U>March 24, 2011</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px;border-bottom:1px solid #000000" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ John Seely Brown</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>John Seely Brown</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-left:1.00em; text-indent:-1.00em" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U></U><U></U>March 24, 2011</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px;border-bottom:1px solid #000000" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ William B. Gordon</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>William B. Gordon</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-left:1.00em; text-indent:-1.00em" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">March 24, 2011</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px;border-bottom:1px solid #000000" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Alain Moni&eacute;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Alain Moni&eacute;</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-left:1.00em; text-indent:-1.00em" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U></U>March 24, 2011</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px;border-bottom:1px solid #000000" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="1"><B>Jonathan Rubinstein</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-left:1.00em; text-indent:-1.00em" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px;border-bottom:1px solid #000000" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Thomas O. Ryder</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Thomas O. Ryder</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-left:1.00em; text-indent:-1.00em" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U></U>March 24, 2011</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px;border-bottom:1px solid #000000" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Patricia Q. Stonesifer</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Patricia Q. Stonesifer</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-left:1.00em; text-indent:-1.00em" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U></U>March 24, 2011</FONT></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>EXHIBIT INDEX </B></FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="94%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1px solid #000000;width:25pt" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Exhibit<BR>No.</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"> <P STYLE="border-bottom:1px solid #000000;width:39pt" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Description</B></FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;4.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Restated Certificate of Incorporation, incorporated herein by reference to Exhibit 3.1 of the Registrant&#146;s Form 10-Q for the Quarter ended March&nbsp;31, 2000.</FONT></TD></TR>
+
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;4.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Amended and Restated Bylaws, incorporated herein by reference to Exhibit 3.1 of the Registrant&#146;s Form 8-K filed on February&nbsp;18, 2009.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;5.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Opinion of Gibson, Dunn &amp; Crutcher LLP.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">23.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Consent of Gibson, Dunn &amp; Crutcher LLP (contained in Exhibit 5.1).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">23.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Consent of Ernst &amp; Young LLP, Independent Registered Public Accounting Firm.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">24.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Power of Attorney (contained on signature page).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Quidsi, Inc. (fka 1800DIAPERS, Inc.) 2006 Stock Option/Stock Issuance Plan.</FONT></TD></TR></TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-5.1
+<SEQUENCE>2
+<FILENAME>dex51.htm
+<DESCRIPTION>OPINION OF GIBSON, DUNN & CRUTCHER LLP
+<TEXT>
+<HTML><HEAD>
+<TITLE>Opinion of Gibson, Dunn &amp; Crutcher LLP</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Exhibit 5.1 </B></FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="17%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="20%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="20%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="20%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="19%"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Gibson,&nbsp;Dunn&nbsp;&amp;&nbsp;Crutcher&nbsp;LLP</FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">1050&nbsp;Connecticut&nbsp;Avenue,&nbsp;N.W.</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Washington,&nbsp;D.C.&nbsp;200036-5306</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">(202)
+955-8500</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="2">www.gibsondunn.com</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Direct: 202-955-8500</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Fax: 202-467-0539</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="2">www.gibsondunn.com</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" NOWRAP> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Client:&nbsp;C&nbsp;03981-00122</FONT></P></TD></TR></TABLE>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">March 24, 2011 </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Amazon.com, Inc. </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">410 Terry Avenue North </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Seattle, Washington
+98109-5210 </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">Re:</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>Quidsi, Inc. (fka 1800DIAPERS, Inc.) 2006 Stock Option/Stock Issuance Plan</I> </FONT></TD></TR></TABLE> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Ladies and Gentlemen: </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">We have examined the Registration Statement on Form S-8 (the
+&#147;Registration Statement&#148;) of Amazon.com, Inc., a Delaware corporation (the &#147;Company&#148;), to be filed with the Securities and Exchange Commission (the &#147;Commission&#148;) pursuant to the Securities Act of 1933, as amended (the
+&#147;Securities Act&#148;), in connection with the offering by the Company of the number of shares of the Company&#146;s Common Stock, par value $.01 per share (the &#147;Shares&#148;), determined pursuant to the formula set forth in
+Section&nbsp;2.9 of the Agreement and Plan of Merger, dated November&nbsp;1, 2010, among the Company, Boardwalk Merger Sub, Inc., Quidsi, Inc. and Shareholder Representative Services LLC. The Shares subject to the Registration Statement are to be
+issued pursuant to the assumption of outstanding awards granted under the Quidsi, Inc. (fka 1800DIAPERS, Inc.) 2006 Stock Option/Stock Issuance Plan, as amended (the &#147;Plan&#148;). </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">We have examined the originals, or photostatic or certified copies, of such records of the Company and certificates of officers of the Company and of public officials and such other documents as we have
+deemed relevant and necessary as the basis for the opinions set forth below. In our examination, we have assumed the genuineness of all signatures, the legal capacity and competency of all natural persons, the authenticity of all documents submitted
+to us as originals and the conformity to original documents of all documents submitted to us as copies. We have also assumed that there are no agreements or understandings between or among the Company and any participants in the Plan that would
+expand, modify or otherwise affect the terms of the Plan or the respective rights or obligations of the participants thereunder. Finally, we have assumed the accuracy of all other information provided to us by the Company during the course of our
+investigations, on which we have relied in issuing the opinion expressed below. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Based upon the foregoing examination and in reliance thereon,
+and subject to the qualifications, assumptions and limitations stated herein and in reliance on the statements of fact contained in the documents that we have examined, we are of the opinion that the Shares, when issued and sold in accordance with
+the terms set forth in the Plan and against </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">March 24, 2011 </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Amazon.com, Inc. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Page 2 </FONT></P>
+<p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">
+payment therefor, and when the Registration Statement has become effective under the Securities Act, will be validly issued, fully paid and non-assessable. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">We render no opinion herein as to matters involving the laws of any jurisdiction other than the Delaware General Corporation Law (the &#147;DGCL&#148;).
+We are not admitted to practice in the State of Delaware; however, we are generally familiar with the DGCL as currently in effect and have made such inquiries as we consider necessary to render the opinions above. This opinion is limited to the
+effect of the current state of the law of the DGCL and the facts as they currently exist. We assume no obligation to revise or supplement this opinion in the event of future changes in such law or the interpretations thereof or such facts.
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">We consent to the filing of this opinion as an exhibit to the Registration Statement, and we further consent to the use of our name under the
+caption &#147;Legal Matters&#148; in the Registration Statement and the prospectus that forms a part thereof. In giving these consents, we do not thereby admit that we are within the category of persons whose consent is required under Section&nbsp;7
+of the Securities Act or the Rules and Regulations of the Commission. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Very truly yours, </FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ GIBSON, DUNN&nbsp;&amp; CRUTCHER LLP </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.2
+<SEQUENCE>3
+<FILENAME>dex232.htm
+<DESCRIPTION>CONSENT OF ERNST & YOUNG LLP, INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+<TEXT>
+<HTML><HEAD>
+<TITLE>Consent of Ernst &amp; Young LLP, Independent Registered Public Accounting Firm</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Exhibit 23.2 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>Consent of Ernst &amp; Young LLP, </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Independent Registered Public
+Accounting Firm </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">We consent to the incorporation by reference in the Registration Statement (Form S-8) pertaining to the
+2006 Stock Option/Stock Issuance Plan of Quidsi, Inc. of our reports dated January 27, 2011, with respect to the consolidated financial statements of Amazon.com, Inc. and the effectiveness of internal control over financial reporting of Amazon.com,
+Inc. included in its Annual Report (Form 10-K) for the year ended December 31, 2010, filed with the Securities and Exchange Commission. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:56%" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">/s/ Ernst&nbsp;&amp; Young LLP </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Seattle, Washington </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">March 24, 2011 </FONT></P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>4
+<FILENAME>dex991.htm
+<DESCRIPTION>QUIDSI, INC. (FKA 1800DIAPERS) 2006 STOCK OPTION/STOCK INCENTIVE ISSUANCE PLAN
+<TEXT>
+<HTML><HEAD>
+<TITLE>Quidsi, Inc. (FKA 1800DIAPERS) 2006 Stock Option/Stock Incentive Issuance Plan</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Exhibit 99.1 </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B><U>1800DIAPERS, INC. </U></B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>2006 STOCK OPTION/STOCK ISSUANCE PLAN
+</U></B></FONT></P> <P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>ARTICLE ONE </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B><U>GENERAL PROVISIONS </U></B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>I. PURPOSE OF THE PLAN </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">This 2006 Stock Option/Stock Issuance Plan is intended to promote the interests of 1800Diapers, Inc., a Delaware corporation, by
+providing eligible persons in the Corporation&#146;s employ or service with the opportunity to acquire a proprietary interest, or otherwise increase their proprietary interest, in the Corporation as an incentive for them to continue in such employ
+or service. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Capitalized terms herein shall have the meanings assigned to such terms in the attached Appendix. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>II. STRUCTURE OF THE PLAN </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">A. The Plan shall be divided into two (2)&nbsp;separate equity programs: </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:4%; text-indent:13%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">(i) the Option Grant Program under which eligible persons may, at the discretion of the Plan Administrator, be granted options to purchase shares of Common Stock, and </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; margin-left:4%; text-indent:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(ii) the Stock Issuance Program under which eligible persons may, at the discretion of the Plan Administrator, be issued
+shares of Common Stock directly, either through the immediate purchase of such shares or as a bonus for services rendered the Corporation (or any Parent or Subsidiary). </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">B. The provisions of Articles One and Four shall apply to both equity programs under the Plan and shall accordingly govern the interests of all persons under the Plan. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>III. ADMINISTRATION OF THE PLAN </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">A. The Plan shall be administered by the Board. However, any or all administrative functions otherwise exercisable by the Board may be delegated to the Committee. Members of the Committee shall serve for
+such period of time as the Board may determine and shall be subject to removal by the Board at any time. The Board may also at any time terminate the functions of the Committee and reassume all powers and authority previously delegated to the
+Committee. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">B. The Plan Administrator shall have full power and authority (subject to the provisions of
+the Plan) to establish such rules and regulations as it may deem appropriate for proper administration of the Plan and to make such determinations under, and issue such interpretations of, the Plan and any outstanding options or stock issuances
+thereunder as it may deem necessary or advisable. Decisions of the Plan Administrator shall be final and binding on all parties who have an interest in the Plan or any option grant or stock issuance thereunder. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>IV. ELIGIBILITY </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">A. The persons eligible to participate in the Plan are as follows: </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:4%; text-indent:13%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">(i) Employees, </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:4%; text-indent:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(ii) non-employee members of the Board or the
+non-employee members of the board of directors of any Parent or Subsidiary, and </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:4%; text-indent:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(iii) consultants and other
+independent advisors who provide services to the Corporation (or any Parent or Subsidiary). </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">B. The Plan Administrator shall
+have full authority to determine, (i)&nbsp;with respect to the grants made under the Option Grant Program, which eligible persons are to receive such grants, the time or times when those grants are to be made, the number of shares to be covered by
+each such grant, the status of the granted option as either an Incentive Option or a Non-Statutory Option, the time or times when each option is to become exercisable, the vesting schedule (if any) applicable to the option shares and the maximum
+term for which the option is to remain outstanding, and (ii)&nbsp;with respect to stock issuances made under the Stock Issuance Program, which eligible persons are to receive such issuances, the time or times when those issuances are to be made, the
+number of shares to be issued to each Participant, the vesting schedule (if any) applicable to the issued shares and the consideration to be paid by the Participant for such shares. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">C. The Plan Administrator shall have the absolute discretion either to grant options in accordance with the Option Grant Program or to
+effect stock issuances in accordance with the Stock Issuance Program. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>V. STOCK SUBJECT TO THE PLAN </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">A. The stock issuable under the Plan shall be shares of authorized but unissued or reacquired Common Stock. The maximum number of shares
+of Common Stock which may be issued over the term of the Plan shall not exceed Nine Hundred Six Thousand Nine Hundred Forty-Nine (906,949)&nbsp;shares. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">B. Shares of Common Stock subject to outstanding options shall be available for subsequent issuance under the Plan to the extent (i)&nbsp;the options expire or terminate for any reason prior to exercise
+in full or (ii)&nbsp;the options are cancelled in accordance with the cancellation-regrant provisions of Article Two. Unvested shares issued under the Plan and </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">2 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">
+subsequently repurchased by the Corporation, at the option exercise or direct issue price paid per share, pursuant to the Corporation&#146;s repurchase rights under the Plan shall be added back
+to the number of shares of Common Stock reserved for issuance under the Plan and shall accordingly be available for reissuance through one or more subsequent option grants or direct stock issuances under the Plan. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">C. Should any change be made to the Common Stock by reason of any stock split, stock dividend, recapitalization, combination of shares,
+exchange of shares or other change affecting the outstanding Common Stock as a class without the Corporation&#146;s receipt of consideration, appropriate adjustments shall be made to (i)&nbsp;the maximum number and/or class of securities issuable
+under the Plan and (ii)&nbsp;the number and/or class of securities and the exercise price per share in effect under each outstanding option in order to prevent the dilution or enlargement of benefits thereunder. The adjustments determined by the
+Plan Administrator shall be final, binding and conclusive. In no event shall any such adjustments be made in connection with the conversion of one or more outstanding shares of the Corporation&#146;s preferred stock into shares of Common Stock.
+</FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">3 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>ARTICLE TWO </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B><U>OPTION GRANT PROGRAM </U></B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>I. OPTION TERMS </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Each option shall be evidenced by one or more documents in the form approved by the Plan Administrator; <U>provided</U>, however, that
+each such document shall comply with the terms specified below. Each document evidencing an Incentive Option shall, in addition, be subject to the provisions of the Plan applicable to such options. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">A. <B><U>Exercise Price</U></B>. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:13%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">1. The exercise price per share shall be fixed by the Plan Administrator in accordance with the following provisions: </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; margin-left:4%; text-indent:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(i) The exercise price per share shall not be less than eighty-five percent (85%)&nbsp;of the Fair Market Value per
+share of Common Stock on the option grant date. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:4%; text-indent:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(ii) If the person to whom the option is granted is a 10%
+Stockholder, then the exercise price per share shall not be less than one hundred ten percent (110%)&nbsp;of the Fair Market Value per share of Common Stock on the option grant date. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">2. The exercise price shall become immediately due upon exercise of the option and shall, subject to the provisions of Section I of
+Article Four and the documents evidencing the option, be payable in cash or check made payable to the Corporation. Should the Common Stock be registered under Section&nbsp;12 of the 1934 Act at the time the option is exercised, then the exercise
+price may also be paid as follows: </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:4%; text-indent:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(i) in shares of Common Stock held for the requisite period necessary to
+avoid a charge to the Corporation&#146;s earnings for financial reporting purposes and valued at Fair Market Value on the Exercise Date, or </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:4%; text-indent:13%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">(ii) to the extent the option is exercised for vested shares, through a special sale and remittance procedure pursuant to which the Optionee shall concurrently provide irrevocable instructions (A)&nbsp;to
+a Corporation-designated brokerage firm to effect the immediate sale of the purchased shares and remit to the Corporation, out of the sale proceeds available on the settlement date, sufficient funds to cover the aggregate exercise price payable for
+the purchased shares plus all applicable Federal, state and local income and employment taxes required to be withheld by the Corporation by reason of such exercise and (B)&nbsp;to the Corporation to deliver the certificates for the purchased shares
+directly to such brokerage firm in order to complete the sale. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">4 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Except to the extent such sale and remittance procedure is utilized, payment of the exercise
+price for the purchased shares must be made on the Exercise Date. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">B. <B><U>Exercise and Term of Options</U></B>. Each option
+shall be exercisable at such time or times, during such period and for such number of shares as shall be determined by the Plan Administrator and set forth in the documents evidencing the option grant. However, no option shall have a term in excess
+of ten (10)&nbsp;years measured from the option grant date. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">C. <B><U>Effect of Termination of Service</U></B>. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">1. The following provisions shall govern the exercise of any options held by the Optionee at the time of cessation of Service or death:
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:4%; text-indent:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(i) Should the Optionee cease to remain in Service for any reason other than death, Disability or
+Misconduct, then the Optionee shall have a period of three (3)&nbsp;months following the date of such cessation of Service during which to exercise each outstanding option held by such Optionee. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; margin-left:4%; text-indent:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(ii) Should Optionee&#146;s Service terminate by reason of Disability, then the Optionee shall have a period of twelve
+(12)&nbsp;months following the date of such cessation of Service during which to exercise each outstanding option held by such Optionee. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:4%; text-indent:13%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">(iii) If the Optionee dies while holding an outstanding option, then the personal representative of his or her estate or the person or persons to whom the option is transferred pursuant to the
+Optionee&#146;s will or the laws of inheritance or the Optionee&#146;s designated beneficiary or beneficiaries of that option shall have a twelve (12)-month period following the date of the Optionee&#146;s death to exercise such option. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; margin-left:4%; text-indent:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(iv) Under no circumstances, however, shall any such option be exercisable after the specified expiration of the option
+term. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:4%; text-indent:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(v) During the applicable post-Service exercise period, the option may not be exercised in the
+aggregate for more than the number of vested shares for which the option is exercisable on the date of the Optionee&#146;s cessation of Service. Upon the expiration of the applicable exercise period or (if earlier) upon the expiration of the option
+term, the option shall terminate and cease to be outstanding for any vested shares for which the option has not been exercised. However, the option shall, immediately upon the Optionee&#146;s cessation of Service, terminate and cease to be
+outstanding with respect to any and all option shares for which the option is not otherwise at the time exercisable or in which the Optionee is not otherwise at that time vested. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">5 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%; text-indent:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(vi) Should Optionee&#146;s Service be terminated for Misconduct or should
+Optionee otherwise engage in Misconduct while holding one or more outstanding options under the Plan, then all those options shall terminate immediately and cease to remain outstanding. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">2. The Plan Administrator shall have the discretion, exercisable either at the time an option is granted or at any time while the option
+remains outstanding, to: </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:4%; text-indent:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(i) extend the period of time for which the option is to remain exercisable
+following Optionee&#146;s cessation of Service or death from the limited period otherwise in effect for that option to such greater period of time as the Plan Administrator shall deem appropriate, but in no event beyond the expiration of the option
+term, and/or </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:4%; text-indent:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(ii) permit the option to be exercised, during the applicable post-Service exercise period, not
+only with respect to the number of vested shares of Common Stock for which such option is exercisable at the time of the Optionee&#146;s cessation of Service but also with respect to one or more additional installments in which the Optionee would
+have vested under the option had the Optionee continued in Service. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">D. <B><U>Stockholder Rights</U></B>. The holder of an
+option shall have no stockholder rights with respect to the shares subject to the option until such person shall have exercised the option, paid the exercise price and become the recordholder of the purchased shares. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">E. <B><U>Unvested Shares</U></B>. The Plan Administrator shall have the discretion to grant options which are exercisable for unvested
+shares of Common Stock. Should the Optionee cease Service while holding such unvested shares, the Corporation shall have the right to repurchase, at the exercise price paid per share, any or all of those unvested shares. The terms upon which such
+repurchase right shall be exercisable (including the period and procedure for exercise and the appropriate vesting schedule for the purchased shares) shall be established by the Plan Administrator and set forth in the document evidencing such
+repurchase right. The Plan Administrator may not impose a vesting schedule upon any option grant or the shares of Common Stock subject to that option which is more restrictive than twenty percent (20%)&nbsp;per year vesting, with the initial vesting
+to occur not later than one (1)&nbsp;year after the option grant date. However, such limitation shall not be applicable to any option grants made to individuals who are officers of the Corporation, non-employee Board members or independent
+consultants. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">F. <B><U>First Refusal Rights</U></B>. Until such time as the Common Stock is first registered under
+Section&nbsp;12 of the 1934 Act, the Corporation shall have the right of first refusal with respect to any proposed disposition by the Optionee (or any successor in interest) of any shares of Common Stock issued under the Plan. Such right of first
+refusal shall be exercisable in accordance with the terms established by the Plan Administrator and set forth in the document evidencing such right. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">6 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">G. <B><U>Limited Transferability of Options</U>.</B> An Incentive Stock Option shall be
+exercisable only by the Optionee during his or her lifetime and shall not be assignable or transferable other than by will or by the laws of inheritance following the Optionee&#146;s death. A Non-Statutory Option may be assigned in whole or in part
+during the Optionee&#146;s lifetime to one or more members of the Optionee&#146;s family or to a trust established exclusively for one or more such family members or to Optionee&#146;s former spouse, to the extent such assignment is in connection
+with the Optionee&#146;s estate plan or pursuant to a domestic relations order. The assigned portion may only be exercised by the person or persons who acquire a proprietary interest in the Non-Statutory Option pursuant to the assignment. The terms
+applicable to the assigned portion shall be the same as those in effect for the option immediately prior to such assignment and shall be set forth in such documents issued to the assignee as the Plan Administrator may deem appropriate.
+Notwithstanding the foregoing, the Optionee may also designate one or more persons as the beneficiary or beneficiaries of his or her outstanding options under the Plan, and those options shall, in accordance with such designation, automatically be
+transferred to such beneficiary or beneficiaries upon the Optionee&#146;s death while holding those options. Such beneficiary or beneficiaries shall take the transferred options subject to all the terms and conditions of the applicable agreement
+evidencing each such transferred option, including (without limitation) the limited time period during which the option may be exercised following the Optionee&#146;s death. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>II. INCENTIVE OPTIONS </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The terms specified below shall be applicable to
+all Incentive Options. Except as modified by the provisions of this Section II, all the provisions of Articles One, Two and Four shall be applicable to Incentive Options. Options which are specifically designated as Non-Statutory Options shall not
+be subject to the terms of this Section II. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">A. <B><U>Eligibility</U></B>. Incentive Options may only be granted to Employees.
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">B. <B><U>Exercise Price</U></B>. The exercise price per share shall not be less than one hundred percent (100%)&nbsp;of the
+Fair Market Value per share of Common Stock on the option grant date. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">C. <B><U>Dollar Limitation</U></B>. The aggregate Fair
+Market Value of the shares of Common Stock (determined as of the respective date or dates of grant) for which one or more options granted to any Employee under the Plan (or any other option plan of the Corporation or any Parent or Subsidiary) may
+for the first time become exercisable as Incentive Options during any one (1)&nbsp;calendar year shall not exceed the sum of One Hundred Thousand Dollars ($100,000). To the extent the Employee holds two (2)&nbsp;or more such options which become
+exercisable for the first time in the same calendar year, the foregoing limitation on the exercisability of such options as Incentive Options shall be applied on the basis of the order in which such options are granted. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">D. <B><U>10% Stockholder</U></B>. If any Employee to whom an Incentive Option is granted is a 10% Stockholder, then the option term shall
+not exceed five (5)&nbsp;years measured from the option grant date. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">7 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>III. CORPORATE TRANSACTION </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">A. The shares subject to each option outstanding under the Plan at the time of a Corporate Transaction shall automatically vest in full
+so that each such option shall, immediately prior to the effective date of the Corporate Transaction, become exercisable for all of the shares of Common Stock at the time subject to that option and may be exercised for any or all of those shares as
+fully-vested shares of Common Stock. However, the shares subject to an outstanding option shall <B>not</B> vest on such an accelerated basis if and to the extent: (i)&nbsp;such option is assumed by the successor corporation (or parent thereof) in
+the Corporate Transaction and any repurchase rights of the Corporation with respect to the unvested option shares are concurrently assigned to such successor corporation (or parent thereof) or (ii)&nbsp;such option is to be replaced with a cash
+incentive program of the successor corporation which preserves the spread existing on the unvested option shares at the time of the Corporate Transaction and provides for subsequent payout in accordance with the same vesting schedule applicable to
+those unvested option shares or (iii)&nbsp;the acceleration of such option is subject to other limitations imposed by the Plan Administrator at the time of the option grant. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">B. All outstanding repurchase rights under the Option Grant Program shall also terminate automatically, and the shares of Common Stock subject to those terminated rights shall immediately vest in full, in
+the event of any Corporate Transaction, except to the extent: (i)&nbsp;those repurchase rights are assigned to the successor corporation (or parent thereof) in connection with such Corporate Transaction or (ii)&nbsp;such accelerated vesting is
+precluded by other limitations imposed by the Plan Administrator at the time the repurchase right is issued. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">C. Immediately
+following the consummation of the Corporate Transaction, all outstanding options shall terminate and cease to be outstanding, except to the extent assumed by the successor corporation (or parent thereof). </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">D. Each option which is assumed in connection with a Corporate Transaction shall be appropriately adjusted, immediately after such
+Corporate Transaction, to apply to the number and class of securities which would have been issuable to the Optionee in consummation of such Corporate Transaction, had the option been exercised immediately prior to such Corporate Transaction.
+Appropriate adjustments shall also be made to (i)&nbsp;the number and class of securities available for issuance under the Plan following the consummation of such Corporate Transaction and (ii)&nbsp;the exercise price payable per share under each
+outstanding option, <U>provided</U> the aggregate exercise price payable for such securities shall remain the same. To the extent the actual holders of the Corporation&#146;s outstanding Common Stock receive cash consideration for their Common Stock
+in consummation of the Corporate Transaction, the successor corporation may, in connection with the assumption of the outstanding options under this Plan, substitute one or more shares of its own common stock with a fair market value equivalent to
+the cash consideration paid per share of Common Stock in such Corporate Transaction. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">8 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">E. The Plan Administrator shall have the discretion, exercisable either at the time the
+option is granted or at any time while the option remains outstanding, to structure one or more options so that those options shall automatically accelerate and vest in full (and any repurchase rights of the Corporation with respect to the unvested
+shares subject to those options shall immediately terminate) upon the occurrence of a Corporate Transaction, whether or not those options are to be assumed in the Corporate Transaction. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">F. The Plan Administrator shall also have full power and authority, exercisable either at the time the option is granted or at any time
+while the option remains outstanding, to structure such option so that the shares subject to that option will automatically vest on an accelerated basis should the Optionee&#146;s Service terminate by reason of an Involuntary Termination within a
+designated period (not to exceed eighteen (18)&nbsp;months) following the effective date of any Corporate Transaction in which the option is assumed and the repurchase rights applicable to those shares do not otherwise terminate. Any option so
+accelerated shall remain exercisable for the fully-vested option shares until the expiration or sooner termination of the option term. In addition, the Plan Administrator may provide that one or more of the Corporation&#146;s outstanding repurchase
+rights with respect to shares held by the Optionee at the time of such Involuntary Termination shall immediately terminate on an accelerated basis, and the shares subject to those terminated rights shall accordingly vest at that time. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">G. The portion of any Incentive Option accelerated in connection with a Corporate Transaction shall remain exercisable as an Incentive
+Option only to the extent the applicable One Hundred Thousand Dollar limitation is not exceeded. To the extent such dollar limitation is exceeded, the accelerated portion of such option shall be exercisable as a Non-Statutory Option under the
+Federal tax laws. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">H. The grant of options under the Plan shall in no way affect the right of the Corporation to adjust,
+reclassify, reorganize or otherwise change its capital or business structure or to merge, consolidate, dissolve, liquidate or sell or transfer all or any part of its business or assets. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>IV. CANCELLATION AND REGRANT OF OPTIONS </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The Plan Administrator shall have the authority to effect, at any time and from time to time, with the consent of the affected option holders, the cancellation of any or all outstanding options under the
+Plan and to grant in substitution therefor new options covering the same or different number of shares of Common Stock but with an exercise price per share based on the Fair Market Value per share of Common Stock on the new option grant date.
+</FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">9 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>ARTICLE THREE </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B><U>STOCK ISSUANCE PROGRAM </U></B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>I. STOCK ISSUANCE TERMS </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Shares of Common Stock may be issued under the Stock Issuance Program through direct and immediate issuances without any intervening
+option grants. Each such stock issuance shall be evidenced by a Stock Issuance Agreement which complies with the terms specified below. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">A. <B><U>Purchase Price</U></B>. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">1. The purchase price per share shall be fixed
+by the Plan Administrator but shall not be less than eighty-five percent (85%)&nbsp;of the Fair Market Value per share of Common Stock on the issue date. However, the purchase price per share of Common Stock issued to a 10% Stockholder shall not be
+less than one hundred and ten percent (110%)&nbsp;of such Fair Market Value. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">2. Subject to the provisions of Section I of
+Article Four, shares of Common Stock may be issued under the Stock Issuance Program for any of the following items of consideration which the Plan Administrator may deem appropriate in each individual instance: </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; margin-left:4%; text-indent:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(i) cash or check made payable to the Corporation, or </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; margin-left:4%; text-indent:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(ii) past services rendered to the Corporation (or any Parent or Subsidiary). </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">B. <B><U>Vesting Provisions</U></B>. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:13%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">1. Shares of Common Stock issued under the Stock Issuance Program may, in the discretion of the Plan Administrator, be fully and immediately vested upon issuance or may vest in one or more installments
+over the Participant&#146;s period of Service or upon attainment of specified performance objectives. However, the Plan Administrator may not impose a vesting schedule upon any stock issuance effected under the Stock Issuance Program which is more
+restrictive than twenty percent (20%)&nbsp;per year vesting, with initial vesting to occur not later than one (1)&nbsp;year after the issuance date. Such limitation shall not apply to any Common Stock issuances made to the officers of the
+Corporation, non-employee Board members or independent consultants. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">2. Any new, substituted or additional securities or
+other property (including money paid other than as a regular cash dividend) which the Participant may have the right to receive with respect to the Participant&#146;s unvested shares of Common Stock by reason of any stock dividend, stock split,
+recapitalization, combination of shares, exchange of shares or </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">10 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">
+other change affecting the outstanding Common Stock as a class without the Corporation&#146;s receipt of consideration shall be issued subject to (i)&nbsp;the same vesting requirements applicable
+to the Participant&#146;s unvested shares of Common Stock and (ii)&nbsp;such escrow arrangements as the Plan Administrator shall deem appropriate. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:13%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">3. The Participant shall have full stockholder rights with respect to any shares of Common Stock issued to the Participant under the Stock Issuance Program, whether or not the Participant&#146;s interest
+in those shares is vested. Accordingly, the Participant shall have the right to vote such shares and to receive any regular cash dividends paid on such shares. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:13%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">4. Should the Participant cease to remain in Service while holding one or more unvested shares of Common Stock issued under the Stock Issuance Program or should the performance objectives not be attained
+with respect to one or more such unvested shares of Common Stock, then those shares shall be immediately surrendered to the Corporation for cancellation, and the Participant shall have no further stockholder rights with respect to those shares. To
+the extent the surrendered shares were previously issued to the Participant for consideration paid in cash or cash equivalent (including the Participant&#146;s purchase-money indebtedness), the Corporation shall repay to the Participant the cash
+consideration paid for the surrendered shares and shall cancel the unpaid principal balance of any outstanding purchase-money note of the Participant attributable to such surrendered shares. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">5. The Plan Administrator may in its discretion waive the surrender and cancellation of one or more unvested shares of Common Stock (or
+other assets attributable thereto) which would otherwise occur upon the non-completion of the vesting schedule applicable to those shares. Such waiver shall result in the immediate vesting of the Participant&#146;s interest in the shares of Common
+Stock as to which the waiver applies. Such waiver may be effected at any time, whether before or after the Participant&#146;s cessation of Service or the attainment or non-attainment of the applicable performance objectives. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">C. <B><U>First Refusal Rights</U></B>. Until such time as the Common Stock is first registered under Section&nbsp;12 of the 1934 Act, the
+Corporation shall have the right of first refusal with respect to any proposed disposition by the Participant (or any successor in interest) of any shares of Common Stock issued under the Stock Issuance Program. Such right of first refusal shall be
+exercisable in accordance with the terms established by the Plan Administrator and set forth in the document evidencing such right. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>II. CORPORATE TRANSACTION </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">A. Upon the occurrence of a Corporate
+Transaction, all outstanding repurchase rights under the Stock Issuance Program shall terminate automatically, and the shares of Common Stock subject to those terminated rights shall immediately vest in full, except to the extent: (i)&nbsp;those
+repurchase rights are assigned to the successor corporation (or parent thereof) in connection with such Corporate Transaction or (ii)&nbsp;such accelerated vesting is precluded by other limitations imposed by the Plan Administrator at the time the
+repurchase right is issued. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">11 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">B. The Plan Administrator shall have the discretionary authority, exercisable either at the
+time the unvested shares are issued or any time while the Corporation&#146;s repurchase rights with respect to those shares remain outstanding, to provide that those rights shall automatically terminate on an accelerated basis, and the shares of
+Common Stock subject to those terminated rights shall immediately vest, in the event the Participant&#146;s Service should subsequently terminate by reason of an Involuntary Termination within a designated period (not to exceed eighteen
+(18)&nbsp;months) following the effective date of any Corporate Transaction in which those repurchase rights are assigned to the successor corporation (or parent thereof). </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>III. SHARE ESCROW/LEGENDS </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Unvested shares may, in the Plan
+Administrator&#146;s discretion, be held in escrow by the Corporation until the Participant&#146;s interest in such shares vests or may be issued directly to the Participant with restrictive legends on the certificates evidencing those unvested
+shares. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">12 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>ARTICLE FOUR </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B><U>MISCELLANEOUS </U></B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>I. FINANCING </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Plan Administrator may permit any Optionee or Participant to pay the option exercise price under the Option Grant Program or the
+purchase price for shares issued under the Stock Issuance Program by delivering a full-recourse, interest bearing promissory note payable in one or more installments and secured by the purchased shares. In no event, however, may the maximum credit
+available to the Optionee or Participant exceed the sum of (i)&nbsp;the aggregate option exercise price or purchase price payable for the purchased shares (less the par value of those shares) plus (ii)&nbsp;any Federal, state and local income and
+employment tax liability incurred by the Optionee or the Participant in connection with the option exercise or share purchase. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>II. EFFECTIVE DATE AND TERM OF PLAN </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">A. The Plan shall become effective when adopted by the Board, but no option granted under the Plan may be exercised, and no shares shall be issued under the Plan, until the Plan is approved by the
+Corporation&#146;s stockholders. If such stockholder approval is not obtained within twelve (12)&nbsp;months after the date of the Board&#146;s adoption of the Plan, then all options previously granted under the Plan shall terminate and cease to be
+outstanding, and no further options shall be granted and no shares shall be issued under the Plan. Subject to such limitation, the Plan Administrator may grant options and issue shares under the Plan at any time after the effective date of the Plan
+and before the date fixed herein for termination of the Plan. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">B. The Plan shall terminate upon the <U>earliest</U> of
+(i)&nbsp;the expiration of the ten (10)-year period measured from the date the Plan is adopted by the Board, (ii)&nbsp;the date on which all shares available for issuance under the Plan shall have been issued as vested shares or (iii)&nbsp;the
+termination of all outstanding options in connection with a Corporate Transaction. All options and unvested stock issuances outstanding at the time of a clause (i)&nbsp;termination event shall continue to have full force and effect in accordance
+with the provisions of the documents evidencing those options or issuances. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>III. AMENDMENT OF THE PLAN </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">A. The Board shall have complete and exclusive power and authority to amend or modify the Plan in any or all respects. However, no such
+amendment or modification shall adversely affect the rights and obligations with respect to options or unvested stock issuances at the time outstanding under the Plan unless the Optionee or the Participant consents to such amendment or modification.
+In addition, certain amendments may require stockholder approval pursuant to applicable laws and regulations. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">13 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">B. Options may be granted under the Option Grant Program and shares may be issued under the
+Stock Issuance Program which are in each instance in excess of the number of shares of Common Stock then available for issuance under the Plan, provided any excess shares actually issued under those programs shall be held in escrow until there is
+obtained stockholder approval of an amendment sufficiently increasing the number of shares of Common Stock available for issuance under the Plan. If such stockholder approval is not obtained within twelve (12)&nbsp;months after the date the first
+such excess grants or issuances are made, then (i)&nbsp;any unexercised options granted on the basis of such excess shares shall terminate and cease to be outstanding and (ii)&nbsp;the Corporation shall promptly refund to the Optionees and the
+Participants the exercise or purchase price paid for any excess shares issued under the Plan and held in escrow, together with interest (at the applicable Short Term Federal Rate) for the period the shares were held in escrow, and such shares shall
+thereupon be automatically cancelled and cease to be outstanding. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>IV. USE OF PROCEEDS </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Any cash proceeds received by the Corporation from the sale of shares of Common Stock under the Plan shall be used for general corporate
+purposes. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>V. WITHHOLDING </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The Corporation&#146;s obligation to deliver shares of Common Stock upon the exercise of any options granted under the Plan or upon the issuance or vesting of any shares issued under the Plan shall be
+subject to the satisfaction of all applicable Federal, state and local income and employment tax withholding requirements. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>VI. REGULATORY APPROVALS </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The implementation of the Plan, the granting of any options under the Plan and the issuance of any shares of Common Stock (i)&nbsp;upon the exercise of any option or (ii)&nbsp;under the Stock Issuance
+Program shall be subject to the Corporation&#146;s procurement of all approvals and permits required by regulatory authorities having jurisdiction over the Plan, the options granted under it and the shares of Common Stock issued pursuant to it.
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>VII. NO EMPLOYMENT OR SERVICE RIGHTS </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Nothing in the Plan shall confer upon the Optionee or the Participant any right to continue in Service for any period of specific duration or interfere with or otherwise restrict in any way the rights of
+the Corporation (or any Parent or Subsidiary employing or retaining such person) or of the Optionee or the Participant, which rights are hereby expressly reserved by each, to terminate such person&#146;s Service at any time for any reason, with or
+without cause. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">14 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>VIII. FINANCIAL REPORTS </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Corporation shall deliver a balance sheet and an income statement at least annually to each individual holding an outstanding option
+under the Plan, unless such individual is a key Employee whose duties in connection with the Corporation (or any Parent or Subsidiary) assure such individual access to equivalent information. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">15 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>APPENDIX </U></B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The following definitions shall be in effect under the Plan: </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">A. <B><U>Board</U></B> shall mean the Corporation&#146;s Board of Directors. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">B.
+<B><U>Code</U></B> shall mean the Internal Revenue Code of 1986, as amended. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">C. <B><U>Committee</U></B> shall mean a
+committee of one (1)&nbsp;or more Board members appointed by the Board to exercise one or more administrative functions under the Plan. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">D. <B><U>Common Stock</U></B> shall mean the Corporation&#146;s common stock. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">E.
+<B><U>Corporate Transaction</U></B> shall mean either of the following stockholder-approved transactions to which the Corporation is a party: </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:4%; text-indent:13%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">(i) a merger or consolidation in which securities possessing more than fifty percent (50%)&nbsp;of the total combined voting power of the Corporation&#146;s outstanding securities are transferred to a
+person or persons different from the persons holding those securities immediately prior to such transaction, or </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:4%; text-indent:13%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">(ii) the sale, transfer or other disposition of all or substantially all of the Corporation&#146;s assets in complete liquidation or dissolution of the Corporation. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">F. <B><U>Corporation</U></B> shall mean 1800Diapers, Inc., a Delaware corporation, and any successor corporation to all or substantially
+all of the assets or voting stock of 1800Diapers, Inc. which shall by appropriate action adopt the Plan. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">G.
+<B><U>Disability</U></B> shall mean the inability of the Optionee or the Participant to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment and shall be determined by the Plan
+Administrator on the basis of such medical evidence as the Plan Administrator deems warranted under the circumstances. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">H.
+<B><U>Employee</U></B> shall mean an individual who is in the employ of the Corporation (or any Parent or Subsidiary), subject to the control and direction of the employer entity as to both the work to be performed and the manner and method of
+performance. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">I. <B><U>Exercise Date</U></B> shall mean the date on which the Corporation shall have received written notice
+of the option exercise. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">A-1
+</FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">J. <B><U>Fair Market Value</U></B> per share of Common Stock on any relevant date shall be
+determined in accordance with the following provisions: </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:4%; text-indent:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(i) If the Common Stock is at the time traded on the
+Nasdaq National Market, then the Fair Market Value shall be the closing selling price per share of Common Stock on the date in question, as such price is reported by the National Association of Securities Dealers on the Nasdaq National Market and
+published in <U>The Wall Street Journal</U>. If there is no closing selling price for the Common Stock on the date in question, then the Fair Market Value shall be the closing selling price on the last preceding date for which such quotation exists.
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:4%; text-indent:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(ii) If the Common Stock is at the time listed on any Stock Exchange, then the Fair Market Value shall be
+the closing selling price per share of Common Stock on the date in question on the Stock Exchange determined by the Plan Administrator to be the primary market for the Common Stock, as such price is officially quoted in the composite tape of
+transactions on such exchange and published in <U>The Wall Street Journal</U>. If there is no closing selling price for the Common Stock on the date in question, then the Fair Market Value shall be the closing selling price on the last preceding
+date for which such quotation exists. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:4%; text-indent:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(iii) If the Common Stock is at the time neither listed on any Stock
+Exchange nor traded on the Nasdaq National Market, then the Fair Market Value shall be determined by the Plan Administrator after taking into account such factors as the Plan Administrator shall deem appropriate. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">K. <B><U>Incentive Option</U></B> shall mean an option which satisfies the requirements of Code Section&nbsp;422. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">L. <B><U>Involuntary Termination</U></B> shall mean the termination of the Service of any individual which occurs by reason of:
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:4%; text-indent:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(i) such individual&#146;s involuntary dismissal or discharge by the Corporation for reasons other than
+Misconduct, or </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:4%; text-indent:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(ii) such individual&#146;s voluntary resignation following (A)&nbsp;a change in his or her
+position with the Corporation which materially reduces his or her duties and responsibilities or the level of management to which he or she reports, (B)&nbsp;a reduction in his or her level of compensation (including base salary, fringe benefits and
+target bonus under any corporate-performance based bonus or incentive programs) by more than fifteen percent (15%)&nbsp;or (C)&nbsp;a relocation of such individual&#146;s place of employment by more than fifty&nbsp;(50) miles, provided and only if
+such change, reduction or relocation is effected without the individual&#146;s consent. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">A-2
+</FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">M. <B><U>Misconduct</U></B> shall mean the commission of any act of fraud, embezzlement or
+dishonesty by the Optionee or Participant, any unauthorized use or disclosure by such person of confidential information or trade secrets of the Corporation (or any Parent or Subsidiary), or any other intentional misconduct by such person adversely
+affecting the business or affairs of the Corporation (or any Parent or Subsidiary) in a material manner. The foregoing definition shall not in any way preclude or restrict the right of the Corporation (or any Parent or Subsidiary) to discharge or
+dismiss any Optionee, Participant or other person in the Service of the Corporation (or any Parent or Subsidiary) for any other acts or omissions, but such other acts or omissions shall not be deemed, for purposes of the Plan, to constitute grounds
+for termination for Misconduct. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">N. <B><U>1934 Act</U></B> shall mean the Securities Exchange Act of 1934, as amended.
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">O. <B><U>Non-Statutory&nbsp;Option</U></B> shall mean an option not intended to satisfy the requirements of Code
+Section&nbsp;422. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">P. <B><U>Option Grant Program</U></B> shall mean the option grant program in effect under the Plan.
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Q. <B><U>Optionee</U></B> shall mean any person to whom an option is granted under the Plan. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">R. <B><U>Parent</U></B> shall mean any corporation (other than the Corporation) in an unbroken chain of corporations ending with the
+Corporation, provided each corporation in the unbroken chain (other than the Corporation) owns, at the time of the determination, stock possessing fifty percent (50%)&nbsp;or more of the total combined voting power of all classes of stock in one of
+the other corporations in such chain. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">S. <B><U>Participant</U></B> shall mean any person who is issued shares of Common Stock
+under the Stock Issuance Program. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">T. <B><U>Plan</U></B> shall mean the Corporation&#146;s 2006 Stock Option/Stock Issuance
+Plan, as set forth in this document. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">U. <B><U>Plan Administrator</U></B> shall mean either the Board or the Committee acting
+in its capacity as administrator of the Plan. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">V. <B><U>Service</U></B> shall mean the provision of services to the
+Corporation (or any Parent or Subsidiary) by a person in the capacity of an Employee, a non-employee member of the board of directors or a consultant or independent advisor, except to the extent otherwise specifically provided in the documents
+evidencing the option grant. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">W. <B><U>Stock Exchange</U></B> shall mean either the American Stock Exchange or the New York
+Stock Exchange. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">A-3
+</FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">X. <B><U>Stock Issuance Agreement</U></B> shall mean the agreement entered into by the
+Corporation and the Participant at the time of issuance of shares of Common Stock under the Stock Issuance Program. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Y.
+<B><U>Stock Issuance Program</U></B> shall mean the stock issuance program in effect under the Plan. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Z.
+<B><U>Subsidiary</U></B> shall mean any corporation (other than the Corporation) in an unbroken chain of corporations beginning with the Corporation, provided each corporation (other than the last corporation) in the unbroken chain owns, at the time
+of the determination, stock possessing fifty percent (50%)&nbsp;or more of the total combined voting power of all classes of stock in one of the other corporations in such chain. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">AA. <B><U>10% Stockholder</U></B> shall mean the owner of stock (as determined under Code Section&nbsp;424(d)) possessing more than ten
+percent (10%)&nbsp;of the total combined voting power of all classes of stock of the Corporation (or any Parent or Subsidiary). </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">A-4
+</FONT></P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

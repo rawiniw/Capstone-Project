@@ -1,0 +1,180 @@
+<SEC-DOCUMENT>0001209191-14-073613.txt : 20141208
+<SEC-HEADER>0001209191-14-073613.hdr.sgml : 20141208
+<ACCEPTANCE-DATETIME>20141208152601
+ACCESSION NUMBER:		0001209191-14-073613
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20141208
+FILED AS OF DATE:		20141208
+DATE AS OF CHANGE:		20141208
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KROGER CO
+		CENTRAL INDEX KEY:			0000056873
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-GROCERY STORES [5411]
+		IRS NUMBER:				310345740
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0203
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1014 VINE ST
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45201
+		BUSINESS PHONE:		5137624000
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			VAN OFLEN MARY ELIZABETH
+		CENTRAL INDEX KEY:			0001186581
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00303
+		FILM NUMBER:		141272458
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2014-12-08</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000056873</issuerCik>
+        <issuerName>KROGER CO</issuerName>
+        <issuerTradingSymbol>KR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001186581</rptOwnerCik>
+            <rptOwnerName>VAN OFLEN MARY ELIZABETH</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>THE KROGER CO.</rptOwnerStreet1>
+            <rptOwnerStreet2>1014 VINE STREET</rptOwnerStreet2>
+            <rptOwnerCity>CINCINNATI</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>45202</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Vice President &amp; Controller</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2014-12-08</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value>E</value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>58</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>32424.3146</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The total amount of securities directly owned by the reporting person includes shares in the Company's employee benefit plans that are deemed to be 'tax-conditioned plans' pursuant to Rule 16b-3, to the extent disclosed on reports received from plan trustees.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Mary Elizabeth Van Oflen, by Stacey M. Heiser, Attorney-in-Fact</signatureName>
+        <signatureDate>2014-12-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.4_548624
+<SEQUENCE>2
+<FILENAME>poa.txt
+<DESCRIPTION>POA DOCUMENT
+<TEXT>
+POWER OF ATTORNEY
+
+KNOW ALL PERSONS BY THESE PRESENTS:
+
+	The undersigned does hereby make, constitute and appoint Christine S. Wheatley,
+Stacey M. Heiser and Dorothy D. Roberts, and each of them (with full power to
+each of them to act alone), her true and lawful attorney-in-fact to sign and
+execute for and on her behalf, and in her name, place and stead, to sign,
+execute, affix her seal, and file with the Securities and Exchange Commission,
+any and all documents required to be filed by her under Section 16 of the
+Securities Exchange Act of 1934, as amended, or any successor or comparable
+requirement, with respect to her holdings or changes in holdings of securities
+issued by The Kroger Co., in such form as the attorney-in-fact may approve.  The
+attorney-in-fact may do any and all other acts that said attorney-in-fact may
+deem necessary or appropriate in order to effectuate the foregoing as fully to
+all intents and purposes as the undersigned might or could do if personally
+present, hereby ratifying and confirming all that said attorney-in-fact may
+lawfully do or cause to be done by virtue hereof.  The power granted hereby will
+remain in effect until revoked in writing by the undersigned.
+
+	IN WITNESS WHEREOF, the undersigned has hereunto set her hand and seal, this
+27th day of June, 2014.
+
+
+
+					/s/ Mary Elizabeth Van Oflen
+					Mary Elizabeth Van Oflen
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

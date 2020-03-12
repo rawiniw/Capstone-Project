@@ -1,0 +1,186 @@
+<SEC-DOCUMENT>0001209191-19-060323.txt : 20191213
+<SEC-HEADER>0001209191-19-060323.hdr.sgml : 20191213
+<ACCEPTANCE-DATETIME>20191213131414
+ACCESSION NUMBER:		0001209191-19-060323
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20191212
+FILED AS OF DATE:		20191213
+DATE AS OF CHANGE:		20191213
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			HOGUET KAREN M
+		CENTRAL INDEX KEY:			0001180671
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00303
+		FILM NUMBER:		191284139
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O MACY'S, INC.
+		STREET 2:		7 WEST SEVENTH STREET
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45202
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KROGER CO
+		CENTRAL INDEX KEY:			0000056873
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-GROCERY STORES [5411]
+		IRS NUMBER:				310345740
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0201
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1014 VINE ST
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45201
+		BUSINESS PHONE:		5137624000
+
+	MAIL ADDRESS:	
+		STREET 1:		1014 VINE ST
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<DESCRIPTION>FORM 3 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2019-12-12</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000056873</issuerCik>
+        <issuerName>KROGER CO</issuerName>
+        <issuerTradingSymbol>KR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001180671</rptOwnerCik>
+            <rptOwnerName>HOGUET KAREN M</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1014 VINE ST</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CINCINNATI</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>45202</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2075</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>by Spouse</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes></footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Karen M. Hoguet, by Stacey M. Heiser, Attorney-in-Fact</signatureName>
+        <signatureDate>2019-12-13</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.3_883275
+<SEQUENCE>2
+<FILENAME>poa.txt
+<DESCRIPTION>POA DOCUMENT
+<TEXT>
+POWER OF ATTORNEY
+
+KNOW ALL PERSONS BY THESE PRESENTS:
+
+	The undersigned does hereby make, constitute and appoint Christine S. Wheatley,
+Stacey M. Heiser, and Dorothy D. Roberts, and each of them (with full power to
+each of them to act alone), her true and lawful attorney-in-fact to sign and
+execute for and on her behalf, and in her name, place and stead, to sign,
+execute, affix her seal, and file with the Securities and Exchange Commission,
+any and all documents required to be filed by her under Section 16 of the
+Securities Exchange Act of 1934, as amended, or any successor or comparable
+requirement, with respect to her holdings or changes in holdings of securities
+issued by The Kroger Co., in such form as the attorney-in-fact may approve.  The
+attorney-in-fact may do any and all other acts that said attorney-in-fact may
+deem necessary or appropriate in order to effectuate the foregoing as fully to
+all intents and purposes as the undersigned might or could do if personally
+present, hereby ratifying and confirming all that said attorney-in-fact may
+lawfully do or cause to be done by virtue hereof.  The power granted hereby will
+remain in effect until revoked in writing by the undersigned.
+
+	IN WITNESS WHEREOF, the undersigned has hereunto set her hand and seal, this
+12th day of December, 2019.
+
+
+
+						/s/ Karen M. Hoguet
+						Karen M. Hoguet
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

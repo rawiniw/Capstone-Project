@@ -1,0 +1,182 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ S59F+xU7yEn6qfdheScodvXkt+TSiBzsvKwTa5hRksB60Yslz/xunPgaZRyp0CUR
+ CGwvEYIlflWJSIgV5E6KqA==
+
+<SEC-DOCUMENT>0001193125-10-015800.txt : 20100128
+<SEC-HEADER>0001193125-10-015800.hdr.sgml : 20100128
+<ACCEPTANCE-DATETIME>20100128170933
+ACCESSION NUMBER:		0001193125-10-015800
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20100111
+ITEM INFORMATION:		Other Events
+FILED AS OF DATE:		20100128
+DATE AS OF CHANGE:		20100128
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WAL MART STORES INC
+		CENTRAL INDEX KEY:			0000104169
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				710415188
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06991
+		FILM NUMBER:		10554786
+
+	BUSINESS ADDRESS:	
+		STREET 1:		702 SOUTHWEST 8TH ST
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+		BUSINESS PHONE:		5012734000
+
+	MAIL ADDRESS:	
+		STREET 1:		702 SOUTHWEST 8TH STREET
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P
+STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>UNITED STATES </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="3"><B>WASHINGTON, DC 20549 </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P
+STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>FORM 8-K </B>
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="4"><B>CURRENT REPORT </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="3"><B>PURSUANT TO SECTION 13 or 15(d) OF THE </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>SECURITIES EXCHANGE ACT OF 1934
+</B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>Date of Report (Date of earliest event reported): </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>January&nbsp;11, 2010 </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P
+STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="6"><B>Wal-Mart Stores,
+Inc. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(Exact Name of Registrant as Specified in Charter) </B></FONT></P> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Delaware</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>001-06991</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>71-0415188</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(State or Other</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="1"><B>Jurisdiction of</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Incorporation)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(Commission File</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="1"><B>Number)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(IRS Employer</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="1"><B>Identification No.)</B></FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>702 Southwest 8th Street </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Bentonville, Arkansas 72716-0215 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="1"><B>(Address of Principal Executive Offices)&nbsp;&nbsp;(Zip code) </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman"
+SIZE="2"><B>Registrant&#146;s telephone number, including area code: </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(479) 273-4000 </B></FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions: </FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </FONT></TD></TR></TABLE> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></TD></TR></TABLE> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></TD></TR></TABLE> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></TD></TR></TABLE> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P
+STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;8.01.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Other Events. </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Wal-Mart
+Stores, Inc. (&#147;Walmart&#148;) is executing several business restructurings to leverage operating expenses consistent with its priorities of growth, leverage and returns. These include the closure of 10 Sam&#146;s Clubs announced on
+January&nbsp;11, 2010, the elimination of Sam&#146;s Club new business membership representatives announced on January&nbsp;24, 2010, the new operations structure for Walmart U.S. announced today, and the integration of the Puerto Rican operations
+into Walmart U.S. and Sam&#146;s Club, respectively, also announced today. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The net impact from the charges for these business
+restructurings on fourth quarter earnings for fiscal year 2010 is estimated to be approximately $0.04 per share. Walmart will announce fourth quarter earnings before the market opens on February&nbsp;18, 2010. </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Walmart considers the statement above as to the estimated net impact of the business restructurings discussed above on fourth quarter
+earnings for its fiscal year 2010 to be a &#147;forward-looking statement&#148; within the meaning of the Private Securities Litigation Reform Act of 1995, that is intended to enjoy the protection of the safe harbor for forward-looking statements
+provided by that Act. This forward-looking statement is subject to certain risks, uncertainties and other factors, including the expense anticipated to be incurred as a result of one or more of such business restructurings not being incurred or
+being less than anticipated, the incurrence of unanticipated expenses in connection with one or more of such business restructurings, any immediate benefits of such business restructurings being other than anticipated and other risks associated with
+such business restructurings. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">2 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>SIGNATURES </U></B></FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Dated: January&nbsp;28, 2010 </FONT></P> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="12%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="87%"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT STYLE="font-family:Times New Roman" SIZE="2">WAL-MART STORES, INC.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/<SMALL>S</SMALL>/&nbsp;&nbsp;&nbsp;&nbsp;C<SMALL>HARLES</SMALL> M. H<SMALL>OLLEY</SMALL>,
+J<SMALL>R</SMALL>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Name:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Charles M. Holley, Jr.</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Title:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Executive Vice President,</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"
+ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Finance and Treasurer</B></FONT></P></TD></TR>
+</TABLE></DIV>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,1936 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ RiycnAsQi/tsAVOzCz1R+kHKqMh/BSe8HGYnSqTLoKf/YR9Xt5n8Arfkwnpn85F4
+ Oek+m3rpO78XirJQAx5/OA==
+
+<SEC-DOCUMENT>0001193125-10-129873.txt : 20100527
+<SEC-HEADER>0001193125-10-129873.hdr.sgml : 20100527
+<ACCEPTANCE-DATETIME>20100527060508
+ACCESSION NUMBER:		0001193125-10-129873
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20100527
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20100527
+DATE AS OF CHANGE:		20100527
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COSTCO WHOLESALE CORP /NEW
+		CENTRAL INDEX KEY:			0000909832
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				911223280
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			0830
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-20355
+		FILM NUMBER:		10860877
+
+	BUSINESS ADDRESS:	
+		STREET 1:		999 LAKE DRIVE
+		CITY:			ISSAQUAH
+		STATE:			WA
+		ZIP:			98027-
+		BUSINESS PHONE:		4253138100
+
+	MAIL ADDRESS:	
+		STREET 1:		999 LAKE DRIVE
+		CITY:			ISSAQUAH
+		STATE:			WA
+		ZIP:			98027
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COSTCO COMPANIES INC
+		DATE OF NAME CHANGE:	19970401
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PRICE/COSTCO INC
+		DATE OF NAME CHANGE:	19930728
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<P STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P STYLE="margin-top:4px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>UNITED STATES </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>Washington, D.C. 20549 </B></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center>
+<P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>FORM 8-K </B>
+</FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="4"><B>CURRENT REPORT </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>Pursuant to Section&nbsp;13 or 15(d) of the </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>Securities Exchange Act of 1934 </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>Date of Report (Date of Earliest Event Reported): May&nbsp;27, 2010 </B></FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="6"><B>COSTCO WHOLESALE CORPORATION </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(Exact name of registrant as specified in its charter) </B></FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Washington</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>0-20355</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>91-1223280</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(State or other jurisdiction</B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>of incorporation)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(Commission</B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>File No.)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(I.R.S. Employer</B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Identification No.)</B></FONT></P></TD></TR></TABLE>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>999 Lake Drive </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Issaquah, WA 98027 </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(Address of principal executive offices and zip code) </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Registrant&#146;s telephone number, including area code: 425-313-8100 </B></FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:6px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2. below): </FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </FONT></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></TD></TR></TABLE>
+<P STYLE="font-size:8px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="line-height:3px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<P STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;2.02.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Results of Operations and Financial Condition </B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">On May&nbsp;27, 2010, the Company issued a press release containing its operating results for the third quarter (twelve weeks) and first thirty-six weeks
+of fiscal 2010. A copy of the press release is included in Item&nbsp;9.01. </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;9.01.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Financial Statements and Exhibits </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">(d)
+Exhibits. The following exhibit is included in this report: </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">99.1.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Press release dated May&nbsp;27, 2010. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">2 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">SIGNATURE </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, hereunto duly authorized, on May&nbsp;27, 2010. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="6%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT STYLE="font-family:Times New Roman" SIZE="2">COSTCO WHOLESALE CORPORATION</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Richard A. Galanti</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Richard A. Galanti</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Executive Vice President and Chief Financial Officer</FONT></TD></TR></TABLE></DIV> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">3 </FONT></P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>dex991.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<HTML><HEAD>
+<TITLE>Press Release</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Exhibit 99.1 </B></FONT></P>
+ <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center">
+
+<IMG SRC="g14971g94w19.jpg" ALT="LOGO"> </P>
+ <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>COSTCO WHOLESALE CORPORATION REPORTS THIRD QUARTER AND YEAR-TO-DATE OPERATING RESULTS FOR FISCAL YEAR
+2010 </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">ISSAQUAH, Wash., May&nbsp;27, 2010 - Costco Wholesale Corporation (&#147;Costco&#148; or the &#147;Company&#148;) (Nasdaq: COST)
+announced today its operating results for the third quarter (twelve weeks) and first thirty-six weeks of fiscal 2010. Net sales for the third quarter of fiscal 2010 increased twelve percent, to $17.39 billion, from $15.48 billion during the third
+quarter of fiscal 2009. Net sales for the first thirty-six weeks of fiscal 2010 increased ten percent, to $52.66 billion, from $48.00 billion during the first thirty-six weeks of fiscal 2009. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Comparable sales for the third quarter (12 weeks) and the first thirty-six weeks of fiscal 2010 were as follows: </FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="68%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="76%"></TD>
+<TD VALIGN="bottom" WIDTH="11%"></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="11%"></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>12&nbsp;Weeks</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>36&nbsp;Weeks</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">U.S.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">6</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">%&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">4</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">%&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">International</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">26</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">%&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">21</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">%&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Total</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">10</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">%&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">7</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">%&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR></TABLE> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Comparable sales for the 12-week and 36-week periods, excluding the positive impacts from gasoline inflation and the
+strengthening of foreign currencies (primarily in Canada, the United Kingdom and Korea), were as follows: </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="68%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="76%"></TD>
+<TD VALIGN="bottom" WIDTH="11%"></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="11%"></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>12&nbsp;Weeks</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>36&nbsp;Weeks</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">U.S.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">3</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">%&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">2</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">%&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">International</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">8</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">%&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">9</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">%&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Total</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">4</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">%&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">3</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">%&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR></TABLE> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Net income for the third quarter of fiscal 2010 was $306 million, or $.68 per diluted share, compared to $210 million, or
+$.48 per diluted share, during the third quarter of fiscal 2009. Net income for the first thirty-six weeks of fiscal 2010 was $871 million, or $1.95 per diluted share, compared to net income for the first thirty-six weeks of fiscal 2009 of $712
+million or $1.62 per diluted share. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Third quarter results this year were positively affected by a partial reversal in the amount of $14
+million (pre-tax) of a charge related to a Canadian tax liability, previously taken in the second quarter of fiscal 2007. Third quarter results last year were negatively impacted by a pretax charge of $34 million (pre-tax and mostly non-cash)
+related to a litigation settlement concerning our membership renewal policy. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Costco currently operates 568 warehouses, including 414 in the
+United States and Puerto Rico, 78 in Canada, 21 in the United Kingdom, seven in Korea, six in Taiwan, nine in Japan, one in Australia and 32 in Mexico. The Company also operates Costco Online, an electronic commerce web site, at www.costco.com and
+at www.costco.ca in Canada. The Company plans to open up to five new warehouses prior to the end of its 2010 fiscal year on August&nbsp;29, 2010. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center">
+
+<IMG SRC="g14971g94w19.jpg" ALT="LOGO"> </P>
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">A conference call to discuss these third quarter operating results is scheduled for 8:00 a.m. (PT)
+today, May&nbsp;27, 2010, and is available via a webcast on www.costco.com (click on Investor Relations and &#147;Play Webcast&#148;). </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Certain statements contained in this document constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of
+1995. For these purposes, forward-looking statements are statements that address activities, events, conditions or developments that the Company expects or anticipates may occur in the future. Such forward-looking statements involve risks and
+uncertainties that may cause actual events, results or performance to differ materially from those indicated by such statements. These risks and uncertainties include, but are not limited to, domestic and international economic conditions, including
+exchange rates, the effects of competition and regulation, uncertainties in the financial markets, consumer and small business spending patterns and debt levels, conditions affecting the acquisition, development, ownership or use of real estate,
+actions of vendors, rising costs associated with employees (including health care costs), geopolitical conditions and other risks identified from time to time in the Company&#146;s public statements and reports filed with the Securities and Exchange
+Commission. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>CONTACTS: Costco Wholesale Corporation </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Richard Galanti, 425/313-8203, Bob Nelson, 425/313-8255, Jeff Elliott, 425/313-8264 </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center">
+
+<IMG SRC="g14971g94w19.jpg" ALT="LOGO"> </P>
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>COSTCO WHOLESALE CORPORATION </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>CONDENSED CONSOLIDATED STATEMENTS OF INCOME </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(dollars in millions, except per share data) </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(unaudited) </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="64%"></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="6" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>12 Weeks Ended</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="6" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>36 Weeks Ended</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>May&nbsp;9,&nbsp;2010</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>May&nbsp;10,&nbsp;2009</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>May&nbsp;9,&nbsp;2010</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>May&nbsp;10,&nbsp;2009</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>REVENUE</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Net sales</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">17,385</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">15,477</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">52,663</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">48,001</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Membership fees</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">395</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">329</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">1,158</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">1,043</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:5.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Total revenue</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">17,780</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">15,806</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">53,821</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">49,044</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>OPERATING EXPENSES</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Merchandise costs</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">15,494</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">13,776</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">46,971</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">42,823</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Selling, general and administrative</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">1,789</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">1,655</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">5,439</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">4,998</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Preopening expenses</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">3</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">9</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">17</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">29</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Provision for impaired assets and closing costs, net</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">3</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">7</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">5</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">15</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:5.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Operating income</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">491</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">359</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">1,389</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">1,179</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>OTHER INCOME (EXPENSE)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Interest expense</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">(27</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">)&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">(25</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">)&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">(77</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">)&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">(75</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">)&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Interest income and other, net</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">10</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">6</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">58</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">39</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>INCOME BEFORE INCOME TAXES</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">474</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">340</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">1,370</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">1,143</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Provision for income taxes</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">163</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">128</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">484</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">422</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Net income including noncontrolling interests</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">311</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">212</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">886</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">721</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Net income attributable to noncontrolling interests</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">(5</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">)&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">(2</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">)&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">(15</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">)&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">(9</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">)&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>NET INCOME ATTRIBUTABLE TO COSTCO</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">306</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">210</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">871</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">712</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>NET INCOME PER COMMON SHARE ATTRIBUTABLE TO COSTCO:</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Basic</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">0.69</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">0.48</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">1.98</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">1.64</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Diluted</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">0.68</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">0.48</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">1.95</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">1.62</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Shares used in calculation (000&#146;s)</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Basic</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">440,973</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">434,354</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">439,306</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">433,426</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Diluted</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">448,391</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">439,997</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">446,709</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">439,995</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Dividends per share</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">0.205</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">0.180</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">0.565</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">0.500</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center">
+
+<IMG SRC="g14971g94w19.jpg" ALT="LOGO"> </P>
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>COSTCO WHOLESALE CORPORATION </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>CONDENSED CONSOLIDATED BALANCE SHEETS </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(dollars in millions) </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(unaudited) </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Subject
+to Reclassifications </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="86%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>May&nbsp;9,<BR>2010</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>August&nbsp;30,<BR>2009</B></FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>ASSETS</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Cash and cash equivalents</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">4,413</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">3,157</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Short-term investments</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">854</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">570</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Receivables, net</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">818</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">834</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Merchandise inventories</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">5,546</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">5,405</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Deferred income taxes and other current assets</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">426</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">371</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Total current assets</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">12,057</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">10,337</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Property and equipment, net</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">11,058</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">10,900</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Other assets</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">784</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">742</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>TOTAL ASSETS</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">23,899</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">21,979</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>LIABILITIES AND EQUITY</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Accounts payable</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">5,975</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">5,450</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Short-term borrowings and current portion of long-term debt</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">30</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">96</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Other current liabilities</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">4,184</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">3,735</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Total current liabilities</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">10,189</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">9,281</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Long-term debt, excluding current portion</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">2,132</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">2,130</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Deferred income taxes and other liabilities</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">606</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">464</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Total liabilities</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">12,927</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">11,875</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Total Costco stockholders&#146; equity</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">10,874</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">10,024</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Noncontrolling interests</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">98</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">80</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Total equity</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">10,972</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">10,104</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>TOTAL LIABILITIES AND EQUITY</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">23,899</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">21,979</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD></TR></TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g14971g94w19.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g14971g94w19.jpg
+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
+>")A$PB81,(F$3")A$PB81,(F$3")A$PB81,(O__9
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

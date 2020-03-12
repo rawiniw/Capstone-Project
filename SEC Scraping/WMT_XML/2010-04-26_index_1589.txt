@@ -1,0 +1,440 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ S68p5DNgFYlKzkYYwjO3IGO1ppildi1Qv8zCxnLcm91JocfBvC4qJzpyh8DTsgHJ
+ zPrGEqIkcZthWO4Nbfjo+A==
+
+<SEC-DOCUMENT>0001193125-10-093270.txt : 20100426
+<SEC-HEADER>0001193125-10-093270.hdr.sgml : 20100426
+<ACCEPTANCE-DATETIME>20100426154734
+ACCESSION NUMBER:		0001193125-10-093270
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20100426
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20100426
+DATE AS OF CHANGE:		20100426
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WAL MART STORES INC
+		CENTRAL INDEX KEY:			0000104169
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				710415188
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06991
+		FILM NUMBER:		10770347
+
+	BUSINESS ADDRESS:	
+		STREET 1:		702 SOUTHWEST 8TH ST
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+		BUSINESS PHONE:		5012734000
+
+	MAIL ADDRESS:	
+		STREET 1:		702 SOUTHWEST 8TH STREET
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<P STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P STYLE="margin-top:3px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE
+COMMISSION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>Washington, DC 20549 </B></FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>FORM 8-K </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center>
+<P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="4"><B>CURRENT
+REPORT </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>PURSUANT TO SECTION 13 or 15(d) OF THE </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>SECURITIES EXCHANGE ACT OF 1934 </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>Date of Report (Date of earliest event reported): April&nbsp;26, 2010 </B></FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="6"><B>Wal-Mart Stores, Inc. </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(Exact name of registrant as specified in its charter) </B></FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Delaware</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>001-06991</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>71-0415188</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(State or other Jurisdiction</B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>of Incorporation)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(Commission</B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>File Number)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(IRS Employer</B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Identification No.)</B></FONT></P></TD></TR></TABLE>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>702 Southwest 8th Street </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Bentonville, Arkansas 72716-0215 </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(Address of principal executive offices) (Zip code) </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Registrant&#146;s telephone number, including area code: (479)&nbsp;273-4000 </B></FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions: </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </FONT></TD></TR></TABLE>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></TD></TR></TABLE>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></TD></TR></TABLE>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></TD></TR></TABLE>
+<P STYLE="font-size:8px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<P STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;8.01.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Other Events. </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Wal-Mart
+Stores, Inc. (the &#147;Company&#148;) is filing this Current Report on Form 8-K in order to file with the Securities and Exchange Commission a press release that the Company issued on April&nbsp;26, 2010 (the &#147;Press Release&#148;). A copy of
+the Press Release is attached hereto as Exhibit 99.1. </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;9.01.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Financial Statements and Exhibits. </B></FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>(d)</I></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>Exhibits </I></FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Copy of Press Release </FONT></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>SIGNATURES </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its
+behalf by the undersigned thereunto duly authorized. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Dated: April&nbsp;26, 2010 </FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="6%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="12%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="80%"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="5"><FONT STYLE="font-family:Times New Roman" SIZE="2">WAL-MART STORES, INC.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="3"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Charles M. Holley, Jr.</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Name:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Charles M. Holley, Jr.</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Title:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Executive Vice President,</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Finance and Treasurer</FONT></P></TD></TR></TABLE></DIV>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>INDEX TO EXHIBITS </B></FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1px solid #000000;width:28pt" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Exhibit<BR>Number</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1px solid #000000;width:39pt"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Description</B></FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Copy of Press Release made by the Company on April 26, 2010</FONT></TD></TR></TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>dex991.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<HTML><HEAD>
+<TITLE>Press Release</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Exhibit 99.1 </B></FONT></P>
+ <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center">
+
+<IMG SRC="g48286g13x82.jpg" ALT="LOGO"> </P>
+ <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="51%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="47%"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I><U>FOR IMMEDIATE RELEASE</U></I></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">Contact: Walmart Media Relations</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">1-800-331-0085</FONT></TD></TR></TABLE> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>9th
+Circuit Reverses Key Aspects of Lower Court&#146;s </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Ruling in Dukes Case </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>Statement from Jeff Gearhart, Executive Vice President </I></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>and General Counsel for Walmart </I></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>April&nbsp;26, 2010 </I></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#147;We are pleased that the court agreed with our position on several critical issues. The court significantly reduced the size of the originally
+certified class by as much as two-thirds. Finding that the trial court &#145;abused its discretion,&#146; the appeals court also set aside the ruling on punitive damages. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#147;We disagree with the decision of the sharply divided 6-5 court to uphold portions of the certification order, and are considering our options,
+including seeking review from the Supreme Court. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#147;It is important to remember the court did not address the merits of this case. The
+court reiterated, &#145;our findings relate only to class action procedural questions; we neither analyze nor reach the merits of Plaintiffs&#146; allegations of gender discrimination.&#146; The court further noted that the trial court &#145;has the
+discretion to modify or decertify the class.&#146; </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#147;We do not believe the claims alleged by the six individuals who brought this suit
+are representative of the experiences of our female associates. Walmart is an excellent place for women to work and fosters female leadership among our associates and in the larger business world. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#147;We are proud of the strides we have made to advance and support our female associates and have been recognized for our efforts to advance women
+through a number of awards and accolades. In 2008, Walmart was named in the &#147;Top 40 Greatest Organizations for Women of Color to Work&#148; by <I>Women of Color</I> magazine as well as one of the &#147;Top 10 Best Companies for Women&#148; by
+<I>PINK</I> magazine.&#148; </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">### </FONT></P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g48286g13x82.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g48286g13x82.jpg
+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
+H3Y(?S!SS['2T445@;!1110`4444`%%%%`!1110`4444`%%%%`'__V3\_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

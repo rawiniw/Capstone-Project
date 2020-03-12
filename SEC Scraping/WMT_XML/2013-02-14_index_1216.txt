@@ -1,0 +1,477 @@
+<SEC-DOCUMENT>0001193125-13-060046.txt : 20130214
+<SEC-HEADER>0001193125-13-060046.hdr.sgml : 20130214
+<ACCEPTANCE-DATETIME>20130214160206
+ACCESSION NUMBER:		0001193125-13-060046
+CONFORMED SUBMISSION TYPE:	SC 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20130214
+DATE AS OF CHANGE:		20130214
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GREEN DOT CORP
+		CENTRAL INDEX KEY:			0001386278
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-85599
+		FILM NUMBER:		13613474
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3465 E. FOOTHILL BLVD
+		CITY:			PASADENA
+		STATE:			CA
+		ZIP:			91107
+		BUSINESS PHONE:		6267652000
+
+	MAIL ADDRESS:	
+		STREET 1:		3465 E. FOOTHILL BLVD
+		CITY:			PASADENA
+		STATE:			CA
+		ZIP:			91107
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WAL MART STORES INC
+		CENTRAL INDEX KEY:			0000104169
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				710415188
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		702 SOUTHWEST 8TH ST
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+		BUSINESS PHONE:		5012734000
+
+	MAIL ADDRESS:	
+		STREET 1:		702 SOUTHWEST 8TH STREET
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G/A
+<SEQUENCE>1
+<FILENAME>d485037dsc13ga.htm
+<DESCRIPTION>SCHEDULE 13G AMENDMENT NO. 2
+<TEXT>
+<HTML><HEAD>
+<TITLE>Schedule 13G Amendment No. 2</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<P STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE
+COMMISSION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>Washington, D.C. 20549 </B></FONT></P>
+<P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:18px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>SCHEDULE 13G </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>(Rule 13d-102) </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>Information to be Included in Statements Filed Pursuant
+to &#167; 240.13d-1(b), (c)&nbsp;and (d) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>and Amendments </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>Thereto Filed Pursuant to &#167; 240.13d-2. </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="3"><B>Under the Securities Exchange Act of 1934 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>(Amendment No. 2)
+</B></FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:18px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="6"><B>GREEN DOT CORPORATION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>(Name of Issuer) </B></FONT></P> <P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>CLASS A COMMON STOCK </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(Title of Class of Securities) </B></FONT></P> <P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>39304D102 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(CUSIP Number) </B></FONT></P>
+<P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>December&nbsp;31, 2012 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="1"><B>(Date of Event Which Requires Filing of this Statement) </B></FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center>
+<P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Check the appropriate box to
+designate the rule pursuant to which this Schedule is filed: </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT> Rule 13d-1(b)
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT> Rule 13d-1(c) </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT> Rule 13d-1(d) </FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<P STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">SCHEDULE 13G&#151;AMENDMENT NO. 2 </FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="49%"></TD></TR>
+
+
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">CUSIP&nbsp;No. : 39304D102</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">Page 2 of 5 Pages</FONT></TD></TR>
+</TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE">
+
+
+<TR>
+<TD WIDTH="3%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="5%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="87%"></TD></TR>
+
+
+<TR>
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8px"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;(1)&nbsp;</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-TOP:1px solid #000000; BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8px">
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Name of reporting person</FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">WAL-MART STORES, INC.</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8px"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;(2)</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8px"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Check the appropriate box if a
+member of a group</FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">(a)&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">(b)&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8px"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;(3)</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8px"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">SEC use only</FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:1px">&nbsp;</P></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8px"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;(4)</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8px"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Citizenship or place of
+organization</FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="2">DELAWARE</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="middle" COLSPAN="3" ROWSPAN="4" ALIGN="center" STYLE="BORDER-LEFT:1px solid #000000; padding-left:8px">
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Number&nbsp;of</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">shares</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">beneficially</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">owned&nbsp;by</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">each</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">reporting</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">person</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">with</FONT></P></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">(5)&nbsp;</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8px"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Sole voting power</FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="2">NONE (SEE ITEM 4)</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">(6)</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8px"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Shared voting power</FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="2">NONE (SEE ITEM 4)</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">(7)</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8px"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Sole dispositive power</FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="2">888,489 (SEE ITEM 4)</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">(8)</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:8px"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Shared dispositive power</FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="2">NONE (SEE ITEM 4)</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8px"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;(9)</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-TOP:1px solid #000000; BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8px">
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Aggregate amount beneficially owned by each reporting person</FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="2">1,919,121</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8px"><FONT STYLE="font-family:Times New Roman" SIZE="2">(10)</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8px"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Check box if the aggregate amount
+in Row (9) excludes certain shares</FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8px"><FONT STYLE="font-family:Times New Roman" SIZE="2">(11)</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8px"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Percent of class represented by
+amount in Row (9)</FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="2">6.1%</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8px"><FONT STYLE="font-family:Times New Roman" SIZE="2">(12)</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="5" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:8px"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Type of reporting
+person</FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="2">CO</FONT></P></TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">SCHEDULE 13G&#151;AMENDMENT NO. 2 </FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="49%"></TD></TR>
+
+
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">CUSIP&nbsp;No. : 39304D102</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">Page 3 of 5 Pages</FONT></TD></TR>
+</TABLE> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;1(a).</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Name of Issuer: </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:10%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Green
+Dot Corporation </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;1(b).</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Address of Issuer&#146;s Principal Executive Offices: </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:10%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">605 East Huntington Drive, Suite 205 </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:10%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Monrovia, California 91016 </FONT></P>
+<P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;2(a).</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Name of Person Filing: </B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:10%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Wal-Mart Stores, Inc. </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;2(b).</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Address of Principal Business Office or, if None, Residence: </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:10%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">702 S.W. Eighth Street </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:10%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Bentonville, Arkansas 72716 </FONT></P>
+<P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;2(c).</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Citizenship: </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:10%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Delaware
+</FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;2(d).</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Title of Class of Securities: </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:10%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Class&nbsp;A Common Stock </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;2(e).</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>CUSIP Number: </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:10%"><FONT STYLE="font-family:Times New Roman" SIZE="2">39304D102
+</FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;3.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>If this statement is filed pursuant to &#167;&#167; 240.13d-1(b), or 240.13d-2(b) or (c), check whether the person filing is a: </B></FONT></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="6%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="7%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(a)&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Broker or Dealer Registered Under Section&nbsp;15 of the Act (15 U.S.C. 78o) </FONT></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="6%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="7%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(b)&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Bank as defined in section 3(a)(6) of the Act (15 U.S.C. 78c) </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="6%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="7%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(c)&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Insurance Company as defined in section 3(a)(19) of the Act (15 U.S.C. 78c) </FONT></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="6%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="7%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(d)&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Investment Company registered under section 8 of the Investment Company Act of 1940 (15 U.S.C. 80a-8) </FONT></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="6%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="7%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(e)&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Investment Adviser in accordance with &#167; 240.13d-1(b)(1)(ii)(E) </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="6%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="7%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(f)&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Employee benefit plan or endowment fund in accordance with &#167; 240.13d-1(b)(1)(ii)(F) </FONT></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="6%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="7%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(g)&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Parent Holding Company or control person in accordance with &#167;240.13d-1(b)(ii)(G) </FONT></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="6%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="7%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(h)&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Savings Association as defined in &#167;3(b) of the Federal Deposit Insurance Act (12 U.S.C. 1813) </FONT></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="6%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="7%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(i)&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Church plan that is excluded from the definition of an investment company under &#167;3(c)(15) of the Investment Company Act of 1940 (15 U.S.C. 80a-3)
+</FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="6%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="7%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(j)&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Group, in accordance with &#167;240.13d-1(b)(ii)(J) </FONT></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">SCHEDULE 13G&#151;AMENDMENT NO. 2 </FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="49%"></TD></TR>
+
+
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">CUSIP&nbsp;No. : 39304D102</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">Page 4 of 5 Pages</FONT></TD></TR>
+</TABLE> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;4.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Ownership. </B></FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(a)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Amount beneficially owned: </FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:15%"><FONT STYLE="font-family:Times New Roman" SIZE="2">1,919,121 </FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(b)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Percent of class: </FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:15%"><FONT STYLE="font-family:Times New Roman" SIZE="2">6.1%
+</FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:15%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The percent of class was calculated based on 31,320,883 shares of Class&nbsp;A Common Stock outstanding as of
+October&nbsp;31, 2012. </FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(c)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Number of shares as to which such person has: </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="15%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(i)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Sole power to vote or to direct the vote: </FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:19%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">None </FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="15%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(ii)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Shared power to vote or to direct the vote: </FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:19%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">None </FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="15%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(iii)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Sole power to dispose or to direct the disposition of: </FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:19%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">888,489 </FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="15%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(iv)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Shared power to dispose or to direct the disposition of: </FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:19%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">None </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:19%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The filing person has granted an irrevocable proxy to the issuer to vote
+the shares reported in the same proportion as the votes cast by the other stockholders of the issuer. All of these shares were initially subject to a right of repurchase by the issuer. The repurchase right will lapse with respect to 36,810 shares on
+the 27th day of each calendar month (until none of the shares remains subject to the right of repurchase), provided that certain conditions are met and subject to certain exceptions. As of December&nbsp;31, 2012, the repurchase right has lapsed with
+respect to 888,489 shares held by the filing person. </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;5.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Ownership of Five Percent or Less of a Class. </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:10%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Not applicable </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;6.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Ownership of More than Five Percent on Behalf of Another Person. </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:10%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Not applicable </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;7.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Identification and Classification of the Subsidiary Which Acquired the Security Being Reported on by the Parent Holding Company. </B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:10%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Not applicable </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;8.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Identification and Classification of Members of the Group. </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:10%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Not applicable </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;9.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Notice of Dissolution of Group. </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:10%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Not applicable </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;10.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Certification. </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:10%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Not
+applicable </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">SCHEDULE 13G&#151;AMENDMENT NO. 2 </FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="49%"></TD></TR>
+
+
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">CUSIP&nbsp;No. : 39304D102</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">Page 5 of 5 Pages</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>SIGNATURE </U></B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">After reasonable inquiry and to the best knowledge and belief of the undersigned, the undersigned certifies that the information set forth in this Statement is true, complete and correct. </FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE">
+
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+
+
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">February&nbsp;14, 2013</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Date</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Jonathan Hall</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Signature</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">Jonathan Hall, Vice President</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Name/Title</FONT></TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

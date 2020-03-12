@@ -1,0 +1,796 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ CksEj9pJn7GvoTle9DCrwYlhczOrVR9pkEPNfOsVil0fMF5QcECUaWc6P8LUYyEM
+ 8bhqX2ZxJKXxcL86hUlwgw==
+
+<SEC-DOCUMENT>0001193125-10-181381.txt : 20100806
+<SEC-HEADER>0001193125-10-181381.hdr.sgml : 20100806
+<ACCEPTANCE-DATETIME>20100806161136
+ACCESSION NUMBER:		0001193125-10-181381
+CONFORMED SUBMISSION TYPE:	S-8 POS
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20100806
+DATE AS OF CHANGE:		20100806
+EFFECTIVENESS DATE:		20100806
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WAL MART STORES INC
+		CENTRAL INDEX KEY:			0000104169
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				710415188
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		S-8 POS
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	333-60329
+		FILM NUMBER:		10998569
+
+	BUSINESS ADDRESS:	
+		STREET 1:		702 SOUTHWEST 8TH ST
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+		BUSINESS PHONE:		5012734000
+
+	MAIL ADDRESS:	
+		STREET 1:		702 SOUTHWEST 8TH STREET
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>S-8 POS
+<SEQUENCE>1
+<FILENAME>ds8pos.htm
+<DESCRIPTION>P.E. AMENDMENT 1 TO FORM S-8
+<TEXT>
+<HTML><HEAD>
+<TITLE>P.E. Amendment 1 to Form S-8</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>As filed with the Securities and Exchange Commission on August&nbsp;6, 2010
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Registration No.&nbsp;333-60329 </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Registration No.&nbsp;333-128204 </B></FONT></P> <P STYLE="font-size:4px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>Washington, D.C. 20549 </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>POST-EFFECTIVE AMENDMENT NO. 1 TO </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>REGISTRATION STATEMENT ON FORM S-8 (Registration No.&nbsp;333-60329) </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>POST-EFFECTIVE AMENDMENT NO. 1 TO </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>REGISTRATION STATEMENT ON FORM S-8 (Registration No.&nbsp;333-128204) </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B><I>UNDER </I></B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B><I>THE SECURITIES ACT OF 1933 </I></B></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center>
+<P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="6"><B>WAL-MART
+STORES, INC. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(Exact Name of Registrant as Specified in its Charter) </B></FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Delaware</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>71-0415188</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(State of Incorporation)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(I.R.S. Employer</B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Identification No.)</B></FONT></P></TD></TR></TABLE>
+<P STYLE="margin-top:12px;margin-bottom:0px;padding-bottom:0px;" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>702 Southwest
+8<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">th</SUP></FONT><FONT STYLE="font-family:Times New Roman" SIZE="2"> Street </FONT></B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Bentonville, Arkansas 72716 </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(Address of Principal Executive Offices) </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>WAL-MART STORES, INC. STOCK INCENTIVE PLAN OF 2010 </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(formerly known as &#147;Wal-Mart Stores, Inc. Stock Incentive Plan of 2005&#148; and &#147;Wal-Mart Stores, </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Inc. Stock Incentive Plan of 1998&#148;) </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(Full Title of the Plan) </B></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center>
+<P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Geoffrey W. Edwards</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>With a Copy to:</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Assistant General Counsel, Corporate</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Dudley W. Murrey</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Wal-Mart Stores, Inc.</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Andrews Kurth LLP</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>702 Southwest 8th Street</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>1717 Main Street</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Bentonville, Arkansas 72716</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Suite 3700</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(479) 273-4000</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Dallas, Texas 75201</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(214) 659-4530</B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(Name, Address, and Telephone Number, including Area Code, of Agent for Service) </B></FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller
+reporting company. See the definitions of &#147;large accelerated filer,&#148; &#147;accelerated filer&#148; and &#147;smaller reporting company&#148; in Rule 12b-2 of the Exchange Act. </FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="16%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="60%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="20%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="1%"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Large&nbsp;accelerated&nbsp;filer</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Accelerated&nbsp;filer</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Non-accelerated filer</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;(Do not check if a smaller reporting company)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Smaller&nbsp;reporting&nbsp;company</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD></TR></TABLE> <P STYLE="font-size:8px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>EXPLANATORY NOTE </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Wal-Mart Stores, Inc. hereby amends its Registration Statements on Form S-8 (Registration No.&nbsp;333-128204 and Registration
+No.&nbsp;333-60329) by filing this Post-Effective Amendment No.&nbsp;1 on Form S-8 to reflect that the Wal-Mart Stores, Inc. Stock Incentive Plan of 2005 was amended, restated and renamed as the Wal-Mart Stores, Inc. Stock Incentive Plan of 2010,
+effective as of June&nbsp;4, 2010, to amend the information appearing in Item&nbsp;6 of Part II of such Registration Statement and to file a copy of the Wal-Mart Stores, Inc. Stock Incentive Plan of 2010, as amended and restated to date, and a new
+opinion as to the validity of the securities registered by such Registration Statement as exhibits to such Registration Statement. Effective as of June&nbsp;3, 2005, the Wal-Mart Stores, Inc. Stock Incentive Plan of 2005 amended, restated and
+renamed the Wal-Mart Stores, Inc. Stock Incentive Plan of 1998. No additional securities are being registered hereby. </FONT></P> <P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>PART
+II </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>INFORMATION REQUIRED IN THE REGISTRATION STATEMENT </B></FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;6.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Indemnification of Directors and Officers. </B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Amended and Restated Bylaws of the registrant, which is a Delaware corporation, provide that the registrant shall indemnify any person
+made or threatened to be made a party to any threatened, pending or completed action, lawsuit or proceeding, whether civil, criminal, administrative or investigative, by reason of the fact that such person is or was a director or officer of the
+registrant (or is or was serving at the request of the registrant as a director or officer for another entity) to the full extent it has the power to do so under the Delaware General Corporation Law (the &#147;DGCL&#148;) and other applicable law,
+except that the registrant need not indemnify any such person in connection with a proceeding initiated against the registrant by that person unless the proceeding was authorized by the registrant&#146;s board of directors. The Amended and Restated
+Bylaws further provide that the registrant may indemnify, to the full extent it has the power to do so under the DGCL and other applicable law, any person made or threatened to be made a party to any proceeding by reason of the fact that such person
+is or was an associate or agent of the registrant (or is or was serving at the request of the registrant as an employee or agent of another entity). </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Section&nbsp;145 of the DGCL provides, among other things, that the registrant has the power to indemnify any person who was or is a
+party or is threatened to be made a party to any threatened, pending or completed action, suit or proceeding, whether civil, criminal, administrative or investigative (other than an action by or in the right of the registrant) by reason of the fact
+that the person is or was a director, officer, employee or agent of the registrant, or is or was serving at the request of the registrant as a director, officer, employee or agent of another corporation, partnership, joint venture, trust or other
+enterprise, against expenses (including attorneys&#146; fees), judgments, fines and amounts paid in settlement actually and reasonably incurred by the person in connection with such action, suit or proceeding. This power to indemnify applies only if
+the person acted in good faith and in a manner the person reasonably believed to be in or not opposed to the best interests of the registrant, and, with respect to any criminal action or proceeding, had no reasonable cause to believe his or her
+conduct was unlawful. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">This power to indemnify pursuant to Section&nbsp;145 of the DGCL applies to actions brought by or in
+the right of the registrant to procure a judgment in its favor as well, but only to the extent of expenses (including attorneys&#146; fees) actually and reasonably incurred by the person in connection with the defense of the action or suit if the
+person acted in good faith and in a manner the person reasonably believed to be in or not opposed to the best interests of the registrant, and, with the further limitation that in such actions no indemnification shall be made in respect of any
+claim, issue or matter as to which such person shall have been adjudged to be liable to the registrant, unless and only to the extent that the Delaware Court of Chancery or the court in which such action or suit was brought shall determine upon
+application that, despite the adjudication of liability but in view of all the circumstances of the case, such person is fairly and reasonably entitled to indemnity for such expenses which the Court of Chancery or such other court shall deem proper.
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">2 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">In addition, under Section&nbsp;145 of the DGCL, to the extent that a present or former
+director or officer of the registrant is successful on the merits or otherwise in defense of any action, suit or proceeding, or in defense of any claim, issue or matter of the type described in the two immediately preceding paragraphs, such person
+shall be indemnified against expenses (including attorneys&#146; fees) actually and reasonably incurred by such person in connection therewith. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Restated Certificate of Incorporation of the registrant, as amended to date, provides that, to the fullest extent permitted by the
+DGCL as the same exists or may after the effective date of the Restated Certificate of Incorporation be amended, a director of the registrant shall not be liable to the registrant or its stockholders for monetary damages for breach of fiduciary duty
+as a director. The DGCL permits Delaware corporations to include in their certificates of incorporation a provision eliminating or limiting director liability for monetary damages arising from breaches of their fiduciary duty. The only limitations
+imposed under the statute are that the provision may not eliminate or limit a director&#146;s liability (i)&nbsp;for breaches of the director&#146;s duty of loyalty to the corporation or its stockholders, (ii)&nbsp;for acts or omissions not in good
+faith or involving intentional misconduct or known violations of law, (iii)&nbsp;for the payment of unlawful dividends or unlawful stock purchases or redemptions or (iv)&nbsp;for transactions in which the director received an improper personal
+benefit. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The registrant is insured against liabilities that it may incur by reason of its indemnification of officers and
+directors in accordance with its Amended and Restated Bylaws. In addition, the directors and officers of the registrant are insured, at the expense of the registrant, against certain liabilities that might arise out of their employment and are not
+subject to indemnification under its Amended and Restated Bylaws. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The foregoing summaries are necessarily subject to the
+complete text of the DGCL, the Restated Certificate of Incorporation, as amended, of the registrant and the Amended and Restated Bylaws of the registrant referred to above and the terms of any insurance policies pursuant to which insurance is
+available as described in the immediately preceding paragraph and are qualified in their entirety by reference thereto. </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;8.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Exhibits. </B></FONT></TD></TR></TABLE> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="94%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;5.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Opinion of Andrews Kurth LLP</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">23.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Consent of Andrews Kurth LLP (contained in Exhibit 5.1 hereto)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">24.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Power of Attorney (incorporated by reference to the power of attorney appearing on the signature page of the registrant&#146;s Registration Statement on Form S-8 (Registration No.
+333-168348)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Wal-Mart Stores, Inc. Stock Incentive Plan of 2010 (incorporated by reference to Appendix A to the registrant&#146;s Proxy Statement on Schedule 14A filed with the Commission on
+April 19, 2010)</FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">3 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>SIGNATURES </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Act of 1933, the registrant certifies that it has reasonable grounds to believe that it
+meets all of the requirements for filing on Form S-8 and has duly caused this post effective amendment no. 1 to the registration statement to be signed on its behalf by the undersigned, thereunto duly authorized, in the City of Bentonville, State of
+Arkansas, on August&nbsp;6, 2010. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="12%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="87%"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>WAL-MART STORES, INC.</B></FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/<SMALL>S</SMALL>/&nbsp;&nbsp;&nbsp;&nbsp;J<SMALL>EFFREY</SMALL> J.
+G<SMALL>EARHART&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</SMALL></FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Name:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Jeffrey J. Gearhart</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Title:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Executive Vice President, General Counsel</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>and&nbsp;Corporate Secretary</B></FONT></TD></TR></TABLE></DIV>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Act of 1933, this post-effective amendment no. 1 to the registration statement has been
+signed below by the following persons in the capacities indicated on the 6th day of August, 2010. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD WIDTH="44%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="9%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="45%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1px solid #000000;width:33pt" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Signature</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;<FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1px solid #000000;width:15pt" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Title</B></FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/<SMALL>S</SMALL>/ S. R<SMALL>OBSON</SMALL> W<SMALL>ALTON</SMALL>*</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ROWSPAN="2"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Chairman of the Board of Directors and Director</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>S. Robson Walton</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/<SMALL>S</SMALL>/ M<SMALL>ICHAEL</SMALL> T. D<SMALL>UKE</SMALL>*</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ROWSPAN="2"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">President, Chief Executive Officer and Director (Principal Executive Officer)</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Michael T. Duke</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="bottom" ALIGN="center" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/<SMALL>S</SMALL>/&nbsp;&nbsp;&nbsp;&nbsp;T<SMALL>HOMAS</SMALL> M.
+S<SMALL>CHOEWE</SMALL>*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ROWSPAN="2"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Executive Vice President and Chief Financial Officer (Principal Financial Officer)</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Thomas M. Schoewe</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/<SMALL>S</SMALL>/&nbsp;&nbsp;&nbsp;&nbsp;S<SMALL>TEVEN</SMALL> P.
+W<SMALL>HALEY</SMALL>*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ROWSPAN="2"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Senior Vice President and Controller (Principal Accounting Officer)</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Steven P. Whaley</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Aida M. Alvarez</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/<SMALL>S</SMALL>/&nbsp;&nbsp;&nbsp;&nbsp;J<SMALL>AMES</SMALL> W.
+B<SMALL>REYER</SMALL>*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>James W. Breyer</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>M. Michele Burns</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/<SMALL>S</SMALL>/&nbsp;&nbsp;&nbsp;&nbsp;J<SMALL>AMES</SMALL> I. C<SMALL>ASH</SMALL>,
+J<SMALL>R</SMALL>.*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>James I. Cash, Jr., Ph.D.</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">4 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD WIDTH="3%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="43%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="9%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="42%"></TD></TR>
+<TR>
+<TD VALIGN="bottom">&nbsp;<FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1px solid #000000;width:33pt" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Signature</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;<FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1px solid #000000;width:15pt" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Title</B></FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/<SMALL>S</SMALL>/&nbsp;&nbsp;&nbsp;&nbsp;R<SMALL>OGER</SMALL> C.
+C<SMALL>ORBETT</SMALL>*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Roger C. Corbett</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/<SMALL>S</SMALL>/&nbsp;&nbsp;&nbsp;&nbsp;D<SMALL>OUGLAS</SMALL> N.
+D<SMALL>AFT</SMALL>*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Douglas N. Daft</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Gregory B. Penner</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/<SMALL>S</SMALL>/&nbsp;&nbsp;&nbsp;&nbsp;S<SMALL>TEVEN</SMALL> S
+R<SMALL>EINEMUND</SMALL>*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Steven S Reinemund</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ROWSPAN="2"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Chairman of the Executive Committee of the Board and Director</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>H. Lee Scott, Jr.</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Arne M. Sorenson</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/<SMALL>S</SMALL>/&nbsp;&nbsp;&nbsp;&nbsp;J<SMALL>IM</SMALL> C.
+W<SMALL>ALTON</SMALL>*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Jim C. Walton</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/<SMALL>S</SMALL>/&nbsp;&nbsp;&nbsp;&nbsp;C<SMALL>HRISTOPHER</SMALL> J.
+W<SMALL>ILLIAMS</SMALL>*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Christopher J. Williams</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/<SMALL>S</SMALL>/&nbsp;&nbsp;&nbsp;&nbsp;L<SMALL>INDA</SMALL> S.
+W<SMALL>OLF</SMALL>*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Linda S. Wolf</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">*By</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/<SMALL>S</SMALL>/&nbsp;&nbsp;&nbsp;&nbsp;J<SMALL>EFFREY</SMALL> J.
+G<SMALL>EARHART&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</SMALL></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Jeffrey J. Gearhart, Attorney-in-Fact</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">5 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>INDEX TO EXHIBITS </B></FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1px solid #000000;width:28pt" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Exhibit<BR>Number</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1px solid #000000;width:75pt" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Description of Exhibit</B></FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;5.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Opinion of Andrews Kurth LLP</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">23.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Consent of Andrews Kurth LLP (contained in Exhibit 5.1 hereto)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">24.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Power of Attorney (incorporated by reference to the power of attorney appearing on the signature page of the registrant&#146;s Registration Statement on Form S-8 (Registration No.
+333-168348)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Wal-Mart Stores, Inc. Stock Incentive Plan of 2010 (incorporated by reference to Appendix A to the registrant&#146;s Proxy Statement on Schedule 14A filed with the Commission on
+April 19, 2010)</FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">6 </FONT></P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-5.1
+<SEQUENCE>2
+<FILENAME>dex51.htm
+<DESCRIPTION>OPINION OF ANDREWS KURTH LLP
+<TEXT>
+<HTML><HEAD>
+<TITLE>Opinion of Andrews Kurth LLP</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">Exhibit 5.1 </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">August&nbsp;6, 2010 </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Wal-Mart
+Stores, Inc. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">702 Southwest Eighth Street </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Bentonville, Arkansas 72716 </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">Re:</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Wal-Mart Stores, Inc. </FONT></TD></TR></TABLE>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Post-Effective Amendment No.&nbsp;1 to Registration Statements on Form S-8 relating to the Wal-Mart Stores, Inc. Stock Incentive Plan of
+2010 </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Ladies and Gentlemen: </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">We have acted as special counsel for Wal-Mart Stores, Inc., a Delaware corporation (the &#147;Company&#148;), in connection with the
+post-effective amendment of its Registration Statement on Form S-8 (Registration No. 333-60239) (the &#147;Initial Registration Statement&#148;) and of its Registration Statement on Form S-8 (Registration No. 333-60239) (the &#147;Second
+Registration Statement&#148; and together with the Initial Registration Statement, the &#147;Registration Statements&#148;). The Initial Registration Statement relates to the registration of the issue, offer and sale of a total of 80,000,000 shares
+of the common stock, $0.10 par value per share, of the Company (the &#147;Common Stock&#148;) and the Second Registration Statement relates to the registration of the issuance, offer and sale of 50,000,000 shares of the Common Stock pursuant, in
+each case, to the Wal-Mart Stores, Inc. Stock Incentive Plan of 2010 (the &#147;Plan&#148;), and awards of Shares and awards of rights to acquire shares of Common Stock made to employees of the Company and certain of its subsidiaries pursuant to the
+Plan. The Plan reflects the amendment, restatement and renaming of the Wal-Mart Stores, Inc. Stock Incentive Plan of 2005 (the &#147;2005 Plan&#148;), which itself reflected the amendment, restatement and renaming of the Wal-Mart Stores, Inc. Stock
+Incentive Plan of 1998 (the &#147;1998 Plan&#148;). The shares of Common Stock to which the Registration Statements relate are referred to herein as the &#147;Shares,&#148; and awards of Shares and awards of rights to acquire Shares outstanding
+under the Plan on the date hereof and hereafter made pursuant to the Plan are referred to herein as &#147;Awards.&#148; Certain of the Shares have not been issued by the Company. The Registration Statements are being amended by the Company by means
+of Post-Effective Amendment No. 1 to each of the Registration Statements (the &#147;Post-Effective Amendments&#148;). </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">In
+rendering the opinion expressed herein, we have examined and relied upon, without investigation or independent verification, among other things, executed originals, counterparts or copies of the Restated Certificate of Incorporation and the Amended
+and Restated Bylaws of the Company, each as amended and restated to date, the Registration Statements, the Post-Effective Amendments, certain resolutions of the Executive Committee of the Board of Directors of the Company certified to us to be true
+and correct by the Company, the 1998 Plan, the 2005 Plan, the Plan and other records and documents as we considered necessary or appropriate to enable us to express the opinion expressed herein. In all such examinations, we have assumed the
+authenticity and completeness of all documents submitted to us as originals and the conformity to authentic and complete originals of all documents submitted to us as photostatic, conformed, notarized or certified copies. As to facts material to our
+opinion, we have relied, to the extent that we deem such reliance proper and without investigation or independent verification, upon certificates of public officials and certificates of officers or other representatives of the Company. For purposes
+of rendering the opinion expressed below, we have assumed (i)&nbsp;that any conditions to the issuance of the Shares pursuant to the Plan and the Awards made thereunder have been or will be satisfied in full at the time of each issuance of Shares
+pursuant to the Plan and (ii)&nbsp;that, at the time of issuance of each of the Shares pursuant thereto, the Plan will remain in effect and will not have been amended or modified in any manner that affects adversely the validity of the Shares upon
+issuance under the terms of the Plan, and none of the Awards and the agreements, documents and instruments governing the award, offer and sale of the Shares pursuant to the Plan (collectively, the &#147;Award Documents&#148;) will contain any
+provision, inconsistent with such opinion. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Based on the foregoing and subject to the assumptions, limitations and
+qualifications set forth herein, we are of the opinion that, subject to the Post-Effective Amendments becoming effective under the Securities Act of 1933, as amended, and compliance with all other applicable securities laws, the Shares issued after
+the date on which the Post-Effective Amendments become effective that are original issuance securities, when issued in accordance with the terms of the Plan and the terms of the applicable Award Documents upon receipt by the Company of payment for
+such Shares of an amount of cash, or other legal consideration having a value, of not less than the aggregate par value of such Shares and duly registered on the Company&#146;s stock transfer records in the name or on behalf of the persons acquiring
+such Shares pursuant to the Plan and applicable Award Documents, will be validly issued, fully paid and nonassessable. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The opinion expressed above is limited to the General Corporation Law of the State of
+Delaware (including applicable provisions of the Constitution of the State of Delaware and reported judicial decisions interpreting those laws) and the applicable federal laws of the United States of America. The opinion expressed above is rendered
+as of the date hereof, and we assume no obligation to update or supplement such opinion to reflect any change of fact, circumstance or law after the date hereof. We express no legal opinion upon any matter other than that explicitly addressed above,
+and our express opinion herein contained shall not be interpreted to be an implied opinion upon any other matter. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">We hereby
+consent to the filing of this opinion as an exhibit to each of the Post-Effective Amendments. In giving this consent, we do not admit that we are included in the category of persons whose consent is required under Section&nbsp;7 of the Securities
+Act of 1933, as amended, or the rules and regulations of the Commission promulgated thereunder. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:52%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Very truly yours,
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:52%"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Andrews Kurth LLP </FONT></P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

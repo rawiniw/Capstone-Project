@@ -1,0 +1,169 @@
+<SEC-DOCUMENT>0001359804-11-000041.txt : 20110603
+<SEC-HEADER>0001359804-11-000041.hdr.sgml : 20110603
+<ACCEPTANCE-DATETIME>20110603174923
+ACCESSION NUMBER:		0001359804-11-000041
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20110603
+FILED AS OF DATE:		20110603
+DATE AS OF CHANGE:		20110603
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DRUGSTORE COM INC
+		CENTRAL INDEX KEY:			0001086467
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-DRUG STORES AND PROPRIETARY STORES [5912]
+		IRS NUMBER:				043416255
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0102
+
+	BUSINESS ADDRESS:	
+		STREET 1:		411 108TH AVE. NE
+		STREET 2:		SUITE 1400
+		CITY:			BELLEVUE
+		STATE:			WA
+		ZIP:			98004
+		BUSINESS PHONE:		4253723200
+
+	MAIL ADDRESS:	
+		STREET 1:		411 108TH AVE. NE
+		STREET 2:		SUITE 1400
+		CITY:			BELLEVUE
+		STATE:			WA
+		ZIP:			98004
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			AMAZON COM INC
+		CENTRAL INDEX KEY:			0001018724
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-CATALOG & MAIL-ORDER HOUSES [5961]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-26137
+		FILM NUMBER:		11893378
+
+	BUSINESS ADDRESS:	
+		STREET 1:		410 TERRY AVENUE NORTH
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98109
+		BUSINESS PHONE:		2062661000
+
+	MAIL ADDRESS:	
+		STREET 1:		410 TERRY AVENUE NORTH
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98109
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgar.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0303</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2011-06-03</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001086467</issuerCik>
+        <issuerName>DRUGSTORE COM INC</issuerName>
+        <issuerTradingSymbol>DSCM</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001018724</rptOwnerCik>
+            <rptOwnerName>AMAZON COM INC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>410 TERRY AVENUE NORTH</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SEATTLE</rptOwnerCity>
+            <rptOwnerState>WA</rptOwnerState>
+            <rptOwnerZipCode>98109-5210</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $.0001 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2011-06-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>12963339</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>3.80</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Amazon.com NV Investment Holdings LLC, f/k/a Amazon.com NV Investment Holdings, Inc.</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The transaction reported on this Form 4 reflects the acquisition of the Issuer by Walgreen Co. (&quot;Walgreen&quot;), which closed on June 3, 2011, pursuant to the terms of an Agreement and Plan of Merger, by and among the Issuer, Walgreen, and Dover Subsidiary, Inc., dated March 23, 2011 (the &quot;Merger Agreement&quot;).</footnote>
+        <footnote id="F2">Reflects shares disposed of in connection with the acquisition of the Issuer by Walgreen pursuant to the Merger Agreement, pursuant to which each share of Issuer Common Stock was converted into the right to receive $3.80 in cash, without interest, and all such shares of Issuer Common Stock were automatically cancelled and ceased to exist.</footnote>
+        <footnote id="F3">The shares disposed of were held of record by Amazon.com NV Investment Holdings LLC, f/k/a Amazon.com NV Investment Holdings, Inc., a wholly owned subsidiary of the Reporting Person.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Shelley Reynolds, Vice President, Worldwide Controller (Principal Accounting Officer)</signatureName>
+        <signatureDate>2011-06-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
