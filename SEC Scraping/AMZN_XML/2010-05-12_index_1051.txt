@@ -1,0 +1,290 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ JjQIrGYg8Qe+0ifZWm2FjR60guirYWrxTMr858H0OfY0N0X046ST7IUfyz/Ww7jV
+ 4R61ERvGyigq5pSKM6Pk/Q==
+
+<SEC-DOCUMENT>0001193125-10-117873.txt : 20100706
+<SEC-HEADER>0001193125-10-117873.hdr.sgml : 20100705
+<ACCEPTANCE-DATETIME>20100512203340
+<PRIVATE-TO-PUBLIC>
+ACCESSION NUMBER:		0001193125-10-117873
+CONFORMED SUBMISSION TYPE:	CORRESP
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20100512
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMAZON COM INC
+		CENTRAL INDEX KEY:			0001018724
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-CATALOG & MAIL-ORDER HOUSES [5961]
+		IRS NUMBER:				911646860
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		CORRESP
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1200 12TH AVENUE S SUITE 1200
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98144
+		BUSINESS PHONE:		2062661000
+
+	MAIL ADDRESS:	
+		STREET 1:		1200 12TH AVENUE S SUITE 1200
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98144
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>CORRESP
+<SEQUENCE>1
+<FILENAME>filename1.htm
+<TEXT>
+<HTML><HEAD>
+<TITLE>Correspondence Letter</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">May&nbsp;12, 2010 </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>CONFIDENTIAL </U></B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>FOR INFORMATION OF SEC STAFF ONLY </U></B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Via Overnight Delivery </U></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">H. Christopher
+Owings </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Assistant Director </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">United
+States Securities and Exchange Commission </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Division of Corporation Finance </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Mail Stop 3561 </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">100 F Street, N.E. </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Washington, D.C. 20549-0405 </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="9%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="84%"></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Re:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Amazon.com, Inc.</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Form 10-K for Fiscal Year Ended December 31, 2009</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Filed January 29, 2010</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Definitive Proxy Statement on Schedule 14A</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Filed April 14, 2010</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>File No. 000-22513</B></FONT></TD></TR></TABLE> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Dear Mr.&nbsp;Owings:
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">On behalf of Amazon.com, Inc., this responds to your letter of April&nbsp;27, 2010, regarding our Annual Report on Form 10-K
+for the year ended December&nbsp;31, 2009 (the &#147;2009 10-K&#148;) and Proxy Statement for our 2010 Annual Meeting of Shareholders (&#147;2010 Proxy Statement&#148;). Each of your comments is set forth below, followed by our response. </FONT></P>
+<P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Form 10-K for Fiscal Year Ended December&nbsp;31, 2009 </U></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Item&nbsp;8. Financial Statements and Supplementary Data, page 36 </U></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Note 1 - Description of Business and Accounting Policies, page 42 </U></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Leases and Asset Retirement Obligations, page 44 </U></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">1.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">It appears that you apply the guidance in FASB ASC paragraph 840-40-15-5 for build-to-suit lease arrangements to the extent you are involved in the construction of
+structural improvements or take some level of construction risk prior to commencement of a lease. Please tell us why you meet the criteria for determining whether you are the owner of the assets under construction and/or the automatic indicators of
+ownership in ASC Section&nbsp;840-40-55. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">1 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Response </U></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Under the maximum guarantee test, our required payments could exceed 90% of the total project costs related to our new Seattle, Washington
+corporate office space during the construction period. Consequently, in accordance with ASC paragraph 840-40-55-10 we have substantially all of the risks during the construction period and are therefore deemed owner. </FONT></P>
+<P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Revenue, page 47 </U></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">2.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Please tell us how you determine the expected lives of products with multiple elements accounted for as a single unit of accounting and why you believe the useful lives
+are appropriate. </FONT></TD></TR></TABLE> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Response </U></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Sales of our Kindle e-reader, which we began selling in November 2007, are the only multiple element arrangements for which we recognize
+revenue over the average estimated useful life of the product. Prior to January&nbsp;1, 2010, Kindle sales were accounted for as a single unit of accounting and recognized over the useful life of the product. These arrangements included the device,
+wireless access and delivery and software upgrades. As we had a practice of providing wireless service and periodic upgrades over the life of the device, we recognized revenue over the period we estimated the device, on average, would be in use
+(&#147;the average estimated useful life&#148;). </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The current average estimated useful life of the Kindle device is two years,
+which we evaluate on a regular basis. In making this estimate, we considered the life of similar electronic hand held devices, which are subject to rapid technological changes, and the wireless usage patterns of the Kindle devices. </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">On January&nbsp;1, 2010, we prospectively adopted ASU 2009-13 and recognize revenue related to the device, which is the substantial
+portion of the total sales price, at the time of delivery. Revenue for the wireless access and delivery and software upgrades will be recognized over the estimated useful life of the device, which we will continue to evaluate regularly. </FONT></P>
+<P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Note 4 &#151; Acquisitions, Goodwill, and Acquired Intangible Assets, pages 54-55 </U></FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">3.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Please expand your disclosure in future filings to provide all of the information required by ASC paragraphs 805-10-50-2, 805-20-50-1 and 805-30-50-1 to the extent
+applicable. For example, additional disclosures that should be provided include: </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="12%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">the primary reasons for the acquisition; </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="12%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">the amount of acquisition-related costs, the amount recognized as an expense and the line item in the income statement in which the expense is
+recognized; </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="12%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">the amounts of revenue and earnings of the acquiree since the acquisition date included in the consolidated income; </FONT></P></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="12%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">a qualitative description of the factors that make up the goodwill recognized and the total amount of goodwill that is expected to be deductible for
+tax purposes; </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="12%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">method of determining fair value of common stock issued; and </FONT></P></TD></TR></TABLE>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">2 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="12%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">amount of goodwill by reportable segment. </FONT></P></TD></TR></TABLE>
+<P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Response </U></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">We disclosed
+in Note 4 to our consolidated financial statements in our 2009 10-K that we acquired Zappos to expand our presences in softline retail categories, such as shoes and apparel.&nbsp;However, because Zappos was not a significant portion of our business
+in 2009 and we do not expect Zappos to be a significant portion of our business in the near term, we believe we have provided all the information in ASC paragraphs 805-10-50-2, 805-20-50-1 and 805-30-50-1 that is applicable and material.&nbsp;From
+the November&nbsp;1, 2009 acquisition date to December&nbsp;31, 2009, Zappos revenues represented less than 1% of our total consolidated revenues and Zappos net loss impacted our total consolidated net income by approximately 1%.&nbsp;On a pro forma
+basis for the 2009 fiscal year, Zappos revenues would have represented approximately 3% of our total consolidated revenues and Zappos net loss would have impacted our total consolidated net income by approximately 5% (a substantial portion of which
+relates to the amortization of acquired intangibles).&nbsp;For future acquisitions, we will provide all the information required by ASC paragraphs 805-10-50-2, 805-20-50-1 and 805-30-50-1 to the extent applicable. </FONT></P>
+<P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Definitive Proxy Statement on Schedule 14A </U></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">4.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">We note that you have not included any disclosure in response to Item&nbsp;402(s) of Regulation S-K. Please advise us of the basis for your conclusion that disclosure
+is not necessary and describe the process you undertook to reach that conclusion. </FONT></TD></TR></TABLE> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Response </U></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">For the 2010 Proxy Statement, the Company determined that disclosure in response to Item&nbsp;402(s) of Regulation S-K was not required.
+</FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Members of the Company&#146;s Legal and HR departments first reviewed and considered the Company&#146;s compensation programs
+and determined that, for most employees, including senior management (with the exception of the founder and CEO as noted below), compensation consists of base salaries, restricted stock unit (&#147;RSU&#148;) grants, and, for certain new hires,
+fixed cash bonuses that are paid based on continued employment.&nbsp;The Legal and HR teams concluded that these programs were not reasonably likely to have a material adverse effect on the Company, in part because employees are rewarded through
+their RSU grants which help to incent the building of long-term shareholder value.&nbsp;In addition, the Legal and HR teams reviewed and considered the fact that the founder and CEO receives a salary, which is low compared to his peers, and security
+benefits, but has never accepted bonuses or equity-based compensation. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Legal and HR teams also reviewed and considered
+programs that differ, or are in addition to, the programs described above, which are primarily cash incentive programs to certain employee groups based on the achievement of certain metrics such as order fulfillment, customer service or
+sales.&nbsp;The Legal and HR teams concluded that these programs were not reasonably likely to have a material adverse effect on the Company based on factors regarding the nature and design of these programs, including, in the case of the cash
+incentive programs, the fact that the Company&#146;s officers did not participate. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">3 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Legal and HR teams&#146; conclusions were then reviewed with outside counsel, certain
+reviewers of the draft 2010 Proxy Statement, the Company&#146;s Disclosure Committee and the Company&#146;s Leadership Development and Compensation Committee. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">If you have any questions or further comments, please contact me at (206)&nbsp;266-5598 (telephone) or (206)&nbsp;266-7010 (facsimile).
+</FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Very truly yours,</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Shelley Reynolds</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Shelley Reynolds</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Vice President, Worldwide Controller and</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Principal Accounting Officer</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Amazon.com, Inc.</FONT></TD></TR></TABLE></DIV> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">cc:</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Catherine T. Brown, Staff Attorney </FONT></TD></TR></TABLE>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Division of Corporation Finance </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Yolanda Guobadia, Staff Accountant </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Division of Corporation Finance </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">William Thompson, Branch Chief </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Division of Corporation Finance </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Audit Committee of the Amazon.com, Inc. Board of Directors </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Leadership Development and Compensation Committee of the Amazon.com, Inc. Board of Directors </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Jeffrey P. Bezos </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">President and Chief Executive Officer </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Amazon.com, Inc. </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Anthony J. Galbato </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Vice President, Human Resources </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Amazon.com, Inc. </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Thomas J. Szkutak </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Senior Vice President and Chief Financial Officer </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Amazon.com, Inc. </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">L. Michelle Wilson </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Senior Vice President, General Counsel and Secretary </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Amazon.com, Inc. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">4 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Kathleen Smith </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Partner </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Ernst &amp; Young LLP </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Ronald O. Mueller </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Partner </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Gibson, Dunn &amp; Crutcher LLP </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">5 </FONT></P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

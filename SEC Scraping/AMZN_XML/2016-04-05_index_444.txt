@@ -1,0 +1,1514 @@
+<SEC-DOCUMENT>0001193125-16-530910.txt : 20160405
+<SEC-HEADER>0001193125-16-530910.hdr.sgml : 20160405
+<ACCEPTANCE-DATETIME>20160405170837
+ACCESSION NUMBER:		0001193125-16-530910
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20160405
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20160405
+DATE AS OF CHANGE:		20160405
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMAZON COM INC
+		CENTRAL INDEX KEY:			0001018724
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-CATALOG & MAIL-ORDER HOUSES [5961]
+		IRS NUMBER:				911646860
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-22513
+		FILM NUMBER:		161555392
+
+	BUSINESS ADDRESS:	
+		STREET 1:		410 TERRY AVENUE NORTH
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98109
+		BUSINESS PHONE:		2062661000
+
+	MAIL ADDRESS:	
+		STREET 1:		410 TERRY AVENUE NORTH
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98109
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d168744d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>WASHINGTON, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM 8-K
+</B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>CURRENT REPORT </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>PURSUANT
+TO SECTION 13 OR 15(d) </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>OF THE SECURITIES EXCHANGE ACT OF 1934 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>APRIL 5, 2016 </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>DATE OF
+REPORT </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>(DATE OF EARLIEST EVENT REPORTED) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>AMAZON.COM,
+INC. </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>DELAWARE</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>000-22513</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>91-1646860</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(STATE OR OTHER JURISDICTION</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>OF INCORPORATION)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(COMMISSION</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>FILE NO.)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(IRS EMPLOYER</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>IDENTIFICATION NO.)</B></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>410 TERRY AVENUE NORTH, SEATTLE, WASHINGTON 98109-5210 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(ADDRESS OF PRINCIPAL EXECUTIVE OFFICES, INCLUDING ZIP CODE) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(206) 266-1000 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(REGISTRANT&#146;S TELEPHONE NUMBER, INCLUDING AREA CODE) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any
+of the following provisions: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </TD></TR></TABLE> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><A NAME="toc"></A>TABLE OF CONTENTS </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="98%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><B><A HREF="#tx168744_1" style="color:Blue">ITEM&nbsp;7.01. REGULATION FD DISCLOSURE.</A></B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"><B>&nbsp;</B></TD>
+<TD VALIGN="bottom" ALIGN="right"><B>3</B></TD>
+<TD NOWRAP VALIGN="bottom"><B>&nbsp;&nbsp;</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><B><A HREF="#tx168744_2" style="color:Blue">ITEM&nbsp;9.01. FINANCIAL STATEMENTS AND EXHIBITS.</A></B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"><B>&nbsp;</B></TD>
+<TD VALIGN="bottom" ALIGN="right"><B>3</B></TD>
+<TD NOWRAP VALIGN="bottom"><B>&nbsp;&nbsp;</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><B><A HREF="#tx168744_3" style="color:Blue">SIGNATURES.</A></B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"><B>&nbsp;</B></TD>
+<TD VALIGN="bottom" ALIGN="right"><B>4</B></TD>
+<TD NOWRAP VALIGN="bottom"><B>&nbsp;&nbsp;</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><B><A HREF="#tx168744_4" style="color:Blue">EXHIBIT INDEX.</A></B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"><B>&nbsp;</B></TD>
+<TD VALIGN="bottom" ALIGN="right"><B>5</B></TD>
+<TD NOWRAP VALIGN="bottom"><B>&nbsp;&nbsp;</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">EXHIBIT 99.1</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">2 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="12%" VALIGN="top" ALIGN="left"><B><A NAME="tx168744_1"></A>ITEM&nbsp;7.01.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>REGULATION FD DISCLOSURE. </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The Company&#146;s Letter to Shareholders, which accompanies
+its Annual Report for the Year Ended December&nbsp;31, 2015, is attached as Exhibit 99.1. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="12%" VALIGN="top" ALIGN="left"><B><A NAME="tx168744_2"></A>ITEM&nbsp;9.01.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>FINANCIAL STATEMENTS AND EXHIBITS. </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:2%; font-size:10pt; font-family:Times New Roman"><B><I>(d) Exhibits. </I></B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="92%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Exhibit</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1.00pt solid #000000; width:28.45pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Number</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:39.50pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Description</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP ALIGN="center">99.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">2015 Letter to Shareholders.</TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">3 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><A NAME="tx168744_3"></A>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="6%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="92%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3"><B>AMAZON.COM, INC. (REGISTRANT)</B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">By:</TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="BORDER-BOTTOM:1px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">/s/ David A. Zapolsky</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>David A. Zapolsky</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>Senior Vice President</B></TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Dated: April 5, 2016 </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">4 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><A NAME="tx168744_4"></A>EXHIBIT INDEX </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="92%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Exhibit</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1.00pt solid #000000; width:28.45pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Number</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:39.50pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Description</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP ALIGN="center">99.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">2015 Letter to Shareholders.</TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">5 </P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>d168744dex991.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-99.1</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Exhibit 99.1 </B></FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center">
+
+
+<IMG SRC="g168744g61t65.jpg" ALT="LOGO">
+ </P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">To our shareowners: </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">This year, Amazon became the fastest company ever to reach $100 billion in annual sales. Also this year, Amazon Web Services is reaching $10 billion in annual sales &#133; doing so at a pace even faster
+than Amazon achieved that milestone. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">What&#146;s going on here? Both were planted as tiny seeds and both have grown
+organically without significant acquisitions into meaningful and large businesses, quickly. Superficially, the two could hardly be more different. One serves consumers and the other serves enterprises. One is famous for brown boxes and the other for
+APIs. Is it only a coincidence that two such dissimilar offerings grew so quickly under one roof? Luck plays an outsized role in every endeavor, and I can assure you we&#146;ve had a bountiful supply. But beyond that, there is a connection between
+these two businesses. Under the surface, the two are not so different after all. They share a distinctive organizational culture that cares deeply about and acts with conviction on a small number of principles. I&#146;m talking about customer
+obsession rather than competitor obsession, eagerness to invent and pioneer, willingness to fail, the patience to think long-term, and the taking of professional pride in operational excellence. Through that lens, AWS and Amazon retail are very
+similar indeed. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">A word about corporate cultures: for better or for worse, they are enduring, stable, hard to change. They can
+be a source of advantage or disadvantage. You can write down your corporate culture, but when you do so, you&#146;re discovering it, uncovering it &#150; not creating it. It is created slowly over time by the people and by events &#150; by the
+stories of past success and failure that become a deep part of the company lore. If it&#146;s a distinctive culture, it will fit certain people like a custom-made glove. The reason cultures are so stable in time is because people self-select.
+Someone energized by competitive zeal may select and be happy in one culture, while someone who loves to pioneer and invent may choose another. The world, thankfully, is full of many high-performing, highly distinctive corporate cultures. We never
+claim that our approach is the right one &#150; just that it&#146;s ours &#150; and over the last two decades, we&#146;ve collected a large group of like-minded people. Folks who find our approach energizing and meaningful. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">One area where I think we are especially distinctive is failure. I believe we are the best place in the world to fail (we have plenty of
+practice!), and failure and invention are inseparable twins. To invent you have to experiment, and if you know in advance that it&#146;s going to work, it&#146;s not an experiment. Most large organizations embrace the idea of invention, but are not
+willing to suffer the string of failed experiments necessary to get there. Outsized returns often come from betting against conventional wisdom, and conventional wisdom is usually right. Given a ten percent chance of a 100 times payoff, you should
+take that bet every time. But you&#146;re still going to be wrong nine times out of ten. We all know that if you swing for the fences, you&#146;re going to strike out a lot, but you&#146;re also going to hit some home runs. The difference between
+baseball and business, however, is that baseball has a truncated outcome distribution. When you swing, no matter how well you connect with the ball, the most runs you can get is four. In business, every once in a while, when you step up to the
+plate, you can score 1,000 runs. This long-tailed distribution of returns is why it&#146;s important to be bold. Big winners pay for so many experiments. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">AWS, Marketplace and Prime are all examples of bold bets at Amazon that worked, and we&#146;re fortunate to have those three big pillars. They have helped us grow into a large company, and there are
+certain things that only large companies can do. With a tip of the hat to our Seattle neighbors, no matter how good an entrepreneur you are, you&#146;re not going to build an all-composite 787 in your garage startup &#150; not one you&#146;d want to
+fly in anyway. Used well, our scale enables us to build services for customers that we could otherwise never even contemplate. But also, if we&#146;re not vigilant and thoughtful, size could slow us down and diminish our inventiveness. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">As I meet with teams across Amazon, I am continually amazed at the passion, intelligence and
+creativity on display. Our teams accomplished a lot in the last year, and I&#146;d like to share a few of the highlights of our efforts to nourish and globalize our three big offerings &#150; Prime, Marketplace and AWS. And while I&#146;ll focus on
+those three, I assure you that we also remain hard at work on finding a fourth. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Prime</B> </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">We want Prime to be such a good value, you&#146;d be irresponsible not to be a member. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">We&#146;ve grown Prime two-day delivery selection from 1 million items to over 30 million, added Sunday Delivery, and introduced Free
+Same-Day Delivery on hundreds of thousands of products for customers in more than 35 cities around the world. We&#146;ve added music, photo storage, the Kindle Owners&#146; Lending Library, and streaming films and TV. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Prime Now offers members one-hour delivery on an important subset of selection, and was launched only 111 days after it was dreamed up.
+In that time, a small team built a customer-facing app, secured a location for an urban warehouse, determined which 25,000 items to sell, got those items stocked, recruited and on-boarded new staff, tested, iterated, designed new software for
+internal use &#150; both a warehouse management system and a driver-facing app &#150; and launched in time for the holidays. Today, just 15 months after that first city launch, Prime Now is serving members in more than 30 cities around the world.
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Prime Video offers exclusives from some of the world&#146;s most passionate storytellers. We want brilliant creators like
+Jill Soloway, Jason Schwartzman and Spike Lee to take risks and push boundaries. Our original series have already earned more than 120 nominations and won nearly 60 awards, including Golden Globe and Emmy awards. Many of these are stories that might
+never have been told in the traditional linear programming model. In the pipeline and coming soon are new series and movies from creators like Jeremy Clarkson, David E. Kelley, Woody Allen and Kenneth Lonergan. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>The M</I><I>an in the High Castle</I>, based on the Philip K. Dick novel, explores an alternate history where the U.S. lost World War
+II. It debuted on Prime Video on November 20th and in four weeks became our most-viewed show &#150; receiving acclaim from critics like &#147;...Amazon has the best new drama of the season in <I>The Man in the High Castle</I>&#148; and &#147;<I>The
+Man in the High Castle</I> accomplishes so much, where most new broadcast TV dramas these days don&#146;t even try.&#148; </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">These shows are great for customers, and they feed the Prime flywheel &#150; Prime members who watch Prime Video are more likely to
+convert from a free trial to a paid membership, and more likely to renew their annual subscriptions. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Finally, our first ever
+Prime Day surpassed all our expectations &#150; more new members tried Prime that day than any other day in our history. Worldwide order growth increased 266% over the same day the year before, and sellers whose products are Prime-eligible through
+FBA saw record-breaking sales &#150; with growth nearing 300%. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Prime has become an all-you-can-eat, physical-digital hybrid
+that members love. Membership grew 51% last year &#150; including 47% growth in the U.S. and even faster internationally &#150; and there are now tens of millions of members worldwide. There&#146;s a good chance you&#146;re already one of them, but
+if you&#146;re not &#150; please be responsible &#150; join Prime. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Marketplace</B> </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">We took two big swings and missed &#150; with Auctions and zShops &#150; before we launched Marketplace over 15 years ago. We learned from
+our failures and stayed stubborn on the vision, and today close to 50% of units sold on Amazon are sold by third-party sellers. Marketplace is great for customers because it adds unique selection, and it&#146;s great for sellers &#150; there are
+over 70,000 entrepreneurs with sales of more than $100,000 a year selling on </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">
+Amazon, and they&#146;ve created over 600,000 new jobs. With FBA, that flywheel spins faster because sellers&#146; inventory becomes Prime-eligible &#150; Prime becomes more valuable for members,
+and sellers sell more. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">This year, we created a new program called Seller Fulfilled Prime. We invited sellers who are able to
+meet a high bar for shipping speed and consistency in service to be part of the Prime program and ship their own orders at Prime speed directly. Those sellers have already seen a significant bump in sales, and the program has led to hundreds of
+thousands of additional items that are available to Prime customers via free two-day or next-day shipping in the U.S., U.K. and Germany. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">We also created the Amazon Lending program to help sellers grow. Since the program launched, we&#146;ve provided aggregate funding of over $1.5 billion to micro, small and medium businesses across the
+U.S., U.K. and Japan through short-term loans, with a total outstanding loan balance of about $400 million. Stephen Aarstol, surfer and owner of Tower Paddle Boards, is one beneficiary. His business has become one of the fastest-growing companies in
+San Diego, in part with a little help from Amazon Lending. Click-to-cash access to capital helps these small enterprises grow, benefits customers with greater selection, and benefits Amazon since our marketplace revenue grows along with the
+sellers&#146; sales. We hope to expand Amazon Lending and are now working on ways to partner with banks so they can use their expertise to take and manage the bulk of the credit risk. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">In addition to nourishing our big offerings, we work to globalize them. Our Marketplace creates opportunities for sellers anywhere to
+reach buyers around the world. In the past, many sellers would limit their customer base to their home country due to the practical challenges of selling internationally. To globalize Marketplace and expand the opportunities available to sellers, we
+built selling tools that empowered entrepreneurs in 172 countries to reach customers in 189 countries last year. These cross-border sales are now nearly a quarter of all third-party units sold on Amazon. To make this possible, we translated hundreds
+of millions of product listings and provided conversion services among 44 currencies. Even small and niche sellers can now tap into our global customer base and global logistics network. The end result is very different from sellers handling their
+own one-at-a-time, cross-border fulfillment. Plugable Technologies&#146; CEO, Bernie Thompson, put it this way: &#147;It really changes the paradigm when you&#146;re able to ship the goods in bulk to a warehouse in Europe or Japan and have those
+goods be fulfilled in one day or two days.&#148; </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">India is another example of how we globalize an offering like Marketplace
+through customer obsession and a passion for invention. Last year we ran a program called Amazon Chai Cart where we deployed three-wheeled mobile carts to navigate in a city&#146;s business districts, serve tea, water and lemon juice to small
+business owners and teach them about selling online. In a period of four months, the team traveled 15,280 km across 31 cities, served 37,200 cups of tea and engaged with over 10,000 sellers. Through this program and other conversations with sellers,
+we found out there was a lot of interest in selling online, but that sellers struggled with the belief that the process was time-consuming, tedious and complex. So, we invented Amazon Tatkal, which enables small businesses to get online in less than
+60 minutes. Amazon Tatkal is a specially designed studio-on-wheels offering a suite of launch services including registration, imaging and cataloguing services, as well as basic seller training mechanisms. Since its launch on February 17th, we have
+reached sellers in 25 cities. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">We&#146;re also globalizing Fulfillment by Amazon, adapting the service to local customer
+needs. In India, we launched a program called Seller Flex to combine Amazon&#146;s logistics capabilities with sellers&#146; selection at the local neighborhood level. Sellers set aside a part of their warehouse for storing items to be sold on
+Amazon, and we configure it as a fulfillment center in our network that can receive and fulfill customer orders. Our team provides guidance on warehouse layout, IT and operational infrastructure, and trains the seller on standard operating
+procedures to be followed onsite. We&#146;ve now launched 25 operational Seller Flex sites across ten cities. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Amazon Web Services</B>
+</FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Just over 10 years ago, AWS started in the U.S. with its first major service, a simple storage service. Today, AWS offers more
+than 70 services for compute, storage, databases, analytics, mobile, Internet of Things, and enterprise applications. We also offer 33 Availability Zones across 12 geographic regions worldwide, with
+</FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">
+another five regions and 11 Availability Zones in Canada, China, India, the U.S., and the U.K. to be available in the coming year. AWS started with developers and startups, and now is used by
+more than a million customers from organizations of every size across nearly every industry &#150; companies like Pinterest, Airbnb, GE, Enel, Capital One, Intuit, Johnson &amp; Johnson, Philips, Hess, Adobe, McDonald&#146;s, and Time Inc.
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">AWS is bigger than Amazon.com was at 10 years old, growing at a faster rate, and &#150; most noteworthy in my view &#150; the
+pace of innovation continues to accelerate &#150; we announced 722 significant new features and services in 2015, a 40% increase over 2014. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Many characterized AWS as a bold &#150; and unusual &#150; bet when we started. &#147;What does this have to do with selling books?&#148; We could have stuck to the knitting. I&#146;m glad we didn&#146;t.
+Or did we? Maybe the knitting has as much to do with our approach as the arena. AWS is customer obsessed, inventive and experimental, long-term oriented, and cares deeply about operational excellence. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Given 10 years and many iterations, that approach has allowed AWS to rapidly expand into the world&#146;s most comprehensive, widely
+adopted cloud service. As with our retail business, AWS is made up of many small teams with single-threaded owners, enabling rapid innovation. The team rolls out new functionality almost daily across 70 services, and that new functionality just
+&#147;shows up&#148; for customers &#150; there&#146;s no upgrading. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Many companies describe themselves as customer-focused,
+but few walk the walk. Most big technology companies are competitor focused. They see what others are doing, and then work to fast follow. In contrast, 90 to 95% of what we build in AWS is driven by what customers tell us they want. A good example
+is our new database engine, Amazon Aurora. Customers have been frustrated by the proprietary nature, high cost, and licensing terms of traditional, commercial-grade database providers. And while many companies have started moving toward more open
+engines like MySQL and Postgres, they often struggle to get the performance they need. Customers asked us if we could eliminate that inconvenient trade-off, and that&#146;s why we built Aurora. It has commercial-grade durability and availability, is
+fully compatible with MySQL, has up to 5 times better performance than the typical MySQL implementation, but is 1/10th the price of the traditional, commercial-grade database engines. This has struck a resonant chord with customers, and Aurora is
+the fastest-growing service in the history of AWS. Nearly this same story could be told about Redshift, our managed data warehouse service, which is the second fastest growing service in AWS history &#150; both small and large companies are moving
+their data warehouses to Redshift. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Our approach to pricing is also driven by our customer-centric culture &#150; we&#146;ve
+dropped prices 51 times, in many cases before there was any competitive pressure to do so. In addition to price reductions, we&#146;ve also continued to launch new lower cost services like Aurora, Redshift, QuickSight (our new Business Intelligence
+service), EC2 Container Service (our new compute container service), and Lambda (our pioneering server-less computing capability), while extending our services to offer a range of highly cost-effective options for running just about every type of
+application or IT use case imaginable. We even roll out and continuously improve services like Trusted Advisor, which alerts customers when they can save money &#150; resulting in hundreds of millions of dollars in savings for our customers.
+I&#146;m pretty sure we&#146;re the only IT vendor telling customers how to stop spending money with us. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Whether you are a
+startup founded yesterday or a business that has been around for 140 years, the cloud is providing all of us with unbelievable opportunities to reinvent our businesses, add new customer experiences, redeploy capital to fuel growth, increase
+security, and do all of this so much faster than before. MLB Advanced Media is an example of an AWS customer that is constantly reinventing the customer experience. MLB&#146;s Statcast tracking technology is a new feature for baseball fans that
+measures the position of each player, the baserunners, and the ball as they move during every play on the field, giving viewers on any screen access to empirical data that answers age-old questions like &#147;what could have happened if&#133;&#148;
+while also bringing new questions to life. Turning baseball into rocket science, Statcast uses a missile radar system to measure every pitched ball&#146;s movements more than 2,000 times per second, streams and collects data in real-time through
+Amazon Kinesis (our service for processing real-time streaming data), stores the data on Amazon S3, and then performs analytics in Amazon EC2. The suite of services will generate nearly 7 TB of raw statistical data per game and up to 17 PB per
+season, shedding quantitative light on age-old, but never verified, baseball pearls of wisdom like &#147;never slide into first.&#148; </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">About seven years ago, Netflix announced that they were going to move all their applications
+to the cloud. Netflix chose AWS because it provided them with the greatest scale and the broadest set of services and features. Netflix recently completed their cloud migration, and stories like theirs are becoming increasingly common as companies
+like Infor, Intuit, and Time Inc., have made plans to move all of their applications to AWS. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">AWS is already good enough today
+to attract more than 1 million customers, and the service is only going to get better from here. As the team continues their rapid pace of innovation, we&#146;ll offer more and more capabilities to let builders build unfettered, it will get easier
+and easier to collect, store and analyze data, we&#146;ll continue to add more geographic locations, and we&#146;ll continue to see growth in mobile and &#147;connected&#148; device applications. Over time, it&#146;s likely that most companies will
+choose not to run their own data centers, opting for the cloud instead. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Invention Machine </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">We want to be a large company that&#146;s also an invention machine. We want to combine the extraordinary customer-serving capabilities
+that are enabled by size with the speed of movement, nimbleness, and risk-acceptance mentality normally associated with entrepreneurial start-ups. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Can we do it? I&#146;m optimistic. We have a good start on it, and I think our culture puts us in a position to achieve the goal. But I don&#146;t think it&#146;ll be easy. There are some subtle traps
+that even high-performing large organizations can fall into as a matter of course, and we&#146;ll have to learn as an institution how to guard against them. One common pitfall for large organizations &#150; one that hurts speed and inventiveness
+&#150; is &#147;one-size-fits-all&#148; decision making. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Some decisions are consequential and irreversible or nearly
+irreversible &#150; one-way doors &#150; and these decisions must be made methodically, carefully, slowly, with great deliberation and consultation. If you walk through and don&#146;t like what you see on the other side, you can&#146;t get back to
+where you were before. We can call these Type 1 decisions. But most decisions aren&#146;t like that &#150; they are changeable, reversible &#150; they&#146;re two-way doors. If you&#146;ve made a suboptimal Type 2 decision, you don&#146;t have to
+live with the consequences for that long. You can reopen the door and go back through. Type 2 decisions can and should be made quickly by high judgment individuals or small groups. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">As organizations get larger, there seems to be a tendency to use the heavy-weight Type 1 decision-making <I>process</I> on most
+decisions, including many Type 2 decisions. The end result of this is slowness, unthoughtful risk aversion, failure to experiment sufficiently, and consequently diminished invention.</FONT><FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP
+STYLE="vertical-align:baseline; position:relative; bottom:.8ex">1</SUP></FONT><FONT STYLE="font-family:Times New Roman" SIZE="2"> We&#146;ll have to figure out how to fight that tendency. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">And one-size-fits-all thinking will turn out to be only one of the pitfalls. We&#146;ll work hard to avoid it&#133; and any other large
+organization maladies we can identify. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Sustainability and Social Invention</B> </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Our growth has happened fast. Twenty years ago, I was driving boxes to the post office in my Chevy Blazer and dreaming of a forklift. In
+absolute numbers (as opposed to percentages), the past few years have been especially significant. We&#146;ve grown from 30,000 employees in 2010 to more than 230,000 now. We&#146;re a bit like parents who look around one day and realize their kids
+are grown &#150; you blink and it happens. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">One thing that&#146;s exciting about our current scale is that we can put our
+inventive culture to work on moving the needle on sustainability and social issues. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Two years ago we set a long-term goal to
+use 100% renewable energy across our global AWS infrastructure. We&#146;ve since announced four significant wind and solar farms that will deliver 1.6 million megawatt hours per </FONT></P>
+<P STYLE="line-height:8px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000;width:10%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"></FONT><FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">1</SUP>&nbsp;</FONT><FONT
+STYLE="font-family:Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">The opposite situation is less interesting and there is undoubtedly some survivorship bias. Any companies that habitually use the light-weight Type 2 decision-making
+process to make Type 1 decisions go extinct before they get large. </FONT></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">
+year of additional renewable energy into the electric grids that supply AWS data centers. Amazon Wind Farm Fowler Ridge has already come online. We reached 25% sustainable energy use across AWS
+last year, are on track to reach 40% this year, and are working on goals that will cover all of Amazon&#146;s facilities around the world, including our fulfillment centers. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">We&#146;ll keep expanding our efforts in areas like packaging, where our culture of invention led to a big winner &#150; the Frustration-Free Packaging program. Seven years ago we introduced the
+initiative with 19 products. Today, there are more than 400,000 globally. In 2015, the program eliminated tens of millions of pounds of excess packaging material. Frustration-Free Packaging is a customer delighter because the packages are easier to
+open. It&#146;s good for the planet because it creates less waste. And it&#146;s good for shareholders because, with tighter packaging, we ship less &#147;air&#148; and save on transportation costs. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">We also continue to pioneer new programs for employees &#150; like Career Choice, Leave Share, and Ramp Back. Career Choice pre-pays 95%
+of tuition for courses that teach in-demand skills, regardless of whether those skills are relevant to a career at Amazon. We&#146;ll pay for nursing certifications, airplane mechanic courses, and many others. We&#146;re building classrooms with
+glass walls right in our fulfillment centers as a way to encourage employees to participate in the program and to make it easy. We see the impact through stories like Sharie Warmack &#150; a single mother of eight who worked in one of our Phoenix
+fulfillment centers. Career Choice paid for Sharie to get licensed to drive an 18-wheeler. Sharie worked hard, passed her tests, and she&#146;s now a long-haul driver for Schneider Trucking &#150; and loving it. This coming year, we&#146;re
+launching a program to teach other interested companies the benefits of Career Choice and how to implement it. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Leave Share
+and Ramp Back are programs that give new parents flexibility with their growing families. Leave Share lets employees share their Amazon paid leave with their spouse or domestic partner if their spouse&#146;s employer doesn&#146;t offer paid leave.
+Ramp Back gives birth mothers additional control over the pace at which they return to work. Just as with our health care plan, these benefits are egalitarian &#150; they&#146;re the same for our fulfillment center and customer service employees as
+they are for our most senior executives. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Renewable energy, Frustration-Free Packaging, Career Choice, Leave Share, and Ramp
+Back are examples of a culture that embraces invention and long-term thinking. It&#146;s very energizing to think that our scale provides opportunities to create impact in these areas. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">I can tell you it&#146;s a great joy for me to get to work every day with a team of such smart, imaginative, and passionate people. On
+behalf of all of us at Amazon, thank you for your support as shareholders. As always, I attach a copy of our original 1997 letter. Our approach remains the same, and it&#146;s still Day 1. </FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE">
+
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+
+
+<TR>
+<TD VALIGN="top">
+
+
+<IMG SRC="g168744g85g95.jpg" ALT="LOGO">
+</TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Jeffrey P. Bezos</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Founder and Chief Executive Officer</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Amazon.com, Inc.</FONT></TD></TR>
+</TABLE></DIV>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center">
+
+
+<IMG SRC="g168744g47c88.jpg" ALT="LOGO">
+ </P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>1997 LETTER TO
+SHAREHOLDERS </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(Reprinted from the 1997 Annual Report) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">To our shareholders: </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Amazon.com passed many milestones in 1997: by year-end, we had served more than 1.5 million customers, yielding 838% revenue growth to
+$147.8 million, and extended our market leadership despite aggressive competitive entry. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">But this is Day 1 for the Internet and, if we execute well, for Amazon.com. Today, online commerce saves customers money and precious time. Tomorrow, through personalization, online commerce will
+accelerate the very process of discovery. Amazon.com uses the Internet to create real value for its customers and, by doing so, hopes to create an enduring franchise, even in established and large markets. </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">We have a window of opportunity as larger players marshal the
+resources to pursue the online opportunity and as customers, new to purchasing online, are receptive to forming new relationships. The competitive landscape has continued to evolve at a fast pace. Many large players have moved online with credible
+offerings and have devoted substantial energy and resources to building awareness, traffic, and sales. Our goal is to move quickly to solidify and extend our current position while we begin to pursue the online commerce opportunities in other areas.
+We see substantial opportunity in the large markets we are targeting. This strategy is not without risk: it requires serious investment and crisp execution against established franchise leaders. </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:2%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>It&#146;s All About the Long Term </I></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">We believe that a fundamental measure of our success will be
+the shareholder value we create over the <I>long term</I>. This value will be a direct result of our ability to extend and solidify our current market leadership position. The stronger our market leadership, the more powerful our economic model.
+Market leadership can translate directly to higher revenue, higher profitability, greater capital velocity, and correspondingly stronger returns on invested capital. </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Our decisions have consistently reflected this focus. We
+first measure ourselves in terms of the metrics most indicative of our market leadership: customer and revenue growth, the degree to which our customers continue to purchase from us on a repeat basis, and the strength of our brand. We have invested
+and will continue to invest aggressively to expand and leverage our customer base, brand, and infrastructure as we move to establish an enduring franchise. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Because of our emphasis on the long term, we may make decisions and weigh tradeoffs differently than some companies. Accordingly, we want
+to share with you our fundamental management and decision-making approach so that you, our shareholders, may confirm that it is consistent with your investment philosophy: </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">We will continue to focus relentlessly on our customers. </FONT></P></TD></TR></TABLE>
+<P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">We will continue to make investment decisions in light of long-term market leadership considerations rather than short-term profitability
+considerations or short-term Wall Street reactions. </FONT></P></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">We will continue to measure our programs and the effectiveness of our investments analytically, to jettison those that do not provide acceptable
+returns, and to step up our investment in those that work best. We will continue to learn from both our successes and our failures. </FONT></P></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">We will make bold rather than timid investment decisions where we see a sufficient probability of gaining market leadership advantages. Some of these
+investments will pay off, others will not, and we will have learned another valuable lesson in either case. </FONT></P></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">When forced to choose between optimizing the appearance of our GAAP accounting and maximizing the present value of future cash flows, we&#146;ll take
+the cash flows. </FONT></P></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">We will share our strategic thought processes with you when we make bold choices (to the extent competitive pressures allow), so that you may evaluate
+for yourselves whether we are making rational long-term leadership investments. </FONT></P></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">We will work hard to spend wisely and maintain our lean culture. We understand the importance of continually reinforcing a cost-conscious culture,
+particularly in a business incurring net losses. </FONT></P></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">We will balance our focus on growth with emphasis on long-term profitability and capital management. At this stage, we choose to prioritize growth
+because we believe that scale is central to achieving the potential of our business model. </FONT></P></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">We will continue to focus on hiring and retaining versatile and talented employees, and continue to weight their compensation to stock options rather
+than cash. We know our success will be largely affected by our ability to attract and retain a motivated employee base, each of whom must think like, and therefore must actually be, an owner. </FONT></P></TD></TR></TABLE>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">We aren&#146;t so bold as to claim that the above is the
+&#147;right&#148; investment philosophy, but it&#146;s ours, and we would be remiss if we weren&#146;t clear in the approach we have taken and will continue to take. </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">With this foundation, we would like to turn to a review of
+our business focus, our progress in 1997, and our outlook for the future. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:2%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><I>Obsess Over Customers </I></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%;padding-bottom:0px; "><FONT
+STYLE="font-family:Times New Roman" SIZE="2">From the beginning, our focus has been on offering our customers compelling value. We realized that the Web was, and still is, the World Wide Wait. Therefore, we set out to offer customers something they
+simply could not get any other way, and began serving them with books. We brought them much more selection than was possible in a physical store (our store would now occupy 6 football fields), and presented it in a useful, easy-to-search, and
+easy-to-browse format in a store open 365 days a year, 24 hours a day. We maintained a dogged focus on improving the shopping experience, and in 1997 substantially enhanced our store. We now offer customers gift certificates, 1-Click</FONT><FONT
+STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">SM</SUP></FONT><FONT STYLE="font-family:Times New Roman" SIZE="2"> shopping, and vastly more reviews, content, browsing options, and
+recommendation features. We dramatically lowered prices, further increasing customer value. Word of mouth remains the most powerful customer acquisition tool we have, and we are grateful for the trust our customers have placed in us. Repeat
+purchases and word of mouth have combined to make Amazon.com the market leader in online bookselling. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">By many measures, Amazon.com came a long way in 1997: </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">Sales grew from $15.7 million in 1996 to $147.8 million &#150; an 838% increase. </FONT></P></TD></TR></TABLE>
+<P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">Cumulative customer accounts grew from 180,000 to 1,510,000 &#150; a 738% increase. </FONT></P></TD></TR></TABLE>
+<P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">The percentage of orders from repeat customers grew from over 46% in the fourth quarter of 1996 to over 58% in the same period in 1997.
+</FONT></P></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">In terms of audience reach, per Media Metrix, our Web site went from a rank of 90th to within the top 20. </FONT></P></TD></TR></TABLE>
+<P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">We established long-term relationships with many important strategic partners, including America Online, Yahoo!, Excite, Netscape, GeoCities,
+AltaVista, @Home, and Prodigy. </FONT></P></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:2%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>Infrastructure </I></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">During 1997, we worked hard to expand our business
+infrastructure to support these greatly increased traffic, sales, and service levels: </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">Amazon.com&#146;s employee base grew from 158 to 614, and we significantly strengthened our management team. </FONT></P></TD></TR></TABLE>
+<P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">Distribution center capacity grew from 50,000 to 285,000 square feet, including a 70% expansion of our Seattle facilities and the launch of our second
+distribution center in Delaware in November. </FONT></P></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">Inventories rose to over 200,000 titles at year-end, enabling us to improve availability for our customers. </FONT></P></TD></TR></TABLE>
+<P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">Our cash and investment balances at year-end were $125 million, thanks to our initial public offering in May 1997 and our $75 million loan, affording
+us substantial strategic flexibility. </FONT></P></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:2%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><I>Our Employees </I></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The past year&#146;s success is the product of a talented, smart, hard-working group, and I take great pride in being a part of this team. Setting the bar high in our approach to hiring has been, and will
+continue to be, the single most important element of Amazon.com&#146;s success. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">It&#146;s not easy to work here (when I interview people I tell them, &#147;You can work long, hard, or smart, but at Amazon.com you can&#146;t choose two out of three&#148;), but we are working to build
+something important, something that matters to our customers, something that we can all tell our grandchildren about. Such things aren&#146;t meant to be easy. We are incredibly fortunate to have this group of dedicated employees whose sacrifices
+and passion build Amazon.com. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:2%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>Goals for 1998
+</I></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">We are still in the early stages of learning
+how to bring new value to our customers through Internet commerce and merchandising. Our goal remains to continue to solidify and extend our brand and customer base. This requires sustained investment in systems and infrastructure to support
+outstanding customer convenience, selection, and service while we grow. We are planning to add music to our product offering, and over time we believe that other products may be prudent investments. We also believe there are significant
+opportunities to better serve our customers overseas, such as reducing delivery times and better tailoring the customer experience. To be certain, a big part of the challenge for us will lie not in finding new ways to expand our business, but in
+prioritizing our investments. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">We now know vastly
+more about online commerce than when Amazon.com was founded, but we still have so much to learn. Though we are optimistic, we must remain vigilant and maintain a sense of urgency. The challenges and hurdles we will face to make our long-term vision
+for Amazon.com a reality are several: aggressive, capable, well-funded competition; considerable growth challenges and execution risk; the risks of product and geographic expansion; and the need for large continuing investments to meet an expanding
+market opportunity. However, as we&#146;ve long said, online bookselling, and online commerce in general, should prove to be a very large market, and it&#146;s likely that a number of companies will see significant benefit. We feel good about what
+we&#146;ve done, and even more excited about what we want to do. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">1997 was indeed an incredible year. We at Amazon.com are grateful to our customers for their business and trust, to each other for our hard work, and to our shareholders for their support and
+encouragement. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:54%; text-indent:-2%">
+
+
+<IMG SRC="g168744g85g95.jpg" ALT="LOGO">
+ </P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:54%; text-indent:-2%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Jeffrey
+P. Bezos </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:54%; text-indent:-2%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Founder and Chief Executive Officer </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:54%; text-indent:-2%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Amazon.com, Inc. </FONT></P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g168744g47c88.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g168744g47c88.jpg
+M_]C_X  02D9)1@ ! @$ 8 !@  #_[0K24&AO=&]S:&]P(#,N,  X0DE- ^T
+M     !  8     $  0!@     0 !.$))300-       $    'CA"24T$&0
+M    !    !XX0DE- _,       D           $ .$))300*       !   X
+M0DE-)Q        H  0         ".$))30/U      !( "]F9@ ! &QF9@ &
+M       ! "]F9@ ! *&9F@ &       ! #(    ! %H    &       ! #4
+M   ! "T    &       !.$))30/X      !P  #_____________________
+M________ ^@     _____________________________P/H     /______
+M______________________\#Z     #_____________________________
+M ^@  #A"24T$"       $     $   )    "0      X0DE-!!X       0
+M    .$))300:      !M    !@              .@   1H    & &< .  W
+M &4 -0 U     0                         !              $:
+M.@                                             X0DE-!!$
+M  $! #A"24T$%       !     (X0DE-! P     "#4    !    <    !<
+M  %0   >,   "!D &  !_]C_X  02D9)1@ ! @$ 2 !(  #_[@ .061O8F4
+M9(     !_]L A  ," @("0@,"0D,$0L*"Q$5#PP,#Q48$Q,5$Q,8$0P,# P,
+M#!$,# P,# P,# P,# P,# P,# P,# P,# P,# P, 0T+"PT.#1 .#A 4#@X.
+M%!0.#@X.%!$,# P,#!$1# P,# P,$0P,# P,# P,# P,# P,# P,# P,# P,
+M# P,# S_P  1"  7 ' # 2(  A$! Q$!_]T !  '_\0!/P   04! 0$! 0$
+M         P ! @0%!@<("0H+ 0 !!0$! 0$! 0         !  (#! 4&!P@)
+M"@L0  $$ 0,"! (%!P8(!0,,,P$  A$#!"$2,05!46$3(G&!,@84D:&Q0B,D
+M%5+!8C,T<H+10P<EDE/PX?%C<S46HK*#)D235&1%PJ-T-A?25>)E\K.$P]-U
+MX_-&)Y2DA;25Q-3D]*6UQ=7E]59F=H:6IK;&UN;V-T=79W>'EZ>WQ]?G]Q$
+M @(! @0$ P0%!@<'!@4U 0 "$0,A,1($05%A<2(3!3*!D12AL4(CP5+1\#,D
+M8N%R@I)#4Q5C<S3Q)086HK*#!R8UPM)$DU2C%V1%539T9>+RLX3#TW7C\T:4
+MI(6TE<34Y/2EM<75Y?569G:&EJ:VQM;F]B<W1U=G=X>7I[?'_]H # ,!  (1
+M Q$ /P#J_K=9]<VY=;>AYF#T[ %.ZS(RR XW!QFD>HVYFST_3V_HO]-^D_FE
+M@#_&%UO)_P 7EG7Z6TU=1Q<IN+>XL+F/'Z-WJ5UEWZ-[F7U;_P"<_P +_(](
+M?UFZ=EM^OUN?U;HV5U[I5N,*^G54-=8RNS;6W])MVU5_IFY._P!7_3?:?\&L
+MO%^KW7L?_%IU;I%W3<D9S>HM>RIM9>; /L]3W4-JWOMK9Z+_ -*QOH_Z.QZ2
+MG7R/K?\ 7[#^L>+A7X^&[]M4[L#"W^R@O+FTNR<IK19=91LWY/I_HLC_ +3>
+MG_@[WU1^L_UJS<CK_1>H>AD]6Z6'G%L VU.L&^IE5FST=V/ZK:]K_P!'=Z>_
+MU$+KG3.IV_7CZK956)>_'QJ&#(N;6XLK(+Y;=8UNRK^VLQG1?K">J?7=^-BY
+M%+\RNP8EKJW-;:#87/9CV.;MM=;3O:STTE-VKZS_ %VZ/UWI6-UV_ S<?JU[
+M<9^-C.'J4.>YE?NVM:[=4ZW_ +L5>RROU/YNU&^MOUD^O_0/M>>:^GLZ57=L
+MQ'6$FVQKC%3&UMN:Y]VS](_V_0KML7-8?2;?4^K-G3_JSFX=G3LO&_:F796X
+M/LM#F.M<UEA]3[/^ALM]:STJ,;^9_1*_]8.H_6+(^NGV_+^KN=U'I_1['LZ9
+MC5UO;6YX(9]MLO\ LU_K-L=7Z]6S_NO[_P!'9ZR4[?5/K=]:L/I?1>GG%I9]
+M9NM[@6ND5T#>!4]]+B_])Z-C-^]_Z.RNWV?X-+H_UQZ]5F=6^K?6QCOZ[T[&
+M?D8N36#Z%I%8R&,N:/2?_A:W_HV5?HO4_FK:_P!+4^L-/U@SCT#Z[T='M9F8
+M+W-S.DRZR\4FS;4YE?I56;G-]7?^B]2KUZ7^EZ=5RCT?I/5.M_6KK7ULR,'(
+MZ?B/QGX^'CY+=E]CS2S'W>A'T/39N_XVUE=5EWIVI*:)^O/U^=]6L;ZS-KQ&
+M]/Q[?2R9@V7DV.9ZGI_X"AOZ/&V5O^T>I^G_ )G^:] ZE]8J.G_5I_7WUN<P
+M4,NKH_.<^W8W'HW,;9M]2ZVNKU-GL7 -Z-UC_P :%W3OL&3]N.1N&+Z3_6CU
+MP_=Z&WU?H^[Z"W>I4]<ZKT"SZOX_3;J,C P\+*Q,RTAM5M]7I7/P]KMNVYOI
+MOJVV?X7^?^S_ *'UDIU:^I_6KI]#NH]=HP_L%>/;DY3,8O;=CFMKK6T?I7VT
+MYSWM_1^S[*SU-_\ P?J4G_6?ZQX73L'ZP]1IQ!T?-?5]HHK]06XE&06#'RK<
+MEY<S*]/U6_::F8E/Z39Z7^$L4[NL7_6KI>7T5G2.H8-^9B6M==F4^CCU6%GZ
+M-ME[SZEGZ8L_F*++=GZ3TEEY5W4^M_5W"^IQZ5G8V2[[/B]2R;:ME%56.:SE
+M9./E;GT9/J.Q_P!5V/\ TR2G2ZE]8?K8V[KS.GTX+:^A1;ZE_J.-K'4UYC:!
+M56^OT[6U>KOR'6>G_,T^C_.Y"6/]:/K"<GH>7E8^)7TSK[FLJQZW6/R*A94,
+MBBRS)=Z5-N_W^I7]FK]+_26*=^%FN?\ 70C'M/VNIHQ?8[]*1@LIBC3]-^E_
+M1?H_\(J[NGYYZ=]2&?9K=^&[&.4W8Z:MN-Z;_M C]#M?[/TB2G__T/3,K*R:
+M7!M&';D[@3O8ZIK 1PU_K6UV>[^158LVS)^N-M?Z# P,=QX-^7;81\:J,)C?
+M_9A?."22GZ1KQ_K>]A];.Z?4XZ17B7/CSWOZA5_YZ4/V/]8WNFSZP6,$SMHQ
+M<=OR_6&9:^<4DE/T?9]7<^X1;]8.I?\ 6_LM?_GO!:JK_J58_P"E]8NM?+)8
+MW_J,9J^>DDE/T&WZC-$[NO=;>3XYKA_Y[K8F_P"8;?\ YX.N?^QSO_2:^?4D
+ME/T"/J(6DQ]8NNZ]CF _]72Y2/U+RP/T?UDZN#_+N8__ -$M7SXDDI^@3]5_
+MK36 ,3ZU9+(X]?&IO^_?L07=*_QF8IG&ZWA=1DZC,QO0 'E]B;8O!$DE/O;\
+MC_&I1J<7H^4!VJ=>PGYWO8U%Z;]8/KJ<W&Q>K?5LTU7OVV9=&36]M8_TKZ07
+M^QO_ !__ !?J6?HU\_I)*?_9 #A"24T$(0      50    $!    #P!! &0
+M;P!B &4 ( !0 &@ ;P!T &\ <P!H &\ <    !, 00!D &\ 8@!E "  4 !H
+M &\ = !O ', : !O '  (  V "X ,     $ .$))300&       '  @  0 !
+M 0#_[@ .061O8F4 9$     !_]L A  ! 0$! 0$! 0$! 0$! 0$! 0$! 0$!
+M 0$! 0$! 0$! 0$! 0$! 0$! 0$! @(" @(" @(" @(# P,# P,# P,# 0$!
+M 0$! 0$! 0$" @$" @,# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,#
+M P,# P,# P,# P,# P,# P/_P  1"  Z 1H# 1$  A$! Q$!_]T !  D_\0
+MC0   @,! 0 # 0$           H("0L'!@($!0,! 0$
+M    $   !@(! P,! P4'$0D    ! @,$!08'" D $1(3% H5(19X,1>W.#DB
+M(]6V=QBX04,DE)6U-C=7UUB(F!E9&CI1@3)"8L(S5I<1 0
+M      #_V@ , P$  A$#$0 _ 'ZI.3C82-D)F9D&,1#Q#%W)RTM)NV["-C(U
+M@W4=OI"0?.U$FK)BR:I'4554.5--,HF,(  CT%#>:ODW\+F$;!8:C)[;??\
+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
+M&%15M#MF6QCYHQ%8W=11%FI(J$1 PCZ2 $2+V(0A0!&GA2_:X<<OXO\ !_\
+M':+Z#5ZYK?V1_(U^$#.'\293H,P3XWO[;70C^4#(/Z$,H=!L==!G*_-]R&I(
+M['Z*8G\GP(T_".4\AB0[E4T:93)%[A*V!F[,3^BD^(7%0@LJ!0,HF9(HB($#
+ML&A=BS'E?Q#C''.)ZFC[>K8PH=0QY6D/332]"OTJOQ]:AD?21*5)/TXZ,3+X
+ME "AV[ ';H/>=!E\;EVY_L+\O['\;>TU%(2E[]Z@8[@X0Y45V2%;Q$MBHS%@
+M9!^W=)+1=FFXEP_>I'*8%/J2Y2"0IB>(:@_0(3_.$Q_5@J&@&5$XZ'1NQ[)G
+M+'[N6%90D_(U9*+H-CCXXC<#>BYAX:66=*&.(>2"S\H /94>P2GY<[S8LF?$
+M<P7?K<60&T6O73CDF+ [DT0;O):8<R.&O?SXI%21(#>QN2F?H"4H$,@Y()>Y
+M1 >@LS^+C^PHT9_UF?Z8>P70+ _-Y_6GT?\ P_Y"_2*AT&CYT&:)H]_UH]U_
+M%_R$_P!'+9;H-+OH/__2FG\UB<N#'CTUNA(<) E0GMLXLUR5:JF!D=>*Q9D1
+MS664F@5 _FFL\6762.*A"D5;@'8PG#Q"L+X4]PU.KN7-N(?(,IC6%VSM4;BR
+M(P6K;5F#.]SV.1"\N\G5S&+N3.45C*3+2$<3#)@)7;I))H<Y54F_=$.<_-&V
+M.P;ES9O5#$F,,G5.^9!U\I^:(;--?JTFE,J8YL%MG\?+0U9LKUEZL<RM'I5M
+MV9U&^L+UB!"^Y32%1,#!>S\-"8BW_$]>8QF_:N)&#W%RTA,,4E2F=1RK['F&
+MY!D#I#OZB17;-<JB9A#Q.'< $1*8 !'[Y%$,S@>:G?UBQ%845\K5V9.*YRJ'
+M]Y8\64"PR %,4A !$K^45!,O;N5/Q 1$0[B&LCQ[?J"Z/?A UI_0Q2N@Q1=L
+M/UIME?Y?\R?I%L?0;77(3^H+O#^$#9;]#%UZ#'%XG?VIO&G^/_3?^D5CGH&T
+M_G(+S0W?C?:K"^"NEJNT:\>4Z:I8T\T:7P.G,"W5$@(K/DV)&/K% PF33,D(
+M@ '#R"=OPR++JK&:&YQBZU,8_C=H"9KM%ESP@^<P['(Y\81%>J;?'$P\5="E
+M,N,3P1'SX&R@&-&L9AW("/IK.%!4!8OY56RV!=HN4]U;M><J5',%2H^ L=XK
+ML=KHT@,U6&]\JELR0\L$'&V!%((BPEC4)QKY.XY9TQ,=02$6,<BA2@_MP&Y*
+MH37@YT?R*^M4/&46DX LQK?;)=R$1!UM'%]ROD)D!Y,/Y,K1%C'U21K#\CMR
+MH((%(U.H!Q3['$,[#Y O+O8>5#<.7;T.?D$M1,&RDC3=>*V+F181UF(D*;*Q
+M9FGHMZNBT"P7Z10449**MVZ[" !HT4#U2.%%0:DX+-Y."CB?TN@,:36^>)9G
+M9+*:S3(FS%XB\>9J70>79PU%.(Q] 28XO.Y=4G%D0M]-9F\_1?/S/Y,B3<9
+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
+M_LO@C-ME@Z\OEH9^:@,4Y2JM[F8F#"2QPQCAF)&.@5$6WN%T4?6.7S.0O<P
+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
+MUFHCXF*L"Y/(1$ +V #"'D[+\C+EM<NBC2/C9;QM8LJCGTW-E@-EY=U(M3*
+M,>Z*A$:=Q#>,4.W#R52!9Z7R-V*J(%\C!_-'G,Y^+>[B@I/Q\LIP#:19BJ"5
+M]0S,Q5]4J:SH3NGL[1<?MX+NW(!0;O$RK"J'CW\SE3Z#^<WR\?)G<*H#6^#*
+MN1*!4S Y3FQOM@555$W<AT%F&2*R1NF4GV"4R:HB/V^0?DZ#P\YRT_*P<)(!
+M6^%[$D2N50PN5)S'V6["DLD)>Q"((L-E:P=NH4_VB8RBH"'V>(?EZ#RMRWH^
+M9#=V\(YK?''@;%B;=%RNN6FU.G*.)HD@1DHU+-M,K[57YTP6BRH']--L1@H!
+MG"A7!5!*F"0<2NVW7S1VD>T/_-99P/D\ ON:3A[7.VR"W[RJ/H.V07&Z^V9_
+M9Y>K[=+]V!2^I]OB8.9_SR?FC?Y \@?[+^NG\#= ?SR?FC?Y \@?[+^NG\#=
+M!YBQ<@_S*:"5M+SVM>9YQFW<%65C:[I!CR^&>IM561EFCEAC:E2\\5NZ*[*0
+M11%)4Q/4%,X"DH9,/UX;G[^45BV*+'Y#XOY"T.Y20>/8V=RGQX;B5F5%LDVC
+MT%HF-1I-TQQ".H]@KV6$QF:SHJCLP'6%,42)A\7ORA^?NBJI/LG\7^+8:$4:
+MOUR@]U+W2HRJI6":2CITE*V',DNT%K'D6*9Q_8Y@*4Y>YB=P$0^I!_,8Y(6Y
+M' 67CKQ%+',9,6AH.,SQ7B($ #^L5P1_(V<71CB)?$2F1 @ /<#=P$ ^I"?.
+M V(0=*'L>AF%Y5B+<Y4F\)E^\0#HCH5$A(LH\?U>RHJMRH@<HI @0QC&*;U
+M HE,'9J7\Y _=5'(G&^40$RRB$C2]HQ*)2>#<K=HK"SF!S <WF"ICN ?E#L)
+M"@C]@G$.VQ'S?]<UF93SVA^:XV0]10#-8C+=%FV8) (>D<K][7*^N90X?^(O
+MM@ O]0QN@[E!_-?XWG!W(676C=V)(4J8M#0=4P/83KG$3^L5R1_GJL U*0 +
+MXB4RPG$1[@7L B$AJK\PCA\L,NG&R[[9NBLU$S'-8+5A%N\B$3 =,@)*(TBZ
+M7*>%0Y3B8!(R.3Q(/<P#X@8)AUCY+W"!;?$(W>ZKL3F<-VHDL^(-BJ=X+.?'
+MP\E+9B"&0%NF)NRBY3BW2[")C@ =^@D_COFAXF\I/AC*AR':F#("H"*#*TYE
+MJ./G+U<QVZ9&\:E?Y"L'E'"IW1 (FV!4Y^QO$!\#^(35I&Q&O^38YK,8WSGA
+MW(,2^?'C&4I2,FTJUQSR235(@>/:O8&;?MG#XBRA2"D0PJ 8P!V[B'0=BZ Z
+M Z Z#__5?XZ"B-]RB<DMQF!88 X(]G;/%*V*8A&5BV&V.P1JPR49P[KT#SKR
+M.L"5]GHZ-=I(+JMS&:&!T0$00%4RP 0/ V2\_)TS!(&4QG@;BIT^K(1\<O\
+M3LX9;S?GB^#(*%.+]NA9<2U_[G'32!P4!1/"$ JJ!A(\5(<.X<KE="/DF9;<
+MND,C\U&!\'U^33!-S"Z\:D4Z<&*["5B8\-8+-5*+?/4<L%E7!A/-D]-V!"I^
+M( 55,/\ :]P%;F7&554VF^0'R9Y-K3R+F&$I7, V=]JVC)'E/9MBD=)$R%F"
+MMN(<(MNHBNS6B5@7.J90BB(&535#[+KXH_&C:'$>OE[(V\.?/IB+%%NGF+9U
+M_/$#V1U3G.4\%4JTX;&>^X6!0$#I$("ZGHE2$W?H)-4;XV'"1CXPJ0VB%+EE
+MSIE(LK><EYUR,54P)%2.L#2^92L4>V44[>0@@BD0#B(E*7H)$U3A0XCJ:+,8
+MCCEU">"Q,Y,C]Z\)4N]@<79%B*@\+>(VPA(%("YO2!QZH(B!13 HD()0D92=
+M ]$L:,W<?CG2K4F@,'ZR;A^QI.N&':JS>N$BG*DN[;05-8(N5DRJ& ICE,8
+M,/8?MZ"0-4QOCNB%3)1Z%2Z:1%F:.1)5*M!UXJ4>=5-<S%,L0Q9@1F9=$AQ2
+M#L03D >W< Z#VG0'0'0'0'0'0'0'0'0'0'0'0'0'0>'LF,<;7$ST]NQ[1[4>
+M2;@TD3V2IP,X:0:@D" -GII-@Z%TW! H$\%/(O@';MVZ".EVX\- ,EJM%\CZ
+M,Z>9 78)^DQ6NVLN%;6JR2 RIP2:*3M)?G;)@=<X^)! .YS#_5'H([VOA$XB
+M;D90\OQT:F,Q5>%?&"J8@K%$*"Q4E$0(F2CM*\1%F)%1$6Y *W$X 82>12B
+M1FMGQDN#RX.'+Q_HS"Q3U=%RD1>IYKV1J#=J=R=97W#:'K>8HV ]9NJL(I H
+MT43*4I2>(IE G00TMOPYN(BQ^O\ 1Y#;&@^JU]NG]TLT5IY[97UE5??(??O&
+M-U\G7@H"?93U$? A1]/S\C&"OS(_P=\/RDS)KXBY"\E4>OJR158>,R/K[5\J
+M3+"'!N8IF,G.UG*6'&4M)"Z$#@[2CF20)@)/;B(^H 0UNWPAMIV";T<<[P:_
+MVI5-,@QQ+MCS(M 3=*B;]\(]4@E\E&CTR%^TIDRN1,/V"4/R]!"3(?P\>7^E
+M*G3K9-7,ND*S!R5QCS-DE&I*+";Q^G$+EB@XP7!X ?;Y&(5OV_KO?[.@C\OQ
+M#_)&UN3-*U?"FZM4^[DLHDS7P;GI&S2#:0424:'?P;+#66IR7616;)"07;5$
+MR?IB4#' ! !#Z:^['R:=449-S=<B\I-(95@JBDO)9XH69+G%1R#1O(O%'<A*
+MYLI]HCE&/LE%E_745.BH@F14#&322,0+=>#3Y&?+)LER X'U=SY-1>V>-\QV
+M12M6T[?$./:/=L95[Z>X5=9+8SN(JC2XLD'3%$DW<H$NS>)N&15$B*(N%$E2
+MAHW]!__6?XZ Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z
+MZ Z Z Z Z Z Z Z Z#C]/_QCWW_$_P#UK_ __&/_ /*3_#W_ -G_ *^W0=@Z
+##__9
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>g168744g61t65.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g168744g61t65.jpg
+M_]C_X  02D9)1@ ! @$ 8 !@  #_[0I$4&AO=&]S:&]P(#,N,  X0DE- ^T
+M     !  8     $  0!@     0 !.$))300-       $    'CA"24T$&0
+M    !    !XX0DE- _,       D           $ .$))300*       !   X
+M0DE-)Q        H  0         ".$))30/U      !( "]F9@ ! &QF9@ &
+M       ! "]F9@ ! *&9F@ &       ! #(    ! %H    &       ! #4
+M   ! "T    &       !.$))30/X      !P  #_____________________
+M________ ^@     _____________________________P/H     /______
+M______________________\#Z     #_____________________________
+M ^@  #A"24T$"       $     $   )    "0      X0DE-!!X       0
+M    .$))300:      !M    !@              -0   1$    & &< -@ Q
+M '0 -@ U     0                         !              $1
+M-0                                             X0DE-!!$
+M  $! #A"24T$%       !     (X0DE-! P     !Z@    !    <    !8
+M  %0   <X   !XP &  !_]C_X  02D9)1@ ! @$ 2 !(  #_[@ .061O8F4
+M9(     !_]L A  ," @("0@,"0D,$0L*"Q$5#PP,#Q48$Q,5$Q,8$0P,# P,
+M#!$,# P,# P,# P,# P,# P,# P,# P,# P,# P, 0T+"PT.#1 .#A 4#@X.
+M%!0.#@X.%!$,# P,#!$1# P,# P,$0P,# P,# P,# P,# P,# P,# P,# P,
+M# P,# S_P  1"  6 ' # 2(  A$! Q$!_]T !  '_\0!/P   04! 0$! 0$
+M         P ! @0%!@<("0H+ 0 !!0$! 0$! 0         !  (#! 4&!P@)
+M"@L0  $$ 0,"! (%!P8(!0,,,P$  A$#!"$2,05!46$3(G&!,@84D:&Q0B,D
+M%5+!8C,T<H+10P<EDE/PX?%C<S46HK*#)D235&1%PJ-T-A?25>)E\K.$P]-U
+MX_-&)Y2DA;25Q-3D]*6UQ=7E]59F=H:6IK;&UN;V-T=79W>'EZ>WQ]?G]Q$
+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
+M4DE/U4DOE5))3__9.$))300A      !5     0$    / $$ 9 !O &( 90 @
+M %  : !O '0 ;P!S &@ ;P!P    $P!! &0 ;P!B &4 ( !0 &@ ;P!T &\
+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
+M?OU)VZ;<ZU:%]P9IM=SOQ8;_ !<P^:MYC49/,LVIK!P?TGF)Y[H]9L\DU;
+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
+$T'__V0$!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>5
+<FILENAME>g168744g85g95.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g168744g85g95.jpg
+M_]C_X  02D9)1@ ! @$ 8 !@  #_[0M,4&AO=&]S:&]P(#,N,  X0DE- ^T
+M     !  8     $  0!@     0 !.$))300-       $    'CA"24T$&0
+M    !    !XX0DE- _,       D           $ .$))300*       !   X
+M0DE-)Q        H  0         ".$))30/U      !( "]F9@ ! &QF9@ &
+M       ! "]F9@ ! *&9F@ &       ! #(    ! %H    &       ! #4
+M   ! "T    &       !.$))30/X      !P  #_____________________
+M________ ^@     _____________________________P/H     /______
+M______________________\#Z     #_____________________________
+M ^@  #A"24T$"       $     $   )    "0      X0DE-!!X       0
+M    .$))300:      !M    !@              /@   +     & &< .  U
+M &< .0 U     0                         !              "P
+M/@                                             X0DE-!!$
+M  $! #A"24T$%       !     (X0DE-! P     "+     !    <    "<
+M  %0   S,   ")0 &  !_]C_X  02D9)1@ ! @$ 2 !(  #_[@ .061O8F4
+M9(     !_]L A  ," @("0@,"0D,$0L*"Q$5#PP,#Q48$Q,5$Q,8$0P,# P,
+M#!$,# P,# P,# P,# P,# P,# P,# P,# P,# P, 0T+"PT.#1 .#A 4#@X.
+M%!0.#@X.%!$,# P,#!$1# P,# P,$0P,# P,# P,# P,# P,# P,# P,# P,
+M# P,# S_P  1"  G ' # 2(  A$! Q$!_]T !  '_\0!/P   04! 0$! 0$
+M         P ! @0%!@<("0H+ 0 !!0$! 0$! 0         !  (#! 4&!P@)
+M"@L0  $$ 0,"! (%!P8(!0,,,P$  A$#!"$2,05!46$3(G&!,@84D:&Q0B,D
+M%5+!8C,T<H+10P<EDE/PX?%C<S46HK*#)D235&1%PJ-T-A?25>)E\K.$P]-U
+MX_-&)Y2DA;25Q-3D]*6UQ=7E]59F=H:6IK;&UN;V-T=79W>'EZ>WQ]?G]Q$
+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
+MRJDDI__9.$))300A      !5     0$    / $$ 9 !O &( 90 @ %  : !O
+M '0 ;P!S &@ ;P!P    $P!! &0 ;P!B &4 ( !0 &@ ;P!T &\ <P!H &\
+M<  @ #8 +@ P     0 X0DE-! 8       < "  !  $! /_N  Y!9&]B90!D
+M0     '_VP"$  $! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$!
+M 0$! 0$! 0$" @(" @(" @(" @,# P,# P,# P,! 0$! 0$! 0$! 0(" 0("
+M P,# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,#
+M P,# __  !$( #X L ,!$0 "$0$#$0'_W0 $ !;_Q !K  $  @(# 0
+M        " D'"@,%!@0! 0                     0   & @(" @( !@,!
+M      (#! 4&!P$(  D1$Q(4(14Q(B,6%PIA,B1"$0$
+M    _]H # ,!  (1 Q$ /P#848=V;E@G?)9^J$^EQRS52W*)KB-5$V.&4.$,
+M'VN8(.MMD^--ZD:),K0_Y5I](_K@E"4'EK%<>P$D(3 &!R%\G <!P' <#$EW
+MWW2FM5=/-M[ 6I!*<K2/^L+K-;#DC9%V%.H/"9E*WE+'100%:[+\E""F1D8-
+M5*1X^!18Q?C@5PL_=7JM.LY5TI3N_>PL9 (@P<ZI;K^VNDL%RV*2,*4[XDDK
+MK6,?0NK0J3>3$YB/[ UA6/FG <#(19"P77392D]L*P;K@H.=()Y!U[BZL*I2
+M4B=61]C,JCZGZ4DA,XB$B0M,L@DYC*[^BXLSNB1.2(S.,&DA^0<Y#.G <!P'
+M <!P' <!P' <!P' _]"XCL.:S&2\.R:Y8HPKWVU-(8CU4=F\+:$:D:55)&V@
+MI?M6W6='4>,*/:-%)Z.KZ6L"LU.$HSX/7K'DP/@L0;)D,ET?L"'Q2>1)Q*=X
+MK-HVQ2Z,NQ'GT.D?DC6E>69Q)\_GU+6Y:6:'_@7 @GVE;5V-IAJ ]WM5".(.
+M,U;[FU@@21#-4ZM>U*F:W-DJJJV6E)6M Y,ZQQ>?[2ERX20(%)?US<84BP8
+M@10P[+M V\E6A^DMI[4PY@B\G=JRE5#)%C/,OVV(^9%K$V&JFK9PM4F,JYN7
+MIUC1"YLX+$9WMR20L(*,.+.)"828$_N!CNW;3AE'559%SV*X'M4!JB"RNQ9F
+MXI$"MU6I(S#6-;('HUO:6\I0XN[C^O;S,)TB8LQ0J/R$HH C!A#D*U=>M#@7
+M794>WX[ HH"?[1.(%SQ2U)2UU-D]2:,UY( &Y8:R@D+&6FAK[=1,?/(S,YJK
+M0JG!4_\ O):SDS:20$T)S6YM)4-)6QK72,Y=G0NR-L)O,8)3L=961<^*G-?
+M*_>['F#V[EMX33VB*1YC9RRECB( R$JEP28.]91@SBPK9ZLPNDOV\[J+L;DP
+MVNKIKOK'JOA;<D)RDCSC+=<=?:UJBW9FT$!QA,J6R2:(,IW-:7\OLN#:8$8L
+MC)%@(6ZV19];4Y#7JQ;<L"%5? (VF$LD$WL*4,D-B3(D $0A*'612)<W-* K
+M& Y_)IP<9\?C@5>*>XNH[.<1,&B6O>T78>ZYR:5B7:\UNFBVO2-4F4D)U*5P
+MV@OEZJ>D59I/V09^+.ZO!F?EY^& @-$6'>HMI.V)];AN;7U/U?%O2!0H$Q6C
+MV.01IDZLHHS $Z)"16.O-O1;#FK!G(O_ $/!"8H/\31"_EX$D=.MO1;0H[?B
+MTSJ>0T#L!KG8*"L+]I&1R>+SP<)DS]"HW9$2<&"PH0J5Q6:Q.8P.7-[B@5D_
+M55@":,E6C2GEB+X$SN X#@. X#@. X#@?__1VLY]&VPWM/3P^4-I9T)VQZS;
+M.@C^6>(LI-)S-<K\BP1QP9@@%&F+$\7W"=CBRP#-$).:H'\2PE9$,/JZ;I%*
+M'3KDUXA\Y.-.FM AL_4V4?:/&J<0N.HMQ6!K2G,=E!@0#/=EK15B92H,^(<&
+MF'Y'C& BQP,-?[!"H35U5WA)P8,$.%VUI?- EEXQGV@C.[6N[F> >/&3<@PF
+M(&+P7G!F<AQX\_\ 7(<7^Q$TG._3'O3A.(0366"0&9!^.#<X,Q KJK.;"),"
+M487\R% (_D!@1Y$2( LX-",O(@""YQ$K)7HTBY,84<G6IB%:<X@T!Y)I*@H!
+MQ1A)Q><EG%# /&0B#GP+&?./QP(L;UTO*MB--]EJ5@9J$N>V#3LV9H#AU-P0
+MSJ)X6SGN$+0OAP@F!+87&3HDA"X60B\)##/QG^&0R)KE>T1V8I*N[OA1+B@9
+MYXQ!6JX\^)Q(I-"90VJE+)-J\F#88$)S/-:[F+8N9'E$9@)B-S0'DBQ@0,\#
+M7P[*K1O)Q[K-6*$UQBJ]\V"4];VPY.OTY4),KX%KC-]C;FAT!G>S%G -3JDZ
+M:+U555/N*E(EP6,<C?A-[-_)E: 80FW()FBZTJDUQZW=$:U*V%W#GD:>WB$1
+MJ:.K\BC*)$8]GNEU;G[>V W$OKK%(0\V ]K5RHT9@G.52-;^H9\&'_+*<,IU
+MYU5U0\3YLOO=R<2W?S8=$)"YL[Q?I38JH2G7T"<G#@#6W6%O3 JFJFP:@@O)
+M"U8G?I7@!6,GO1YAAXS0E!J-ME7&W\1M&8U+'I2U0.J[]M;75JD,@;VIN9K$
+M<*4=DL3E$VKK#6Z.7W:Z'+2ES6@4J I#SS6L\7H 7ZQ##!V_.^Y>K9,'I.D8
+M83?^]6PBC]#K;K>WK5I&5XQKT;8]V];3PUH'05=4/61*W+@]O*T)!:@"821,
+M9@X8S" ]=UTZ9J-)==BH',)J*U[[LV;RV^-I;J.*-(46_L39ZLESG\N*3G )
+M$B8$(4R5G94V"B,$,K6E"(L)OLSD)X<#P,-M>KK%=YS'Z^LF SI^K"1BAUE,
+MD-F,=D[O7DN"G"K%%IRVLCBN61*1A2#";E"O G58+S@7P\9\\#WW <!P' <!
+MP,#AVAUT,OX.JQ-UULJV/S$EL[.I-'+&E98R&(M_Z[*E]=8PE4'.+0CR4[)S
+M2OM )&>09[2@C+"(6 __TML[=@X<#VEZOKH+P>-*5M!8NMLG 041_3BVR&N%
+MJG-JLY0:: T!!=O5/$"1%E@'DSWX%GQ@OSP(]T!;8=3JS[NG5MC14Q>M3-JM
+MH=DVVMV E6W.\N;+.U=JG<]"C3HE!6505,VFL^>VX"LLL1*Q>G4&D_/'G@42
+M[\[][+6[_KK2ZQ+ZD]?W%8^Q.[3O75.36FX&KB,8L*@=:MA7"T%-M,\54J)
+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
+M4[*K!2,Z]PB5GQ_4FHM85+C;FM6N+1)42/\ M^8QECD\3*D<R,1@+1O\E?'
+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
+8GZO7X^/Q_'C^' Y> X#@. X#@. X'__9
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

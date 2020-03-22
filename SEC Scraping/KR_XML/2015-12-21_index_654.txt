@@ -1,0 +1,202 @@
+<SEC-DOCUMENT>0001104659-15-086112.txt : 20151221
+<SEC-HEADER>0001104659-15-086112.hdr.sgml : 20151221
+<ACCEPTANCE-DATETIME>20151221205454
+ACCESSION NUMBER:		0001104659-15-086112
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20151218
+FILED AS OF DATE:		20151221
+DATE AS OF CHANGE:		20151221
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Roundy's, Inc.
+		CENTRAL INDEX KEY:			0001536035
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-GROCERY STORES [5411]
+		IRS NUMBER:				272337996
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0103
+
+	BUSINESS ADDRESS:	
+		STREET 1:		875 EAST WISCONSIN AVENUE
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53202
+		BUSINESS PHONE:		414-231-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		875 EAST WISCONSIN AVENUE
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53202
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Roundy's Parent Company, Inc.
+		DATE OF NAME CHANGE:	20111130
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			KROGER CO
+		CENTRAL INDEX KEY:			0000056873
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-GROCERY STORES [5411]
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0203
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35422
+		FILM NUMBER:		151300604
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1014 VINE ST
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45201
+		BUSINESS PHONE:		5137624000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>a4.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2015-12-18</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001536035</issuerCik>
+        <issuerName>Roundy's, Inc.</issuerName>
+        <issuerTradingSymbol>RNDY</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000056873</rptOwnerCik>
+            <rptOwnerName>KROGER CO</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1014 VINE STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CINCINNATI</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>45202-1100</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2015-12-18</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>34553170</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>3.60</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1000</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F3"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2015-12-18</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>14813987</value>
+                    <footnoteId id="F4"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>3.60</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1000</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares of Common Stock, par value $0.01 per share (the &quot;Shares&quot;), of Roundy's, Inc. (&quot;Roundy's&quot;) acquired pursuant to the tender offer effected pursuant to the Agreement and Plan of Merger, dated as of November 10, 2015 (the &quot;Merger Agreement&quot;), by and among The Kroger Co. (&quot;Kroger&quot;), KS Merger Sub Inc., a wholly owned subsidiary of Kroger (&quot;Acquisition Corp.&quot;), and Roundy's (such tender offer, the &quot;Offer&quot;). Prior to the Merger (as defined below), Kroger beneficially owned 2,361,582 Shares (approximately 4.78%).</footnote>
+        <footnote id="F2">Following the consummation of the Offer, Acquisition Corp. was merged with and into Roundy's, and Roundy's survived the Merger as a wholly-owned subsidiary of Kroger pursuant to a &quot;back-end merger&quot; under Delaware law (the &quot;Merger&quot;). Prior to the Merger, Kroger held 1,000 shares of Acquisition Corp., which represented all of the issued and outstanding capital stock of Acquisition Corp. At the effective time of the Merger, each share of Acquisition Corp. was converted into a share of the surviving company's stock, and all previously outstanding Shares held by Kroger were cancelled.</footnote>
+        <footnote id="F3">Prior to the Merger, Shares were held by Acquisition Corp. As Acquisition Corp was a wholly owned subsidiary of Kroger, Kroger acquired beneficial ownership of the Shares.</footnote>
+        <footnote id="F4">Reflects all of the outstanding Shares not tendered in the Offer, which may be deemed to have been acquired by Kroger and Acquisition Corp. pursuant to the consummation of the Merger. Pursuant to the Merger, Kroger now beneficially owns all outstanding Shares.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Christine S. Wheatley</signatureName>
+        <signatureDate>2015-12-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

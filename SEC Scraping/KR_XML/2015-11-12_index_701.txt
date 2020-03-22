@@ -1,0 +1,139 @@
+<SEC-DOCUMENT>0001140361-15-040894.txt : 20151112
+<SEC-HEADER>0001140361-15-040894.hdr.sgml : 20151112
+<ACCEPTANCE-DATETIME>20151112170216
+ACCESSION NUMBER:		0001140361-15-040894
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20151110
+FILED AS OF DATE:		20151112
+DATE AS OF CHANGE:		20151112
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Roundy's, Inc.
+		CENTRAL INDEX KEY:			0001536035
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-GROCERY STORES [5411]
+		IRS NUMBER:				272337996
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		875 EAST WISCONSIN AVENUE
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53202
+		BUSINESS PHONE:		414-231-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		875 EAST WISCONSIN AVENUE
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53202
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Roundy's Parent Company, Inc.
+		DATE OF NAME CHANGE:	20111130
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			KROGER CO
+		CENTRAL INDEX KEY:			0000056873
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-GROCERY STORES [5411]
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0203
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35422
+		FILM NUMBER:		151225682
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1014 VINE ST
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45201
+		BUSINESS PHONE:		5137624000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc1.xml
+<DESCRIPTION>FORM 3
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2015-11-10</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001536035</issuerCik>
+        <issuerName>Roundy's, Inc.</issuerName>
+        <issuerTradingSymbol>RNDY</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000056873</rptOwnerCik>
+            <rptOwnerName>KROGER CO</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1014 VINE ST</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CINCINNATI</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>45202</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <officerTitle></officerTitle>
+            <otherText>Please see the below Remarks</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common stock, par value $0.01 per share</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2361582</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes></footnotes>
+
+    <remarks>Pursuant to an Agreement and Plan of Merger (the &quot;Merger Agreement&quot;), dated as of November 10, 2015, by and among The Kroger Co. (&quot;Kroger&quot;), KS Merger Sub Inc. and Roundy's, Inc. (&quot;Roundy's&quot;), Kroger entered into a Tender and Support Agreement with Willis Stein &amp; Partners III Sub, L.P., Willis Stein &amp; Partners Dutch III-A Sub, L.P., Willis Stein &amp; Partners Dutch III-B Sub, L.P. and Willis Stein &amp; Partners III-C Sub, L.P. (collectively, the &quot;Stockholders&quot;), pursuant to which, among other things, the Stockholders agreed to tender their shares of Roundy's in the Offer by Kroger for all of the outstanding shares of common stock of Roundy's contemplated by the Merger Agreement.  Collectively, the Stockholders beneficially own 3,564,657 shares of Roundy's, which, together with the shares of Roundy's beneficially owned by Kroger, constitute more than 10% of the outstanding shares of Roundy's.  Neither the filing of this Form 3 nor any of its contents shall be deemed to constitute an admission by Kroger that it is the beneficial owner of any of the common stock of Roundy's referenced in this paragraph for purposes of the Exchange Act, or for any other purpose, and such beneficial ownership is expressly disclaimed.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Christine S. Wheatley on behalf of The Kroger Co.</signatureName>
+        <signatureDate>2015-11-12</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

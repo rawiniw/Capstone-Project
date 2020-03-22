@@ -1,0 +1,267 @@
+<SEC-DOCUMENT>0001225208-13-007748.txt : 20130315
+<SEC-HEADER>0001225208-13-007748.hdr.sgml : 20130315
+<ACCEPTANCE-DATETIME>20130315140808
+ACCESSION NUMBER:		0001225208-13-007748
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20130313
+FILED AS OF DATE:		20130315
+DATE AS OF CHANGE:		20130315
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Scully Terrence J
+		CENTRAL INDEX KEY:			0001290221
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06049
+		FILM NUMBER:		13693388
+
+	MAIL ADDRESS:	
+		STREET 1:		3701 WAYZATA BLVD
+		STREET 2:		TFS-4AO
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55416
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TARGET CORP
+		CENTRAL INDEX KEY:			0000027419
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				410215170
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			0131
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1000 NICOLLET MALL
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55403
+		BUSINESS PHONE:		6123046073
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 NICOLLET MALL
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55403
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DAYTON HUDSON CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DAYTON CORP
+		DATE OF NAME CHANGE:	19690728
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2013-03-13</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000027419</issuerCik>
+        <issuerName>TARGET CORP</issuerName>
+        <issuerTradingSymbol>TGT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001290221</rptOwnerCik>
+            <rptOwnerName>Scully Terrence J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1000 NICOLLET MALL</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MINNEAPOLIS</rptOwnerCity>
+            <rptOwnerState>MN</rptOwnerState>
+            <rptOwnerZipCode>55403</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2013-03-13</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10216.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.0000</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>37818.0000</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2013-03-13</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F3"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4925.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>67.0400</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>32893.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>30543.4993</value>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By 401(k) Plan</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Acquired pursuant to the settlement of a performance share unit award granted under Target's Long-Term Incentive Plan.</footnote>
+        <footnote id="F2">Includes dividend equivalents paid on restricted stock units since the date of the reporting person's last filing through the date of the reported transaction that have been reinvested in additional restricted stock units.</footnote>
+        <footnote id="F3">Withholding of stock to satisfy tax withholding obligation on settlement of the performance share unit award referenced in footnote (1).</footnote>
+        <footnote id="F4">Shares held in the Target Corporation 401(k) Plan based on the plan statement as of December 31, 2012.</footnote>
+    </footnotes>
+
+    <remarks>scullypoa.txt</remarks>
+
+    <ownerSignature>
+        <signatureName>Andrew J. Neuharth, Attorney-In-Fact</signatureName>
+        <signatureDate>2013-03-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>scullypoa.txt
+<TEXT>
+
+TARGET CORPORATION
+
+Power of Attorney
+of Director and/or Officer
+
+The undersigned director and/or officer of TARGET CORPORATION,
+a Minnesota corporation (the Corporation), does hereby make,
+constitute and appoint GREGG W. STEINHAFEL, JOHN J. MULLIGAN,
+TIMOTHY R. BAER, DAVID L. DONLIN and ANDREW J. NEUHARTH, and
+each or any one of them, the undersigneds true and lawful
+attorneys-in-fact, with power of substitution, for the
+undersigned and in the undersigneds name, place and stead, to
+sign and affix the undersigneds name as director and/or officer
+of the Corporation to (1) a Form 10-K, Annual Report, or other
+applicable form, pursuant to the Securities Exchange Act of 1934,
+as amended (the 1934 Act), including any and all exhibits, schedules,
+supplements, certifications and supporting documents thereto,
+including, but not limited to, the Form 11-K Annual Reports of
+the Corporations 401(k) Plan and similar plans pursuant to the
+1934 Act, and all amendments, supplementations and corrections
+thereto, to be filed by the Corporation with the Securities and
+Exchange Commission (the SEC), as required in connection with
+its registration under the 1934 Act; (2) one or more Forms 3, 4
+or 5 pursuant to the 1934 Act, or Forms 144 pursuant to the
+Securities Act of 1933, as amended (the 1933 Act), and all
+related documents, amendments, supplementations and corrections
+thereto; and (3) one or more Registration Statements, on Form S-3,
+Form S-8, or other applicable forms, and all amendments, including
+post-effective amendments, thereto, to be filed by the Corporation
+with the SEC in connection with the registration under the 1933 Act,
+as amended, of debt, equity and other securities of the Corporation,
+and to file the same, with all exhibits thereto and other supporting
+documents, with the SEC.
+
+The undersigned also grants to said attorneys-in-fact, and each of
+them, full power and authority to do and perform any and all acts
+necessary or incidental to the performance and execution of the
+powers herein expressly granted.  This Power of Attorney shall
+remain in effect until revoked in writing by the undersigned.
+
+IN WITNESS WHEREOF, the undersigned has executed this Power of
+Attorney as of this 29th day of January, 2013.
+
+
+/s/ Terrence J. Scully
+Terrence J. Scully
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

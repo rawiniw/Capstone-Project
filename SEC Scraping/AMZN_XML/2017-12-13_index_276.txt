@@ -1,0 +1,71 @@
+<SEC-DOCUMENT>9999999995-17-003215.txt : 20171214
+<SEC-HEADER>9999999995-17-003215.hdr.sgml : 20171214
+<ACCEPTANCE-DATETIME>20171214001511
+ACCESSION NUMBER:		9999999995-17-003215
+CONFORMED SUBMISSION TYPE:	EFFECT
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20171213
+DATE AS OF CHANGE:		20171214
+EFFECTIVENESS DATE:		20171213
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMAZON COM INC
+		CENTRAL INDEX KEY:			0001018724
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-CATALOG & MAIL-ORDER HOUSES [5961]
+		IRS NUMBER:				911646860
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		EFFECT
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	333-221675
+		FILM NUMBER:		171255081
+
+	BUSINESS ADDRESS:	
+		STREET 1:		410 TERRY AVENUE NORTH
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98109
+		BUSINESS PHONE:		2062661000
+
+	MAIL ADDRESS:	
+		STREET 1:		410 TERRY AVENUE NORTH
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98109
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>EFFECT
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<edgarSubmission>
+
+    <schemaVersion>X0101</schemaVersion>
+
+    <submissionType>EFFECT</submissionType>
+
+    <act>33</act>
+
+    <testOrLive>LIVE</testOrLive>
+
+    <effectiveData>
+        <finalEffectivenessDispDate>2017-12-13</finalEffectivenessDispDate>
+        <finalEffectivenessDispTime>16:00:00</finalEffectivenessDispTime>
+        <form>S-4</form>
+        <filer>
+            <cik>0001018724</cik>
+            <entityName>AMAZON COM INC</entityName>
+            <fileNumber>333-221675</fileNumber>
+        </filer>
+    </effectiveData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

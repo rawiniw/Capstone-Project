@@ -1,0 +1,1197 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Mb4ouhViA6H0Ty/PsE+z3ySmksDYcCKR/fvkkts7c4F3I9ozVCjYIdDG/sX4qTwG
+ onkZp3Ynsdb58TgLTxNz8Q==
+
+<SEC-DOCUMENT>0001193125-10-219695.txt : 20100929
+<SEC-HEADER>0001193125-10-219695.hdr.sgml : 20100929
+<ACCEPTANCE-DATETIME>20100929161235
+ACCESSION NUMBER:		0001193125-10-219695
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20100923
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20100929
+DATE AS OF CHANGE:		20100929
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WAL MART STORES INC
+		CENTRAL INDEX KEY:			0000104169
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				710415188
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06991
+		FILM NUMBER:		101096714
+
+	BUSINESS ADDRESS:	
+		STREET 1:		702 SOUTHWEST 8TH ST
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+		BUSINESS PHONE:		5012734000
+
+	MAIL ADDRESS:	
+		STREET 1:		702 SOUTHWEST 8TH STREET
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<P STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P STYLE="margin-top:4px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE
+COMMISSION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>Washington, DC 20549 </B></FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>FORM 8-K </B></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center>
+<P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="4"><B>CURRENT REPORT
+</B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>PURSUANT TO SECTION 13 or 15(d) OF THE </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>SECURITIES EXCHANGE ACT OF 1934 </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>Date of Report (Date of earliest event reported): </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>September&nbsp;23, 2010 </B></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center>
+<P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="6"><B>Wal-Mart
+Stores, Inc. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(Exact name of registrant as specified in its charter) </B></FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Delaware</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>001-06991</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>71-0415188</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(State or other Jurisdiction</B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>of Incorporation)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(Commission</B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>File Number)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(IRS Employer</B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Identification No.)</B></FONT></P></TD></TR></TABLE>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>702 S.W. 8th Street </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Bentonville, Arkansas 72716 </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(Address of principal executive offices) (Zip code) </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Registrant&#146;s telephone number, including area code: </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(479) 273-4000 </B></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center>
+<P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Check the
+appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: </FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </FONT></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></TD></TR></TABLE>
+<P STYLE="font-size:8px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<P STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain
+Officers; Compensatory Arrangements of Certain Officers. </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(b) On September&nbsp;23, 2010, Thomas M. Schoewe, executive vice
+president and chief financial officer of Wal-Mart Stores, Inc. (the &#147;Company&#148;) notified the Company that he will retire from his position as executive vice president and chief financial officer, effective on the close of business on
+November&nbsp;30, 2010. On December&nbsp;1, 2010, Mr.&nbsp;Schoewe will continue in his capacity as an executive vice president and be employed as an associate of the Company through January&nbsp;31, 2011. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(c) On September&nbsp;24, 2010, the Board of Directors appointed Charles M. Holley, age 54, as executive president and chief financial
+officer of the Company, effective as of the close of business on November&nbsp;30, 2010. Since January 2007, Mr.&nbsp;Holley has served as the Company&#146;s executive vice president-finance and treasurer. From 2005 to 2007, Mr.&nbsp;Holley served
+as a senior vice president of finance with responsibility for the Company&#146;s accounting, tax, financial reporting and investor relations areas, as well as financial support responsibility for the Company&#146;s real estate, benefits, risk
+management and information systems areas. From 2003 to 2005, Mr.&nbsp;Holley served as the Company&#146;s senior vice president and controller. From 1999 to 2003, Mr.&nbsp;Holley was a senior vice president and chief financial officer of Walmart
+International, which included, in addition to other duties, the responsibility for the Company&#146;s international acquisitions. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Company issued a press release on September&nbsp;29, 2010, announcing the appointment of Mr.&nbsp;Holley in his new role. A copy of
+the press release is furnished as Exhibit 99.1 to this report. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Company entered into a post-termination agreement and
+covenant not to compete with Mr.&nbsp;Holley on March&nbsp;14, 2010 (the &#147;Noncompete Agreement&#148;). The Noncompete Agreement is substantially similar to the form of post-termination agreement and covenant not to compete that is attached as
+Exhibit 10(p) to the Company&#146;s Form 10-K filed on March&nbsp;30, 2010. The Noncompete Agreement prohibits Mr.&nbsp;Holley, for a period of two years following termination of employment with the Company for any reason, from participating in a
+business that competes with the Company and from soliciting the Company&#146;s associates for employment. The Noncompete Agreement also provides that, if Mr.&nbsp;Holley&#146;s employment is terminated by the Company for any reason, other than for a
+violation of the Company&#146;s policies, then the Company will continue to pay Mr.&nbsp;Holley&#146;s base salary for two years following termination of employment. As consideration for executing the Noncompete Agreement, Mr.&nbsp;Holley received a
+grant of 17,886 shares of restricted stock. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(e) On September&nbsp;28, 2010, the Company entered into a retirement agreement
+with Mr.&nbsp;Schoewe, which provides that Mr.&nbsp;Schoewe&#146;s employment will continue through January&nbsp;31, 2011 (the &#147;Agreement&#148;). The Agreement is attached as Exhibit 10.1 and is incorporated herein by reference.
+Mr.&nbsp;Schoewe will receive his salary through January&nbsp;31, 2011 and he will be eligible to participate in the Company&#146;s Management Incentive Plan and his unvested stock options, restricted stock and performance shares will continue to
+vest in the normal course through January&nbsp;31, 2011, with several exceptions. Mr.&nbsp;Schoewe will forfeit 100 percent of the 69,804 target performance shares he received on January&nbsp;23, 2009, and 100 percent of the 62,465 target
+performance shares he received on January&nbsp;21, 2010. The Company will accelerate certain restricted stock grants and stock option grants that are scheduled to vest in 2012, 2013, 2014 and 2015 as reflected in the Agreement. The Agreement, which
+also operates as an amendment to Mr.&nbsp;Schoewe&#146;s covenant not to compete agreement, extends the non-competition and non-solicitation provisions through January&nbsp;31, 2014. </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">2 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;9.01 Financial Statements and Exhibits. </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">(d) Exhibits </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="3%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="95%"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">10.1</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Retirement Agreement by and between the Company and Thomas M. Schoewe dated September&nbsp;28, 2010 (Exhibit B of which is incorporated by reference to Exhibit 10(f) to the Annual
+Report on Form 10-K of the Company for the fiscal year ended January&nbsp;31, 2010, filed on March&nbsp;30, 2010, and to Exhibit 10.2 to the Current Report on form 8-K of the Company dated December&nbsp;12, 2005).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">99.1</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Press Release dated September&nbsp;29, 2010 announcing management changes.</FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">3 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>SIGNATURES </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its
+behalf by the undersigned hereunto duly authorized. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Dated: September&nbsp;29, 2010 </FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="6%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT STYLE="font-family:Times New Roman" SIZE="2">WAL-MART STORES, INC.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;/s/ Gordon Y. Allison</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;Gordon Y. Allison</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;Vice President &#150; General Counsel Corporate Division</FONT></TD></TR></TABLE></DIV>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">4 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>INDEX TO EXHIBITS </B></FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="94%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="1">Exhibit</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000;width:26pt"><FONT STYLE="font-family:Times New Roman" SIZE="1">Number</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1px solid #000000;width:37pt"><FONT STYLE="font-family:Times New Roman" SIZE="1">Description</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">10.1</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Retirement Agreement by and between the Company and Thomas M. Schoewe, dated September&nbsp;28, 2010 (Exhibit B of which is incorporated by reference to Exhibit 10(f) to the Annual
+Report on Form 10-K of the Company for the fiscal year ended January&nbsp;31, 2010, filed on March&nbsp;30, 2010, and to Exhibit 10.2 to the Current Report on form 8-K of the Company dated December&nbsp;12, 2005).</FONT></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">99.1</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Press Release dated September&nbsp;29, 2010 announcing management changes.</FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">5 </FONT></P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>dex101.htm
+<DESCRIPTION>RETIREMENT AGREEMENT
+<TEXT>
+<HTML><HEAD>
+<TITLE>Retirement Agreement</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Exhibit 10.1 </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>RETIREMENT AGREEMENT </U></B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">This Retirement Agreement (this &#147;Agreement&#148;) is made and entered into as of September&nbsp;28, 2010 by and between Thomas M.
+Schoewe (&#147;Mr. Schoewe&#148; ) and Wal-Mart Stores, Inc., a Delaware corporation, and its affiliates and subsidiaries (collectively, &#147;Walmart&#148;). </FONT></P>
+<P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>RECITALS </U></B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>WHEREAS,</B> on September&nbsp;23, 2010, Mr.&nbsp;Schoewe formally notified the Company of his intent to retire as Executive Vice
+President of the Company effective on the close of business on January&nbsp;31, 2011 (the &#147;Retirement Date&#148;); and </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>WHEREAS</B>, the Company desires to continue to employ Mr.&nbsp;Schoewe through January&nbsp;31, 2011, as described herein, and
+Mr.&nbsp;Schoewe wishes to continue such employment on the terms, provisions and conditions set forth in this Agreement. </FONT></P>
+<P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>AGREEMENT </U></B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>NOW, THEREFORE</B>, for good and sufficient consideration, the sufficiency of which the parties acknowledge, the parties agree as
+follows: </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>1.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Employment.</B> </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="13%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">a)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Mr.&nbsp;Schoewe shall remain Executive Vice President and Chief Financial Officer of Walmart through November&nbsp;30, 2010, and beginning on December&nbsp;1, 2010, he
+will remain a Walmart associate through January&nbsp;31, 2011, at which time he will separate from service, unless the term of this Agreement is extended in writing by agreement of the parties. While employed with Walmart from December&nbsp;1, 2010
+through January&nbsp;31, 2011, Mr.&nbsp;Schoewe shall: </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="21%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(i)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">be available on a full-time basis for consultation and advice to Wal-Mart&#146;s management and the Board of Directors (the &#147;Board&#148;);
+</FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="21%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(ii)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">facilitate, support and help with the transition of Walmart&#146;s new Chief Financial Officer; </FONT></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="21%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(iii)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">be available to travel, domestically and internationally, and to tour stores and clubs with senior management and members of the Board for consultation and advice, as
+well as with other Walmart associates in aid of associate development; and </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="21%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(iv)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">at Walmart&#146;s request, Mr.&nbsp;Schoewe shall represent Walmart at external meetings and speaking engagements. </FONT></TD></TR></TABLE>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>2.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Compensation. </B>Subject to compliance with the terms, provisions, and conditions of this Agreement, Mr.&nbsp;Schoewe shall receive the following compensation
+during his employment: </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="13%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">a)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Base Salary.</B> Mr.&nbsp;Schoewe&#146;s shall continue to receive his current annual base salary through January&nbsp;31, 2011, which will be paid through
+Wal-Mart&#146;s regular payroll; </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="13%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">b)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Incentive Payments. </B>Mr.&nbsp;Schoewe will be eligible to receive his full incentive payment under the Wal-Mart Stores, Inc. Management Incentive Plan (the
+&#147;MIP&#148;) for the fiscal year ending January&nbsp;31, 2011, but will not be entitled to an incentive payment for fiscal 2012 or any fiscal year thereafter; </FONT></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="13%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">c)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Future Equity Grants.</B> Mr.&nbsp;Schoewe will not receive any future equity grants under the Wal-Mart Stores, Inc. Stock Incentive Plan of 2010 (the
+&#147;SIP&#148;); </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="13%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">d)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Current Equity Grants.</B> All unvested equity under the SIP will continue to vest as scheduled during employment through the Retirement Date, except as follows:
+</FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="21%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(i)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Performance Shares. </B>Mr.&nbsp;Schoewe shall forfeit 100 percent of the 69,804 target performance shares he received on January&nbsp;23, 2009 and 100 percent of
+the 62,465 target performance shares he received on January&nbsp;19, 2010. The remaining target performance shares granted on January&nbsp;21, 2008 shall be subject to the SIP; notices of award, as applicable; and the performance metrics for those
+grants approved by the Compensation, Nominating, and Governance Committee of the Board. </FONT></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="21%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(ii)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Restricted Stock and Stock Options.</B> Walmart and Mr.&nbsp;Schoewe acknowledge that Mr.&nbsp;Schoewe currently has unvested stock options and restricted stock
+grants under the SIP or predecessor equity plans of Walmart, which such equity awards are subject to stock option award notices and restricted stock award notices (collectively, the &#147;Awards&#148;). As consideration for the releases set forth in
+Section&nbsp;4 of this Agreement and for extending the Noncompetition Agreement (as defined below), as amended by the Amendment (as defined below) and for other good and sufficient consideration, the vesting of: (a)&nbsp;certain shares of unvested
+restricted stock; and (b)&nbsp;certain stock options held by Mr.&nbsp;Schoewe will be accelerated to the Retirement Date, as set forth in <U><B>Exhibit A</B></U>. All other terms of such restricted stock awards and such stock option awards,
+including any deferral elections with respect to such awards, as set forth in the SIP, any predecessor equity plans of Walmart and the Awards, shall continue in full force and effect, and the receipt of such shares by Mr.&nbsp;Schoewe shall be
+subject to applicable tax withholding. </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="21%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(iii)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Unvested Equity.</B> All equity, other than as described in this Section&nbsp;2(d), that vests after January&nbsp;31, 2011, shall be forfeited.
+</FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="13%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">e)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Other Payments and Benefits.</B> As a Walmart associate, Mr.&nbsp;Schoewe will be entitled to participate in Walmart-sponsored plans and programs (except as limited
+by Sections 2(a) through (d)&nbsp;immediately above) on the same basis as other Walmart associates, similarly situated, through January&nbsp;31, 2011. Unless otherwise provided for in the plans and programs, Mr.&nbsp;Schoewe&#146;s participation in
+all Wal-Mart-sponsored benefit plans or programs will end on January&nbsp;31, 2011. </FONT></TD></TR></TABLE> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>3.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Prior Agreement and Transition Payments. </B>Subject to the modifications set forth herein, Mr.&nbsp;Schoewe and Walmart reaffirm their respective obligations as set
+forth in the <I>Post-Termination Agreement and Covenant Not to Compete, </I>dated January&nbsp;31, 2000 (the &#147;Non-Competition Agreement&#148;), and incorporated herein by reference, and the <I>Amendment to Agreement</I>, dated December&nbsp;20,
+2005 (the &#147;Amendment&#148;) attached hereto collectively as <B><U>Exhibit B</U></B> and incorporated herein by reference.&nbsp;Mr.&nbsp;Schoewe agrees to extend the covenant not to compete provided for in the Non-Competition Agreement as
+amended by the Amendment through and until January&nbsp;31, 2014. Pursuant to the Noncompetition Agreement as amended by the Amendment, Mr.&nbsp;Schoewe shall receive total transition payments of <B>$1,654,848</B>, less applicable withholding (the
+&#147;Transition Payments&#148;). As soon as practical after the Retirement Date, but not to exceed 45 days after the Retirement Date, Mr.&nbsp;Schoewe will receive the first installment of the Transition Payments in a lump-sum payment in the amount
+of <B>$ 413,712</B>, less applicable withholding. Thereafter, Mr.&nbsp;Schoewe will receive the remaining <B>$ 1,241,136 </B>of the Transition Payments, less applicable withholding, over an eighteen (18)&nbsp;month period in equal bi-weekly
+installments beginning at the end of the regularly scheduled pay period six (6)&nbsp;months after the Retirement Date. The amounts described in this Section&nbsp;3 are inclusive of all amounts to which Mr.&nbsp;Schoewe is entitled to receive from
+Walmart under and pursuant to the Non-Competition Agreement as amended by the Amendment. </FONT></TD></TR></TABLE> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>4.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Release and Waiver of Claims.</B></FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="13%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">a)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Prior to Walmart&#146;s acceleration of the vesting of the restricted stock and stock options described in Section&nbsp;2(d)(ii) of this Agreement, Mr.&nbsp;Schoewe
+shall execute and deliver a release and waiver of claims to Walmart agreeing to release, acquit, and forever discharge Walmart and its directors, officers, shareholders, employees, agents, successors, and assigns, from any and all claims, causes of
+action, and demands, including without limitation any claim for damages, costs, attorneys&#146; fees, expenses, and compensation whatsoever, whether known or unknown, arising out of or related to Mr.&nbsp;Schoewe&#146;s employment with Walmart or
+his separation from service. Mr.&nbsp;Schoewe also releases any and all claims he may have that arose prior to the date of this Agreement and hereby specifically waives and releases all claims under: Title VII of The Civil Rights Act of 1964, as
+amended; the Civil Rights Act of 1991; the Americans With Disabilities Act; the Age Discrimination in Employment Act, as amended; COBRA; the Family and Medical Leave Act; the Employee Retirement Income Security Act of 1974, as amended; the National
+Labor Relations Act; the Fair Labor Standards Act; and any and all state or local statutes, ordinances, or regulations, as well as all claims arising under federal, state, or local law involving wrongful discharge, intentional infliction of
+emotional distress, the tort of outrage, or any other contract or tort claims. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">2 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="13%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">b)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Limitation of Release</B><B>.</B> Nothing herein shall limit or impede Mr.&nbsp;Schoewe&#146;s right to file or pursue an administrative charge with, or participate
+in, any investigation before the Equal Employment Opportunity Commission, any federal or state agency, to file a claim for unemployment compensation benefits, and/or any causes of action which by law he may not legally waive. Mr.&nbsp;Schoewe
+agrees, however, that if he or anyone acting on his behalf, brings any action concerning or related to any cause of action or liability released in this Agreement, Mr.&nbsp;Schoewe waives any right to, and will not accept, any payments, monies,
+damages, or other relief, awarded in connection therewith. </FONT></TD></TR></TABLE> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>5.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Confidential Information.</B>&nbsp;Mr.&nbsp;Schoewe agrees that he will not at any time directly or indirectly use or disclose any confidential information obtained
+during the course of his employment with Wal-Mart, except when previously authorized by Walmart in writing.&nbsp;&#147;Confidential Information&#148; means information designated as such by Walmart pertaining to the business of Wal-Mart, and
+includes, without limitation, trade secrets obtained by Mr.&nbsp;Schoewe during the course of, or as a result of, Mr.&nbsp;Schoewe&#146;s employment with Wal-Mart, including, without limitation, information regarding processes, suppliers (including
+the terms, conditions, or other business arrangements with suppliers), advertising and marketing plans and strategies, profit margins, seasonal plans, goals, objectives, projections, compilations, and analyses regarding Wal-Mart&#146;s business,
+salary, staffing, compensation, promotion, diversity objectives and other employment-related data, and any know-how, techniques, practices or non-public technical information regarding the business of Wal-Mart.&nbsp;On or prior to his separation
+from service, Mr.&nbsp;Schoewe shall return to Walmart all documentation, programs, software, equipment, statistics, and other written business materials concerning Walmart and any competitor of Walmart.&nbsp;Mr.&nbsp;Schoewe acknowledges that the
+obligations set out herein with respect to Confidential Information will remain in effect for a period of seven (7)&nbsp;years following his separation from service, or until such time as the Confidential Information becomes public other than
+through publication by Mr. Schoewe. </FONT></TD></TR></TABLE> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>6.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Cooperation.</B> Mr.&nbsp;Schoewe may from time to time after his separation from service be called upon to testify or provide information to Walmart in connection
+with employment-related and other legal proceedings against Wal-Mart.&nbsp;Mr.&nbsp;Schoewe will provide reasonable assistance to, and will cooperate with, Walmart in connection with any litigation, arbitration, or judicial or non-judicial
+administrative proceedings that may exist or may subsequently arise regarding events about which Mr.&nbsp;Schoewe has knowledge.&nbsp;Mr.&nbsp;Schoewe agrees to resign from any boards of directors, boards of managers, and similar governing boards of
+any Walmart entities of which he may be a member, and to sign any documents acknowledging such resignations, as may be requested by Wal-Mart. Walmart will compensate Mr.&nbsp;Schoewe for reasonable travel expenses and other expenses incidental to
+any such cooperation provided to Wal-Mart, based upon mutually agreeable terms and conditions to be negotiated by the parties. </FONT></TD></TR></TABLE> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>7.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Non-disparagement and Non-solicitation</B><B>.</B><B></B> After his separation from service, Mr.&nbsp;Schoewe shall not directly or indirectly: a) make disparaging
+comments regarding Wal-Mart, its business strategies and operations, and any of Wal-Mart&#146;s officers, directors, associates, and shareholders; or b) solicit any current associate working for Walmart to leave his or her employment, or to provide
+names or referrals of current Walmart associates to any third party including recruiters, &#147;headhunters&#148; or others, either official or unofficial, seeking to hire, place or refer for employment. </FONT></TD></TR></TABLE>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">3 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>8.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Statement of Ethics.</B> Mr.&nbsp;Schoewe has read and understands the provisions of Wal-Mart&#146;s Statement of Ethics. Mr.&nbsp;Schoewe acknowledges that he has
+complied with the applicable Statement of Ethics during his employment. The discovery of a failure to abide by the Statement of Ethics, whenever discovered, shall entitle Walmart to suspend and recoup any payments paid or due under this Agreement or
+any other agreements between the parties. </FONT></TD></TR></TABLE> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>9.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Advice of Counsel.</B> Mr.&nbsp;Schoewe has been advised, and by this Agreement is again advised, to consider this Agreement carefully and to review it with legal
+counsel of his choice.&nbsp;Mr.&nbsp;Schoewe understands the provisions of this Agreement and has been given the opportunity to seek independent legal advice before signing this Agreement. </FONT></TD></TR></TABLE>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>10.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Taxes.</B> Mr.&nbsp;Schoewe acknowledges and agrees that he is responsible for paying all taxes and related penalties and interest on his income. Walmart will
+withhold taxes, including from amounts or benefits payable under this Agreement, and report them to tax authorities, as it determines it is required to do. Walmart has not warranted to Mr.&nbsp;Schoewe that taxes and penalties will not be imposed
+under Section&nbsp;409A. Mr.&nbsp;Schoewe will indemnify Walmart and hold it harmless with respect to all such taxes, penalties, and interest (other than FICA taxes imposed on Walmart with respect to Mr.&nbsp;Schoewe&#146;s income).
+</FONT></TD></TR></TABLE> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>11.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Remedies for Breach.</B> With respect to any breach of this Agreement by Mr.&nbsp;Schoewe, he agrees to indemnify and hold Walmart harmless from and against any and
+all loss, cost, damage, or expense, including, but not limited to, attorneys&#146; fees incurred by Walmart and to return immediately to Walmart all of the monies previously paid to Mr.&nbsp;Schoewe by Walmart under this Agreement; provided,
+however, that such repayment shall not constitute a waiver by Walmart of any other remedies available under this Agreement or by law, including injunctive relief. </FONT></TD></TR></TABLE>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>12.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Miscellaneous.</B> </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="13%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">a)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Entire Agreement. </B>This Agreement, the Non-Competition Agreement and the Amendment, as modified by this Agreement, together contain the entire agreement and
+understanding of the parties, and no prior statements by either party will be binding unless contained in this Agreement or incorporated by reference in this Agreement. In addition, to be binding on the parties, any handwritten changes to this
+Agreement must be initialed and dated by Mr.&nbsp;Schoewe and the authorized representative of Walmart whose signature appears below. </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="13%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">b)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Severability. </B>If any portion or provision of this Agreement is found to be unenforceable or invalid, the parties agree that the remaining portions will remain in
+full force and effect.&nbsp;The parties will negotiate in good faith to give such unenforceable or invalid provisions the effect the parties intended. </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="13%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">c)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Section Titles. </B>Section titles are informational only and are not to be considered in construing this Agreement. </FONT></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="13%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">d)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Successors and Assigns. </B>The parties acknowledge that this Agreement will be binding on their respective permitted successors, assigns, and heirs. Neither party
+may assign this Agreement without the prior written consent of the other party. </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="13%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">e)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Governing Law and Dispute Resolution.</B> The parties agree that this Agreement, the Non-Competition Agreement and the Amendment will be construed pursuant to, and
+governed in accordance with, the laws of the State of Delaware, without regard to the conflicts of law. The parties agree that they will first attempt to resolve any disputes arising under this Agreement through good faith negotiations, that any
+litigation hereunder shall be brought in the courts of the State of Delaware, County of New Castle, or in the U.S. District Court for the District of Delaware, and that venue and jurisdiction in those courts shall be proper.
+</FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">4 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>IN WITNESS WHEREOF, </B>the parties hereto have executed this Agreement as of the date
+first written above. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD WIDTH="38%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="18%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="37%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>THOMAS M. SCHOEWE</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>WAL-MART STORES, INC.</B></FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/&nbsp;Thomas M. Schoewe</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/&nbsp;Kathi Child</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Name:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Kathi Child</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Title:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">SVP &#150; Global Compensation &amp; Organizational Effectiveness</FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">5 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>EXHIBIT A </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Stock Options to be Accelerated: </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="84%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="32%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="32%"></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1px solid #000000;width:38pt" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Grant Date</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Number&nbsp;of&nbsp;Options&nbsp;to&nbsp;be<BR>Accelerated</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Original&nbsp;Vesting&nbsp;Date</B></FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">January&nbsp;22,&nbsp;2007</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">15,011</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">January&nbsp;22,&nbsp;2012</FONT></TD></TR></TABLE>
+<P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Restricted Stock to be Accelerated: </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="84%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="32%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="32%"></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1px solid #000000;width:38pt" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Grant Date</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Number&nbsp;of&nbsp;Shares&nbsp;to&nbsp;be<BR>Accelerated</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Original&nbsp;Vesting&nbsp;Date</B></FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">January&nbsp;5,&nbsp;2004</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">9,592</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">January&nbsp;5,&nbsp;2012</FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">January&nbsp;3, 2005</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">10,580</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">January&nbsp;3, 2013</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">January&nbsp;21,&nbsp;2008</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">6,299</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">January&nbsp;21,&nbsp;2012</FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">January&nbsp;21, 2008</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">6,318</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">January&nbsp;21, 2013</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">January&nbsp;23, 2009</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">7,748</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">January&nbsp;23, 2013</FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">January&nbsp;23, 2009</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">7,772</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">January&nbsp;23, 2014</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">January&nbsp;19, 2010</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">6933</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">January&nbsp;19, 2012</FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">January&nbsp;19, 2010</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">6934</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">January&nbsp;19, 2014</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">January&nbsp;19, 2010</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">6955</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">January&nbsp;19, 2015</FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">6 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>Exhibit B </U></B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Noncompetition Agreement is incorporated by reference to Exhibit 10(f) to the Annual Report on Form 10-K of the Company for the fiscal year ended
+January&nbsp;31, 2010, filed on March&nbsp;30, 2010. The Amendment is incorporated by reference to Exhibit 10.2 to the Current Report on Form 8-K of the Company dated December&nbsp;12, 2005. </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">7 </FONT></P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<FILENAME>dex991.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<HTML><HEAD>
+<TITLE>Press Release</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Exhibit 99.1 </B></FONT></P>
+ <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center">
+
+<IMG SRC="g102485ex99_1page001.jpg" ALT="LOGO"> </P>
+ <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="25%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="25%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="25%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="22%"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>For Immediate Release</U></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Media Relations Contact</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Investor Relations Contact</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">David Tovar</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Carol Schumacher</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">1-800-331-0085</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Phone: 479-277-1498</FONT></P></TD></TR></TABLE>
+<P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Walmart Elects Charles Holley </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>New Chief Financial Officer </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Tom Schoewe to retire as CFO Nov. 30 after helping lead company </I></B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>through period of strong profitability and global expansion. </I></B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>BENTONVILLE, Ark., Sept.&nbsp;29, 2010 &#150; </B>Wal-Mart Stores, Inc. (NYSE: WMT) today announced that its board of directors has elected Charles
+Holley, 54, to succeed Tom Schoewe as the company&#146;s chief financial officer. The change will be effective Nov. 30, and Schoewe will stay on until Jan. 31 to help with the transition. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#147;Charles has great experience both inside Walmart and externally,&#148; said CEO Mike Duke. &#147;He is a talented strategist who also thoroughly
+understands the details of our business and the financial markets. As treasurer, he has helped drive the strategy behind the company&#146;s strong financial position and has made every organization he has led stronger. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#147;Charles has also played a strong role in pioneering the company&#146;s international expansion. He is respected within the company as well as by
+the investment community, and has been a key part of our strategic discussions for a number of years.&#148; </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Duke said, &#147;Tom has been a
+key member of Walmart&#146;s strategic team for the past decade and has overseen our financial functions during a period of tremendous growth and international expansion. During that time he played a leading role in strengthening our balance sheet
+and our financial controls, and in establishing the financial priorities of growth, leverage and returns that guide our business. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#147;One
+of Tom&#146;s greatest strengths is his focus on talent development, and he has built a strong and deep team across all our operations,&#148; Duke continued. &#147;Under his leadership, the company has continued to increase its returns to
+shareholders, and through the first half of this fiscal year gave back $9.4 billion through dividends and share repurchase.&#148; </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Holley
+joined Walmart in 1994 and is currently executive vice president - finance and treasurer. He is responsible for corporate strategy and planning, tax, investor relations, corporate mergers and acquisitions, risk management, and treasury operations,
+which includes capital markets and cash management. Before joining Walmart, Holley worked for Tandy Corporation (now Radio Shack) as managing director for its European Memorex division and served as director of finance for its international
+operations. He also spent more than 10 years with Ernst&nbsp;&amp; Young. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Schoewe, 57, joined Walmart in 2000. Prior to that, he spent 14 years at Black and Decker, most recently as
+chief financial officer. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Both Holley and Schoewe are recognized leaders within the financial and retail industries and are active in
+community service. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Holley&#146;s successor will be named at a later date. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>NOTE: Bios of Charles Holley and Tom Schoewe are available at: </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>http://www.walmartstores.com</U>. High resolution photos of both are available for downloading from the site. </B></FONT></P>
+<P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>About Walmart </I></B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Wal-Mart Stores,
+Inc., (NYSE: WMT) serves customers and members more than 200&nbsp;million times per week at more than 8,400 retail units under 55 different banners in 15 countries. With fiscal year 2010 sales of $405 billion, Walmart employs more than two million
+associates worldwide. A leader in sustainability, corporate philanthropy and employment opportunity, Walmart ranked first among retailers in <I>Fortune</I> magazine&#146;s 2010 Most Admired Companies survey. Additional information about Walmart can
+be found by visiting <U>www.walmartstores.com</U>. Online merchandise sales are available at <U>www.walmart.com</U> and <U>www.samsclub.com</U>. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"># # # </FONT></P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>g102485ex99_1page001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g102485ex99_1page001.jpg
+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
+5`7F+``$TK35E-./JEM&C1HT:-?_9
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

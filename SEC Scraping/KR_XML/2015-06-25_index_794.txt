@@ -1,0 +1,161 @@
+<SEC-DOCUMENT>0001209191-15-056239.txt : 20150625
+<SEC-HEADER>0001209191-15-056239.hdr.sgml : 20150625
+<ACCEPTANCE-DATETIME>20150625154607
+ACCESSION NUMBER:		0001209191-15-056239
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20150625
+FILED AS OF DATE:		20150625
+DATE AS OF CHANGE:		20150625
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KROGER CO
+		CENTRAL INDEX KEY:			0000056873
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-GROCERY STORES [5411]
+		IRS NUMBER:				310345740
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0203
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1014 VINE ST
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45201
+		BUSINESS PHONE:		5137624000
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MORGANTHALL FREDERICK J II
+		CENTRAL INDEX KEY:			0001198218
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00303
+		FILM NUMBER:		15951762
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O RUDDICK CORP
+		STREET 2:		301 S TYRON ST SUITE 1800
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28202
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<DESCRIPTION>FORM 3 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2015-06-25</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000056873</issuerCik>
+        <issuerName>KROGER CO</issuerName>
+        <issuerTradingSymbol>KR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001198218</rptOwnerCik>
+            <rptOwnerName>MORGANTHALL FREDERICK J II</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>THE KROGER CO.</rptOwnerStreet1>
+            <rptOwnerStreet2>1014 VINE STREET</rptOwnerStreet2>
+            <rptOwnerCity>CINCINNATI</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>45202</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Senior Vice President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>77025</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes></footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Frederick J. Morganthall II, by Stacey M. Heiser, Attorney-in-Fact</signatureName>
+        <signatureDate>2015-06-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.3_591798
+<SEQUENCE>2
+<FILENAME>poa.txt
+<DESCRIPTION>POA DOCUMENT
+<TEXT>
+POWER OF ATTORNEY
+
+KNOW ALL PERSONS BY THESE PRESENTS:
+
+	The undersigned does hereby make, constitute and appoint Christine S. Wheatley,
+Stacey M. Heiser, and Dorothy D. Roberts, and each of them (with full power to
+each of them to act alone), his true and lawful attorney-in-fact to sign and
+execute for and on his behalf, and in his name, place and stead, to sign,
+execute, affix his seal, and file with the Securities and Exchange Commission,
+any and all documents required to be filed by him under Section 16 of the
+Securities Exchange Act of 1934, as amended, or any successor or comparable
+requirement, with respect to his holdings or changes in holdings of securities
+issued by The Kroger Co., in such form as the attorney-in-fact may approve.  The
+attorney-in-fact may do any and all other acts that said attorney-in-fact may
+deem necessary or appropriate in order to effectuate the foregoing as fully to
+all intents and purposes as the undersigned might or could do if personally
+present, hereby ratifying and confirming all that said attorney-in-fact may
+lawfully do or cause to be done by virtue hereof.  The power granted hereby will
+remain in effect until revoked in writing by the undersigned.
+
+	IN WITNESS WHEREOF, the undersigned has hereunto set his hand and seal, this
+11th day of June, 2015.
+
+
+
+					/s/ Frederick J. Morganthall II
+					Frederick J. Morganthall II
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

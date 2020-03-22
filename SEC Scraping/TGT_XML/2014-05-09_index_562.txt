@@ -1,0 +1,166 @@
+<SEC-DOCUMENT>0001225208-14-012505.txt : 20140509
+<SEC-HEADER>0001225208-14-012505.hdr.sgml : 20140509
+<ACCEPTANCE-DATETIME>20140509123737
+ACCESSION NUMBER:		0001225208-14-012505
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20140505
+FILED AS OF DATE:		20140509
+DATE AS OF CHANGE:		20140509
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TARGET CORP
+		CENTRAL INDEX KEY:			0000027419
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				410215170
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			0131
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1000 NICOLLET MALL
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55403
+		BUSINESS PHONE:		6123046073
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 NICOLLET MALL
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55403
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DAYTON HUDSON CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DAYTON CORP
+		DATE OF NAME CHANGE:	19690728
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			DERODES ROBERT P
+		CENTRAL INDEX KEY:			0001199833
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06049
+		FILM NUMBER:		14827915
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2014-05-05</periodOfReport>
+
+    <noSecuritiesOwned>1</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000027419</issuerCik>
+        <issuerName>TARGET CORP</issuerName>
+        <issuerTradingSymbol>TGT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001199833</rptOwnerCik>
+            <rptOwnerName>DERODES ROBERT P</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1000 NICOLLET MALL</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MINNEAPOLIS</rptOwnerCity>
+            <rptOwnerState>MN</rptOwnerState>
+            <rptOwnerZipCode>55403</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes></footnotes>
+
+    <remarks>derodespoa.txt</remarks>
+
+    <ownerSignature>
+        <signatureName>Andrew J. Neuharth, Attorney-In-Fact</signatureName>
+        <signatureDate>2014-05-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>derodespoa.txt
+<TEXT>
+
+TARGET CORPORATION
+
+Power of Attorney
+of Director and/or Officer
+
+The undersigned director and/or officer of TARGET CORPORATION,
+a Minnesota corporation (the Corporation), does hereby make,
+constitute and appoint GREGG W. STEINHAFEL, JOHN J. MULLIGAN,
+TIMOTHY R. BAER, DAVID L. DONLIN and ANDREW J. NEUHARTH, and
+each or any one of them, the undersigneds true and lawful
+attorneys-in-fact, with power of substitution, for the
+undersigned and in the undersigneds name, place and stead, to
+sign and affix the undersigneds name as director and/or officer
+of the Corporation to (1) a Form 10-K, Annual Report, or other
+applicable form, pursuant to the Securities Exchange Act of 1934,
+as amended (the 1934 Act), including any and all exhibits, schedules,
+supplements, certifications and supporting documents thereto,
+including, but not limited to, the Form 11-K Annual Reports of
+the Corporations 401(k) Plan and similar plans pursuant to the
+1934 Act, and all amendments, supplementations and corrections
+thereto, to be filed by the Corporation with the Securities and
+Exchange Commission (the SEC), as required in connection with
+its registration under the 1934 Act; (2) one or more Forms 3, 4
+or 5 pursuant to the 1934 Act, or Forms 144 pursuant to the
+Securities Act of 1933, as amended (the 1933 Act), and all
+related documents, amendments, supplementations and corrections
+thereto; and (3) one or more Registration Statements, on Form S-3,
+Form S-8, or other applicable forms, and all amendments, including
+post-effective amendments, thereto, to be filed by the Corporation
+with the SEC in connection with the registration under the 1933 Act,
+as amended, of debt, equity and other securities of the Corporation,
+and to file the same, with all exhibits thereto and other supporting
+documents, with the SEC.
+
+The undersigned also grants to said attorneys-in-fact, and each of
+them, full power and authority to do and perform any and all acts
+necessary or incidental to the performance and execution of the
+powers herein expressly granted.  This Power of Attorney shall
+remain in effect until revoked in writing by the undersigned.
+
+IN WITNESS WHEREOF, the undersigned has executed this Power of
+Attorney as of this 11th day of April, 2014.
+
+
+/s/ Robert P. DeRodes
+Robert P. DeRodes
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,1685 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Vk4R3HpfhOYAfx14eac/fkntINILQ6sKHRaMExhXF8Irv/3Qijnc8jIo8bdlchId
+ ytIMlvBFyDeUo+gSImVJKg==
+
+<SEC-DOCUMENT>0001193125-10-125281.txt : 20100520
+<SEC-HEADER>0001193125-10-125281.hdr.sgml : 20100520
+<ACCEPTANCE-DATETIME>20100520170615
+ACCESSION NUMBER:		0001193125-10-125281
+CONFORMED SUBMISSION TYPE:	11-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20091231
+FILED AS OF DATE:		20100520
+DATE AS OF CHANGE:		20100520
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COSTCO WHOLESALE CORP /NEW
+		CENTRAL INDEX KEY:			0000909832
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				911223280
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			0830
+
+	FILING VALUES:
+		FORM TYPE:		11-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-20355
+		FILM NUMBER:		10848542
+
+	BUSINESS ADDRESS:	
+		STREET 1:		999 LAKE DRIVE
+		CITY:			ISSAQUAH
+		STATE:			WA
+		ZIP:			98027-
+		BUSINESS PHONE:		4253138100
+
+	MAIL ADDRESS:	
+		STREET 1:		999 LAKE DRIVE
+		CITY:			ISSAQUAH
+		STATE:			WA
+		ZIP:			98027
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COSTCO COMPANIES INC
+		DATE OF NAME CHANGE:	19970401
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PRICE/COSTCO INC
+		DATE OF NAME CHANGE:	19930728
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>11-K
+<SEQUENCE>1
+<FILENAME>d11k.htm
+<DESCRIPTION>FORM 11-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 11-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<P STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P STYLE="margin-top:8px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE
+COMMISSION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>WASHINGTON, D.C. 20549 </B></FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>FORM 11-K </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center>
+<P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT><B></B></B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>ANNUAL REPORT PURSUANT TO SECTION 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 </B></FONT></TD></TR></TABLE>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT><B></B></B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>TRANSITION REPORT PURSUANT TO SECTION 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 </B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>For the fiscal year ended December&nbsp;31, 2009 </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>Commission File Number 0-20355 </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Costco 401(k) Retirement Plan </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>999 Lake Drive </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Issaquah, Washington 98027 </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(full title and address of plan) </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center>
+<P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="6"><B>Costco
+Wholesale Corporation </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>999 Lake Drive </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Issaquah, Washington 98027 </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(Name of issuer and address of principal executive offices of issuer) </B></FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<P STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>COSTCO 401(K) RETIREMENT PLAN </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Financial Statements and Schedule </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">December&nbsp;31, 2009 and 2008 </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">(With Report of Independent Registered Public Accounting Firm) </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>COSTCO 401(K) RETIREMENT PLAN </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="toc"></A>Index </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="97%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#tx33795_1">Report of Independent Registered Public Accounting Firm</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">1</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Financial Statements:</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#tx33795_3">Statements of Net Assets Available for Benefits as of December&nbsp;31, 2009 and 2008</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">2</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#tx33795_4">Statements of Changes in Net Assets Available for Benefits for the Years Ended December&nbsp;
+31, 2009 and 2008</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">3</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#tx33795_5">Notes to Financial Statements</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">4</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Supplemental Information:</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#tx33795_7">Schedule&nbsp;H, Line&nbsp;4i &#150; Schedule of Assets (Held at End of Year) as of December&nbsp;31,
+2009</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">11</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#tx33795_8">Signature</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">12</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Exhibit 23(a) &#150; Consent of Independent Registered Public Accounting Firm</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="tx33795_1"></A>Report of Independent Registered Public Accounting Firm
+</B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Benefits Committee </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Costco
+401(k) Retirement Plan: </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">We have audited the accompanying statements of net assets available for benefits of the Costco&nbsp;401(k) Retirement
+Plan (the &#147;Plan&#148;) as of December&nbsp;31, 2009 and 2008, and the related statements of changes in net assets available for benefits for the years then ended. These financial statements are the responsibility of the Plan&#146;s management.
+Our responsibility is to express an opinion on these financial statements based on our audits. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">We conducted our audits in accordance with
+standards of the Public Company Accounting Oversight Board (United States). Those standards require that we plan and perform the audit to obtain reasonable assurance that the financial statements are free of material misstatement. An audit includes
+examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements. An audit also includes assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a reasonable basis for our opinion. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">In our opinion, the financial
+statements referred to above present fairly, in all material respects, the net assets available for benefits of the Plan as of December&nbsp;31, 2009 and 2008, and the changes in net assets available for benefits for the years then ended, in
+conformity with U.S. generally accepted accounting principles. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Our audits were performed for the purpose of forming an opinion on the basic
+financial statements taken as a whole. The supplemental schedule of assets (held at end of year) is presented for the purpose of additional analysis and is not a required part of the basic financial statements, but is supplementary information
+required by the Department of Labor&#146;s Rules and Regulations for Reporting and Disclosure under the Employee Retirement Income Security Act of 1974. This supplemental schedule is the responsibility of the Plan&#146;s management. The supplemental
+schedule has been subjected to the auditing procedures applied in the audits of the basic financial statements and, in our opinion, is fairly stated in all material respects in relation to the basic financial statements taken as a whole. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ KPMG LLP </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Seattle, Washington </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">May 17, 2010 </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="tx33795_3"></A>COSTCO 401(k) RETIREMENT PLAN </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Statements of Net Assets Available for Benefits </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>December 31, 2009 and 2008 </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="76%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>2009</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>2008</B></FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Assets:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Investments, at fair value:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:5.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Registered investment company and common commingled trust funds:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:7.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">American Growth Fund of America</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">101,700,779</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">63,162,612</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:7.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">American New Perspective Fund</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">89,175,055</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">56,562,708</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:7.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Artio International Equity I Fund</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">108,207,201</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">77,734,604</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:7.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Davis New York Venture Fund Class Y</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">98,339,845</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">65,123,076</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:7.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">T. Rowe Price Small-Cap Stock Fund</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">119,350,203</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">76,283,112</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:7.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">T. Rowe Price Spectrum Income Fund</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">224,597,429</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">174,143,939</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:7.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">T. Rowe Price Mid-Cap Growth Fund</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">339,602,033</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">213,800,089</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:7.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">T. Rowe Price Retirement Income Fund</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">7,909,939</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">5,299,103</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:7.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">T. Rowe Price Retirement 2005 Fund</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">5,858,329</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">4,333,652</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:7.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">T. Rowe Price Retirement 2010 Fund</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">22,722,389</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">16,732,155</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:7.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">T. Rowe Price Retirement 2015 Fund</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">38,405,946</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">22,938,773</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:7.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">T. Rowe Price Retirement 2020 Fund</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">69,203,045</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">41,026,469</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:7.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">T. Rowe Price Retirement 2025 Fund</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">67,516,753</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">37,168,768</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:7.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">T. Rowe Price Retirement 2030 Fund</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">77,801,165</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">42,198,782</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:7.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">T. Rowe Price Retirement 2035 Fund</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">59,394,149</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">29,267,954</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:7.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">T. Rowe Price Retirement 2040 Fund</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">92,472,221</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">44,403,519</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:7.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">T. Rowe Price Retirement 2045 Fund</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">80,748,013</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">35,145,156</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:7.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">T. Rowe Price Retirement 2050 Fund</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">20,511,631</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">6,478,499</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:7.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">T. Rowe Price Retirement 2055 Fund</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">13,376,309</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">4,473,045</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:7.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">T. Rowe Price Equity Index Trust Fund</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">122,528,197</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">85,564,227</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:7.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">T. Rowe Price Stable Value Fund</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">842,700,707</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">723,165,742</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:7.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Vanguard Asset Allocation Admiral Fund</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">63,124,622</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">47,776,994</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:5.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Costco Wholesale Corporation common stock</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">1,115,339,448</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">903,378,278</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:9.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Total investments</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">3,780,585,408</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">2,776,161,256</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Participant loans</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">233,227,601</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">204,896,240</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Cash</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">866,870</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">370,893</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Contributions receivable:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:5.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Employer</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">180,254,943</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">164,099,650</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:7.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Net assets available for benefits, at fair value</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">4,194,934,822</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">3,145,528,039</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Adjustment from fair value to contract value for fully benefit-responsive investment contracts:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">(25,305,731</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">)&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">6,778,997</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:7.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Net assets available for benefits</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">4,169,629,091</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">3,152,307,036</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">See accompanying notes to financial statements.
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">2 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="tx33795_4"></A>COSTCO 401(k) RETIREMENT PLAN </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Statements of Changes in Net Assets Available for Benefits </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Years Ended December 31, 2009 and 2008 </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="76%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>2009</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>2008</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Net investment income (loss):</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Net appreciation/(depreciation) in fair value of investments:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:5.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Registered investment company funds</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">392,442,839</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">(605,067,125</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">)&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:5.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Costco Wholesale Corporation common stock</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">143,524,251</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">(281,977,948</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">)&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:5.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Common commingled trust fund</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">26,737,047</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">(49,634,674</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">)&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Interest</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">47,623,066</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">47,276,773</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Dividends</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">45,176,126</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">64,320,828</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:7.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Total net investment income (loss)</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">655,503,329</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">(825,082,146</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">)&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Contributions to the Plan:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Employee</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">245,674,036</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">234,996,967</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Employer</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">221,429,146</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">203,995,481</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:7.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Total contributions</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">467,103,182</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">438,992,448</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Distributions to participants</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">(105,284,456</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">)&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">(123,796,207</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">)&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:7.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Net increase/(decrease) in net assets available for benefits</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">1,017,322,055</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">(509,885,905</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">)&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Net assets available for benefits, beginning of year</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">3,152,307,036</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">3,662,192,941</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Net assets available for benefits, end of year</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">4,169,629,091</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">3,152,307,036</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR></TABLE> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">See accompanying notes to financial statements. </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">3 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="tx33795_5"></A>COSTCO 401(k) RETIREMENT PLAN </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Notes to Financial Statements </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>December&nbsp;31, 2009 and 2008 </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(1)</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Plan Description </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The
+following description of the Costco 401(k) Retirement Plan (the&nbsp;&#147;Plan&#148;) provides only general information. Participants should refer to the plan document for a more complete description of the Plan&#146;s provisions. Participants in
+the Plan are employees of Costco Wholesale Corporation (the&nbsp;&#147;Company&#148;). </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Plan is a defined contribution plan
+established by the Company under the provisions of Section&nbsp;401(a) of the Internal Revenue Code (the&nbsp;IRC) that includes a qualified cash or deferred arrangement as described in Section&nbsp;401(k) of the IRC, for the benefit of eligible
+employees of the Company. The Plan is subject to the provisions of the Employee Retirement Income Security Act of 1974 (ERISA), as amended. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>(a)</I></B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Eligibility </I></B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The
+Plan allows certain employees over 18&nbsp;years of age to make salary deferral contributions and receive matching contributions commencing the first day of the month following the completion of 90&nbsp;days of employment. Participants are eligible
+for the Company&#146;s discretionary contribution after completing one year of service, working 1,000&nbsp;hours in the previous 12&nbsp;months, and attaining the age of 18. </FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>(b)</I></B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Employee Contributions </I></B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Each year, participants may contribute from 1% to 50% of their compensation before income taxes, subject to certain limitations set by the
+Internal Revenue Service (IRS). Participants may also contribute amounts representing distributions from other qualified benefit or contribution plans (known as rollover contributions). </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">All newly eligible employees are automatically enrolled in the Plan at a contribution rate of 3% unless the employee elects otherwise. On
+an active participant&#146;s employment anniversary date and each anniversary date thereafter, the percentage deferred into the Plan automatically increases by one percentage point to a maximum deferral of 15%. Employees may choose to opt out of
+this automatic deferral increase program. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>(c)</I></B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Employer Contributions </I></B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">All Company contributions are made in cash, and invested in accordance with investment selections made by participants. If no selection
+has been made, then the contribution is defaulted to the age-appropriate Retirement Date Fund. Employer Contributions are allocated based on an employee&#146;s classification as either 1) a California Union Employee, or 2) an Other-than-California
+Union Employee. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(1)</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>California Union Employees </B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Company matches 50% of each employee&#146;s contribution up to a maximum employer matching contribution of $250 per year. </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Company also makes contributions into the accounts of all eligible plan participants employed on the last day of the plan year based
+upon straight time hours worked during the plan year, up to a maximum of 2080 hours per calendar year. Based upon years of service, these contributions in 2009 and 2008 ranged from $0.05 to $0.60 per hour, totaling $4.9 million and $4.2 million for
+2009 and 2008, respectively. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">4 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>COSTCO 401(k) RETIREMENT PLAN </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Notes to Financial Statements&#151;(Continued) </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>December 31, 2009 and 2008 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(2)</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Other-than-California Union Employees </B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Company matches 50% of each employee&#146;s contribution up to a maximum employer matching contribution of $500 per year. </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Company may also contribute a discretionary amount into the account of each participant that is employed by the Company on the last
+day of the plan year. A discretionary contribution was approved for the plan years ending December&nbsp;31, 2009 and 2008 totaling $177.7 million and $164.1&nbsp;million, respectively, and ranged from 3% to 9% of each participant&#146;s compensation
+based upon years of service. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>(d)</I></B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Participants&#146; Accounts </I></B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Participants&#146; accounts are valued on a daily basis based on quoted market prices or, in the case of the Common Commingled Trust
+Funds, the quoted market prices of the underlying securities. The benefit to which a participant is entitled is the benefit that can be provided from the participant&#146;s vested account. </FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>(e)</I></B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Vesting </I></B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Participants are immediately vested in their contributions, plus actual earnings thereon. Vesting in the employer-match and discretionary
+contributions is based on years of service, according to the following schedule: </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="68%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="80%"></TD>
+<TD VALIGN="bottom" WIDTH="18%"></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1px solid #000000;width:54pt"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Years of service</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Percentage&nbsp;vested</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Under 2 years</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">0</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">%&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">2 years</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">20</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">%&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">3 years</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">40</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">%&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">4 years</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">60</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">%&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">5 years</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">100</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">%&nbsp;</FONT></TD></TR></TABLE> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>(f)</I></B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Forfeitures </I></B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Forfeitures may be used to reduce future employer contributions or to pay administrative expenses. There were no unallocated forfeitures
+as of December&nbsp;31, 2009 and 2008 after consideration of forfeitures used to reduce the employer discretionary contributions funded subsequent to each year. During 2009 and 2008, forfeitures totaling $3.0 million and $3.6 million respectively,
+were used to reduce employer contributions. Forfeitures, without the benefit of investment gains or losses, can be restored to a participant&#146;s account if, within five years, the participant is re-employed by the Company and repays the full
+dollar amount distributed because of the termination. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>(g)</I></B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Investment Options </I></B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Upon enrollment in the Plan, a participant may direct the account balance into any of the investment options currently available, as
+listed on the Statements of Net Assets Available for Benefits. Participants may change their investment options and transfer amounts between funds daily. T. Rowe Price is the trustee for all investments, serves as investment manager for certain
+registered investment company and common commingled trust funds, and provides recordkeeping of all participant accounts. Amounts may be temporarily invested in a cash account prior to investment in Costco Wholesale Corporation common stock. The
+age-appropriate Retirement Fund is the default investment option. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">5 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>COSTCO 401(k) RETIREMENT PLAN </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Notes to Financial Statements&#151;(Continued) </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>December 31, 2009 and 2008 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Effective June&nbsp;2, 2008, the Plan&#146;s investment options include the Equity Index
+Trust Schedule C and Stable Value Trust Fund Schedule B, replacing, respectively, the Equity Index Trust Schedule A and Stable Value Trust Fund Schedule A. In addition, effective October&nbsp;13, 2008, the name of the Julius Baer International
+Equity I Fund changed to Artio International Equity I Fund. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Dividends on the Company&#146;s stock are reinvested in the
+participant&#146;s Company stock account, unless a distribution is requested by the participant. During the years ended December&nbsp;31, 2009 and 2008, dividends totaling approximately $96,000 and $64,000 respectively, were distributed to
+participants. A participant may direct the Trustee as to the manner in which the Company&#146;s stock allocated to the participant&#146;s account shall be voted. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>(h)</I></B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Distributions </I></B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Upon termination of employment, total disability, or death, the vested interest in a participant&#146;s account is payable in a lump sum.
+Participants may apply for a distribution of all or a portion of the vested interest at any time after attainment of age&nbsp;59-1/2. Participants are also eligible to make hardship withdrawals from their salary deferral contributions in the event
+of certain financial hardships. Following a hardship withdrawal, participants are not allowed to contribute to the Plan for a period of six months. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>(i)</I></B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Participant Loans </I></B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">A participant may borrow up to the lesser of $50,000 or 45% of his or her vested account balance, calculated using the participant&#146;s
+pre-tax contribution, rollover, Company matching and Company discretionary contribution amounts. Only the participant&#146;s pre-tax contribution, rollover, and Company-matching amounts may be borrowed against, with a minimum loan of $1,000. Loans
+are payable through payroll deductions over a period ranging up to 180&nbsp;months, depending on the purpose of the loan. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The
+interest rate is determined by the plan administrator based on the Bank of America prime rate on the last day of the prior calendar quarter in which the loan was made plus 1% for a primary residence loan and prime rate plus 2% for a standard loan.
+The rates at December&nbsp;31, 2009 and 2008 ranged from 4.25% to 11.5%. The loans have various maturity dates, through December&nbsp;2024. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>(j)</I></B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Plan Administrator </I></B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Plan is administered by the Benefits Committee, which is appointed by the Board of Directors of the Company. </FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>(k)</I></B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Administrative and Investment Expenses </I></B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">All administrative and custodial fees of the Plan are paid by the Company. All investment management and transaction fees directly related
+to plan investments are paid by the Plan. Investment fees for 2009 and 2008 were approximately $3.0 million and $2.8 million, respectively. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">6 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>COSTCO 401(k) RETIREMENT PLAN </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Notes to Financial Statements&#151;(Continued) </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>December 31, 2009 and 2008 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(2)</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Significant Accounting Policies </B></FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>(a)</I></B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Basis of Accounting </I></B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The financial statements of the Plan are prepared under the accrual method of accounting. </FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>(b)</I></B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Use of Estimates </I></B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The preparation of financial statements in conformity with accounting principles generally accepted in the United States requires the
+Plan&#146;s management to use estimates and assumptions that affect the reported amounts of assets, liabilities, and changes therein and disclosures of contingent assets and liabilities. Actual results could differ from these estimates. </FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>(c)</I></B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Investment Valuation and Income Recognition </I></B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Plan invests in Company common stock, various registered investment company and common commingled trust funds that, in turn, invest in
+a combination of stocks, bonds and other investment securities. Investment securities, in general, are exposed to various risks, such as interest rate, credit and overall market volatility risks. Due to the level of risk associated with certain
+investment securities, it is possible that changes in the values of investment securities will occur in the near term and that those changes could materially affect the amounts reported in the statements of net assets available for benefits.
+</FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Registered investment company funds and Company common stock are stated at fair value based upon quoted market prices. The T.
+Rowe Price Equity Index Trust Fund is a common commingled trust fund stated at fair value and valued daily based on the quoted market prices of the underlying securities. Cash is valued at cost. </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The T. Rowe Price Stable Value Fund is a common commingled trust fund invested primarily in guaranteed investment contracts (GICs) and
+synthetic GICs. The GICs are fully benefit-responsive and are recorded at contract value, which approximates fair value. A benefit-responsive investment contract is a contract between an insurance company, a bank, a financial institution, or any
+financially responsible entity, with a plan that provides for a stated return on principal invested over a specified period and that permits withdrawals at contract value for benefit payments, loans, or transfers to other investment options offered
+to the participant by the plan. Participant withdrawals from the plan are required to be at contract value. The effective yield and crediting rate of the fund was 4.25% and 4.72% for the years ended December&nbsp;31, 2009 and 2008, respectively.
+Contract value is equal to principal balance plus accrued interest. The fair value of the GICs is calculated by discounting the related cash flows based on current yields of similar instruments with comparable investment durations. </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Investment contracts held by a defined-contribution plan are required to be reported at fair value. However, contract value is a relevant
+measurement attribute for that portion of the net assets available for benefits of a defined-contribution plan attributable to fully benefit-responsive investment contracts because contract value is the amount participants would receive if they were
+to initiate permitted transactions under the terms of the plan. The Statements of Net Assets Available for Plan Benefits presents the fair value of the investment contracts as well as the adjustment of the fully benefit-responsive investment
+contracts from fair value to contract value. The Statements of Changes in Net Assets Available for Plan Benefits is prepared on a contract value basis. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">7 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>COSTCO 401(k) RETIREMENT PLAN </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Notes to Financial Statements&#151;(Continued) </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>December 31, 2009 and 2008 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Purchases and sales of securities are recorded on a trade-date basis. Interest income is
+recorded on the accrual basis. Dividends are recorded on the ex-dividend date. Net appreciation/(depreciation) in fair value of investments includes the change in the fair value of assets from one period to the next, plus realized gains and losses.
+</FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>(d)</I></B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Participant Loans </I></B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Participant loans are valued at amortized cost, which approximates fair value. Interest on participant loans is included in interest on
+the Statements of Changes in Net Assets Available for Benefits. Loans are classified in the Statements of Net Assets Available for Benefits as an advance. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>(e)</I></B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Distribution of Benefits </I></B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Distributions of benefits are recorded when paid. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(3)</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Fair Value Measurement </B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Accounting Standards Codification Topic 820 (ASC 820) defines fair value as the price that would be received to sell an asset or paid to
+transfer a liability (an exit price) in an orderly transaction between market participants at the measurement date. ASC 820 also establishes a fair value hierarchy that requires an entity to maximize the use of observable inputs when measuring fair
+value. The standard describes three levels of inputs: </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Level 1: Quoted market prices in active markets for identical assets or
+liabilities. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Level 2: Observable market-based inputs or unobservable inputs that are corroborated by market data. </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Level 3: Unobservable inputs that are not corroborated by market data. </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The following valuation techniques are used to measure fair value: </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Level 1 primarily consists of financial instruments, such as Investments in Registered Investment Company funds and the Costco Common
+Stock Fund, whose value is based on quoted market prices, such as quoted net asset values published by the fund as supported in an active market, exchange-traded instruments and listed equities. </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Level 2 includes assets with observable inputs other than Level 1 prices, such as quoted prices for similar assets, or other inputs that
+are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities. The Plan&#146;s Level 2 assets include Investments in Common Commingled Trust funds. Valuation methodologies are based on
+&#147;consensus pricing,&#148; using market prices from a variety of industry-standard data providers or pricing that considers various assumptions, including time value, yield curve, volatility factors, credit spreads, default rates, loss severity,
+current market and contractual prices for the underlying instruments or debt, broker and dealer quotes, as well as other relevant economic measures. All are observable in the market or can be derived principally from or corroborated by observable
+market data, for which the Plan typically receives independent external valuation information. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Valuation techniques utilized
+during the reporting period in the fair value measurement of assets and liabilities presented on the Plan&#146;s balance sheet were not changed from previous practice. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;
+</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">8 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>COSTCO 401(k) RETIREMENT PLAN </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Notes to Financial Statements&#151;(Continued) </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>December 31, 2009 and 2008 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Assets and Liabilities Measured at Fair Value on a Recurring Basis
+</I></B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The following table presents information about the Plan&#146;s financial assets that are measured at fair value on a
+recurring basis as of December&nbsp;31, 2009 and 2008, and indicates the fair value hierarchy of the valuation techniques utilized to determine such fair value: </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="84%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="78%"></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="5" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>December&nbsp;31, 2009</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Level 1<BR>(in&nbsp;000s)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Level 2<BR>(in&nbsp;000s)</B></FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Assets:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Investment in Registered Investment Company Funds</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">1,700,017</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Investment in Common Commingled Trust Funds</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">965,229</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Costco Wholesale Corporation Common Stock</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">1,115,339</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:5.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Total</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">2,815,356</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">965,229</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD></TR></TABLE> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="84%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="78%"></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="5" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>December&nbsp;31, 2008</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Level 1<BR>(in&nbsp;000s)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Level 2<BR>(in&nbsp;000s)</B></FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Assets:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Investment in Registered Investment Company Funds</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">1,064,053</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Investment in Common Commingled Trust Funds</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">808,730</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Costco Wholesale Corporation Common Stock</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">903,378</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:5.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Total</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">1,967,431</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">808,730</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD></TR></TABLE> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(4)</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Plan Termination </B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Although it has not expressed any intent to do so, the Company has the right under the Plan to discontinue its contributions at any time
+and to terminate the Plan, subject to the provisions of ERISA and the requirements of the collective bargaining agreement with the International Brotherhood of Teamsters in California. In the event of plan termination, participants will become 100%
+vested in their accounts. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(5)</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Tax Status </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The IRS has
+informed the Company that the Plan is designed in accordance with applicable sections of the Internal Revenue Code. The Plan has been amended subsequent to receiving the determination letter on May&nbsp;5, 2006. The plan administrator believes that
+the Plan is designed and is being operated in compliance with the applicable requirements of the IRS. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">9 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>COSTCO 401(k) RETIREMENT PLAN </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Notes to Financial Statements&#151;(Continued) </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>December 31, 2009 and 2008 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(6)</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Party-in-Interest and Related Party Transactions </B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Certain plan investments are shares of registered investment company and common commingled trust funds managed by T. Rowe Price.
+T.&nbsp;Rowe Price is also the trustee and recordkeeper as defined by the Plan. Therefore, these transactions qualify as party-in-interest transactions. The Plan also invests in Company common stock. Therefore, these transactions qualify as
+party-in-interest transactions, also. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(7)</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Subsequent Events </B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Effective January&nbsp;1, 2010 the company added Roth contributions to the Plan. </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Effective June&nbsp;1, 2010, the Plan will add the T. Rowe Price American Funds Growth Fund of America R-5 and T. Rowe Price American
+Funds New Perspective Fund R-5. These funds will replace the T. Rowe Price American Funds Growth Fund of America A and the T. Rowe Price American Funds New Perspective Funds A, respectively. The Plan will also eliminate the Vanguard Asset Allocation
+Fund and add the Vanguard Total Bond Market Index Fund. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Subsequent events have been evaluated through the date of the
+independent registered public accounting firm&#146;s report. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">10 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="tx33795_7"></A>Schedule I </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>COSTCO 401(k) RETIREMENT PLAN </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">Schedule H, Line 4i &#150; Schedule of Assets (Held at End of Year) </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">December&nbsp;31, 2009 </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="55%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="31%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1px solid #000000;width:175pt"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Identity of issuer, borrower, lessor, or similar party</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Description of investment</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Current value</B></FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Registered investment company and common commingled trust funds:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">American Funds</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Growth Fund of America</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">101,700,779</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">American Funds</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">New Perspective Fund</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">89,175,055</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Artio</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">International&nbsp;Equity&nbsp;I&nbsp;Fund</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">108,207,201</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Davis Funds</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">New York Venture Fund Class Y</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">98,339,845</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">* T. Rowe Price</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Small-Cap Stock Fund</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">119,350,203</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">* T. Rowe Price</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Spectrum Income Fund</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">224,597,429</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">* T. Rowe Price</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Mid-Cap Growth Fund</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">339,602,033</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">* T. Rowe Price</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Retirement Income Fund</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">7,909,939</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">* T. Rowe Price</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Retirement 2005 Fund</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">5,858,329</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">* T. Rowe Price</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Retirement 2010 Fund</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">22,722,389</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">* T. Rowe Price</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Retirement 2015 Fund</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">38,405,946</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">* T. Rowe Price</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Retirement 2020 Fund</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">69,203,045</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">* T. Rowe Price</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Retirement 2025 Fund</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">67,516,753</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">* T. Rowe Price</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Retirement 2030 Fund</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">77,801,165</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">* T. Rowe Price</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Retirement 2035 Fund</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">59,394,149</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">* T. Rowe Price</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Retirement 2040 Fund</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">92,472,221</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">* T. Rowe Price</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Retirement 2045 Fund</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">80,748,013</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">* T. Rowe Price</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Retirement 2050 Fund</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">20,511,631</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">* T. Rowe Price</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Retirement 2055 Fund</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">13,376,309</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">* T. Rowe Price</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Equity Index Trust Fund</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">122,528,197</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">* T. Rowe Price</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Stable&nbsp;Value&nbsp;Fund&nbsp;(at&nbsp;contract&nbsp;value)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">817,394,976</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Vanguard</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Asset Allocation Admiral Fund</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">63,124,622</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Common stock</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">* Costco Wholesale Corporation</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Common stock</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">1,115,339,448</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Loans</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">* Various Participants</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Participant loans, with interest rates of 4.25% to 11.5% maturing through December 2024</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">233,227,601</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">3,988,507,278</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD></TR></TABLE> <P STYLE="line-height:8px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000;width:10%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">*</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Indicates a party-in-interest. </FONT></TD></TR></TABLE>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">See accompanying report of independent registered public accounting firm. </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">11 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="tx33795_8"></A>SIGNATURE </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Exchange Act of 1934, the trustees (or other persons who administer the employee benefit
+plan) have duly caused this annual report to be signed on its behalf by the undersigned hereunto duly authorized. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD WIDTH="46%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="45%"></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="3"><FONT STYLE="font-family:Times New Roman" SIZE="2">C<SMALL>OSTCO</SMALL> 401(<SMALL>K</SMALL>) R<SMALL>ETIREMENT</SMALL> P<SMALL>LAN</SMALL></FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Date: May 17, 2010</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/<SMALL>S</SMALL>/&nbsp;&nbsp;&nbsp;&nbsp;J<SMALL>OHN</SMALL>
+M<SMALL>ATTHEWS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</SMALL></FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>John Matthews</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Senior Vice President</B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Costco Wholesale Corporation</B></FONT></P></TD></TR></TABLE>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">12 </FONT></P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.A
+<SEQUENCE>2
+<FILENAME>dex23a.htm
+<DESCRIPTION>CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+<TEXT>
+<HTML><HEAD>
+<TITLE>Consent of Independent Registered Public Accounting Firm</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Exhibit 23(a) </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Consent of Independent Registered Public Accounting Firm </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Benefits Committee </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Costco 401(k) Retirement
+Plan: </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">We consent to the incorporation by reference in the registration statement (No. 333-150014) on Form S-8 of Costco Wholesale Corporation
+of our report dated May 17, 2010, with respect to the statements of net assets available for benefits of the Costco 401(k) Retirement Plan as of December&nbsp;31, 2009 and 2008 and the related statements of changes in net assets available for
+benefits for the years then ended and the related supplemental Schedule H, line 4i-schedule of assets (held at end of year), which report appears in the December&nbsp;31, 2009 annual report on Form 11-K of the Costco 401(k) Retirement Plan.
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/&nbsp;KPMG LLP </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Seattle,
+Washington </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">May 17, 2010 </FONT></P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,440 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HA5f4rMljHWuxnFr/HWyBiIjSacGy8cYUXUi4eNEaDc0GnPbjpZ3h0Ybw8W1ZV0A
+ c2q/a6v/JYmiE/TeGRXm8g==
+
+<SEC-DOCUMENT>0001104659-11-001371.txt : 20110113
+<SEC-HEADER>0001104659-11-001371.hdr.sgml : 20110113
+<ACCEPTANCE-DATETIME>20110113124324
+ACCESSION NUMBER:		0001104659-11-001371
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20110112
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20110113
+DATE AS OF CHANGE:		20110113
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TARGET CORP
+		CENTRAL INDEX KEY:			0000027419
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				410215170
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06049
+		FILM NUMBER:		11527050
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1000 NICOLLET MALL
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55403
+		BUSINESS PHONE:		6123046073
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 NICOLLET MALL
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55403
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DAYTON HUDSON CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DAYTON CORP
+		DATE OF NAME CHANGE:	19690728
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a11-3793_18k.htm
+<DESCRIPTION>8-K
+<TEXT>
+
+
+<html>
+<head>
+
+  </head>
+<body lang="EN-US">
+<div style="font-family:Times New Roman;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="4" face="Times New Roman" style="font-size:14.0pt;font-weight:bold;">UNITED STATES</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="4" face="Times New Roman" style="font-size:14.0pt;font-weight:bold;">SECURITIES AND EXCHANGE COMMISSION</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Washington, D.C. 20549</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center" style="margin:0in 0in .0001pt;text-align:center;"><hr size="1" width="20%" noshade color="black" align="center"></div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="4" face="Times New Roman" style="font-size:14.0pt;font-weight:bold;">FORM&nbsp;8-K</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="4" face="Times New Roman" style="font-size:14.0pt;font-weight:bold;">CURRENT REPORT</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Pursuant to Section&nbsp;13 or 15(d)&nbsp;of the Securities Exchange Act of 1934</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date of Report (Date of earliest event reported) January&nbsp;12, 2011</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:16.0pt;font-weight:bold;">Target Corporation</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Exact name of registrant as specified in its charter)</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="34%" valign="top" style="padding:0in 0in 0in 0in;width:34.84%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Minnesota</font></b></p>  </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.82%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>  </td>
+<td width="28%" valign="top" style="padding:0in 0in 0in 0in;width:28.36%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">1-6049</font></b></p>  </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>  </td>
+<td width="31%" valign="top" style="padding:0in 0in 0in 0in;width:31.98%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">41-0215170</font></b></p>  </td>  </tr>
+<tr>
+<td width="34%" valign="top" style="padding:0in 0in 0in 0in;width:34.84%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">(State or other jurisdiction of incorporation)</font></p>  </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.82%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>  </td>
+<td width="28%" valign="top" style="padding:0in 0in 0in 0in;width:28.36%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">(Commission File Number)</font></p>  </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>  </td>
+<td width="31%" valign="top" style="padding:0in 0in 0in 0in;width:31.98%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">(I.R.S. Employer Identification No.)</font></p>  </td>  </tr>  </table>
+</div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">1000 Nicollet Mall, Minneapolis, Minnesota 55403</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">(Address of principal executive offices, including zip code)</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">(612) 304-6073</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">(Registrant&#146;s telephone number, including area code)</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Check the appropriate box below if the Form&nbsp;8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">[ ] </font><font size="2" style="font-size:10.0pt;">Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">[ ] </font><font size="2" style="font-size:10.0pt;">Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">[ ] </font><font size="2" style="font-size:10.0pt;">Pre-commencement communications pursuant to Rule&nbsp;14d-2(b)&nbsp;under the Exchange Act (17 CFR 240.14d-2(b))</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">[ ] </font><font size="2" style="font-size:10.0pt;">Pre-commencement communications pursuant to Rule&nbsp;13e-4(c)&nbsp;under the Exchange Act (17 CFR 240.13e-4(c))</font></p>
+<p style="margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\106409\11-3793-1\task4427131\3793-1-ba.htm',USER='106409',CD='Jan 13 08:24 2011' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 1.01.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <u>Entry into a Material Definitive Agreement.</u></font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">On January12, 2011, Target Corporation and Target Canada Co., a wholly-owned subsidiary of Target Corporation, entered into a Transaction Agreement with Zellers Inc. and Hudson&#146;s Bay Company.&#160; The terms of the agreement are described in the press release attached hereto as Exhibit&nbsp;99.</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\106409\11-3793-1\task4427131\3793-1-ba.htm',USER='106409',CD='Jan 13 08:24 2011' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 9.01&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <u>Financial Statements and Exhibits</u></font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="4%" valign="top" style="padding:0in 0in 0in 0in;width:4.44%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(d)</font></p>  </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.24%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>  </td>
+<td width="93%" valign="top" style="padding:0in 0in 0in 0in;width:93.32%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Exhibits</font></p>  </td>  </tr>  </table>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="4%" valign="top" style="padding:0in 0in 0in 0in;width:4.44%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>  </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.24%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>  </td>
+<td width="6%" valign="top" style="padding:0in 0in 0in 0in;width:6.24%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(99)</font></p>  </td>
+<td width="87%" valign="top" style="padding:0in 0in 0in 0in;width:87.08%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Target Corporation&#146;s News Release dated January&nbsp;13, 2011.</font></p>  </td>  </tr>  </table>
+<p align="center" style="margin:0in 0in .0001pt .5in;text-align:center;text-indent:-.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">SIGNATURE</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>  </td>
+<td width="50%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">TARGET CORPORATION</font></b></p>  </td>  </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>  </td>
+<td width="50%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>  </td>  </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>  </td>
+<td width="50%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>  </td>  </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date: January&nbsp;13, 2011</font></p>  </td>
+<td width="15%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:15.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">/s/ Timothy R. Baer</font></p>  </td>
+<td width="34%" valign="top" style="padding:0in 0in 0in 0in;width:34.34%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>  </td>  </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>  </td>
+<td width="50%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Timothy R. Baer</font></p>  </td>  </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>  </td>
+<td width="50%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Executive Vice President, General Counsel and<br> Corporate Secretary</font></p>  </td>  </tr>  </table>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\106409\11-3793-1\task4427131\3793-1-ba.htm',USER='106409',CD='Jan 13 08:24 2011' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">EXHIBIT&nbsp;INDEX</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="11%" valign="bottom" style="padding:0in 0in 0in 0in 0in 0in 0in 0in;width:11.22%;">
+<p style="margin:0in 0in .0001pt;"><b><u><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Exhibit</font></u></b></p>  </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in 0in 0in 0in 0in;width:2.84%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>  </td>
+<td width="60%" valign="bottom" style="padding:0in 0in 0in 0in 0in 0in 0in 0in;width:60.66%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><u><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Description</font></u></b></p>  </td>
+<td width="4%" valign="bottom" style="padding:0in 0in 0in 0in 0in 0in 0in 0in;width:4.86%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>  </td>
+<td width="13%" valign="bottom" style="padding:0in 0in 0in 0in 0in 0in 0in 0in;width:13.76%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><u><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Method<br> of&nbsp;Filing</font></u></b></p>  </td>
+<td width="6%" valign="bottom" style="padding:0in 0in 0in 0in 0in 0in 0in 0in;width:6.66%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>  </td>  </tr>
+<tr>
+<td width="11%" valign="top" style="padding:0in 0in 0in 0in 0in 0in 0in 0in;width:11.22%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>  </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in 0in 0in 0in 0in;width:2.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>  </td>
+<td width="60%" valign="top" style="padding:0in 0in 0in 0in 0in 0in 0in 0in;width:60.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>  </td>
+<td width="4%" valign="bottom" style="padding:0in 0in 0in 0in 0in 0in 0in 0in;width:4.86%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>  </td>
+<td width="20%" colspan="2" valign="top" style="padding:0in 0in 0in 0in 0in 0in 0in 0in;width:20.42%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>  </td>  </tr>
+<tr>
+<td width="11%" valign="top" style="padding:0in 0in 0in 0in 0in 0in 0in 0in;width:11.22%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(99).</font></p>  </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in 0in 0in 0in 0in;width:2.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>  </td>
+<td width="60%" valign="top" style="padding:0in 0in 0in 0in 0in 0in 0in 0in;width:60.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Target Corporation&#146;s News Release dated January&nbsp;13, 2011.</font></p>  </td>
+<td width="4%" valign="bottom" style="padding:0in 0in 0in 0in 0in 0in 0in 0in;width:4.86%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>  </td>
+<td width="20%" colspan="2" valign="top" style="padding:0in 0in 0in 0in 0in 0in 0in 0in;width:20.42%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Filed Electronically</font></p>  </td>  </tr>  </table>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\106409\11-3793-1\task4427131\3793-1-ba.htm',USER='106409',CD='Jan 13 08:24 2011' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>a11-3793_1ex99.htm
+<DESCRIPTION>EX-99
+<TEXT>
+
+
+<html>
+<head>
+
+
+  </head>
+<body lang="EN-US">
+<div style="font-family:Times New Roman;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Exhibit 99</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-weight:bold;"><img width="59" height="70" src="g37931mmi001.jpg"></font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">FOR IMMEDIATE RELEASE</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="10%" valign="top" style="padding:0in 0in 0in 0in;width:10.42%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">Contacts: </font></b></p>  </td>
+<td width="89%" valign="top" style="padding:0in 0in 0in 0in;width:89.58%;">
+<p style="margin:0in 0in .0001pt;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">John Hulbert,&nbsp;Investors, (612) 761-6627</font></p>  </td>  </tr>
+<tr>
+<td width="10%" valign="top" style="padding:0in 0in 0in 0in;width:10.42%;">
+<p style="margin:0in 0in .0001pt;"><font size="3" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>  </td>
+<td width="89%" valign="top" style="padding:0in 0in 0in 0in;width:89.58%;">
+<p style="margin:0in 0in .0001pt;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">Lena Michaud, Target Communications, (612) 761-6796</font></p>  </td>  </tr>
+<tr>
+<td width="10%" valign="top" style="padding:0in 0in 0in 0in;width:10.42%;">
+<p style="margin:0in 0in .0001pt;"><font size="3" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>  </td>
+<td width="89%" valign="top" style="padding:0in 0in 0in 0in;width:89.58%;">
+<p style="margin:0in 0in .0001pt;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">Target Media Hotline, (612) 696-3400</font></p>  </td>  </tr>  </table>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="4" face="Times New Roman" style="font-size:14.0pt;font-weight:bold;">Target Corporation to Acquire Interest in Canadian Real Estate from Zellers Inc., a Subsidiary of Hudson&#146;s Bay Company, for C$1.825 Billion</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><i><font size="3" face="Times New Roman" style="font-size:12.0pt;font-style:italic;font-weight:bold;">Canadian Target Stores to Open Beginning in 2013</font></i></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:12.0pt;line-height:150%;margin:0in 0in .0001pt;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;line-height:150%;">MINNEAPOLIS (Jan.&nbsp;13, 2010) </font></b>&#151;Target Corporation (NYSE: TGT) announced today that it has agreed to pay C$1.825 billion to purchase from&#160; Zellers Inc., a subsidiary of the Hudson&#146;s Bay Company (HBC), the leasehold interests in up to 220 sites currently operated by Zellers Inc. This transaction will allow Target to open its first Target stores in Canada beginning in 2013.</p>
+<p style="line-height:150%;margin:0in 0in .0001pt;"><font size="3" face="Times New Roman" style="font-size:12.0pt;line-height:150%;">&nbsp;</font></p>
+<p style="line-height:150%;margin:0in 0in .0001pt;text-indent:.5in;"><font size="3" face="Times New Roman" style="font-size:12.0pt;line-height:150%;">&#147;This transaction provides an outstanding opportunity for us to extend our Target brand, Target stores and superior shopping experience beyond the United States for the first time in our company&#146;s history,&#148; said Gregg Steinhafel, chairman, president and chief executive officer of Target Corporation. &#147;We are very excited to bring our broad assortment of unique, high-quality merchandise at exceptional values and our convenient shopping environment to Canadian guests coast-to-coast. We believe our investment in these leases will strengthen the surrounding communities as well as create strategic and financial value for Target stakeholders.&#148;</font></p>
+<p style="line-height:150%;margin:0in 0in .0001pt;text-indent:.5in;"><font size="3" face="Times New Roman" style="font-size:12.0pt;line-height:150%;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">Transaction Details</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="line-height:150%;margin:0in 0in .0001pt;text-indent:.5in;"><font size="3" face="Times New Roman" style="font-size:12.0pt;line-height:150%;">Target has agreed to pay Zellers Inc. C$1.825 billion, in two equal payments of C$912.5 million, to acquire the leasehold interests in up to 220 sites currently operated by Zellers Inc. These payments are expected to be made in May&nbsp;and September&nbsp;of 2011. Zellers Inc. will sublease these sites from Target and continue to operate them under the Zellers banner for a period of time.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\106203\11-3793-1\task4427814\3793-1-mm.htm',USER='106203',CD='Jan 13 21:40 2011' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><i><font size="3" color="black" face="Times New Roman" style="color:black;font-size:12.0pt;font-style:italic;">Target Acquires Canadian Real Estate from Zellers</font></i></p>
+<p style="margin:0in 0in .0001pt;"><i><font size="3" color="black" face="Times New Roman" style="color:black;font-size:12.0pt;font-style:italic;">Page 2</font></i></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">&nbsp;</font></p>
+<p style="line-height:150%;margin:0in 0in .0001pt;text-indent:.5in;"><font size="3" face="Times New Roman" style="font-size:12.0pt;line-height:150%;">Target expects to open 100 to 150 Target stores throughout Canada in 2013 and 2014. The financial returns on these stores are expected to be in line with returns on new Target stores in the United States, resulting in dilution to earnings prior to store openings followed by accretion to earnings in the first full year of store operations. These stores will provide a strong, initial foundation for a more robust Target presence in Canada over time.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">Canadian Economic Impact</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">&nbsp;</font></p>
+<p style="line-height:150%;margin:0in 0in .0001pt;text-indent:.5in;"><font size="3" face="Times New Roman" style="font-size:12.0pt;line-height:150%;">Target is excited about the Canadian workforce and expects to create thousands of jobs for Canadians in the coming years through store renovations, expansions and new construction as well as subsequent store operations. Target will initially create opportunities in the construction industry as it seeks to ensure that each location delivers a Target-brand shopping experience. Target expects that renovation of leased sites will result in an aggregate investment of more than C$1 billion. Once remodeled and open, tens of thousands of jobs will be created to operate the new Target stores. A typical Target store in the United States employs approximately 150 to 200 team members.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">&nbsp;</font></p>
+<p style="line-height:150%;margin:0in 0in .0001pt;text-indent:.5in;"><font size="3" face="Times New Roman" style="font-size:12.0pt;line-height:150%;">Target has always believed in strengthening the communities where it does business. Its commitment to donate 5 percent of its income began more than sixty years ago and extends to each new community it enters. Today, Target gives about US$175 million annually, or more than US$3 million a week, to support programs that improve the lives of Target guests, team members and communities.&#160; As the company expands its presence in Canada, it will also extend its 5 percent commitment, long history of being a good neighbor and active engagement with local and national partners to help build safer and healthier communities across the country.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">Target Credit Card Receivables</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">Target also announced today that it intends to actively pursue the sale of its credit card receivables portfolio, which totaled US$6.7 billion as of October&nbsp;30, 2010. First Annapolis has been engaged to advise Target in this process.</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\106203\11-3793-1\task4427814\3793-1-mm.htm',USER='106203',CD='Jan 13 21:40 2011' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><i><font size="3" color="black" face="Times New Roman" style="color:black;font-size:12.0pt;font-style:italic;">Target Acquires Canadian Real Estate from Zellers</font></i></p>
+<p style="margin:0in 0in .0001pt;"><i><font size="3" color="black" face="Times New Roman" style="color:black;font-size:12.0pt;font-style:italic;">Page 3</font></i></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">Target believes that improved portfolio performance, the successful launch of its REDcard Rewards program, and conditions of the capital markets create an attractive opportunity to engage interested parties regarding a possible sale of these assets. In addition to an appropriate financial arrangement, Target intends to execute a transaction in which it would retain operational control of its strategically important financial services business, including its deep integration with Target&#146;s retail operations. Additionally, a transaction would be expressly designed to have minimal impact on Target&#146;s guests or the Target team members who provide financial products and services to them.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">Target intends to execute a transaction only if appropriate strategic and financial conditions are met. Any proceeds to Target resulting from a potential transaction would be net of existing third party interests in the portfolio.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">Forward-Looking Statements</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">The statements on the expected earnings impact resulting from the HBC transaction, the number and timing of Target store openings in Canada, the expected capital expenditures associated with any store openings and the nature of a potential credit card receivables sale are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Such statements speak only as of the date they are made and are subject to risks and uncertainties&nbsp;which could cause&nbsp;the company&#146;s&nbsp;actual results&nbsp;to differ materially.&nbsp; The most important risks and uncertainties&#160; include: (i)&nbsp;the risk that the transaction may not close on the expected timeline; (ii)&nbsp;the risk that the new stores may not be integrated successfully or that the integration may be more costly than expected; (iii)&nbsp;the risk of expansion into a country where we have n
+ot previously had retail operations; and (iv)&nbsp; the risks described in&nbsp;the Risk Factors sections&nbsp;of the company&#146;s&nbsp;Form&nbsp;10-K for the fiscal year ended January&nbsp;30, 2010 and the Form&nbsp;10-Q for the fiscal quarter ended July&nbsp;31, 2010.</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\106203\11-3793-1\task4427814\3793-1-mm.htm',USER='106203',CD='Jan 13 21:40 2011' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><i><font size="3" color="black" face="Times New Roman" style="color:black;font-size:12.0pt;font-style:italic;">Target Acquires Canadian Real Estate from Zellers</font></i></p>
+<p style="margin:0in 0in .0001pt;"><i><font size="3" color="black" face="Times New Roman" style="color:black;font-size:12.0pt;font-style:italic;">Page 4</font></i></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">About Target</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">Minneapolis-based Target Corporation (NYSE:TGT) serves guests at 1,752 stores in 49 states within the U.S. and at Target.com. In addition, the company operates a credit card segment that offers branded proprietary credit card products. Since 1946, Target has given 5 percent of its income through community grants and programs; today, that giving equals more than US$3 million a week. For more information about Target&#146;s commitment to corporate responsibility, visit  <u>Target.com/hereforgood</u>.</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><i><font size="3" face="Times New Roman" style="font-size:12.0pt;font-style:italic;">###</font></i></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\106203\11-3793-1\task4427814\3793-1-mm.htm',USER='106203',CD='Jan 13 21:40 2011' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g37931mmi001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g37931mmi001.jpg
+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
+7L-F)(X@D"N2D8#@``X]!Z5Z'110(_]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

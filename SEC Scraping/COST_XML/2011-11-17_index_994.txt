@@ -1,0 +1,335 @@
+<SEC-DOCUMENT>0001209191-11-056676.txt : 20111117
+<SEC-HEADER>0001209191-11-056676.hdr.sgml : 20111117
+<ACCEPTANCE-DATETIME>20111117135918
+ACCESSION NUMBER:		0001209191-11-056676
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20111116
+FILED AS OF DATE:		20111117
+DATE AS OF CHANGE:		20111117
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BROTMAN JEFFREY H
+		CENTRAL INDEX KEY:			0001184491
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-20355
+		FILM NUMBER:		111212637
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COSTCO WHOLESALE CORP /NEW
+		CENTRAL INDEX KEY:			0000909832
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				911223280
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			0828
+
+	BUSINESS ADDRESS:	
+		STREET 1:		999 LAKE DRIVE
+		CITY:			ISSAQUAH
+		STATE:			WA
+		ZIP:			98027-
+		BUSINESS PHONE:		4253138100
+
+	MAIL ADDRESS:	
+		STREET 1:		999 LAKE DRIVE
+		CITY:			ISSAQUAH
+		STATE:			WA
+		ZIP:			98027
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COSTCO COMPANIES INC
+		DATE OF NAME CHANGE:	19970401
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PRICE/COSTCO INC
+		DATE OF NAME CHANGE:	19930728
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0304</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2011-11-16</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000909832</issuerCik>
+        <issuerName>COSTCO WHOLESALE CORP /NEW</issuerName>
+        <issuerTradingSymbol>COST</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001184491</rptOwnerCik>
+            <rptOwnerName>BROTMAN JEFFREY H</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>999 LAKE DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ISSAQUAH</rptOwnerCity>
+            <rptOwnerState>WA</rptOwnerState>
+            <rptOwnerZipCode>98027</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chairman of the Board</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2011-11-16</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>60000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>626703.04</value>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>1984 Brotman Family Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>134893</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>20</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Justin Brotman</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares sold as follows:
+
+100  @ 82.8700
+100  @ 82.8900
+112  @ 82.9100
+90   @ 82.9400
+200  @ 82.9500
+100  @ 82.9700
+100  @ 82.9800
+900  @ 82.9900
+100  @ 83.0000
+500  @ 83.0100
+100  @ 83.0150
+500  @ 83.0200
+79   @ 83.0300
+300  @ 83.0350
+200  @ 83.0400
+400  @ 83.0500
+100  @ 83.0575
+600  @ 83.0600
+100  @ 83.0650
+300  @ 83.0700
+100  @ 83.0800
+100  @ 83.0850
+200  @ 83.0900
+100  @ 83.0950
+700  @ 83.1000
+465  @ 83.1100
+100  @ 83.1150
+500  @ 83.1200
+300  @ 83.1300
+500  @ 83.1400
+300  @ 83.1450
+800  @ 83.1500
+200  @ 83.1600
+300  @ 83.1700
+300  @ 83.1800
+100  @ 83.1850
+500  @ 83.1900
+700  @ 83.2000
+1000 @ 83.2100
+100  @ 83.2175
+1080 @ 83.2200
+100  @ 83.2250
+900  @ 83.2300
+200  @ 83.2350
+700  @ 83.2400
+100  @ 83.2450
+500  @ 83.2500
+100  @ 83.2575
+500  @ 83.2600
+300  @ 83.2700
+200  @ 83.2800
+600  @ 83.2900
+500  @ 83.3100
+100  @ 83.3200</footnote>
+        <footnote id="F2">Shares sold as follows (continued):
+
+100  @ 83.3300
+100  @ 83.3400
+300  @ 83.3600
+100  @ 83.4150
+800  @ 83.4200
+100  @ 83.4250
+300  @ 83.4300
+600  @ 83.4700
+500  @ 83.4800
+100  @ 83.4900
+171  @ 83.6000
+100  @ 83.6050
+729  @ 83.6100
+500  @ 83.6200
+100  @ 83.6250
+100  @ 83.6300
+200  @ 83.6700
+200  @ 83.6800
+79   @ 83.6900
+401  @ 83.7000
+300  @ 83.7100
+100  @ 83.7150
+100  @ 83.7200
+200  @ 83.7300
+100  @ 83.7350
+300  @ 83.7500
+100  @ 83.7550
+900  @ 83.7600
+100  @ 83.7700
+100  @ 83.7800
+100  @ 83.7850
+200  @ 83.7900
+300  @ 83.8000
+200  @ 83.8050
+700  @ 83.8100
+200  @ 83.8200
+200  @ 83.8400
+200  @ 83.8600
+200  @ 83.8650
+100  @ 83.8775
+600  @ 83.8800
+300  @ 83.9300
+400  @ 83.9400
+200  @ 83.9500
+200  @ 83.9800
+1000 @ 83.9900
+1400 @ 84.0000
+600  @ 84.0100
+100  @ 84.0150
+300  @ 84.0200
+2200 @ 84.0300
+800  @ 84.0400
+600  @ 84.0500</footnote>
+        <footnote id="F3">Shares sold as follows (continued):
+
+700   @ 84.0600
+200   @ 84.0650
+1808  @ 84.0700
+2100  @ 84.0800
+600   @ 84.0900
+400   @ 84.1000
+100   @ 84.1050
+2100  @ 84.1100
+100   @ 84.1150
+1300  @ 84.1200
+500   @ 84.1300
+300   @ 84.1400
+1200  @ 84.1500
+500   @ 84.1600
+900   @ 84.1700
+1622  @ 84.1800
+700   @ 84.1900
+600   @ 84.2000
+900   @ 84.2100
+1200  @ 84.2200
+300   @ 84.2300
+800   @ 84.2350
+900   @ 84.2400
+300   @ 84.2600
+300   @ 84.2800
+900   @ 84.2900
+664   @ 84.3000
+800   @ 84.3400</footnote>
+        <footnote id="F4">Mr. Brotman disclaims beneficial ownership of shares owned by the trust.  Mr. Brotman is not a trustee of this trust nor does he have investment control over the trust's assets.  Mr. Brotman is one of a number of beneficiaries of the trust.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Deanna K. Nakashima, attorney-in-fact</signatureName>
+        <signatureDate>2011-11-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
