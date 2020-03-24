@@ -162,6 +162,22 @@ def consolidate_files(years):
     files = files.reset_index(drop=True)
     return(files)
 
+def consolidate_files_others(company):
+    """
+        input is the name of company, the name of folder
+        output is df, columns include "filename", "filepath", "type"
+    """
+    # get path
+    path = os.getcwd() + '\Transcripts Scraping' + "\\" + company
+    # get file names
+    tmp = pd.DataFrame(os.listdir(path), columns=["filename"])
+    # get file path for each file
+    tmp["filepath"] = tmp["filename"].map(lambda x: path + "\\" + x)
+    # check if it's a fancy(FACTSET) file
+    tmp["type"] = tmp["filename"].map(lambda x: is_FactSet(path + "\\" + x))     
+
+    return(tmp)
+
 
 def filenames_to_para(files):
     """
