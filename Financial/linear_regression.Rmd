@@ -1,0 +1,160 @@
+---
+title: "OM386-20200129"
+output: html_document
+---
+```{r}
+data = read.csv("topic_revenue.csv")
+head(data)
+
+```
+
+
+
+
+```{r}
+library(MASS) # for stepwise
+
+data = read.csv("topic_revenue.csv")
+# data = within(data, rm(quarter))
+colnames(data) = c("Membership1", "Membership2", "Pricing", "Seasonal_Holiday", 
+                   "Delivery_service", "Income_growth", "Brand_products", 
+                   "Employee", "Investment_return", "Others", "Inflation",  
+                   "Content_service", "company", "Revenue", "yoy_growth",
+                   "CPI", "Quarter2", "Quarter3", "Quarter4")
+
+# forward
+companies=c("Walmart", "Amazon", "Kroger", "Target", "Costco")
+for(company in companies){
+
+  d = data[(data$company == company),]
+  d = within(d, rm(company, yoy_growth))
+  
+  # # I don't know what happened
+  # min.model = lm(Revenue ~ 1, data=d)
+  # full.formula <- formula(lm(Revenue~.,d))
+  # step.model <- step(min.model, direction='forward', scope=full.formula)
+  
+  full.model <- lm(Revenue ~., data = d)
+  least.model <- lm(Revenue ~ 1, data=d)
+  
+  # Stepwise regression model
+  step.model <- stepAIC(full.model, direction = "both",
+                        trace = FALSE)
+  
+  # # forward
+  # step.model = stepAIC(least.model,direction="forward",
+  #                      scope=list(upper=full.model,lower=least.model),
+  #                      trace = FALSE)
+  
+  # # backword
+  # step.model = stepAIC(full.model,direction="backward",
+  #                      scope=list(upper=full.model,lower=least.model),
+  #                      trace = FALSE)
+  # 
+  # summary(step.model)
+
+  print("========================")
+  print(company)
+  print(summary(step.model))
+
+}
+```
+
+
+```{r}
+data = read.csv("topic_revenue.csv")
+
+colnames(data) = c("Membership1", "Membership2", "Pricing", "Seasonal_Holiday", 
+                   "Delivery_service", "Income_growth", "Brand_products", 
+                   "Employee", "Investment_return", "Others", "Inflation",  
+                   "Content_service", "company", "Revenue", "yoy_growth",
+                   "CPI", "Quarter2", "Quarter3", "Quarter4")
+
+
+companies=c("Walmart", "Amazon", "Kroger", "Target", "Costco")
+for(company in companies){
+
+  d = data[(data$company == company),]
+  d = within(d, rm(company, Revenue, Investment_return, Others))
+  
+  # # I don't know what happened
+  # min.model = lm(Revenue ~ 1, data=d)
+  # full.formula <- formula(lm(Revenue~.,d))
+  # step.model <- step(min.model, direction='forward', scope=full.formula)
+  
+  full.model <- lm(yoy_growth ~., data = d)
+  least.model <- lm(yoy_growth ~ 1, data=d)
+
+  # # Stepwise regression model
+  # step.model <- stepAIC(full.model, direction = "both", 
+  #                       trace = FALSE)
+  
+  # forward
+  step.model = stepAIC(least.model,direction="forward",
+                       scope=list(upper=full.model,lower=least.model),
+                       trace = FALSE)
+  
+  # # backword
+  # step.model = stepAIC(full.model,direction="backward",
+  #                      scope=list(upper=full.model,lower=least.model),
+  #                      trace = FALSE)
+  
+  summary(step.model)
+
+  print("========================")
+  print(company)
+  print(summary(step.model))
+
+}
+```
+
+```{r}
+d = data[(data$company == "Walmart"),]
+```
+
+
+```{r}
+data = read.csv("topic_stock.csv")
+# data = within(data, rm(quarter))
+colnames(data) = c("Membership1", "Membership2", "Pricing", "Seasonal_Holiday", 
+                   "Delivery_service", "Income_growth", "Brand_products", 
+                   "Employee", "Investment_return", "Others", "Inflation",  
+                   "Content_service", "company", "Revenue", "yoy_growth",
+                   "CPI", "Quarter2", "Quarter3", "Quarter4", "actual_quarter",
+                   "quarter", "stock.change", "sp500.index.change")
+data = within(data, rm(quarter, Revenue, Investment_return, Others,
+                       actual_quarter, yoy_growth))
+
+
+for(company in companies){
+
+  d = data[(data$company == company),]
+  d = within(d, rm(company))
+  
+  full.model <- lm(stock.change ~., data = d)
+  least.model <- lm(stock.change ~ 1, data=d)
+
+  # # Stepwise regression model
+  # step.model <- stepAIC(full.model, direction = "both",
+  #                       trace = FALSE)
+  
+  # forward
+  step.model = stepAIC(least.model,direction="forward",
+                       scope=list(upper=full.model,lower=least.model),
+                       trace = FALSE)
+
+  # # backword
+  # step.model = stepAIC(full.model,direction="backward",
+  #                      scope=list(upper=full.model,lower=least.model),
+  #                      trace = FALSE)
+  
+  summary(step.model)
+
+  print("========================")
+  print(company)
+  print(summary(step.model))
+
+}
+```
+
+
